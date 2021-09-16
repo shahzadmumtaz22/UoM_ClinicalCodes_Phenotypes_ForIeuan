@@ -4,7 +4,7 @@ title: Hypertension
 phenotype_id: 8CsPjcV3H66aVktvY7CHQq
 name: Hypertension
 type: Disease or Syndrome
-group: 
+group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:

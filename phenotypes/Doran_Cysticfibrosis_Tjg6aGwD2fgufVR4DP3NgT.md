@@ -1,10 +1,10 @@
 ---
 layout: phenotype
-title: Cysticfibrosis
+title: Cystic Fibrosis
 phenotype_id: Tjg6aGwD2fgufVR4DP3NgT
-name: Cysticfibrosis
+name: Cystic Fibrosis
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

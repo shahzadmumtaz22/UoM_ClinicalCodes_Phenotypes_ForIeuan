@@ -3,8 +3,8 @@ layout: phenotype
 title: Loop Diuretics
 phenotype_id: c7xLqtUzsUF625eqzq8tuy
 name: Loop Diuretics
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

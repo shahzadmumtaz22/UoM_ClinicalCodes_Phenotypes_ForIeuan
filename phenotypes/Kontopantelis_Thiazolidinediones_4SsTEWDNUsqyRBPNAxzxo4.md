@@ -3,8 +3,8 @@ layout: phenotype
 title: Thiazolidinediones
 phenotype_id: 4SsTEWDNUsqyRBPNAxzxo4
 name: Thiazolidinediones
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

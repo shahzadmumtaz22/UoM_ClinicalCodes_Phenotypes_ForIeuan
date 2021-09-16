@@ -3,8 +3,8 @@ layout: phenotype
 title: SMI Drugs
 phenotype_id: 5fg8KLJxkFRtm294LCn2pt
 name: SMI Drugs
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

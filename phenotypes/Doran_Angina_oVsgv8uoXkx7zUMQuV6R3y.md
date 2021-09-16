@@ -4,7 +4,7 @@ title: Angina
 phenotype_id: oVsgv8uoXkx7zUMQuV6R3y
 name: Angina
 type: Disease or Syndrome
-group: 
+group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:

@@ -3,8 +3,8 @@ layout: phenotype
 title: Pneumococcal Vaccine
 phenotype_id: hnDDT4kpapkzXsLHroVhUB
 name: Pneumococcal Vaccin
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

@@ -1,10 +1,10 @@
 ---
 layout: phenotype
-title: Stronganalgesics
+title: Strong Analgesics
 phenotype_id: RhCZBt4dSWL5jGTsGEHvYa
-name: Stronganalgesics
-type: Disease or Syndrome
-group: 
+name: Strong Analgesics
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

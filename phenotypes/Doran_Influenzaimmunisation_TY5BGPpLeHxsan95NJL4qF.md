@@ -3,8 +3,8 @@ layout: phenotype
 title: Influenza Immunisation
 phenotype_id: TY5BGPpLeHxsan95NJL4qF
 name: Influenza Immunisation
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

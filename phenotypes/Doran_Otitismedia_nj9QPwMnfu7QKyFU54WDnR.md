@@ -1,8 +1,8 @@
 ---
 layout: phenotype
-title: Otitismedia
+title: Otitis Media
 phenotype_id: nj9QPwMnfu7QKyFU54WDnR
-name: Otitismedia
+name: Otitis Media
 type: Disease or Syndrome
 group: 
 sources: 

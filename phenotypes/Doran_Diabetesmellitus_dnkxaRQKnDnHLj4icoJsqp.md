@@ -1,10 +1,10 @@
 ---
 layout: phenotype
-title: Diabetesmellitus
+title: Diabetes Mellitus
 phenotype_id: dnkxaRQKnDnHLj4icoJsqp
-name: Diabetesmellitus
+name: Diabetes Mellitus
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

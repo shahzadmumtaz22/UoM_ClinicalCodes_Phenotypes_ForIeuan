@@ -3,8 +3,8 @@ layout: phenotype
 title: Acerbose
 phenotype_id: 6oxTvM8Qs2J5BqJa6ewUim
 name: Acerbose 
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

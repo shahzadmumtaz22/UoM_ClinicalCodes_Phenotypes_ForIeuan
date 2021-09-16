@@ -4,7 +4,7 @@ title: Neuropathy
 phenotype_id: aSAhDJMzzjPjRovezteGat
 name: Neuropathy
 type: Disease or Syndrome
-group:
+group: Neurological
 sources: 
     - clinicalcodes
 data_sources:

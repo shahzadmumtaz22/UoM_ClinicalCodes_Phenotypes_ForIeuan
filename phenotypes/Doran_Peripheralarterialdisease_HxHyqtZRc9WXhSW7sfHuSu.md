@@ -4,7 +4,7 @@ title: Peripheral Arterial Disease
 phenotype_id: HxHyqtZRc9WXhSW7sfHuSu
 name: Peripheral Arterial Disease
 type: Disease or Syndrome
-group: 
+group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:

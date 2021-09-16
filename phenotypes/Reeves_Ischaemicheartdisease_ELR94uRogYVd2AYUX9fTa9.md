@@ -4,7 +4,7 @@ title: Ischaemic Heart Disease
 phenotype_id: ELR94uRogYVd2AYUX9fTa9
 name: Ischaemia Heart Disease
 type: Disease or Syndrome
-group:
+group: Cardiovascular
 sources: 
     - clinicalcodes 
 data_sources:

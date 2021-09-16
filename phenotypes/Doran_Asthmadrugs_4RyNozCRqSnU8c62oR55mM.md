@@ -3,8 +3,8 @@ layout: phenotype
 title: Asthma Drugs
 phenotype_id: 4RyNozCRqSnU8c62oR55mM
 name: Asthma Drugs
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Respiratory
 sources: 
     - clinicalcodes
 data_sources:

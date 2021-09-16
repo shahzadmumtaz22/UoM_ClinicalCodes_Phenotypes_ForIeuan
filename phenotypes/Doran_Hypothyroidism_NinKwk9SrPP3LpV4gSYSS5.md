@@ -4,7 +4,7 @@ title: Hypothyroidism
 phenotype_id: NinKwk9SrPP3LpV4gSYSS5
 name: Hypothyroidism
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

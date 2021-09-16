@@ -3,8 +3,8 @@ layout: phenotype
 title: Hormone Replacement Therapy
 phenotype_id: HPyf8s8Du7ptJvoQruqjAn
 name: Hormone Replacement Therapy
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

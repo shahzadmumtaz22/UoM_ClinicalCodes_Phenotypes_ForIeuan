@@ -4,7 +4,7 @@ title: Exercise Testing
 phenotype_id: b8bQoo89thUk8oE8Awm6Aa
 name: Exercise Testing
 type: Biomarker
-group: 
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

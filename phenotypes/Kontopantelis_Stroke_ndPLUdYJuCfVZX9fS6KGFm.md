@@ -4,7 +4,7 @@ title: Stroke
 phenotype_id: ndPLUdYJuCfVZX9fS6KGFm
 name: Stroke
 type: Disease or Syndrome
-group:
+group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:

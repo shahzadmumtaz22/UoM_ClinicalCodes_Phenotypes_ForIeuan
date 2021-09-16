@@ -3,8 +3,8 @@ layout: phenotype
 title: Meglitinide
 phenotype_id: Me8UGqHwN4ySp7vLYuNtUG
 name: Meglitinide
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

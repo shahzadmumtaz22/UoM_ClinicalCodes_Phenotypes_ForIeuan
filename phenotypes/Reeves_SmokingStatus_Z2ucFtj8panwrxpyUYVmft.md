@@ -3,7 +3,7 @@ layout: phenotype
 title: Smoking Status
 phenotype_id: Z2ucFtj8panwrxpyUYVmft
 name: Smoking Status
-type: Disease or Syndrome
+type: Lifestyle Risk Factor
 group: 
 sources: 
     - clinicalcodes

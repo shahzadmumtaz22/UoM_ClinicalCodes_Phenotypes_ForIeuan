@@ -3,8 +3,8 @@ layout: phenotype
 title: Blood Pressure Measurement
 phenotype_id: EYjjBJs5umaiuEfdF2pjRg
 name: Blood Pressure Measurement
-type: Disease or Syndrome
-group: 
+type: Biomarker
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

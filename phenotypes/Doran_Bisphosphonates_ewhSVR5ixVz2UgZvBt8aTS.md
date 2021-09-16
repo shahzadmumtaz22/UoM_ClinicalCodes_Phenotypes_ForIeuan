@@ -3,7 +3,7 @@ layout: phenotype
 title: Bisphosphonates
 phenotype_id: ewhSVR5ixVz2UgZvBt8aTS
 name: Bisphosphonates
-type: Disease or Syndrome
+type: Drug
 group: 
 sources: 
     - clinicalcodes

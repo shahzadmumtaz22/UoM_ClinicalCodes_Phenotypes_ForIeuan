@@ -4,7 +4,7 @@ title: Coronary Heart Disease
 phenotype_id: d872EZZBhAmec5RgG38uwa
 name: Coronary Heart Disease
 type: Disease or Syndrome
-group: 
+group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:

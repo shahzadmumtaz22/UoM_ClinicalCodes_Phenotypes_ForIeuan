@@ -4,7 +4,7 @@ title: Osteoporosis
 phenotype_id: UBwQevdTWwaHosoi9T52cR
 name: Osteoporosis
 type: Disease or Syndrome
-group: 
+group: Musculoskeletal
 sources: 
     - clinicalcodes
 data_sources:

@@ -3,8 +3,8 @@ layout: phenotype
 title: Serum Creatine
 phenotype_id: igmthV95oNdTyeBFwdz3Cu
 name: Serum Creatine
-type: Disease or Syndrome
-group: 
+type: Biomarker
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

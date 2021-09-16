@@ -4,7 +4,7 @@ title: Thyroid Function
 phenotype_id: axKqohjvYsVsBT8kZSNp6V
 name: Thyroid Function
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

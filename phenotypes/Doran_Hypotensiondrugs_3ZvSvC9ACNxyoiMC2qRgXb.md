@@ -3,8 +3,8 @@ layout: phenotype
 title: Hypotension Drugs
 phenotype_id: 3ZvSvC9ACNxyoiMC2qRgXb
 name: Hypotension Drugs
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

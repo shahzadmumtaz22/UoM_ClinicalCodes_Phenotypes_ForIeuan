@@ -3,8 +3,8 @@ layout: phenotype
 title: Anticoagulants
 phenotype_id: L6ABPg3XuNKjLuTFF6LHLF
 name: Anticoagulants
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

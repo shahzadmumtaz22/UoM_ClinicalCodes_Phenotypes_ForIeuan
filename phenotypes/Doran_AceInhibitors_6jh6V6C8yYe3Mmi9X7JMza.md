@@ -3,7 +3,7 @@ layout: phenotype
 title: Ace Inhibitors
 phenotype_id: 6jh6V6C8yYe3Mmi9X7JMza
 name: Ace Inhibitors
-type: Disease or Syndrome
+type: Drugs
 group: 
 sources: 
     - clinicalcodes

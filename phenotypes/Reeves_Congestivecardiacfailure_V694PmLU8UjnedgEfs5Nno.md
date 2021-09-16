@@ -4,7 +4,7 @@ title: Congestive Cardiac Failure
 phenotype_id: V694PmLU8UjnedgEfs5Nno
 name: Congestive Cardiac Failure
 type: Disease or Syndrome
-group:
+group: Cardiovascular
 sources: 
     - clinicalcodes 
 data_sources:

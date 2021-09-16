@@ -1,10 +1,10 @@
 ---
 layout: phenotype
-title: Chronicrenal Disease
+title: Chronic Renal Disease
 phenotype_id: WBZVPkqZ3jpednhmBWRouj
-name: Chronicrenal Disease
+name: Chronic Renal Disease
 type: Disease or Syndrome
-group: 
+group: Genitourinary
 sources: 
     - clinicalcodes
 data_sources:

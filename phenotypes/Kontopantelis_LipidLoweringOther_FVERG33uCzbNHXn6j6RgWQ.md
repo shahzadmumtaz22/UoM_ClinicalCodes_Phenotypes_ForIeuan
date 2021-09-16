@@ -3,8 +3,8 @@ layout: phenotype
 title: Lipid Lowering Other
 phenotype_id: FVERG33uCzbNHXn6j6RgWQ
 name: Lipid Lowering Other
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

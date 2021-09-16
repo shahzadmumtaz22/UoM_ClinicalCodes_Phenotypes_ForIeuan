@@ -3,8 +3,8 @@ layout: phenotype
 title: Spirometry
 phenotype_id: MyocfsaTwrKvNGieygBnyK
 name: Spirometry
-type: Disease or Syndrome
-group:
+type: Biomarker
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

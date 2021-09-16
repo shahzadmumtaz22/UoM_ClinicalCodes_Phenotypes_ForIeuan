@@ -3,8 +3,8 @@ layout: phenotype
 title: Blood Sugar
 phenotype_id: jKD9QjSmd8oCZYL3KVKhyp
 name: Blood Sugar
-type: Disease or Syndrome
-group: 
+type: Biomarker
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

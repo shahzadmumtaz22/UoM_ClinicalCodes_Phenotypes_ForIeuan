@@ -4,7 +4,7 @@ title: Micro-Albuminuria Testing
 phenotype_id: PcyFfqkKGKRRXRaUBSfk2y
 name: Micro-Albuminuria Testing
 type: Biomarker
-group: 
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

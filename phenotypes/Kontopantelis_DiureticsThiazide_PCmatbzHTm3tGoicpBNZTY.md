@@ -3,8 +3,8 @@ layout: phenotype
 title: Diuretics Thiazide
 phenotype_id: PCmatbzHTm3tGoicpBNZTY
 name: Diuretics Thiazide
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

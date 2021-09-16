@@ -3,8 +3,8 @@ layout: phenotype
 title: Serum Creatine Testing
 phenotype_id: n4KW2UMztfAWzxhrMB8yxj
 name: Serum Creatine Testing
-type: Disease or Syndrome
-group:
+type: Biomarker
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

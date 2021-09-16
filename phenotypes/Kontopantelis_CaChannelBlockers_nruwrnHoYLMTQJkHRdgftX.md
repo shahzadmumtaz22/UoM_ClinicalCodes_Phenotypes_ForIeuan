@@ -3,8 +3,8 @@ layout: phenotype
 title: Calcium Channel Blockers
 phenotype_id: nruwrnHoYLMTQJkHRdgftX
 name: Calcium Channel Blockers
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

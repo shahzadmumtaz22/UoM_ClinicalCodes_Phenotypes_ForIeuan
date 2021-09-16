@@ -4,7 +4,7 @@ title: Cancer
 phenotype_id: U2ah4LMd6wZK8itYxz4UKg
 name: Cancer
 type: Disease or Syndrome
-group: 
+group: Cancers
 sources: 
     - clinicalcodes
 data_sources:

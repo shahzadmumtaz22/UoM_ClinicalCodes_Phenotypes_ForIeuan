@@ -4,7 +4,7 @@ title: Hba1C Testing
 phenotype_id: GWZzD9QV6vu3So7T377eVp
 name: Hba1C Testing
 type: Biomarker
-group: 
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

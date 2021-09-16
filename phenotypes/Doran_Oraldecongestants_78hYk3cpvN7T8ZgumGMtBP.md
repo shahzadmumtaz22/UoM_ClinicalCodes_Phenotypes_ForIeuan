@@ -1,10 +1,10 @@
 ---
 layout: phenotype
-title: Oraldecongestants
+title: Oral Decongestants
 phenotype_id: 78hYk3cpvN7T8ZgumGMtBP
-name: Oraldecongestants
-type: Disease or Syndrome
-group: 
+name: Oral Decongestants
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

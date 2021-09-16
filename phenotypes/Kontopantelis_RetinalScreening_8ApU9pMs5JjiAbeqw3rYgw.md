@@ -3,7 +3,7 @@ layout: phenotype
 title: Retinal Screening
 phenotype_id: 8ApU9pMs5JjiAbeqw3rYgw
 name: Retinal Screening
-type: Disease or Syndrome
+type: Biomarker
 group: Biomarker
 sources: 
     - clinicalcodes

@@ -3,8 +3,8 @@ layout: phenotype
 title: Lithium Drug Codes
 phenotype_id: ThiwLbZSkktxXH6qNNX5w2
 name: Lithium Drug Codes
-type: Disease or Syndrome
-group:
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

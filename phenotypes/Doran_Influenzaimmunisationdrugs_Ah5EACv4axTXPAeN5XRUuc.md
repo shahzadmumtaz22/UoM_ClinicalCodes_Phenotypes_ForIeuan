@@ -3,8 +3,8 @@ layout: phenotype
 title: Influenza Immunisation Drugs
 phenotype_id: Ah5EACv4axTXPAeN5XRUuc
 name: Influenza Immunisation Drugs
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

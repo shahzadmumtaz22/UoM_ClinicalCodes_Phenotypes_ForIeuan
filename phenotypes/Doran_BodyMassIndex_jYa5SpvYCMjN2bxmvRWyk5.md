@@ -3,7 +3,7 @@ layout: phenotype
 title: Body Mass Index
 phenotype_id: jYa5SpvYCMjN2bxmvRWyk5
 name: Body Mass Index
-type: Disease or Syndrome
+type: Biomarker
 group: Biomarker
 sources: 
     - clinicalcodes

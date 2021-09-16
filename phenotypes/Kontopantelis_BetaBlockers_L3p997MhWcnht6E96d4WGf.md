@@ -3,8 +3,8 @@ layout: phenotype
 title: Beta Blockers
 phenotype_id: L3p997MhWcnht6E96d4WGf
 name: Beta Blockers
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

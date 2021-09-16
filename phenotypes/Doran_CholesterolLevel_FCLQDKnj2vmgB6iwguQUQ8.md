@@ -3,8 +3,8 @@ layout: phenotype
 title: Cholesterol Level
 phenotype_id: FCLQDKnj2vmgB6iwguQUQ8
 name: Cholesterol Level
-type: Disease or Syndrome
-group: 
+type: Biomarker
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

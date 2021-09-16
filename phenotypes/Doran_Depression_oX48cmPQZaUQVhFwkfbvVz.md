@@ -4,7 +4,7 @@ title: Depression
 phenotype_id: oX48cmPQZaUQVhFwkfbvVz
 name: Depression
 type: Disease or Syndrome
-group: 
+group: Psychiatric
 sources: 
     - clinicalcodes
 data_sources:

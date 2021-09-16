@@ -3,8 +3,8 @@ layout: phenotype
 title: Influenza Immunisation
 phenotype_id: GqseYcnuUBfSbjBRaBwTEe
 name: Influenza Immunisation
-type: Disease or Syndrome
-group:
+type: Biomarker
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

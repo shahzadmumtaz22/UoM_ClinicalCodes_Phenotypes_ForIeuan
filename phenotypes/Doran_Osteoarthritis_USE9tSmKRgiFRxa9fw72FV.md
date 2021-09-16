@@ -4,7 +4,7 @@ title: Osteoarthritis
 phenotype_id: USE9tSmKRgiFRxa9fw72FV
 name: Osteoarthritis
 type: Disease or Syndrome
-group: 
+group: Musculoskeletal
 sources: 
     - clinicalcodes
 data_sources:

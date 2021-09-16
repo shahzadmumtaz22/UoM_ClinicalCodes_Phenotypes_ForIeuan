@@ -3,8 +3,8 @@ layout: phenotype
 title: Lithium Therapy
 phenotype_id: jJztqCWSFrE9swcNagnH47
 name: Lithium Therapy
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

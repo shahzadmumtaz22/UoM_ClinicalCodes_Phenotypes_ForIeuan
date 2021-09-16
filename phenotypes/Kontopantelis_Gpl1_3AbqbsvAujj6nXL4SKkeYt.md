@@ -3,8 +3,8 @@ layout: phenotype
 title: Gpl1
 phenotype_id: 3AbqbsvAujj6nXL4SKkeYt
 name: Gpl1
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

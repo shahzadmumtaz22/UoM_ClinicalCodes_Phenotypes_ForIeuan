@@ -3,8 +3,8 @@ layout: phenotype
 title: Metformin
 phenotype_id: o4up3d3oVK3Z9oZeHzpEVX
 name: Metformin
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

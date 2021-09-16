@@ -1,10 +1,10 @@
 ---
 layout: phenotype
-title: Backpain
+title: Back Pain
 phenotype_id: gUoeaANHwdgXuaJGJLhX65
-name: Backpain
+name: Back Pain
 type: Disease or Syndrome
-group: 
+group: Pain
 sources: 
     - clinicalcodes
 data_sources:

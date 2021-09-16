@@ -3,8 +3,8 @@ layout: phenotype
 title: Sulphonylureas
 phenotype_id: 3iFWpMLs4E6PxMktZjyk7v
 name: Sulphonylureas
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

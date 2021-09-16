@@ -4,7 +4,7 @@ title: Dementia
 phenotype_id: B94RFxocwLQtdkdk5EDZRF
 name: Dementia
 type: Disease or Syndrome
-group: 
+group: Psychiatric
 sources: 
     - clinicalcodes
 data_sources:

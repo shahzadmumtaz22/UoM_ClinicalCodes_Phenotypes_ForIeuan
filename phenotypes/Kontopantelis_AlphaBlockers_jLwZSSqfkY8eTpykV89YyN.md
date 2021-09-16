@@ -3,8 +3,8 @@ layout: phenotype
 title: Alpha Blockers
 phenotype_id: jLwZSSqfkY8eTpykV89YyN
 name: Alpha Blockers
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

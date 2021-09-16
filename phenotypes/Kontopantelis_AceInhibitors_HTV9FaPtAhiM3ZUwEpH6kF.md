@@ -3,8 +3,8 @@ layout: phenotype
 title: Ace Inhibitors
 phenotype_id: HTV9FaPtAhiM3ZUwEpH6kF
 name: Ace Inhibitors
-type: Disease or Syndrome
-group: Drugs 
+type: Drug
+group: Drug 
 sources: 
     - clinicalcodes
 data_sources:

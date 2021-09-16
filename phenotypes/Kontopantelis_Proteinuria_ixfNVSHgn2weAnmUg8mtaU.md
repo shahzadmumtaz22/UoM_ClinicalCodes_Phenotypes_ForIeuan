@@ -4,7 +4,7 @@ title: Proteinuria
 phenotype_id: ixfNVSHgn2weAnmUg8mtaU
 name: Proteinuria
 type: Disease or Syndrome
-group:
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

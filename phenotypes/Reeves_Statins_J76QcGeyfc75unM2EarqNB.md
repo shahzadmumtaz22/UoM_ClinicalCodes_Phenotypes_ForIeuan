@@ -3,8 +3,8 @@ layout: phenotype
 title: Statins
 phenotype_id: J76QcGeyfc75unM2EarqNB
 name: Statins
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

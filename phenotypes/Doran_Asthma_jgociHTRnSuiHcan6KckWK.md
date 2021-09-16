@@ -4,7 +4,7 @@ title: Asthma
 phenotype_id: jgociHTRnSuiHcan6KckWK
 name: Asthma
 type: Disease or Syndrome
-group: 
+group: Respiratory
 sources: 
     - clinicalcodes
 data_sources:

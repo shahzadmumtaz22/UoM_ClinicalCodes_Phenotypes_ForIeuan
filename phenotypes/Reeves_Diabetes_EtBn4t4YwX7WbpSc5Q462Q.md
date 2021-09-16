@@ -4,7 +4,7 @@ title: Diabetes
 phenotype_id: EtBn4t4YwX7WbpSc5Q462Q
 name: Diabetes
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

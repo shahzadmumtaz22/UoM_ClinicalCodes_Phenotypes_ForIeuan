@@ -3,8 +3,8 @@ layout: phenotype
 title: Dpp4
 phenotype_id: 89q4hbJDAx4rW66kAPnywV
 name: Dpp4
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

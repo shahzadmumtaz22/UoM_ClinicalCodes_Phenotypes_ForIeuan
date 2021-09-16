@@ -3,8 +3,8 @@ layout: phenotype
 title: Splenectomy
 phenotype_id: UGe2pH5yB5E9FWeWcH2qD5
 name: Splenectomy
-type: Disease or Syndrome
-group: 
+type: Surgical Procedure
+group: lymphatic
 sources: 
     - clinicalcodes
 data_sources:

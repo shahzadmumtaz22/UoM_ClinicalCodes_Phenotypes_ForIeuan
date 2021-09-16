@@ -4,7 +4,7 @@ title: Body Mass Index
 phenotype_id: cW3vZYcGS425EQbUsf6opq
 name: Body Mass Index
 type: Biomarker
-group: Body Mass Index
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

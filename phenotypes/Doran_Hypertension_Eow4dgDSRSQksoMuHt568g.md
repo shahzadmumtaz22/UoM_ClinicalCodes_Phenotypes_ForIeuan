@@ -4,7 +4,7 @@ title: Hypertension
 phenotype_id: Eow4dgDSRSQksoMuHt568g
 name: Hypertension
 type: Disease or Syndrome
-group: 
+group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:

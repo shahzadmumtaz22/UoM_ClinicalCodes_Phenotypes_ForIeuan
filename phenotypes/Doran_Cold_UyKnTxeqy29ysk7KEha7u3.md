@@ -4,7 +4,7 @@ title: Cold
 phenotype_id: UyKnTxeqy29ysk7KEha7u3
 name: Cold
 type: Disease or Syndrome
-group: 
+group: Cold
 sources: 
     - clinicalcodes
 data_sources:

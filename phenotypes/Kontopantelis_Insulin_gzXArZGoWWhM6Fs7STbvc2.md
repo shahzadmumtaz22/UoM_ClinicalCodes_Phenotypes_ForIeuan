@@ -3,8 +3,8 @@ layout: phenotype
 title: Insulin
 phenotype_id: gzXArZGoWWhM6Fs7STbvc2
 name: Insulin 
-type: Disease or Syndrome
-group: Drugs
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

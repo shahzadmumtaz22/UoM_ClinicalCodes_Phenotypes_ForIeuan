@@ -3,8 +3,8 @@ layout: phenotype
 title: Lithium Levels
 phenotype_id: fyP2X6FYsPC5a8KRJFxuTB
 name: Lithium Levels
-type: Disease or Syndrome
-group: 
+type: Biomarker
+group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:

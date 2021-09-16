@@ -3,7 +3,7 @@ layout: phenotype
 title: Antiplatelets
 phenotype_id: BQ5FaDfTUm4s69F7oroNJe
 name: Antiplatelets
-type: Disease or Syndrome
+type: Drug
 group: Drug
 sources: 
     - clinicalcodes

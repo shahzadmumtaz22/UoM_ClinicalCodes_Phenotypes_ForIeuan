@@ -3,8 +3,8 @@ layout: phenotype
 title: Type 2 Diabetes
 phenotype_id: AsM4aJ5GmAcgUwzdgrqym8
 name: Type 2 Diabetes
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:

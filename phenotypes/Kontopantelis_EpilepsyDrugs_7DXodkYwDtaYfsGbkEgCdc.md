@@ -3,7 +3,7 @@ layout: phenotype
 title: Epilepsy Drugs
 phenotype_id: 7DXodkYwDtaYfsGbkEgCdc
 name: Epilepsy Drugs
-type: Disease or Syndrome
+type: Drug
 group: Neurological
 sources: 
     - clinicalcodes

@@ -3,8 +3,8 @@ layout: phenotype
 title: Sumatriptan
 phenotype_id: gigBSZFzZFtPEuYTRyXWki
 name: Sumatriptan
-type: Disease or Syndrome
-group: 
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:
