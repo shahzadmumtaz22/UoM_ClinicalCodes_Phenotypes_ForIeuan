@@ -10,7 +10,7 @@ sources:
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - GPRD Product Code
+    - CPRD Product Code
 validation:
 codelists: Doran_Angiotensin-Iireceptorantagonists_gdkrJrbMHNAA5Fz8MsuKiB_GPRDProductCode.csv
 valid_event_data_range: 01/01/2000 - 31/12/2007 

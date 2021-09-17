@@ -12,7 +12,7 @@ data_sources:
 clinical_terminologies:
     - Read Version 2
 validation:
-codelists: Kontopantelis_Ca_Channel_Blockers_nruwrnHoYLMTQJkHRdgftX_CPRDProductCode.csv
+codelists: Kontopantelis_CaChannelBlockers_nruwrnHoYLMTQJkHRdgftX_CPRDProductCode.csv
 valid_event_data_range: 01/04/2006 - 31/03/2012
 sex:
     - Female
@@ -37,7 +37,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Kontopantelis_Ca_Channel_Blockers_nruwrnHoYLMTQJkHRdgftX_CPRDProductCode %}
+{% include csv.html csvdata=site.data.codelists.Kontopantelis_CaChannelBlockers_nruwrnHoYLMTQJkHRdgftX_CPRDProductCode %}
 
 ### Implementation
 

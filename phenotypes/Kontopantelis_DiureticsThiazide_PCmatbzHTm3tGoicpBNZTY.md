@@ -35,9 +35,9 @@ modified_date: 2014-12-16
 version: Revision 1
 ---
 
-### Primary Care
+### Primary Care                                
 
-{% include csv.html csvdata=site.data.codelists.Kontopantelis_Diuretics_Thiazide_PCmatbzHTm3tGoicpBNZTY_CPRDProductCode %}
+{% include csv.html csvdata=site.data.codelists.Kontopantelis_DiureticsThiazide_PCmatbzHTm3tGoicpBNZTY_CPRDProductCode %}
 
 ### Implementation
 

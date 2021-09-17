@@ -12,7 +12,7 @@ data_sources:
 clinical_terminologies:
     - Read Version 2
 validation:
-codelists: Kontopantelis_Loop_Diuretics_c7xLqtUzsUF625eqzq8tuy_CPRDProductCode.csv
+codelists: Kontopantelis_LoopDiuretics_c7xLqtUzsUF625eqzq8tuy_CPRDProductCode.csv
 valid_event_data_range: 01/04/2006 - 31/03/2012
 sex:
     - Female
@@ -37,7 +37,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Kontopantelis_Loop_Diuretics_c7xLqtUzsUF625eqzq8tuy_CPRDProductCode %}
+{% include csv.html csvdata=site.data.codelists.Kontopantelis_LoopDiuretics_c7xLqtUzsUF625eqzq8tuy_CPRDProductCode %}
 
 ### Implementation
 

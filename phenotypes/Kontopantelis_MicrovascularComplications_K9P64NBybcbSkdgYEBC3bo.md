@@ -12,7 +12,7 @@ data_sources:
 clinical_terminologies:
     - Read Version 2
 validation:
-codelists: Kontopantelis_MicrovascularComplications_K9P64NBybcbSkdgYEBC3bo_Read.csv
+codelists: Kontopantelis_MicrovascularComplications_K9P64NBybcbSkdgYEBC3bo_Read2.csv
 valid_event_data_range: 01/04/2006 - 31/03/2012
 sex:
     - Female
@@ -37,7 +37,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Kontopantelis_MicrovascularComplications_K9P64NBybcbSkdgYEBC3bo_Read %}
+{% include csv.html csvdata=site.data.codelists.Kontopantelis_MicrovascularComplications_K9P64NBybcbSkdgYEBC3bo_Read2 %}
 
 ### Implementation
 
