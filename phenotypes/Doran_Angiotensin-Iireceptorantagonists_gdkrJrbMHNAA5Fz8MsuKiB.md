@@ -12,7 +12,7 @@ data_sources:
 clinical_terminologies:
     - CPRD Product Code
 validation:
-codelists: Doran_Angiotensin-Iireceptorantagonists_gdkrJrbMHNAA5Fz8MsuKiB_GPRDProductCode.csv
+codelists: Doran_Angiotensin-Iireceptorantagonists_gdkrJrbMHNAA5Fz8MsuKiB_CPRDProductCode.csv
 valid_event_data_range: 01/01/2000 - 31/12/2007 
 sex:
     - Female
@@ -35,7 +35,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Doran_Angiotensin-Iireceptorantagonists_gdkrJrbMHNAA5Fz8MsuKiB_GPRDProductCode %}
+{% include csv.html csvdata=site.data.codelists.Doran_Angiotensin-Iireceptorantagonists_gdkrJrbMHNAA5Fz8MsuKiB_CPRDProductCode %}
 
 ### Implementation
 
