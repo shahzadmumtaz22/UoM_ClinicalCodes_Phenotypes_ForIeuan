@@ -5,6 +5,8 @@ phenotype_id: d7nvABJYQM76rmWuazSMno
 name: BMI
 type: Biomarker
 group: Biomarker
+sources: 
+    - clinicalcodes
 data_sources:
     - QResearch
 clinical_terminologies:

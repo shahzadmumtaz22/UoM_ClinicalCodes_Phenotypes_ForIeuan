@@ -5,6 +5,8 @@ phenotype_id: UgSokvidpUddXaPBURyhkj
 name: Alcohol Status
 type: Lifestyle Risk Factor
 group: Lifestyle Risk Factor
+sources: 
+    - clinicalcodes
 data_sources:
     - QResearch
 clinical_terminologies:

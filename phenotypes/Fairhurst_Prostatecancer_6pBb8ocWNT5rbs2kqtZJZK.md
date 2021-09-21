@@ -5,6 +5,8 @@ phenotype_id: 6pBb8ocWNT5rbs2kqtZJZK
 name: Prostate Cancer
 type: Disease or Syndrome
 group: Cancer
+sources: 
+    - clinicalcodes
 data_sources:
     - QResearch
 clinical_terminologies:

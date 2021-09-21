@@ -5,6 +5,8 @@ phenotype_id: XrSithxtJTouWXP2zehLgR
 name: Breast Cancer
 type: Disease or Syndrome
 group: Cancer
+sources: 
+    - clinicalcodes
 data_sources:
     - QResearch
 clinical_terminologies:

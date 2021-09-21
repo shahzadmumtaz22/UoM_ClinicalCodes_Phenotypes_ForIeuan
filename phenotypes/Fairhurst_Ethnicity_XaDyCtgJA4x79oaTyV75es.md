@@ -5,6 +5,8 @@ phenotype_id: XaDyCtgJA4x79oaTyV75es
 name: Ethnicity
 type: Disease or Syndrome
 group: Lifestyle Risk Factor
+sources: 
+    - clinicalcodes
 data_sources:
     - QResearch
 clinical_terminologies:

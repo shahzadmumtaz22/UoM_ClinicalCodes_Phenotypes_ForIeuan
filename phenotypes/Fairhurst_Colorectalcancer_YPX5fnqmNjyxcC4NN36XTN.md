@@ -5,6 +5,8 @@ phenotype_id: YPX5fnqmNjyxcC4NN36XTN
 name: Colorectal Cancer
 type: Disease or Syndrome
 group: Cancer
+sources: 
+    - clinicalcodes
 data_sources:
     - QResearch
 clinical_terminologies:

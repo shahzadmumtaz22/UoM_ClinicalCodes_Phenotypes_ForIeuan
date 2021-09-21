@@ -5,6 +5,8 @@ phenotype_id: ghf7qEQWQosYYSaqTmWPfN
 name: Metastases
 type: Disease or Syndrome
 group: Cancer
+sources: 
+    - clinicalcodes
 data_sources:
     - QResearch
 clinical_terminologies:

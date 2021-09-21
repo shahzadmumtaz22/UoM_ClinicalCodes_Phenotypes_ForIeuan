@@ -5,6 +5,8 @@ phenotype_id: SFQLCKTfm2nKQ8hq8J2dju
 name: Smoking Status
 type: Disease or Syndrome
 group: Lifestyle Risk Factor
+sources: 
+    - clinicalcodes
 data_sources:
     - QResearch
 clinical_terminologies:
