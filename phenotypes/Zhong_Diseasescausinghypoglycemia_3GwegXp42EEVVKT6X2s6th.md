@@ -4,7 +4,7 @@ title: Diseases causing hypoglycemia
 phenotype_id: 3GwegXp42EEVVKT6X2s6th
 name: Diseases causing hypoglycemia
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

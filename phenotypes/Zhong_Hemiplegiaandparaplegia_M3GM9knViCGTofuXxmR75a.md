@@ -4,7 +4,7 @@ title: Hemiplegia and paraplegia
 phenotype_id: M3GM9knViCGTofuXxmR75a
 name: Hemiplegia and paraplegia
 type: Disease or Syndrome
-group: 
+group: Neurological
 sources: 
     - clinicalcodes
 data_sources:

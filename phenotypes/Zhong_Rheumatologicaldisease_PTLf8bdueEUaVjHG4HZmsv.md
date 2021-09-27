@@ -4,7 +4,7 @@ title: Rheumatological Disease
 phenotype_id: PTLf8bdueEUaVjHG4HZmsv
 name: Rheumatological Disease
 type: Disease or Syndrome
-group: 
+group: Musculoskeletal
 sources: 
     - clinicalcodes
 data_sources:

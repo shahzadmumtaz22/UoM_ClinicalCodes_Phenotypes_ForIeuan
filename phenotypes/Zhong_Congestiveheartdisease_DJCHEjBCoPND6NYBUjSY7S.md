@@ -4,7 +4,7 @@ title: Congestive Heart Disease
 phenotype_id: DJCHEjBCoPND6NYBUjSY7S
 name: Congestive Heart Disease
 type: Disease or Syndrome
-group: 
+group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:

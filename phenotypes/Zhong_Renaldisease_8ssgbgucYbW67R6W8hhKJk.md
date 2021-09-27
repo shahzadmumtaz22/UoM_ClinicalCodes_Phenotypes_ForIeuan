@@ -4,7 +4,7 @@ title: Renal Disease
 phenotype_id: 8ssgbgucYbW67R6W8hhKJk
 name: Renal Disease
 type: Disease or Syndrome
-group: 
+group: Genitourinary
 sources: 
     - clinicalcodes
 data_sources:

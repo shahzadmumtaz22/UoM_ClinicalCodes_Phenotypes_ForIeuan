@@ -4,7 +4,7 @@ title: Chronic Pulmonary Disease
 phenotype_id: Yp9JCrt8c4dxMnSAwjXZee
 name: Chronic Pulmonary Disease
 type: Disease or Syndrome
-group: 
+group: Respiratory
 sources: 
     - clinicalcodes
 data_sources:

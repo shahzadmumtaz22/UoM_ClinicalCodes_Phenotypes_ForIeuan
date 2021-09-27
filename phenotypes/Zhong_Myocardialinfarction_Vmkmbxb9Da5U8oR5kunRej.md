@@ -4,7 +4,7 @@ title: Myocardial Infarction
 phenotype_id: Vmkmbxb9Da5U8oR5kunRej
 name: Myocardial Infarction
 type: Disease or Syndrome
-group: 
+group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:

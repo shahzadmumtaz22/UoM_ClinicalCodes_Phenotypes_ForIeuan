@@ -4,7 +4,7 @@ title: AIDS
 phenotype_id: Mo79Jvun7uC6ZppBZLGFMq
 name: AIDS
 type: Disease or Syndrome
-group: 
+group: Haematological or immunological
 sources: 
     - clinicalcodes
 data_sources:

@@ -4,7 +4,7 @@ title: Mild Liver Disease
 phenotype_id: ZFoouUESnVkiRn6aiB4uJk
 name: Mild Liver Disease
 type: Disease or Syndrome
-group: 
+group: Digestive
 sources: 
     - clinicalcodes
 data_sources:

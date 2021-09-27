@@ -8,7 +8,8 @@ group: Biomarker
 sources: 
     - clinicalcodes
 data_sources:
-    - Clinical Practice Research Datalink GOLDclinical_terminologies:
+    - Clinical Practice Research Datalink GOLD
+clinical_terminologies:
     - Read Version 2
 validation:
 codelists: Stocks_M1UandE_FoDV29nEHXhkmznFFkB689_Read2.csv

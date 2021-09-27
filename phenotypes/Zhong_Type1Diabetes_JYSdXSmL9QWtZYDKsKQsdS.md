@@ -4,7 +4,7 @@ title: Type 1 Diabetes
 phenotype_id: JYSdXSmL9QWtZYDKsKQsdS
 name: Type 1 Diabetes
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

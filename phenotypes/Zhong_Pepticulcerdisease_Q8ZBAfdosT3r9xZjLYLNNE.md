@@ -4,7 +4,7 @@ title: Peptic Ulcer Disease
 phenotype_id: Q8ZBAfdosT3r9xZjLYLNNE
 name: Peptic Ulcer Disease
 type: Disease or Syndrome
-group: 
+group: Digestive
 sources: 
     - clinicalcodes
 data_sources:

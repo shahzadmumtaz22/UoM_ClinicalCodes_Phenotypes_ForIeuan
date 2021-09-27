@@ -4,7 +4,7 @@ title: Moderate or Severe Liver disease
 phenotype_id: i4ZB3JpTyRxwF9EwY7saeR
 name: Moderate or Severe Liver disease
 type: Disease or Syndrome
-group: 
+group: Digestive
 sources: 
     - clinicalcodes
 data_sources:

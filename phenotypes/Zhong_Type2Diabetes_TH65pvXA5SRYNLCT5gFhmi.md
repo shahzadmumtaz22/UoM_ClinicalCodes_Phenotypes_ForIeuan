@@ -4,7 +4,7 @@ title: Type 2 Diabetes
 phenotype_id: TH65pvXA5SRYNLCT5gFhmi
 name: Type 2 Diabetes
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:

@@ -4,7 +4,7 @@ title: Metastatic Tumour
 phenotype_id: PKMVEhJV6TyLmCGv9M5nxT
 name: Metastatic Tumour
 type: Disease or Syndrome
-group: 
+group: Cancer
 sources: 
     - clinicalcodes
 data_sources:

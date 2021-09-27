@@ -4,7 +4,7 @@ title: Diabetic Complications
 phenotype_id: fK2RutghyhSn58acYmVi8L
 name: Diabetic Complications
 type: Disease or Syndrome
-group: 
+group: Endocrine
 sources: 
     - clinicalcodes
 data_sources:
