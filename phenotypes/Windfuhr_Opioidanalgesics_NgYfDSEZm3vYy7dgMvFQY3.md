@@ -2,9 +2,9 @@
 layout: phenotype
 title: Opioidanalgesics
 phenotype_id: NgYfDSEZm3vYy7dgMvFQY3
-name: 
-type: Disease or Syndrome
-group: 
+name: Opioidanalgesics
+type: Drug
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:
