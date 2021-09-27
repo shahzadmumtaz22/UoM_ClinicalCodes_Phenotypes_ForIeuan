@@ -1,8 +1,8 @@
 ---
 layout: phenotype
-title: Chronic Obstructive Pulmonary Disease
+title: Chronic Obstructive Pulmonary Disease (COPD)
 phenotype_id: nv2EbTFCdQeWGix5fMQJvK
-name: Chronic Obstructive Pulmonary Disease
+name: Chronic Obstructive Pulmonary Disease (COPD)
 type: Disease or Syndrome
 group: Respiratory
 sources: 

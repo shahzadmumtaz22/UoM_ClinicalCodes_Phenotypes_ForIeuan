@@ -1,8 +1,8 @@
 ---
 layout: phenotype
-title: Osteo Arthritis
+title: OsteoArthritis
 phenotype_id: 26PSS6sHTxCZeS7ajvQYhX
-name: Osteo Arthritis
+name: OsteoArthritis
 type: Disease or Syndrome
 group: Musculoskeletal
 sources: 

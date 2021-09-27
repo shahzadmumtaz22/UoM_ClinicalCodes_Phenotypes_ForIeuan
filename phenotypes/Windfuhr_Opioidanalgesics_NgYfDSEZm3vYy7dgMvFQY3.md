@@ -1,8 +1,8 @@
 ---
 layout: phenotype
-title: Opioidanalgesics
+title: Opioid Analgesics
 phenotype_id: NgYfDSEZm3vYy7dgMvFQY3
-name: Opioidanalgesics
+name: Opioid Analgesics
 type: Drug
 group: Drug
 sources: 

@@ -9,6 +9,8 @@ sources:
     - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
+clinical_terminologies:
+    - CPRD Product Code	
 validation:
 codelists: Kontopantelis_Sulfonylureas_iUdZQCaU2BFqBMbhewVCB2_CPRDProductCode.csv
 valid_event_data_range: 01/04/2006 - 31/03/2012

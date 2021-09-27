@@ -1,8 +1,8 @@
 ---
 layout: phenotype
-title: SMI Drugs
+title: Serious Mental Illness (SMI) Drugs
 phenotype_id: 5fg8KLJxkFRtm294LCn2pt
-name: SMI Drugs
+name: Serious Mental Illness (SMI) Drugs
 type: Drug
 group: Drug
 sources: 

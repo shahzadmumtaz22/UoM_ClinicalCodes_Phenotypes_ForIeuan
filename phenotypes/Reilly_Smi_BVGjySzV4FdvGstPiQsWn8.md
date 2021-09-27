@@ -1,8 +1,8 @@
 ---
 layout: phenotype
-title: Serious Mental Illness
+title: Serious Mental Illness (SMI)
 phenotype_id: BVGjySzV4FdvGstPiQsWn8
-name: Serious Mental Illness
+name: Serious Mental Illness (SMI)
 type: Disease or Syndrome
 group: Psychiatric
 sources: 
