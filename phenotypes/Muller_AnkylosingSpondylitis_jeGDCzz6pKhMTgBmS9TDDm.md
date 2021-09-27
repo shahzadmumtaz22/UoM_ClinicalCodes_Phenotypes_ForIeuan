@@ -34,7 +34,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.34_346_Ankylosing_Spondylitis_jeGDCzz6pKhMTgBmS9TDDm_Read %}
+{% include csv.html csvdata=site.data.codelists.Muller_AnkylosingSpondylitis_jeGDCzz6pKhMTgBmS9TDDm_Read2 %}
 
 ### Implementation
 

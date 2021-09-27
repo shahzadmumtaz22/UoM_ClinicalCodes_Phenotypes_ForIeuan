@@ -1,4 +1,4 @@
---5-
+---
 layout: phenotype
 title: Self Harm
 phenotype_id: C5HLbqp2kSvtQwh3fnM3YP

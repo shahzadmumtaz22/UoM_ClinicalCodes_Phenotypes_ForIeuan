@@ -12,7 +12,7 @@ data_sources:
 clinical_terminologies:
     - Read Version 2
 validation:
-codelists: Nicholson_Rheumatoidarthritis_neqrfpE3h9baF49BUqkUwf_Read.csv
+codelists: Nicholson_Rheumatoidarthritis_neqrfpE3h9baF49BUqkUwf_Read2.csv
 valid_event_data_range: 01/01/2005 - 31/12/2008
 sex:
     - Female
@@ -36,7 +36,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Nicholson_Rheumatoidarthritis_neqrfpE3h9baF49BUqkUwf_Read %}
+{% include csv.html csvdata=site.data.codelists.Nicholson_Rheumatoidarthritis_neqrfpE3h9baF49BUqkUwf_Read2 %}
 
 ### Implementation
 

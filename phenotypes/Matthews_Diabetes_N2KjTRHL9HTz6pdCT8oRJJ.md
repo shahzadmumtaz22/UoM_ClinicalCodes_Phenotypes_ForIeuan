@@ -35,7 +35,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Mathews_Diabetes_N2KjTRHL9HTz6pdCT8oRJJ_Reads %}
+{% include csv.html csvdata=site.data.codelists.Mathews_Diabetes_N2KjTRHL9HTz6pdCT8oRJJ_Read2 %}
 
 ### Implementation
 
