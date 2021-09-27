@@ -12,7 +12,7 @@ data_sources:
 clinical_terminologies:
     - Read Version 2
 validation:
-codelists: 46_439_Diabetes_N2KjTRHL9HTz6pdCT8oRJJ_Read.csv
+codelists: Mathews_Diabetes_N2KjTRHL9HTz6pdCT8oRJJ_Read2.csv
 valid_event_data_range: 01/01/2011 - 31/03/2015
 sex:
     - Female
@@ -35,7 +35,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.46_439_Diabetes_N2KjTRHL9HTz6pdCT8oRJJ_Read %}
+{% include csv.html csvdata=site.data.codelists.Mathews_Diabetes_N2KjTRHL9HTz6pdCT8oRJJ_Reads %}
 
 ### Implementation
 

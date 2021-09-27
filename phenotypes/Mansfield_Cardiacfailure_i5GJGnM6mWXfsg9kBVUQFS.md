@@ -36,7 +36,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.30_333_Cardiacfailure_i5GJGnM6mWXfsg9kBVUQFS_ICD10Read2 %}
+{% include csv.html csvdata=site.data.codelists.Mansfield_Cardiacfailure_i5GJGnM6mWXfsg9kBVUQFS_ICD10Read2 %}
 
 ### Implementation
 

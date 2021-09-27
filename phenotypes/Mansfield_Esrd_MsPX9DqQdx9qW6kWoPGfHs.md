@@ -14,7 +14,7 @@ clinical_terminologies:
     - ICD-10
     - Read Version 2
 validation:
-codelists: 30_331_Esrd_MsPX9DqQdx9qW6kWoPGfHs_ICD10Read2.csv
+codelists: Mansfield_Esrd_MsPX9DqQdx9qW6kWoPGfHs_ICD10Read2.csv
 valid_event_data_range: 01/04/1997 - 31/03/2014  
 sex:
     - Female
@@ -36,7 +36,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.30_331_Esrd_MsPX9DqQdx9qW6kWoPGfHs_ICD10Read2 %}
+{% include csv.html csvdata=site.data.codelists.Mansfield_Esrd_MsPX9DqQdx9qW6kWoPGfHs_ICD10Read2 %}
 
 ### Implementation
 
