@@ -12,7 +12,7 @@ data_sources:
 clinical_terminologies:
     - Read Version 2
 validation:
-codelists: Muller_Systemic_Lupus_Erthematosus_L5VrDMYrPK8XRSD8gnHaNL_Read2.csv
+codelists: Muller_SystemicLupusErthematosus_L5VrDMYrPK8XRSD8gnHaNL_Read2.csv
 valid_event_data_range: 01/01/2010 - 31/12/2012
 sex:
     - Female
@@ -34,7 +34,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Muller_Systemic_Lupus_Erthematosus_L5VrDMYrPK8XRSD8gnHaNL_Read2 %}
+{% include csv.html csvdata=site.data.codelists.Muller_SystemicLupusErthematosus_L5VrDMYrPK8XRSD8gnHaNL_Read2 %}
 
 ### Implementation
 

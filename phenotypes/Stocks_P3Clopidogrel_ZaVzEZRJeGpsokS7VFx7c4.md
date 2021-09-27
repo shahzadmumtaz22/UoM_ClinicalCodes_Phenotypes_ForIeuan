@@ -34,7 +34,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Stocks_P3_Clopidogrel_ZaVzEZRJeGpsokS7VFx7c4_CPRDProductCode %}
+{% include csv.html csvdata=site.data.codelists.Stocks_P3Clopidogrel_ZaVzEZRJeGpsokS7VFx7c4_CPRDProductCode %}
 
 ### Implementation
 

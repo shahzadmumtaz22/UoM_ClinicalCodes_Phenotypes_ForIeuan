@@ -2,7 +2,7 @@
 layout: phenotype
 title: Depression
 phenotype_id: dVo6kUjSbjBx8BjGSho32s
-name: Depresession
+name: Depression
 type: Disease or Syndrome
 group: Psychiatric
 sources: 

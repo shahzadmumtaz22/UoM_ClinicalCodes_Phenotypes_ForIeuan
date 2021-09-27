@@ -36,7 +36,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Springate_Other_Antihypertensives_E6CWnuEYtwCE29iZDxV6ra_CPRDProductCode %}
+{% include csv.html csvdata=site.data.codelists.Springate_OtherAntihypertensives_E6CWnuEYtwCE29iZDxV6ra_CPRDProductCode %}
 
 ### Implementation
 

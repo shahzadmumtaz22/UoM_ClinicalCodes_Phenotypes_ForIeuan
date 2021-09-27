@@ -13,7 +13,7 @@ clinical_terminologies:
     - Read Version 2
     - OXMIS
 validation:
-codelists: Kontopantelis_Dmii_4kjaT3QdD9LDq3ZnJdztyZ_Read.csv
+codelists: Kontopantelis_Dmii_4kjaT3QdD9LDq3ZnJdztyZ_Read2.csv
 valid_event_data_range: 01/04/2000 - 31/03/2012
 sex:
     - Female
@@ -38,7 +38,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Kontopantelis_Dmii_4kjaT3QdD9LDq3ZnJdztyZ_Read %}
+{% include csv.html csvdata=site.data.codelists.Kontopantelis_Dmii_4kjaT3QdD9LDq3ZnJdztyZ_Read2 %}
 
 ### Implementation
 

@@ -14,7 +14,7 @@ clinical_terminologies:
     - ICD-10
     - Read Version 2
 validation:
-codelists: Mansfield_Arrhythmia_UvNrAmzMXFd2aFF7f3uWkT_ICD10Read.csv
+codelists: Mansfield_Arrhythmia_UvNrAmzMXFd2aFF7f3uWkT_ICD10Read2.csv
 valid_event_data_range: 01/04/1997 - 31/03/2014  
 sex:
     - Female
@@ -36,7 +36,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Mansfield_Arrhythmia_UvNrAmzMXFd2aFF7f3uWkT_ICD10Read %}
+{% include csv.html csvdata=site.data.codelists.Mansfield_Arrhythmia_UvNrAmzMXFd2aFF7f3uWkT_ICD10Read2 %}
 
 ### Implementation
 

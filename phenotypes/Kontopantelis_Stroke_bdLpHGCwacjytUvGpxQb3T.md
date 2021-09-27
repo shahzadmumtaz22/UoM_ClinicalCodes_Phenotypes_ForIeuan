@@ -13,7 +13,7 @@ clinical_terminologies:
     - Read Version 2
     - OXMIS
 validation:
-codelists: Kontopantelis_Stroke_Kontopantelis_Bmjqs2012_bdLpHGCwacjytUvGpxQb3T_OXMISRead.csv
+codelists: Kontopantelis_Stroke_bdLpHGCwacjytUvGpxQb3T_OXMISRead.csv
 valid_event_data_range: 01/01/2000 - 31/12/2007
 sex:
     - Female
@@ -34,7 +34,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Kontopantelis_Stroke_Kontopantelis_Bmjqs2012_bdLpHGCwacjytUvGpxQb3T_OXMISRead %}
+{% include csv.html csvdata=site.data.codelists.Kontopantelis_Stroke_bdLpHGCwacjytUvGpxQb3T_OXMISRead %}
 
 ### Implementation
 

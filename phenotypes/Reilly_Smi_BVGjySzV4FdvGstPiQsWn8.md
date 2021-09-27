@@ -13,7 +13,7 @@ clinical_terminologies:
     - Read Version 2
     - OXMIS
 validation:
-codelists: Reilly_Smi_BVGjySzV4FdvGstPiQsWn8_Read.csv
+codelists: Reilly_Smi_BVGjySzV4FdvGstPiQsWn8_Read2.csv
 valid_event_data_range: 01/04/2000 - 31/03/2012 
 sex:
     - Male
@@ -36,7 +36,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Reilly_Smi_BVGjySzV4FdvGstPiQsWn8_Read %}
+{% include csv.html csvdata=site.data.codelists.Reilly_Smi_BVGjySzV4FdvGstPiQsWn8_Read2 %}
 
 ### Implementation
 

@@ -13,7 +13,7 @@ clinical_terminologies:
     - Read Version 2
     - ICD-10
 validation:
-codelists: Joseph_Cardiovasculardisease_QGYVpCaLHBmcm7nvbpXX6Q_ICD10Read.csv
+codelists: Joseph_Cardiovasculardisease_QGYVpCaLHBmcm7nvbpXX6Q_ICD10Read2.csv
 valid_event_data_range: 01/01/1998 - 10/01/2012
 sex:
     - Female
@@ -33,7 +33,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Joseph_Cardiovasculardisease_QGYVpCaLHBmcm7nvbpXX6Q_ICD10Read %}
+{% include csv.html csvdata=site.data.codelists.Joseph_Cardiovasculardisease_QGYVpCaLHBmcm7nvbpXX6Q_ICD10Read2 %}
 
 ### Implementation
 

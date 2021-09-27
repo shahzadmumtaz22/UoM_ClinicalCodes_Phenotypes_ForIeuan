@@ -34,7 +34,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Muller_RheumatoidArthritisGroup2_JV5Nb4XGavqkF5Hhhq6ent_Read %}
+{% include csv.html csvdata=site.data.codelists.Muller_RheumatoidArthritisGroup2_JV5Nb4XGavqkF5Hhhq6ent_Read2 %}
 
 ### Implementation
 

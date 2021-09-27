@@ -12,7 +12,7 @@ data_sources:
 clinical_terminologies:
     - Multilex
 validation:
-codelists: Carr_Diabetes_Meds_gV5kDu4N4C8W8k4QKgrMhe_Multilex.csv
+codelists: Carr_DiabetesMeds_gV5kDu4N4C8W8k4QKgrMhe_Multilex.csv
 valid_event_data_range: 1999 - 2011
 sex:
     - Female    
@@ -37,7 +37,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Carr_Diabetes_Meds_gV5kDu4N4C8W8k4QKgrMhe_Multilex %}
+{% include csv.html csvdata=site.data.codelists.Carr_DiabetesMeds_gV5kDu4N4C8W8k4QKgrMhe_Multilex %}
 
 ### Implementation
 

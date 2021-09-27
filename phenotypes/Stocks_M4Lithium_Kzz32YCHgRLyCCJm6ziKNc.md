@@ -34,7 +34,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.Stocks_M4_Lithium_Kzz32YCHgRLyCCJm6ziKNc_CPRDProductCode %}
+{% include csv.html csvdata=site.data.codelists.Stocks_M4Lithium_Kzz32YCHgRLyCCJm6ziKNc_CPRDProductCode %}
 
 ### Implementation
 
