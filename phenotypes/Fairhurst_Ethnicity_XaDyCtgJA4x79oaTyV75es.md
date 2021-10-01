@@ -37,12 +37,9 @@ version: Revision 1
 
 ### Implementation
 
-A cohort study based on primary care data from the QResearch database will
-include patients with one of the three common tumours: breast, bowel and prostate. The primary
-outcome will be overall survival from the date of cancer diagnosis. Cox proportional hazards regression will be
-used to compare the survival of patients with cancer taking VGSC-inhibiting drugs (including
-anticonvulsants and class I antiarrhythmic agents) with patients with cancer not exposed to these drugs,
-adjusting for age and sex. Exposure to VGSC-inhibiting drugs will be defined as having at least one
+A cohort study based on primary care data from the QResearch database will include patients with one of the three common tumours: breast, bowel and prostate. The primary
+outcome will be overall survival from the date of cancer diagnosis. Cox proportional hazards regression will be used to compare the survival of patients with cancer taking VGSC-inhibiting drugs (including
+anticonvulsants and class I antiarrhythmic agents) with patients with cancer not exposed to these drugs, adjusting for age and sex. Exposure to VGSC-inhibiting drugs will be defined as having at least one
 prescription for these drugs prior to cancer diagnosis. High and low exposure groups will be identified based on the length of use. A number of sensitivity and
 secondary analyses will be conducted.
 

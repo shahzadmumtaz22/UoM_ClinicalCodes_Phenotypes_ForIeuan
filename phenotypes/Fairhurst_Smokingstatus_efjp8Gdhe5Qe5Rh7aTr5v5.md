@@ -40,38 +40,17 @@ version: Revision 1
 ### Implementation
 
 Introduction: 
-Voltage-gated sodium channel (VGSC)-
-inhibiting drugs are commonly used to treat epilepsy
-and cardiac arrhythmia. VGSCs are also widely
-expressed in various cancers, including those of the
-breast, bowel and prostate. A number of VGSCinhibiting
-drugs have been shown to inhibit cancer cell
-proliferation, invasion, tumour growth and metastasis
-in preclinical models, suggesting that VGSCs may be
-novel molecular targets for cancer treatment.
-Surprisingly, we previously found that prior exposure
-to VGSC-inhibiting drugs may be associated with
-reduced overall survival in patients with cancer, but we
-were unable to control for the cause of death or
-indication for prescription. The purpose of the present
-study is to interrogate a different database to further
-investigate the relationship between VGSC-inhibiting
-drugs and cancer-specific survival.
+Voltage-gated sodium channel (VGSC)- inhibiting drugs are commonly used to treat epilepsy and cardiac arrhythmia. VGSCs are also widely
+expressed in various cancers, including those of the breast, bowel and prostate. A number of VGSCinhibiting drugs have been shown to inhibit cancer cell
+proliferation, invasion, tumour growth and metastasis in preclinical models, suggesting that VGSCs may be novel molecular targets for cancer treatment.
+Surprisingly, we previously found that prior exposure to VGSC-inhibiting drugs may be associated with reduced overall survival in patients with cancer, but we
+were unable to control for the cause of death or indication for prescription. The purpose of the present study is to interrogate a different database to further
+investigate the relationship between VGSC-inhibiting drugs and cancer-specific survival.
 
-Methods and analysis: 
-A cohort study using
-primary care data from the Clinical Practice Research
-Datalink database will include patients with diagnosis
-of breast, bowel and prostate cancer (13 000). The
-primary outcome will be cancer-specific survival from
-the date of cancer diagnosis. Cox proportional hazards
-regression will be used to compare survival of patients
-taking VGSC-inhibiting drugs (including antiepileptic
-drugs and class I antiarrhythmic agents) with patients
-with cancer not taking these drugs, adjusting for
-cancer type, age and sex. Drug exposure will be treated
-as a time-varying covariate to account for potential
-immortal time bias. Various sensitivity and secondary
+Methods and analysis: A cohort study using primary care data from the Clinical Practice Research Datalink database will include patients with diagnosis of breast, bowel and prostate cancer (13 000). The
+primary outcome will be cancer-specific survival from the date of cancer diagnosis. Cox proportional hazards regression will be used to compare survival of patients
+taking VGSC-inhibiting drugs (including antiepileptic drugs and class I antiarrhythmic agents) with patients with cancer not taking these drugs, adjusting for
+cancer type, age and sex. Drug exposure will be treated as a time-varying covariate to account for potential immortal time bias. Various sensitivity and secondary
 analyses will be performed.
 
 ### Publications
