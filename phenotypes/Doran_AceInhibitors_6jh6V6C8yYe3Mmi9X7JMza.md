@@ -10,7 +10,7 @@ sources:
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - GPRD product Code
+    - CPRD Product Code
 validation:
 codelists: Doran_AceInhibitors_6jh6V6C8yYe3Mmi9X7JMza_CPRDProductCode.csv
 valid_event_data_range: 01/01/2000 - 31/12/2007 

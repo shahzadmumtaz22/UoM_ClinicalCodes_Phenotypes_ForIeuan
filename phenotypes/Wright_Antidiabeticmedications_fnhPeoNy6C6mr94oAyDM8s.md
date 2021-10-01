@@ -10,7 +10,7 @@ sources:
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - CPRD Product
+    - CPRD Product Code
 validation:
 codelists: Wright_Antidiabeticmedications_fnhPeoNy6C6mr94oAyDM8s_CPRDProductCode.csv
 valid_event_data_range: 01/01/1998 - 31/03/2015

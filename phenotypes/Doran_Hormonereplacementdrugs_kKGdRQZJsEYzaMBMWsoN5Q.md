@@ -10,8 +10,7 @@ sources:
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - Read Version 2
-    - OXMIS
+    - CPRD Product Code    
 validation:
 codelists: Doran_Hormonereplacementdrugs_kKGdRQZJsEYzaMBMWsoN5Q_CPRDProductCode.csv
 valid_event_data_range: 01/01/2000 - 31/12/2007 

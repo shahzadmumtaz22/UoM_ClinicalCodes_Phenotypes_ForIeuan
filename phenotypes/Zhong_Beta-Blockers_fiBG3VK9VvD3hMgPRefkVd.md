@@ -10,7 +10,7 @@ sources:
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - Read Version 2
+    - CPRD Product Code
 validation:
 codelists: Zhong_Beta-Blockers_fiBG3VK9VvD3hMgPRefkVd_CPRDProductCode.csv
 valid_event_data_range: 01/04/1997 - 31/03/2014

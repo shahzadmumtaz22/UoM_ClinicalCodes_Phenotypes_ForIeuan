@@ -10,7 +10,7 @@ sources:
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - GPRD product Code    
+    - CPRD product Code    
 validation:
 codelists: Doran_Oraldecongestants_78hYk3cpvN7T8ZgumGMtBP_CPRDProductCode.csv
 valid_event_data_range: 01/01/2000 - 31/12/2007 

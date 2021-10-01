@@ -4,14 +4,13 @@ title: Asthma Drugs
 phenotype_id: XHHHAtYWbmo2toULnwqWYv
 name: Asthma Drugs
 type: Drug
-group: Respiratory
+group: Drug
 sources: 
     - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - Read Version 2
-    - OXMIS	
+    - CPRD Product Code    
 validation:
 codelists: Kontopantelis_AsthmaDrugs_XHHHAtYWbmo2toULnwqWYv_CPRDProductCode.csv
 valid_event_data_range: 01/04/2004 - 31/03/2021

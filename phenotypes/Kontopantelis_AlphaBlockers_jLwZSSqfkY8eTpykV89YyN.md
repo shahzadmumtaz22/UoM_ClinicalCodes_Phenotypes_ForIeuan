@@ -10,7 +10,7 @@ sources:
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - Read Version 2
+    - CPRD Product Code
 validation:
 codelists: Kontopantelis_AlphaBlockers_jLwZSSqfkY8eTpykV89YyN_CPRDProductCode.csv
 valid_event_data_range: 01/04/2006 - 31/03/2012

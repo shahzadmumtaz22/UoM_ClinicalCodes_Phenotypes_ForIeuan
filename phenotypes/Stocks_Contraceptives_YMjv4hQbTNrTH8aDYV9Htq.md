@@ -10,7 +10,7 @@ sources:
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
-    - Read Version 2
+    - CPRD Product Code
 validation:
 codelists: Stocks_Contraceptives_YMjv4hQbTNrTH8aDYV9Htq_CPRDProductCode.csv
 valid_event_data_range: Start - 01/02/2013
