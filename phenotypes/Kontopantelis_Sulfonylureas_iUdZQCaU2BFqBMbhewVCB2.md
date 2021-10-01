@@ -65,4 +65,7 @@ patients. For these, using ICD-10 codes (www.who.int/classifications/icd/en/) we
 diabetes (E10–E16), ischaemic heart disease (I21–I22), stroke (I60–I64) or stroke excluding bleeds (excluding I63). 
 
 ### Publications
+
+<pre>
 Evangelos Kontopantelis, David A Springate, David Reeves, Darren M. Aschroff, Martin Rutter, Iain Buchan, Tim Doran, Glucose, blood pressure and cholesterol levels and their relationships to clinical outcomes in type 2 diabetes: a retrospective cohort study. Diabetologia, 58:505-518, 2015. 
+</pre>

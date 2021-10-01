@@ -50,5 +50,5 @@ each financial year, we defined “eligible” patients as those registered with
 ### Publications
 
 <pre>
-- Evangelos Kontopantelis, David Springate, David Reeves, Darren M Ashcroft, Jose M Valderas, Tim Doran, Withdrawing performance indicators: retrospective analysis of general practice performance under UK Quality and Outcomes Framework. BMJ, 348:g330, 2014.
+Evangelos Kontopantelis, David Springate, David Reeves, Darren M Ashcroft, Jose M Valderas, Tim Doran, Withdrawing performance indicators: retrospective analysis of general practice performance under UK Quality and Outcomes Framework. BMJ, 348:g330, 2014.
 </pre>

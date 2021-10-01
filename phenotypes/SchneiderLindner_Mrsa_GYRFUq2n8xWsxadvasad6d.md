@@ -71,5 +71,5 @@ particularly elevated for quinolones at 14.8 (95% CI, 3.9-
 ### Publications
 
 <pre>
-- Verena Schneider-Lindner, Caroline Quach, James A Hanley, Samy Suissa, Antibacterial Drugs and the Risk of Community-Associated Methicillin-Resistant Staphylococcus aureus in Children. Arch Pediatr Adolesc Med, 165(12), 2011.
+Verena Schneider-Lindner, Caroline Quach, James A Hanley, Samy Suissa, Antibacterial Drugs and the Risk of Community-Associated Methicillin-Resistant Staphylococcus aureus in Children. Arch Pediatr Adolesc Med, 165(12), 2011.
 </pre>

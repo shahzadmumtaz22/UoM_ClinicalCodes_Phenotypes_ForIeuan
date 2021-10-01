@@ -54,5 +54,5 @@ before recorded RA diagnosis.
 ### Publications
 
 <pre>
-- Amanda Nicholson, Elizabeth Ford, Kevin A Davies, Helen E Smith, Greta Rait, A Rosemary Tate, Irene Petersen, Jackie Cassell, Optimising Use of Electronic Health Records to Describe the Presentation of Rheumatoid Arthritis in Primary Care A Strategy for Developing Code Lists. PLoS ONE, 8:2, 2013.
+Amanda Nicholson, Elizabeth Ford, Kevin A Davies, Helen E Smith, Greta Rait, A Rosemary Tate, Irene Petersen, Jackie Cassell, Optimising Use of Electronic Health Records to Describe the Presentation of Rheumatoid Arthritis in Primary Care A Strategy for Developing Code Lists. PLoS ONE, 8:2, 2013.
 </pre>

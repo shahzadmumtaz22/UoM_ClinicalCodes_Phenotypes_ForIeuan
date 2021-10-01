@@ -53,5 +53,5 @@ The outcome of interest was fatal and non-fatal incident MI events. In our main 
 ### Publications
 
 <pre>
-- Rosa Parisi, Martin K Rutter, Mark Lunt, Helen S Young, Deborah PM Symmons, Christopher EM Griffiths, Darren M. Ashcroft, Psoriasis and the risk of myocardial infarction Cohort study using the clinical practive research datalink. 2014.
+Rosa Parisi, Martin K Rutter, Mark Lunt, Helen S Young, Deborah PM Symmons, Christopher EM Griffiths, Darren M. Ashcroft, Psoriasis and the risk of myocardial infarction Cohort study using the clinical practive research datalink. 2014.
 </pre>

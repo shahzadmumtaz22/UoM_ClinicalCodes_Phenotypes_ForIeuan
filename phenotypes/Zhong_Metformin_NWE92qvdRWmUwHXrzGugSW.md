@@ -40,16 +40,6 @@ version: Revision 1
 
 ### Implementation
 
-lajsdkfjadkjflajdsfkajdfs jlkajslkfj aljdkjflkjadsf ajlfaskjdflasjfdsd fajksdlafjkdfjf
-lkajsdklfj ljlakjsdf lkjldkfj ljkj alkjsdfl lkjkj lkjkj lkjjlk
-
-### Publications
-
-<pre>
-"- Matthew J Carr, Sarah Steeg, Roger T Webb, Nav Kapur, Carolyn A Chew-Graham, Kathrym M Abel, Holly Hope, Matthias Pierce, Darren M. Ashcroft, Primary care contact for mental illness and self-harm before during and after the peak of the Covid-19 pandemic in the UK cohort study of 13 million individual. 2020."
-</pre>
-### Implementation
-
 Aims: 
 To determine association between HbA1C variability and hypoglycemia requiring hospitalization (HH) in
 adults with type 1 diabetes (T1D) and type 2 diabetes (T2D).
