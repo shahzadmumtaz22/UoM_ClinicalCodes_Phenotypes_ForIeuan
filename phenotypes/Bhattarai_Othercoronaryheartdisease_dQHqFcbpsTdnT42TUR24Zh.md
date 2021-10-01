@@ -53,5 +53,5 @@ of MI did not change. The frequency of CABG declined, while PCTA increased.
 ### Publications
 
 <pre>
-- Nawarj Bhattarai, Judith Charlton, Caroline Rudisill, Martin C Gulliford, Coding, Recording and Incidence of Different Forms of Coronary Heart Disease in Primary Care. PLoS ONE, 7:1, 2012.
+Nawarj Bhattarai, Judith Charlton, Caroline Rudisill, Martin C Gulliford, Coding, Recording and Incidence of Different Forms of Coronary Heart Disease in Primary Care. PLoS ONE, 7:1, 2012.
 </pre>
