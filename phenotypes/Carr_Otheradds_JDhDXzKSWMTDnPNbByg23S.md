@@ -41,12 +41,17 @@ version: Revision 1
 
 ### Implementation
 
-Background: Little isknownabouttheclinicalmanagementofpatientsinprimarycarefollowingself-
+Background: 
+Little is knownabouttheclinicalmanagementofpatientsinprimarycarefollowingself-
 harm.
-Methods: A descriptivecohortstudyusingdatafrom684UKgeneralpracticesthatcontributedtothe
+
+Methods: 
+A descriptivecohortstudyusingdatafrom684UKgeneralpracticesthatcontributedtothe
 Clinical PracticeResearchDatalink(CPRD)during2001–2013.Weidentified 49,970patientswithaself-
 harm episode,41,500ofwhomhadonecompleteyearoffollow-up.
-Results: Among thosewithcompletefollow-up,26,065(62.8%,62.3–63.3) wereprescribedpsychotropic
+
+Results: 
+Among thosewithcompletefollow-up,26,065(62.8%,62.3–63.3) wereprescribedpsychotropic
 medication and6318(15.2%,14.9-15.6)werereferredtomentalhealthservices;4105(9.9%,CI9.6–10.2)
 weremedicatedwithoutanantecedentpsychiatricdiagnosisorreferral,and4,506(10.9%,CI10.6–11.2)
 had adiagnosisbutwerenotsubsequentlymedicatedorreferred.Patientsregisteredatpracticesinthe
@@ -56,7 +61,9 @@ cyclicantidepressantsfollowingself-harmbecauseoftheirpotentiallylethaltoxicityin
 7.8-9.8)ofindividualswereissuedaprescriptioninthesubsequentyear.Thepercentageprescribed
 Citalopram, anSSRIantidepressantwithhighertoxicityinoverdose,fellsharplyduring2012/2013inthe
 aftermathofaMedicinesandHealthcareproductsRegulatoryAgency(MHRA)safetyalertissuedin2011.
-Conclusions: A relativelysmallpercentageofthesevulnerablepatientsarereferredtomentalhealth
+
+Conclusions: 
+A relativelysmallpercentageofthesevulnerablepatientsarereferredtomentalhealth
 services, andreducedlikelihoodofreferralinmoredeprivedlocalitiesreflects amarkedhealthin-
 equality.Nationalclinicalguidelineshavenotyetbeeneffectiveinreducingratesoftricyclicanti-
 depressant prescribingforthishigh-riskgroup.

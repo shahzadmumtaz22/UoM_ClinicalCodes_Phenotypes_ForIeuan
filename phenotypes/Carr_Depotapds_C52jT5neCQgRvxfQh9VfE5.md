@@ -64,7 +64,9 @@ cohort. Large elevations of risk throughout the follow-up period were also
 observed for accidental, alcohol-related, and drug poisoning deaths. At 10 years
 of follow-up, cumulative incidence values were 6.5% (95% CI, 6.0%-7.1%) for allcause
 mortality and 1.3% (95% CI, 1.2%-1.5%) for suicide.
-CONCLUSIONS Primary care patients who have harmed themselves are at greatly
+
+CONCLUSIONS: 
+Primary care patients who have harmed themselves are at greatly
 increased risk of dying prematurely by natural and unnatural causes, and especially
 within a year of a first episode. These individuals visit clinicians at a relatively
 high frequency, which presents a clear opportunity for preventive action.

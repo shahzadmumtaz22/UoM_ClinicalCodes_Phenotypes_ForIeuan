@@ -42,18 +42,9 @@ version: Revision 1
 
 Description of the data source:
 
-This study was conducted using routinely collected data
-from the CPRD, the world’s largest population-based, longitudinal,
-primary care database. This data source contains
-anonymised patient information entered by general practice
-staff. Most clinical data is coded using the Read code
-system and the database includes information on
-diagnoses, demographics, laboratory tests, medications,
-and referrals to other healthcare settings. Our study
-utilised information from 677 general practices, with
-10,396,605 patients contributing data at some stage during
-years 2001–2013, inclusive. We restricted our analyses to
-patients identified to be of an acceptable quality for
+This study was conducted using routinely collected data from the CPRD, the world’s largest population-based, longitudinal, primary care database. This data source contains anonymised patient information entered by general practice
+staff. Most clinical data is coded using the Read code system and the database includes information on diagnoses, demographics, laboratory tests, medications, and referrals to other healthcare settings. Our study utilised information from 677 general practices, with 10,396,605 patients contributing data at some stage during
+years 2001–2013, inclusive. We restricted our analyses to patients identified to be of an acceptable quality for
 research, and registered with a general practice deemed to
 be ‘up to standard’ on continuity of provision and data
 completeness criteria. We utilised an ‘open’ cohort study
