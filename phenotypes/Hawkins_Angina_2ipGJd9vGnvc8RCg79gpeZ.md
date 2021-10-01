@@ -55,5 +55,5 @@ inequality was apparent in the treatment of younger women with angina.
 ### Publications
 
 <pre>
-- Nathaniel M Hawkins, Shaun Scholes, Madhavi Bajekal, Hande Love, Martin O'Flaherty, Rosalind Raine, Simon Capewell, The UK National Health Service Delivering Equitable Treatment Across the Spectrum of Coronary Disease. Circulation Cardiovascular Quality and Outcomes, 6:2, 2013.
+Nathaniel M Hawkins, Shaun Scholes, Madhavi Bajekal, Hande Love, Martin O'Flaherty, Rosalind Raine, Simon Capewell, The UK National Health Service Delivering Equitable Treatment Across the Spectrum of Coronary Disease. Circulation Cardiovascular Quality and Outcomes, 6:2, 2013.
 </pre>

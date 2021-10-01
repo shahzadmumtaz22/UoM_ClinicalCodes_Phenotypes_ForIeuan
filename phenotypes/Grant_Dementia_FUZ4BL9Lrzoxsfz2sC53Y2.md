@@ -53,5 +53,5 @@ urinary incontinence was 2.2 (1.4–3.7) for both genders, and for indwelling ur
 ### Publications
 
 <pre>
-- Robert L Grant, Vari M Drennan, Greta Rait, Irene Petersen, Steve Iliffe, First Diagnosis and Management of Incontinence in Older People with and without Dementia in Primary Care A Cohort Study Using The Health Improvement Network Primary Care Database. PLOS medicine, 10:8, 2013.
+Robert L Grant, Vari M Drennan, Greta Rait, Irene Petersen, Steve Iliffe, First Diagnosis and Management of Incontinence in Older People with and without Dementia in Primary Care A Cohort Study Using The Health Improvement Network Primary Care Database. PLOS medicine, 10:8, 2013.
 </pre>

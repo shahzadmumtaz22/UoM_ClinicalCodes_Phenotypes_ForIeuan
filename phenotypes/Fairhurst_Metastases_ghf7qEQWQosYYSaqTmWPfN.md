@@ -49,5 +49,5 @@ secondary analyses will be conducted.
 ### Publications
 
 <pre>
-- Caroline Fairhurst, Ian Watt, Fabiola Martin, Martin Bland, William J Brackenburry, Exposure to sodium channel-inhibiting drugs and cancer survival protocol for a cohort study using the QResearch primary care database. BMJ Open, 4:e006604 2014.
+Caroline Fairhurst, Ian Watt, Fabiola Martin, Martin Bland, William J Brackenburry, Exposure to sodium channel-inhibiting drugs and cancer survival protocol for a cohort study using the QResearch primary care database. BMJ Open, 4:e006604 2014.
 </pre>
