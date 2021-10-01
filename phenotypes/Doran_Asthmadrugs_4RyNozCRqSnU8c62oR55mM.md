@@ -47,6 +47,7 @@ socioeconomic deprivation but had a relatively large average list size, reflecti
 better than national practices on the clinical indicators in the Quality and Outcomes Framework. A random selection of 4500 patients registered for at least one day between 1 January 2000 and 31 December 2007 was drawn from each practice. For practices with fewer than 4501 patients, all patients
 were selected. The final sample consisted of 653 500 patients. Patients with relevant conditions were identified from their diagnostic Read codes. Patients for whom targets were met were identified from the relevant Read
 codes and free-text terms.
+
 ### Publications
 
 <pre>
