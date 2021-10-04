@@ -41,11 +41,13 @@ version: Revision 1
 
 ### Implementation
 
-Data source: We used the Clinical Practice Research Datalink (CPRD), a large primary care database that holds complete electronic patient records (including diagnoses, prescriptions
+Data source: 
+We used the Clinical Practice Research Datalink (CPRD), a large primary care database that holds complete electronic patient records (including diagnoses, prescriptions
 and referrals) from participating family practices across the UK. A hierarchical clinical coding system (Read) is used to record the data. In July 2012, data were available for 644
 practices and 13,772,992 patients. Full details of the database have been provided elsewhere.
 
-Diabetes cohort We extracted data from 1 April 2006 to 31 March 2012 and, for ease of reporting and analysing, aggregated information into six financial years. Within each year,
+Diabetes cohort:
+We extracted data from 1 April 2006 to 31 March 2012 and, for ease of reporting and analysing, aggregated information into six financial years. Within each year,
 practice inclusion eligibility was determined by a CPRD assessment algorithm, which informs on practices considered to be of research standard; therefore, our cohort of practices
 varied over time. For each research standard practice and year, we defined as eligible patients those who were registered with the practice for the full year and were aged 18 years or over in
 that year. From these patients, using relevant Read codes for type 2 diabetes (e.g. C10F.00: Type 2 diabetes mellitus) and excluding those treated with insulin within 2 years of diagnosis,
@@ -59,8 +61,7 @@ the Quality and Outcomes Framework (QOF), for which accuracy of diagnosis is con
 and missing data),BMI, HbA1c levels (%), cholesterol levels (mmol/l) and systolic/diastolic BP (mmHg). Biometric measurement data were cleaned and we calculated patient
 means for each year when more than one relevant record was available. Using product lists we determined prescription prevalence (at least one) for relevant medications: ACE inhibitors,
 acarbose, α-blockers, anticoagulants, antiplatelet agents, β-blockers, calcium-channel blockers, thiazide diuretics, loop diuretics, dipeptidyl peptidase-4 inhibitors, glucagon-like peptide-
-1 agonists, statins and other lipid-lowering drugs, meg l i t i n i d e s , me t f o r m i n , s u l f o n y l u r e a s and
-thiazolidinediones. For approximately 60% of the practices, records were linked to Office of National Statistics (ONS) mortality data and we had access to death dates for all their
+1 agonists, statins and other lipid-lowering drugs, meglitinides , metformin, sulfonylureas and thiazolidinediones. For approximately 60% of the practices, records were linked to Office of National Statistics (ONS) mortality data and we had access to death dates for all their
 patients. For these, using ICD-10 codes (www.who.int/classifications/icd/en/) we were able to estimate deathslinked to specific causes (underlying or in the top three):
 diabetes (E10–E16), ischaemic heart disease (I21–I22), stroke (I60–I64) or stroke excluding bleeds (excluding I63). 
 
