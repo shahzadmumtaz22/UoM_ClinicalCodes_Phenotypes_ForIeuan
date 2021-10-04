@@ -35,15 +35,7 @@ version: Revision 1
 ### Implementation
 
 Methodology/ Principal Findings: 
-
-Design-A case control study comparing bisphosphonate prescribing in cases of upper GI
-cancer from 1995 to 2007 using UK primary care electronic health records (GPRD). Main Outcome Measure-Relative Risk
-(approximated to Odds Ratio for rare events) for oesophageal and gastric cancer development in bisphosphonate users
-compared to non–users. The odds of being a case of oesophageal cancer, adjusted for smoking status, were significantly
-increased in women who had had one or more bisphosphonate prescriptions, odds ratio 1?54 (95% CI 1.27–1.88) compared
-to non-users. There was no significant effect on gastric cancer in women, odds ratio adjusted for smoking status, 1.06 (95%
-CI 0.83–1.37) and also no apparent risk in men for either oesophageal or gastric cancer, odds ratio adjusted for smoking
-status 0.78 (95%CI 0.56–1.09) and 0.87 (95% CI 0.55–1.36) respectively.
+Design-A case control study comparing bisphosphonate prescribing in cases of upper GI cancer from 1995 to 2007 using UK primary care electronic health records (GPRD). Main Outcome Measure-Relative Risk (approximated to Odds Ratio for rare events) for oesophageal and gastric cancer development in bisphosphonate users compared to non–users. The odds of being a case of oesophageal cancer, adjusted for smoking status, were significantly increased in women who had had one or more bisphosphonate prescriptions, odds ratio 1?54 (95% CI 1.27–1.88) compared to non-users. There was no significant effect on gastric cancer in women, odds ratio adjusted for smoking status, 1.06 (95% CI 0.83–1.37) and also no apparent risk in men for either oesophageal or gastric cancer, odds ratio adjusted for smoking status 0.78 (95%CI 0.56–1.09) and 0.87 (95% CI 0.55–1.36) respectively.
 
 ### Publications
 
