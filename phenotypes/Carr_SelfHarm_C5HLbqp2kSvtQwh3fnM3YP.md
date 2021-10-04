@@ -41,28 +41,10 @@ version: Revision 1
 ### Implementation
 
 Description of the data source:
+This study was conducted using routinely collected data from the CPRD, the world’s largest population-based, longitudinal, primary care database. This data source contains anonymised patient information entered by general practice staff. Most clinical data is coded using the Read code system and the database includes information on diagnoses, demographics, laboratory tests, medications, and referrals to other healthcare settings. Our study utilised information from 677 general practices, with 10,396,605 patients contributing data at some stage during years 2001–2013, inclusive. We restricted our analyses to patients identified to be of an acceptable quality for research, and registered with a general practice deemed to be ‘up to standard’ on continuity of provision and data completeness criteria. We utilised an ‘open’ cohort study design in that each patient’s time at risk commenced at a different time point, and some exited prior to the end of the study period due to migration, death, or cessation of their practice’s contribution to the CPRD. 
 
-This study was conducted using routinely collected data from the CPRD, the world’s largest population-based, longitudinal, primary care database. This data source contains anonymised patient information entered by general practice
-staff. Most clinical data is coded using the Read code system and the database includes information on diagnoses, demographics, laboratory tests, medications, and referrals to other healthcare settings. Our study utilised information from 677 general practices, with 10,396,605 patients contributing data at some stage during
-years 2001–2013, inclusive. We restricted our analyses to patients identified to be of an acceptable quality for
-research, and registered with a general practice deemed to
-be ‘up to standard’ on continuity of provision and data
-completeness criteria. We utilised an ‘open’ cohort study
-design in that each patient’s time at risk commenced at a
-different time point, and some exited prior to the end of
-the study period due to migration, death, or cessation of
-their practice’s contribution to the CPRD.
-Case definition and clinical coding
-In the UK, the National Institute for Health and Clinical
-Excellence (NICE) guidelines (CG16) define self-harm as
-any act of “self-poisoning or self-injury, irrespective of
-the apparent purpose”. Using this broad conceptualisation,
-we developed a list of Read codes incorporating
-all cases across the spectrum from milder forms of nonsuicidal
-behaviour through to near-fatal suicide attempts.
-Initially we searched for all Read codes that included the
-following terms in their description: ‘deliberate’, ‘intentional’
-or ‘self ’ (to identify episodes of self-harm/harming, selfinjury/
+Case definition and clinical coding:
+In the UK, the National Institute for Health and Clinical Excellence (NICE) guidelines (CG16) define self-harm as any act of “self-poisoning or self-injury, irrespective of the apparent purpose”. Using this broad conceptualisation, we developed a list of Read codes incorporating all cases across the spectrum from milder forms of nonsuicidal behaviour through to near-fatal suicide attempts. Initially we searched for all Read codes that included the following terms in their description: ‘deliberate’, ‘intentional’ or ‘self ’ (to identify episodes of self-harm/harming, selfinjury/
 injurious behaviour, self-inflicted harm/injury,
 harm/injury to self, self-poisoning, deliberate overdose,
 intentional overdose) and ‘suicide attempt’, ‘attempted
