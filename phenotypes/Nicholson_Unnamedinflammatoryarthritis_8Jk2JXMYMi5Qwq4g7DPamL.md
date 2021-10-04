@@ -41,15 +41,11 @@ version: Revision 1
 
 ### Implementation
 
-Methods: We examined EHRs of 5,843 patients in the General Practice Research Database, aged $30y, with a first coded
-diagnosis of RA between 2005 and 2008. Lists of indicator markers for RA were developed initially by panels of clinicians
-drawing up code-lists and then modified based on scrutiny of available data. The prevalence of indicator markers, and their
-temporal relationship to RA codes, was examined in patients from 3y before to 14d after recorded RA diagnosis.
+Methods: 
+We examined EHRs of 5,843 patients in the General Practice Research Database, aged $30y, with a first coded diagnosis of RA between 2005 and 2008. Lists of indicator markers for RA were developed initially by panels of clinicians drawing up code-lists and then modified based on scrutiny of available data. The prevalence of indicator markers, and their temporal relationship to RA codes, was examined in patients from 3y before to 14d after recorded RA diagnosis. 
 
-Findings: Indicator markers were common throughout EHRs of RA patients, with 83.5% having 2 or more markers. 34% of
-patients received a disease-specific prescription before RA was coded; 42% had a referral to rheumatology, and 63% had a
-test for rheumatoid factor. 65% had at least one joint symptom or sign recorded and in 44% this was at least 6-months
-before recorded RA diagnosis.
+Findings: 
+Indicator markers were common throughout EHRs of RA patients, with 83.5% having 2 or more markers. 34% of patients received a disease-specific prescription before RA was coded; 42% had a referral to rheumatology, and 63% had a test for rheumatoid factor. 65% had at least one joint symptom or sign recorded and in 44% this was at least 6-months before recorded RA diagnosis.
 
 ### Publications
 

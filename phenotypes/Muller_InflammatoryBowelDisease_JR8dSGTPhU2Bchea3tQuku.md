@@ -38,21 +38,7 @@ version: Revision 1
 
 ### Implementation
 
-The original algorithm consisted of two
-criteria. Individuals meeting at least one were
-considered to have RA. Criterion 1: ≥1 RA Read code
-and a disease modifying antirheumatic drug (DMARD)
-without an alternative indication. Criterion 2: ≥2 RA
-Read codes, with at least one ‘strong’ code and no
-alternative diagnoses. Lists of codes for consultations
-and prescriptions were obtained from the authors of
-the original algorithm where these were available, or
-compiled based on the original description and clinical
-knowledge. 4161 people with a first Read code for RA
-between 1 January 2010 and 31 December 2012 were
-selected from the Clinical Practice Research Datalink
-(CPRD, successor to the GPRD), and the criteria
-applied.
+The original algorithm consisted of two criteria. Individuals meeting at least one were considered to have RA. Criterion 1: ≥1 RA Read code and a disease modifying antirheumatic drug (DMARD) without an alternative indication. Criterion 2: ≥2 RA Read codes, with at least one ‘strong’ code and no alternative diagnoses. Lists of codes for consultations and prescriptions were obtained from the authors of the original algorithm where these were available, or compiled based on the original description and clinical knowledge. 4161 people with a first Read code for RA between 1 January 2010 and 31 December 2012 were selected from the Clinical Practice Research Datalink (CPRD, successor to the GPRD), and the criteria applied.
 
 ### Publications
 

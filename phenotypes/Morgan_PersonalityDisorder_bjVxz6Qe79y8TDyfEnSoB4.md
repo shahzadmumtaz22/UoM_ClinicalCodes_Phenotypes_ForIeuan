@@ -41,72 +41,25 @@ version: Revision 1
 ### Implementation
 
 Objectives:
-To examine temporal trends in sex and age specific
-incidence of self harm in children and adolescents,
-clinical management patterns, and risk of cause
-specific mortality following an index self harm episode
-at a young age.
+To examine temporal trends in sex and age specific incidence of self harm in children and adolescents, clinical management patterns, and risk of cause specific mortality following an index self harm episode at a young age.
 
 Design:
 Population based cohort study.
 
 Setting:
-UK Clinical Practice Research Datalink—electronic
-health records from 674 general practices, with
-practice level deprivation measured ecologically
-using the index of multiple deprivation. Patients from
-eligible English practices were linked to hospital
-episode statistics (HES) and Office for National
-Statistics (ONS) mortality records.
+UK Clinical Practice Research Datalink—electronic health records from 674 general practices, with practice level deprivation measured ecologically using the index of multiple deprivation. Patients from eligible English practices were linked to hospital episode statistics (HES) and Office for National Statistics (ONS) mortality records.
 
 Participants:
-For the descriptive analytical phases we examined
-data pertaining to 16 912 patients aged 10-19 who
-harmed themselves during 2001-14. For analysis of
-cause specific mortality following self harm, 8638
-patients eligible for HES and ONS linkage were
-matched by age, sex, and general practice with up to
-20 unaffected children and adolescents (n=170 274).
+For the descriptive analytical phases we examined data pertaining to 16 912 patients aged 10-19 who harmed themselves during 2001-14. For analysis of cause specific mortality following self harm, 8638 patients eligible for HES and ONS linkage were matched by age, sex, and general practice with up to 20 unaffected children and adolescents (n=170 274).
 
 Main outcome measures:
-In the first phase, temporal trends in sex and age
-specific annual incidence were examined. In the
-second phase, clinical management was assessed
-according to the likelihood of referral to mental
-health services and psychotropic drug prescribing. In
-the third phase, relative risks of all cause mortality,
-unnatural death (including suicide and accidental
-death), and fatal acute alcohol or drug poisoning were
-estimated as hazard ratios derived from stratified Cox
-proportional hazards models for the self harm cohort
-versus the matched unaffected comparison cohort.
+In the first phase, temporal trends in sex and age specific annual incidence were examined. In the second phase, clinical management was assessed according to the likelihood of referral to mental health services and psychotropic drug prescribing. In the third phase, relative risks of all cause mortality, unnatural death (including suicide and accidental death), and fatal acute alcohol or drug poisoning were estimated as hazard ratios derived from stratified Cox proportional hazards models for the self harm cohort versus the matched unaffected comparison cohort.
 
 Results:
-The annual incidence of self harm was observed to
-increase in girls (37.4 per 10 000) compared with
-boys (12.3 per 10 000), and a sharp 68% increase
-occurred among girls aged 13-16, from 45.9 per
-10 000 in 2011 to 77.0 per 10 000 in 2014. Referrals
-within 12 months of the index self harm episode
-were 23% less likely for young patients registered at
-the most socially deprived practices, even though
-incidences were considerably higher in these
-localities. Children and adolescents who harmed
-themselves were approximately nine times more likely
-to die unnaturally during follow-up, with especially
-noticeable increases in risks of suicide (deprivation
-adjusted hazard ratio 17.5, 95% confidence interval
-7.6 to 40.5) and fatal acute alcohol or drug poisoning
-(34.3, 10.2 to 115.7).
+The annual incidence of self harm was observed to increase in girls (37.4 per 10 000) compared with boys (12.3 per 10 000), and a sharp 68% increase occurred among girls aged 13-16, from 45.9 per 10 000 in 2011 to 77.0 per 10 000 in 2014. Referrals within 12 months of the index self harm episode were 23% less likely for young patients registered at the most socially deprived practices, even though incidences were considerably higher in these localities. Children and adolescents who harmed themselves were approximately nine times more likely to die unnaturally during follow-up, with especially noticeable increases in risks of suicide (deprivation adjusted hazard ratio 17.5, 95% confidence interval 7.6 to 40.5) and fatal acute alcohol or drug poisoning (34.3, 10.2 to 115.7).
 
 Conclusions:
-Gaining a better understanding of the mechanisms
-responsible for the recent apparent increase in the
-incidence of self harm among early-mid teenage
-girls, and coordinated initiatives to tackle health
-inequalities in the provision of services to distressed
-children and adolescents, represent urgent priorities
-for multiple public agencies.
+Gaining a better understanding of the mechanisms responsible for the recent apparent increase in the incidence of self harm among early-mid teenage girls, and coordinated initiatives to tackle health inequalities in the provision of services to distressed children and adolescents, represent urgent priorities for multiple public agencies.
 
 ### Publications
 
