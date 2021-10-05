@@ -60,13 +60,6 @@ There was no evidence that the period of high media coverage was associated with
 Conclusions:
 A period of intense public discussion over the risks: benefit balance of statins, covered widely in the media, was followed by a transient rise in the proportion of people who stopped taking statins. This research highlights the potential for widely covered health stories in the lay media to impact on healthcare related behaviour.
 
-Conclusions
-A period of intense public discussion over the risks:
-benefit balance of statins, covered widely in the media,
-was followed by a transient rise in the proportion of people
-who stopped taking statins. This research highlights the
-potential for widely covered health stories in the lay
-media to impact on healthcare related behaviour.
 ### Publications
 
 <pre>

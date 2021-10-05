@@ -40,14 +40,7 @@ version: Revision 1
 
 ### Implementation
 
-Patient level data were extracted from the General Practice Research Database (GPRD), which contains anonymised, patient based data on morbidity, prescribing, treatment, and referral
-collected from over 500 general practices, covering about 7% of the UK population (4.4 million patients).14 Data are in Read code format—a hierarchical system used to code clinical data.
-Additional data on prescriptions and test results are available as free-text entries. We selected a sample of 148 practices that provided data to the GPRD continuously between January 2000
-and December 2007, structured to include a range of list (patient panel) sizes. Selected practices were nationally representative in terms of patient sex and age distribution and area
-socioeconomic deprivation but had a relatively large average list size, reflecting a bias towards larger practices in the GPRD. Overall, the selected practices performed marginally
-better than national practices on the clinical indicators in the Quality and Outcomes Framework. A random selection of 4500 patients registered for at least one day between 1 January 2000 and 31 December 2007 was drawn from each practice. For practices with fewer than 4501 patients, all patients
-were selected. The final sample consisted of 653 500 patients. Patients with relevant conditions were identified from their diagnostic Read codes. Patients for whom targets were met were identified from the relevant Read
-codes and free-text terms.
+Patient level data were extracted from the General Practice Research Database (GPRD), which contains anonymised, patient based data on morbidity, prescribing, treatment, and referral collected from over 500 general practices, covering about 7% of the UK population (4.4 million patients).14 Data are in Read code format—a hierarchical system used to code clinical data. Additional data on prescriptions and test results are available as free-text entries. We selected a sample of 148 practices that provided data to the GPRD continuously between January 2000 and December 2007, structured to include a range of list (patient panel) sizes. Selected practices were nationally representative in terms of patient sex and age distribution and area socioeconomic deprivation but had a relatively large average list size, reflecting a bias towards larger practices in the GPRD. Overall, the selected practices performed marginally better than national practices on the clinical indicators in the Quality and Outcomes Framework. A random selection of 4500 patients registered for at least one day between 1 January 2000 and 31 December 2007 was drawn from each practice. For practices with fewer than 4501 patients, all patients were selected. The final sample consisted of 653 500 patients. Patients with relevant conditions were identified from their diagnostic Read codes. Patients for whom targets were met were identified from the relevant Read codes and free-text terms.
 
 ### Publications
 

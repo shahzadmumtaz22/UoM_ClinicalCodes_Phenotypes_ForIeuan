@@ -36,11 +36,7 @@ version: Revision 1
 
 ### Implementation
 
-To describe the incidence and distribution of ADHD within the United Kingdom, and to examine whether there was any association between ADHD incidence and socioeconomic deprivation. Method: The study used data from
-the Clinical Practice Research Datalink (CPRD). Patients diagnosed with ADHD before the age of 19 between January 1, 2004 and December 31, 2013 were stratified according to the region in which their general practice was based. Practice
-Index of Multiple Deprivation (IMD) score was used as a surrogate measure of patients’ deprivation status. Results:ADHD incidence was relatively stable between 2004 and 2013, but peaked in the last 2 years studied. Statistically significant
-(p ≤ .05) differences in incidence were observed between U.K. regions. In almost every year studied, incidence rates were highest among the most deprived patients and lowest among the least deprived patients. Conclusion: In the United
-Kingdom, ADHD may be associated with socioeconomic deprivation.
+To describe the incidence and distribution of ADHD within the United Kingdom, and to examine whether there was any association between ADHD incidence and socioeconomic deprivation. Method: The study used data from the Clinical Practice Research Datalink (CPRD). Patients diagnosed with ADHD before the age of 19 between January 1, 2004 and December 31, 2013 were stratified according to the region in which their general practice was based. Practice Index of Multiple Deprivation (IMD) score was used as a surrogate measure of patients’ deprivation status. Results:ADHD incidence was relatively stable between 2004 and 2013, but peaked in the last 2 years studied. Statistically significant (p ≤ .05) differences in incidence were observed between U.K. regions. In almost every year studied, incidence rates were highest among the most deprived patients and lowest among the least deprived patients. Conclusion: In the United Kingdom, ADHD may be associated with socioeconomic deprivation.
 
 ### Publications
 

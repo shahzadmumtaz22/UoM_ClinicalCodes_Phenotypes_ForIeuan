@@ -45,5 +45,5 @@ Among 300,020 participants aged greater than 30 years there were 75,197 unique o
 ### Publications
 
 <pre>
-- Nawarj Bhattarai, Judith Charlton, Caroline Rudisill, Martin C Gulliford, Coding, Recording and Incidence of Different Forms of Coronary Heart Disease in Primary Care. PLoS ONE, 7:1, 2012.
+Nawarj Bhattarai, Judith Charlton, Caroline Rudisill, Martin C Gulliford, Coding, Recording and Incidence of Different Forms of Coronary Heart Disease in Primary Care. PLoS ONE, 7:1, 2012.
 </pre>
