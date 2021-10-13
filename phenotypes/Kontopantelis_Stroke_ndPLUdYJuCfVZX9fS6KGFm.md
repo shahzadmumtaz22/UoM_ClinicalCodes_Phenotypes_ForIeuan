@@ -8,7 +8,7 @@ group: Cardiovascular
 sources: 
     - clinicalcodes
 data_sources:
-    - Clinical Practice Research Datalink
+    - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
     - Read Version 2
     - OXMIS
