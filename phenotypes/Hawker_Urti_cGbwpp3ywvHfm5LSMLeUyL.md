@@ -8,7 +8,7 @@ group:
 sources: 
     - clinicalcodes 
 data_sources:
-    - The Health Improvement Network
+    - The Health Improvement Network (THIN)
 clinical_terminologies:
     - Read Version 2
 validation:
