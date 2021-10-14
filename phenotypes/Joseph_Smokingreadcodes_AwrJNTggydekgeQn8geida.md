@@ -5,8 +5,10 @@ phenotype_id: AwrJNTggydekgeQn8geida
 name: Smoking
 type: Lifestyle Risk Factor
 group: Lifestyle Risk Factor
+sources: 
+    - clinicalcodes
 data_sources:
-    - ABC
+    - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
     - Read Version 2
 validation:

@@ -5,10 +5,12 @@ phenotype_id: 8ptkomd3dDmmPp3sqMZXVz
 name: Cardiovascular Events
 type: Disease or Syndrome
 group: Cardiovascular
+sources: 
+    - clinicalcodes
 data_sources:
-    - ABC
+    - Hospital Episode Statistics APC for CPRD GOLD
 clinical_terminologies:
-    - Read Version 2
+    - ICD-10
 validation:
 codelists: Joseph_Cardiovasculareventsicd10_8ptkomd3dDmmPp3sqMZXVz_ICD10.csv
 valid_event_data_range: 01/01/1998 - 10/01/2012
@@ -28,7 +30,7 @@ modified_date: 2017-09-26
 version: Revision 1
 ---
 
-### Primary Care
+### Secondary care
 
 {% include csv.html csvdata=site.data.codelists.Joseph_Cardiovasculareventsicd10_8ptkomd3dDmmPp3sqMZXVz_ICD10 %}
 
