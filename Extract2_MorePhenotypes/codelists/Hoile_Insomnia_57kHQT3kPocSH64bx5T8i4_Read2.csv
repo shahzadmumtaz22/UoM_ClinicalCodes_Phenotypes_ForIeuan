@@ -1,0 +1,19 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E274D11,Restless sleep,res78: Insomnia,diagnostic
+Read,R005.11,[D]Insomnia - symptom,res78: Insomnia,diagnostic
+Read,E274200,Persistent insomnia,res78: Insomnia,diagnostic
+Read,1B1B.00,Cannot sleep - insomnia,res78: Insomnia,diagnostic
+Read,1B1B100,Middle insomnia,res78: Insomnia,diagnostic
+Read,E274111,Insomnia NOS,res78: Insomnia,diagnostic
+Read,E274100,Transient insomnia,res78: Insomnia,diagnostic
+Read,Fy00.00,Disorders of maintaining and initiating sleep,res78: Insomnia,diagnostic
+Read,1BX0.00,Delayed onset of sleep,res78: Insomnia,diagnostic
+Read,R005200,[D]Insomnia NOS,res78: Insomnia,diagnostic
+Read,Eu51000,[X]Nonorganic insomnia,res78: Insomnia,diagnostic
+Read,1B1B.11,C/O - insomnia,res78: Insomnia,diagnostic
+Read,1B1B200,Late insomnia,res78: Insomnia,diagnostic
+Read,1B1B000,Initial insomnia,res78: Insomnia,diagnostic
+Read,E274E00,'Short-sleeper',res78: Insomnia,diagnostic
+Read,1BX9.00,Light sleep,res78: Insomnia,diagnostic
+Read,E274.12,Insomnia due to nonorganic sleep disorder,res78: Insomnia,diagnostic
+Read,1BX3.00,early morning waking,res78: Insomnia,diagnostic

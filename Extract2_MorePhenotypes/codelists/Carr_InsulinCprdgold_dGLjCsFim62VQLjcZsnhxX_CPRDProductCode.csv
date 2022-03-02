@@ -1,0 +1,409 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,46666,NovoRapid FlexTouch 100units/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,27911,INSULIN HUMAN ACTRAPID PENFILL,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10910,Humaject m2 100iu/ml M2 pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,20672,INSULIN HUM/ACTRAPID,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,20671,INSULIN HUM/ACTRAPHANE,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,9079,INSULIN SOLUBLE 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,19707,INSULIN HUMULIN S (NEUTRAL SOLUBLE),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,25006,INSULIN HUMAN ACTRAPID (NEUTRAL),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,28723,INSULIN ZINC BOVINE SUSPENSION,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,19829,INSULIN NOVO MONOTARD MC,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22161,INSULIN HUMULIN M1 VIAL,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21945,INSULIN PORK INSULATARD,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22094,INSULIN HUMULIN M2 VIAL,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,60951,Insulin human 100units/ml solution for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22496,INSULIN ZINC LENTE PURIFIED SUSPENSION,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24722,INSULIN ISOPHANE 50%/NEUTRAL 50% 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,30861,INSULIN ZINC HUMAN SUSPENSION,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24485,INSULIN ZINC ANIMAL SUSPENSION,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22806,INSULIN PORK ACTRAPID,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22823,INSULIN ISOPHANE (PURIFIED) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,32053,INSULIN HUMALOG MIX 25,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7763,INSULIN NEUPHANE (ISOPHANE)(PURIFIED) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,15624,INSULIN ISOPHANE (HIGHLY PURIFIED) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,20196,INSULIN SOLUBLE 40 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7757,INSULIN NEULENTE (ZINC SUSP)(PURIFIED) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,23003,INSULIN ISOPHANE (NPH) 40 I/U,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,26784,INSULIN ZINC SEMILENTE SUSP BP 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24845,INSULIN PUR-IN ISOPHANE 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24866,INSULIN INSULATARD (LEO RETARD) 40 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,20195,INSULIN BOVINE PROTAMINE ZINC 40 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7861,INSULIN HUMULIN S (NEUTRAL) CARTRIDGE 100 I/U,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,12244,INSULIN ZINC BOVINE susp 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,31267,INSULIN PUR-IN MIX 50/50 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,28978,INSULIN PUR-IN MIX 15/85 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,12060,INSULIN QUICKSOL (SOLUBLE NEUTRAL) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8646,INSULIN ZINC CRYSTALLINE susp 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10566,INSULIN HUMULIN M CARTRIDGE 100 I/U,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7765,INSULIN NEUTRAL (HUMAN) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10546,INSULIN HUMULIN M4 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,18645,INSULIN NEUTRAL (PURIFIED) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7959,INSULIN MIXTARD 30/70 40 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,15040,INSULIN MONOPHANE (ISOPHANE) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14504,INSULIN HYPURIN PROTAMINE ZINC 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4248,INSULIN NOVO ULTRATARD MC 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2373,INSULIN HUMAN VELOSULIN 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1839,INSULIN HUMULIN I (ISOPHANE) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14506,INSULIN BOVINE PROTAMINE ZINC 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8838,INSULIN SEMITARD 40 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8354,INSULIN ISOPHANE 70%/NEUTRAL 30% 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10691,INSULIN ISOPHANE (NPH) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2808,INSULIN LENTARD INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8839,INSULIN SEMITARD 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,13550,INSULIN BP 100 I/U,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10545,INSULIN HUMULIN M4 CARTRIDGE 100 I/U,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,61845,NovoRapid PumpCart 100units/ml solution for injection 1.6ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71361,Humulin I 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,59533,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pen (Sigma Pharmaceuticals Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1643,INSULIN NOVO MONOTARD MC 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1645,INSULIN NOVO ACTRAPID MC 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7764,INSULIN NEUSULIN (NEUTRAL)(PURIFIED) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,16209,INSULIN HYPURIN SOLUBLE 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,321,INSULIN HUMAN ACTRAPID (NEUTRAL) 40 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,57529,Humalog 100units/ml solution for injection 10ml vials (Dowelhurst Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,52748,Insulatard Penfill 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74824,Actrapid 100units/ml solution for injection 10ml vials (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,56502,Actrapid Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,67313,NovoRapid 100units/ml solution for injection 10ml vials (Sigma Pharmaceuticals Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,57564,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pen (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,55603,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pen (DE Pharmaceuticals),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74389,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pen (Sigma Pharmaceuticals Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,50633,Lantus 100units/ml solution for injection 3ml cartridges (Necessity Supplies Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8376,INSULIN ISOPHANE 100 I/U,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,67231,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pen (Dowelhurst Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,18301,INSULIN SOLUBLE INJ I/U^2,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71351,Lantus 100units/ml solution for injection 3ml cartridges (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7783,INSULIN ISOPHANE (HUMAN) 100 I/U INJ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,56115,Human Actrapid Penfill 100units/ml solution for injection 1.5ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71428,Insulatard InnoLet 100units/ml suspension for injection 3ml pre-filled pen (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,49831,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pen (Necessity Supplies Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74179,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pen (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,56495,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pen (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,66316,Lantus 100units/ml solution for injection 10ml vials (Mawdsley-Brooks & Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,49108,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Necessity Supplies Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74862,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pen (Mawdsley-Brooks & Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,55462,Tresiba FlexTouch 100units/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,51743,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Sigma Pharmaceuticals Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,62180,Insulin aspart 100units/ml solution for injection 1.6ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,52722,Human Mixtard 30 Penfill 100units/ml suspension for injection 1.5ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,53118,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pen (Mawdsley-Brooks & Company L,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71137,Hypurin Bovine Isophane 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,50691,Human Mixtard 20 Penfill 100units/ml suspension for injection 1.5ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,56489,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71369,NovoMix 30 FlexPen 100units/ml suspension for injection 3ml pre-filled pen (Sigma Pharmaceuticals Pl,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74020,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Mawdsley-Brooks & Company Lt,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,60933,Humulin M3 100units/ml suspension for injection 10ml vials (Sigma Pharmaceuticals Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,67266,Mixtard 50 Penfill 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,57620,Humulin M3 100units/ml suspension for injection 10ml vials (Mawdsley-Brooks & Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,60938,Mixtard 30 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,67267,Mixtard 30 InnoLet 100units/ml suspension for injection 3ml pre-filled pen (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71340,Mixtard 30 Penfill 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74842,Humulin M3 100units/ml suspension for injection 3ml cartridges (Mawdsley-Brooks & Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,67324,Humulin M3 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71430,Humalog Mix25 Pen 100units/ml suspension for injection 3ml pre-filled pen (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,55517,Insulin isophane human 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74388,Humalog Mix50 100units/ml suspension for injection 3ml cartridges (Sigma Pharmaceuticals Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,72559,Human Insulatard Penfill 100units/ml suspension for injection 1.5ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,67279,Pork Insulatard 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71118,Insulatard 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,59500,Insulin isophane human 100units/ml suspension for injection 5ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74845,Humulin I 100units/ml suspension for injection 10ml vials (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,57622,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Waymade Healthcare Pl,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,55618,Levemir FlexPen 100units/ml solution for injection 3ml pre-filled pen (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74071,Humalog Mix25 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Waymade Healthcare Pl,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,68031,Humalog Mix25 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Sigma Pharmaceuticals,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,71395,Humalog Mix25 100units/ml suspension for injection 3ml cartridges (Sigma Pharmaceuticals Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74391,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Sigma Pharmaceuticals,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,69583,Humalog Mix25 100units/ml suspension for injection 3ml cartridges (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,52522,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (DE Pharmaceuticals),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4093,Humulin M2 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,55234,Tresiba FlexTouch 200units/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10915,Humaject m1 100iu/ml M1 pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,53251,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (DE Pharmaceuticals),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,67429,Insulin human 100units/ml solution for injection 3.15ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,62276,Humulin R 500units/ml solution for injection 20ml vials (Imported (United States)),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,53710,Insulin human 500units/ml solution for injection 20ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,62899,Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,56691,Insulin degludec 200units/ml solution for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,63562,Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74680,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (DE Pharmaceuticals),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,55687,Insulin degludec 100units/ml solution for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,67230,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pen (Waymade Healthcare Plc),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,55910,Tresiba Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,55907,Insulin degludec 100units/ml solution for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8895,Initard 50/50 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1588,Actrapid 100iu/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4715,Humalog mix 25 25/75 100units/ml Injection (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,63464,Humalog KwikPen 200units/ml solution for injection 3ml pre-filled pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1840,Humulin s 100unit/ml Injection (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4760,Humulin i 100unit/ml Injection (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1587,Monotard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1842,Pork velosulin 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2459,Pork Mixtard 30 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,12299,Semitard mc 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4784,Lentard mc 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1843,Pork Insulatard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4163,Rapitard MC 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,6209,NovoRapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,47856,Neuphane 100unit/ml Injection (Wellcome Medical Division),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,34031,Monotard mc 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4199,Humulin m1 100unit/ml M1 injection (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,64723,Abasaglar KwikPen 100units/ml solution for injection 3ml pre-filled pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7537,Humulin Zn 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1886,Insulatard 100iu/ml GE injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,64987,Abasaglar 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74392,Apidra 100units/ml solution for injection 3ml pre-filled SoloStar pen (Lexon (UK) Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,64354,Toujeo 300units/ml solution for injection 1.5ml pre-filled SoloStar pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,64460,Insulin glargine 300units/ml solution for injection 1.5ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7772,Human protaphane 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,33966,Insulatard 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,16682,Tempulin 100unit/ml Injection (Knoll Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,41834,Insulin zinc suspension lente 100iu/ml Injection (Celltech Pharma Europe Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1844,Ultratard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7771,Human protaphane penfill 100 100unit/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,47360,Neutral insulin 100unit/ml Injection (Celltech Pharma Europe Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,30209,Actrapid mc 100unit/ml Injection (Arun Products Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5501,Insuman basal 100iu/ml Injection (Aventis Pharma),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4706,Velosulin 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10547,Humulin Lente 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1593,Insulatard penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,38422,Isophane 100iu/ml Injection (Celltech Pharma Europe Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1805,Mixtard 30/70 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5021,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,34097,Human initard 50/50 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,13516,Hypurin bovine isophane 100unit/ml Injection (C P Pharmaceuticals Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1594,Actrapid NovoLet 100units/ml solution for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,17712,Hypurin Bovine Lente 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,9503,Hypurin Bovine Protamine Zinc 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1592,Actrapid penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,12297,Hypurin bovine neutral 100unit/ml Injection (C P Pharmaceuticals Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1649,Human actraphane 100iu/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,63679,Hypurin soluble 100iu/ml Injection (C P Pharmaceuticals Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8118,Humaject i 100iu/ml Pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14505,Insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24846,Pur-in neutral 100unit/ml Injection (C P Pharmaceuticals Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,13416,Insulin biphasic 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4198,Humulin m3 100unit/ml M3 injection (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10572,Insulin soluble bovine 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8841,Humulin M5 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,11107,Humulin m4 100unit/ml M4 injection (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,9376,Insulin zinc suspension crystalline human pyr 100unit/ml long acting Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,66335,Insulin biphasic isophane porcine 50:50; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8322,Insulin zinc suspension mixed human pyr 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,16700,Insulin zinc mixed bovine vial 100unit/ml Sterile suspension injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14619,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 1.5ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,18931,Insulin zinc crystalline human 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4247,Insulin isophane porcine 100units/ml suspension for injection 1.5ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,15484,Insulin isophane bovine 100units/ml suspension for injection 1.5ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4129,Insulin soluble porcine 100units/ml solution for injection 1.5ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,36513,Velosulin cartridge 100unit/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74970,Pur-n Isophane 100unit/ml Injection (C P Pharmaceuticals Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24593,Neutral insulin bovine 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,30236,Isophane insulin 100iu/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,17336,Novopen 100unit/ml Injection device (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,12035,Insulin zinc mixed bovine 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,41959,Penject 100unit/ml Injection device (Hypoguard Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,27614,Penmix 30/70 100iu/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22058,Pur-in mix 15/85 Injection (C P Pharmaceuticals Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10887,Penmix 40/60 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,8203,Penmix 50/50 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,26403,Pur-in mix 25/75 Injection (C P Pharmaceuticals Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10484,Penmix 20/80 Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,3396,Penmix 10/90 Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,15961,Insulin isophane human crb 100iu/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,20422,Insuman comb 15 100iu/ml Injection (Aventis Pharma),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,69715,Fiasp 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1806,Penmix 30/70 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21554,Insuman comb 50 100iu/ml Injection (Aventis Pharma),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,17731,Penmix 50/50 100iu/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,3439,Penmix 10/90 Pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21347,Penmix 40/60 100iu/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2220,Penmix 20/80 Pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,6057,Lantus 100iu/ml Injection (Aventis Pharma),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,15199,Insuman comb 25 100iu/ml Injection (Aventis Pharma),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,69823,Fiasp FlexTouch 100units/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,70055,Fiasp Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5953,Insulin glargine 100iu/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,33167,Insulin biphasic isophane human crb 25:75; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10001,Humalog Mix50 Pen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company Ltd,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,33232,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 5ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,3551,Mixtard 20 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5892,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,12818,Human Mixtard 50 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,11337,NovoRapid Novolet 100units/ml solution for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2456,Mixtard 10 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5891,Insulatard FlexPen 100units/ml suspension for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5255,Mixtard 10 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,1595,Insulatard NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2221,Mixtard 30 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5933,Mixtard 50 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2454,Mixtard 30 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2455,Mixtard 20 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,4790,Mixtard 50 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2929,Mixtard 30 100iu/ml GE injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,2812,Mixtard 40 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,3550,Mixtard 40 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14933,Hypurin Porcine Isophane 100units/ml suspension for injection 3ml cartridges (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14644,Insulin biphasic isophane human prb 20:80; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,17809,Humaject m4 100iu/ml M4 pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,9565,HumaJect S Pen 100units/ml solution for injection (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7793,HumaJect M3 Pen 100units/ml suspension for injection (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,13837,Insulin biphasic isophane human prb 10:90; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,73282,Humalog Junior KwikPen 100units/ml solution for injection 3ml pre-filled pen (Eli Lilly and Company ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22155,Humaject m5 100iu/ml M5 pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,26498,Insulin zinc suspension mixed bovine and porcine 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,44251,Insulin zinc suspension mixed porcine 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,74479,Insulin lispro 100units/ml solution for injection 3ml pre-filled pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,72479,Humulin R KwikPen 500units/ml solution for injection 3ml pre-filled pen (Imported (United States)),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,54462,Insulin biphasic isophane human emp 25:75; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,12638,Insulin soluble human pyr 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,25735,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,9341,Insulin biphasic isophane human prb 30:70; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,13729,Insulin isophane human emp 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,11080,Insulin isophane human prb 100iu/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,15710,Insulin soluble human emp 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10175,Insulin isophane human 100units/ml suspension for injection 1.5ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,12654,Insulin soluble human prb 100unit/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,6447,Insulin aspart human pyr 100 iu/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,11055,Insulin biphasic isophane human pyr 20:80; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21110,Insulin biphasic isophane human prb 50:50; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14649,Insulin biphasic isophane human pyr 10:90; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,18461,Insulin zinc mixed human 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21374,Insulin biphasic isophane human prb 40:60; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,11056,Insulin biphasic isophane human pyr 30:70; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22697,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 1.5ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21395,Insulin biphasic isophane human pyr 40:60; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10245,Mixtard 10 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,27177,Insulin biphasic lispro human prb 50:50; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5845,Mixtard 30 InnoLet 100units/ml suspension for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,29837,Insulin biphasic isophane human prb 25:75; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5250,Insulin biphasic lispro human prb 25:75; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,9737,Insulatard innolet 100iu/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,5214,Insulin lispro 100units/ml solution for injection 1.5ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,322,Humalog 100units/ml solution for injection 1.5ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,13622,Hypurin porcine neutral 100unit/ml Injection (C P Pharmaceuticals Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,26621,Insulin soluble human crb 100iu/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,6061,Novomix 30 30/70 100units/ml Injection (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10067,Insulin biphasic aspart human pyr 30:70; 100 units/ml Injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,9521,Pork Actrapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,13819,Hypurin Porcine Isophane 100units/ml suspension for injection 1.5ml cartridges (C P Pharmaceuticals ,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22945,Insuman rapid 100iu/ml Injection (Aventis Pharma),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,9618,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 1.5ml cartridges (C P Pharmaceuticals,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,27402,Insulin soluble human 100units/ml solution for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,6965,Levemir Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,25736,Insulin isophane biphasic human 10/90 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10184,Insulin detemir 100 iu/ml Solution for injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14345,Apidra 100units/ml solution for injection 3ml cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,6958,Levemir FlexPen 100units/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,19491,Apidra 100units/ml solution for injection 10ml vials (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,28442,Insulin glulisine 100unit/ml Solution for injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21235,Humulin S 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7349,Actrapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,16129,Insulin soluble human 100units/ml solution for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,36430,Insulin soluble human 100units/ml solution for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,23993,Insuman Rapid 100units/ml solution for injection 3ml pre-filled OptiSet pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,22983,Insuman Rapid 100units/ml solution for injection 3ml cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14944,Humulin S 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,28183,Hypurin Porcine Isophane 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,31205,Insuman Comb 50 100units/ml suspension for injection 3ml pre-filled OptiSet pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,23992,Insuman Basal 100units/ml suspension for injection 3ml pre-filled OptiSet pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7231,Mixtard 30 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7319,Mixtard 20 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,19878,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21232,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,16152,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,16160,Humulin M3 Pen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,35253,Insuman Comb 50 100units/ml suspension for injection 3ml cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,19513,Humulin M3 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10277,Humulin M3 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,41120,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml pre-filled disposable,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21422,Insulin isophane biphasic human 40/60 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,28096,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10244,Mixtard 40 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,25133,Insuman Comb 25 100units/ml suspension for injection 3ml pre-filled OptiSet pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,42954,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 5ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,35468,Insuman Basal 100units/ml suspension for injection 5ml vials (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,30819,Insuman Comb 15 100units/ml suspension for injection 3ml pre-filled OptiSet pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24993,Insuman Comb 25 100units/ml suspension for injection 3ml cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,36194,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24002,Insuman Comb 25 100units/ml suspension for injection 5ml vials (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,44378,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml pre-filled disposable,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,25812,Insulin isophane human 100units/ml suspension for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,27461,Insuman Basal 100units/ml suspension for injection 3ml cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10207,Insulin isophane human 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14925,Insulin isophane human vial 100unit/ml Sterile suspension injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10229,Humulin I Pen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10225,Lantus 100units/ml solution for injection 3ml OptiClik cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14357,Humulin I 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14918,Humulin I 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,30686,Insulin isophane porcine 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7267,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,29567,Insulin aspart 100units/ml solution for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,31258,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,23099,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,16142,Insulin aspart 100units/ml solution for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24795,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,19877,Insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,28185,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7228,NovoMix 30 FlexPen 100units/ml suspension for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14362,Insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14313,Insulin lispro 100units/ml solution for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,26060,Insulin lispro 100units/ml solution for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10264,Humalog Pen 100units/ml solution for injection 3ml pre-filled pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,18224,Humalog 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7318,Humalog 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7400,Insulin glargine 100units/ml solution for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14270,Humalog Mix25 Pen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company Ltd,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7350,Insulin isophane porcine 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10243,Humalog Mix25 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10259,Insulin glargine 100units/ml solution for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14301,Insulin detemir 100units/ml solution for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14330,Insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7237,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21590,Insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7402,Lantus 100units/ml solution for injection 10ml vials (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7393,Insulin glargine 100units/ml solution for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,21583,Apidra 100units/ml solution for injection 3ml pre-filled OptiSet pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7266,Lantus 100units/ml solution for injection 3ml cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14299,Insulin glulisine 100units/ml solution for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,28101,Insulin glulisine 100units/ml solution for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,18592,Insulin soluble bovine 100units/ml solution for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,20995,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 3ml cartridges (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,24800,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,36031,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,27280,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,26098,Hypurin Porcine Neutral 100units/ml solution for injection 10ml vials (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,28588,Hypurin Bovine Isophane 100units/ml suspension for injection 3ml cartridges (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,25479,Insulin soluble porcine 100units/ml solution for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,27396,Insulin soluble porcine 100units/ml solution for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14340,Hypurin Bovine Isophane 100units/ml suspension for injection 10ml vials (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14930,Hypurin Porcine Neutral 100units/ml solution for injection 3ml cartridges (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,36066,Insulin isophane bovine 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,18590,Insulin isophane bovine 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,10208,Insulatard InnoLet 100units/ml suspension for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,23231,Hypurin Bovine Neutral 100units/ml solution for injection 3ml cartridges (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14938,Insulin soluble bovine cartridge 100unit/ml Solution for injection,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14928,Insulatard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14339,Hypurin Bovine Neutral 100units/ml solution for injection 10ml vials (Wockhardt UK Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,14290,Insulatard Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,13277,Mixtard 50 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,39086,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,36146,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,36920,Apidra 100units/ml solution for injection 3ml pre-filled SoloStar pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,35701,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,7300,Mixtard 30 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,36853,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,18593,Humalog Mix50 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,35260,Levemir InnoLet 100units/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,29953,Apidra 100units/ml solution for injection 3ml OptiClik cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,43950,Humulin I KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company Ltd,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,39006,Humalog Mix25 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,43991,Humulin M3 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly and Company Lt,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,38986,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pen (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,42395,Humalog Mix25 100units/ml suspension for injection 10ml vials (Eli Lilly and Company Ltd),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,43953,Insulin lispro biphasic 25/75 100units/ml suspension for injection 10ml vials,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,45158,Insuman Comb 15 100units/ml suspension for injection 3ml cartridges (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,56857,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 3ml cartridges,res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,44480,Insuman Comb 25 100units/ml suspension for injection 3ml pre-filled SoloStar pen (Sanofi),res166: Insulin (CPRD GOLD),drug
+CPRD_product_code,46001,Insuman Basal 100units/ml suspension for injection 3ml pre-filled SoloStar pen (Sanofi),res166: Insulin (CPRD GOLD),drug

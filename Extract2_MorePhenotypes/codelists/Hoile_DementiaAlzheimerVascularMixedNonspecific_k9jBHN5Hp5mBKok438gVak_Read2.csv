@@ -1,0 +1,56 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu02y00,[X]Dementia in other specified diseases classi...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01000,[X]Vascular dementia of acute onset,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00.00,[X]Dementia in Alzheimer's disease,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00111,[X]Alzheimer's disease type 1,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E004.11,Multi infarct dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00113,[X]Primary degen dementia of Alzheimer's type...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,F110000,Alzheimer's disease with early onset,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E003.00,Senile dementia with delirium,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00100,[X]Dementia in Alzheimer's disease with late o...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E004z00,Arteriosclerotic dementia NOS,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01.11,[X]Arteriosclerotic dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00112,[X]Senile dementiaAlzheimer's type,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E000.00,Uncomplicated senile dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E004.00,Arteriosclerotic dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E004200,Arteriosclerotic dementia with paranoia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E004100,Arteriosclerotic dementia with delirium,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00000,[X]Dementia in Alzheimer's disease with early ...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00200,[X]Dementia in Alzheimer's dis atypical or mi...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E002z00,Senile dementia with depressive or paranoid fe...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01100,[X]Multi-infarct dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01.00,[X]Vascular dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E001.00,Presenile dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E001100,Presenile dementia with delirium,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Fyu3000,[X]Other Alzheimer's disease,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E001000,Uncomplicated presenile dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00011,[X]Presenile dementiaAlzheimer's type,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E004000,Uncomplicated arteriosclerotic dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00013,[X]Alzheimer's disease type 2,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E001z00,Presenile dementia NOS,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00z00,[X]Dementia in Alzheimer's disease unspecified,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E002.00,Senile dementia with depressive or paranoid fe...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01z00,[X]Vascular dementia unspecified,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00012,[X]Primary degen dementia Alzheimer's type p...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E00..12,Senile/presenile dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,F110.00,Alzheimer's disease,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,F110100,Alzheimer's disease with late onset,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E00..11,Senile dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,F112.00,Senile degeneration of brain,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,1461.00,H/O: dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E001300,Presenile dementia with depression,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E002000,Senile dementia with paranoia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu02z13,[X] Primary degenerative dementia NOS,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu00z11,[X]Alzheimer's dementia unspec,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01200,[X]Subcortical vascular dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu02z00,[X] Unspecified dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E001200,Presenile dementia with paranoia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01111,[X]Predominantly cortical dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,E002100,Senile dementia with depression,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01300,[X]Mixed cortical and subcortical vascular dem...,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu02z16,[X] Senile dementia depressed or paranoid type,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu02z14,[X] Senile dementia NOS,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu02z11,[X] Presenile dementia NOS,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu01y00,[X]Other vascular dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic
+Read,Eu04100,[X]Delirium superimposed on dementia,res78: Dementia_Alzheimer_Vascular_Mixed_Nonspecific,diagnostic

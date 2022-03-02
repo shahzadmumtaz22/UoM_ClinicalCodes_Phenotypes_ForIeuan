@@ -1,0 +1,15 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu02.00,[X]Dementia in other diseases classified elsew...,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,ZS7C500,Language disorder of dementia,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,Eu02200,[X]Dementia in Huntington's disease,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,F111.00,Pick's disease,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,E012.00,Other alcoholic dementia,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,Eu02000,[X]Dementia in Pick's disease,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,Eu02100,[X]Dementia in Creutzfeldt-Jakob disease,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,E02y100,Drug-induced dementia,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,Eu02500,[X]Lewy body dementia,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,F116.00,Lewy body disease,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,E012.11,Alcoholic dementia NOS,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,Eu10711,[X]Alcoholic dementia NOS,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,Eu02300,[X]Dementia in Parkinson's disease,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic
+Read,Eu02400,[X]Dementia in human immunodef virus [HIV] dis...,res78: Specific_Dementias_Not_Used_In_This_Study,diagnostic

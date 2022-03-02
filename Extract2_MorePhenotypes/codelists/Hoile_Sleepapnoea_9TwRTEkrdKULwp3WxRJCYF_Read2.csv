@@ -1,0 +1,10 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,R005100,[D]Insomnia with sleep apnoea,res78: Sleep apnoea,diagnostic
+Read,H5B..00,Sleep apnoea,res78: Sleep apnoea,diagnostic
+Read,H5B0.00,Obstructive sleep apnoea,res78: Sleep apnoea,diagnostic
+Read,R005312,[D]Syndrome sleep apnoea,res78: Sleep apnoea,diagnostic
+Read,Fy03.11,Obstructive sleep apnoea,res78: Sleep apnoea,diagnostic
+Read,R005300,[D]Hypersomnia with sleep apnoea,res78: Sleep apnoea,diagnostic
+Read,R060400,[D]Apnoea,res78: Sleep apnoea,diagnostic
+Read,R005311,[D]Sleep apnoea syndrome,res78: Sleep apnoea,diagnostic
+Read,Fy03.00,Sleep apnoea,res78: Sleep apnoea,diagnostic

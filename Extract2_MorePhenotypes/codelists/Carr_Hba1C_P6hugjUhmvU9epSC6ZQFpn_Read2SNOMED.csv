@@ -1,0 +1,67 @@
+Coding System (Read SNOMED),Codes,Description,Entity type,Category
+Read,42VA.00,Haemoglobin variant test,res166: HbA1c,test
+Read,44TB.00,Haemoglobin A1c level,res166: HbA1c,test
+Read,42V2000,Haemoglobin A quantitation,res166: HbA1c,test
+Read,42V2.00,Haemoglobin A,res166: HbA1c,test
+Read,423..11,Hb estimation,res166: HbA1c,test
+Read,423..00,Haemoglobin estimation,res166: HbA1c,test
+Read,42W4.00,HbA1c level (DCCT aligned),res166: HbA1c,test
+Read,42W..11,Glycosylated Hb,res166: HbA1c,test
+Read,44T2.00,Fasting blood sugar,res166: HbA1c,test
+Read,42W..00,Hb. A1C - diabetic control,res166: HbA1c,test
+Read,42W3.00,Hb. A1C > 10% - bad control,res166: HbA1c,test
+Read,42W..12,Glycated haemoglobin,res166: HbA1c,test
+Read,42W2.00,Hb. A1C 7-10% - borderline,res166: HbA1c,test
+Read,42W1.00,Hb. A1C < 7% - good control,res166: HbA1c,test
+Read,42c..00,HbA1 - diabetic control,res166: HbA1c,test
+Read,44T1200,Random blood sugar raised,res166: HbA1c,test
+Read,42WZ.00,Hb. A1C - diabetic control NOS,res166: HbA1c,test
+Read,42W5.00,Haemoglobin A1c level - IFCC standardised,res166: HbA1c,test
+Read,42c3.00,HbA1 level (DCCT aligned),res166: HbA1c,test
+Read,42c0.00,HbA1 < 7% - good control,res166: HbA1c,test
+Read,42c2.00,HbA1 > 10% - bad control,res166: HbA1c,test
+Read,42c1.00,HbA1 7 - 10% - borderline control,res166: HbA1c,test
+Read,44TL.00,Total glycosylated haemoglobin level,res166: HbA1c,test
+Read,44TB000,Haemoglobin A1c (diagnostic reference range),res166: HbA1c,test
+Read,44TK.00,Fasting blood glucose level,res166: HbA1c,test
+Read,44TB100,Haemoglobin A1c (monitoring ranges),res166: HbA1c,test
+Read,44TJ.00,Blood glucose level,res166: HbA1c,test
+Read,44TC.00,Haemoglobin A1 level,res166: HbA1c,test
+Read,44U5.00,Blood glucose 7-9.9 mmol/L,res166: HbA1c,test
+Read,C10F711,Type II diabetes mellitus - poor control,res166: HbA1c,test
+Read,44U..11,Blood sugar result,res166: HbA1c,test
+Read,44U..00,Blood glucose result,res166: HbA1c,test
+Read,C109711,Type II diabetes mellitus - poor control,res166: HbA1c,test
+Read,44U6.00,Blood glucose 10-13.9 mmol/L,res166: HbA1c,test
+Read,66Ae000,HbA1c target level - IFCC standardised,res166: HbA1c,test
+Read,66Ae.00,HBA1c target,res166: HbA1c,test
+SNOMED,2914480010,Hemoglobin A1c target,res166: HbA1c,test
+SNOMED,2883677017,Haemoglobin A1c target value using International Federation of Clinical Chemistry and Laboratory Med,res166: HbA1c,test
+SNOMED,2883676014,Hemoglobin A1c target value using International Federation of Clinical Chemistry and Laboratory Medi,res166: HbA1c,test
+SNOMED,2773783018,Haemoglobin A1c (HbA1c) less than 7% indicating good diabetic control,res166: HbA1c,test
+SNOMED,2773408014,Hemoglobin A1c (HbA1c) greater than 10% indicating poor diabetic control,res166: HbA1c,test
+SNOMED,2772787010,Haemoglobin A1c (HbA1c) between 7%-10% indicating borderline diabetic control,res166: HbA1c,test
+SNOMED,1.09871E+14,Test request : Haemoglobin A1c,res166: HbA1c,test
+SNOMED,2621920018,Haemoglobin A1c (HBA1c) target,res166: HbA1c,test
+SNOMED,1.72528E+15,HbA1c (haemoglobin A1c) target - IFCC (International Federation of Clinical Chemistry and Laboratory,res166: HbA1c,test
+SNOMED,2772122013,Hemoglobin A1c (HbA1c) less than 7% indicating good diabetic control,res166: HbA1c,test
+SNOMED,1.29761E+14,Haemoglobin A1c level,res166: HbA1c,test
+SNOMED,2163995019,Target HbA1c level,res166: HbA1c,test
+SNOMED,1.72875E+15,Haemoglobin A1c target - International Federation of Clinical Chemistry and Laboratory Medicine stan,res166: HbA1c,test
+SNOMED,2160141012,HBA1c target,res166: HbA1c,test
+SNOMED,1.92779E+15,Raised HbA1c level,res166: HbA1c,test
+SNOMED,2.64314E+15,HbA1c level (monitoring ranges) - IFCC standardised,res166: HbA1c,test
+SNOMED,2770714019,Hemoglobin A1c (HbA1c) between 7%-10% indicating borderline diabetic control,res166: HbA1c,test
+SNOMED,2.6431E+15,HbA1c level (diagnostic reference range) - IFCC standardised,res166: HbA1c,test
+SNOMED,2621921019,Hemoglobin A1c (HBA1c) target,res166: HbA1c,test
+SNOMED,2769803019,Hemoglobin A1c less than 7% indicating good diabetic control,res166: HbA1c,test
+SNOMED,2767753013,Haemoglobin A1c (HbA1c) greater than 10% indicating poor diabetic control,res166: HbA1c,test
+SNOMED,2768431010,Hemoglobin A1c between 7%-10% indicating borderline diabetic control,res166: HbA1c,test
+SNOMED,2767755018,Hemoglobin A1c greater than 10% indicating poor diabetic control,res166: HbA1c,test
+SNOMED,404443010,Hemoglobin A1C - diabetic control interpretation,res166: HbA1c,test
+SNOMED,493589010,HbA1c - Haemoglobin A1c level,res166: HbA1c,test
+SNOMED,489331011,Hemoglobin A1C - diabetic control finding,res166: HbA1c,test
+SNOMED,4.59526E+15,Haemoglobin A1c less than 7% indicating good diabetic control,res166: HbA1c,test
+SNOMED,493590018,HbA1c - Hemoglobin A1c level,res166: HbA1c,test
+SNOMED,72395012,Haemoglobin A1c measurement,res166: HbA1c,test
+SNOMED,72394011,Hemoglobin A1c measurement,res166: HbA1c,test
