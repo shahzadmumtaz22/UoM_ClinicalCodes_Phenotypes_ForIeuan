@@ -1,0 +1,22 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,C38z000,Simple obesity NOS,res72: Obesity,diagnostic
+Read,ZC2CM00,Dietary advice for obesity,res72: Obesity,diagnostic
+Read,C380300,Morbid obesity,res72: Obesity,diagnostic
+Read,22A5.11,O/E - obese,res72: Obesity,diagnostic
+Read,66C4.00,Has seen dietician - obesity,res72: Obesity,diagnostic
+Read,C380.00,Obesity,res72: Obesity,diagnostic
+Read,66C5.00,Treatment of obesity changed,res72: Obesity,diagnostic
+Read,Cyu7000,[X]Other obesity,res72: Obesity,diagnostic
+Read,22K7.00,Body mass index 40+ - severely obese,res72: Obesity,diagnostic
+Read,Cyu7.00,[X]Obesity and other hyperalimentation,res72: Obesity,diagnostic
+Read,22K5.00,Body mass index 30+ - obesity,res72: Obesity,diagnostic
+Read,C380400,Central obesity,res72: Obesity,diagnostic
+Read,66C6.00,Treatment of obesity started,res72: Obesity,diagnostic
+Read,22KD.00,Obese class II (body mass index 35.0 - 39.9),res72: Obesity,diagnostic
+Read,C380200,Extreme obesity with alveolar hypoventilation,res72: Obesity,diagnostic
+Read,C380500,Generalised obesity,res72: Obesity,diagnostic
+Read,C38..00,Obesity and other hyperalimentation,res72: Obesity,diagnostic
+Read,22KE.00,Obese class III (BMI equal to or greater than 40.0),res72: Obesity,diagnostic
+Read,8CV7.00,Anti-obesity drug therapy commenced,res72: Obesity,diagnostic
+Read,C38y011,Obesity hypoventilation syndrome,res72: Obesity,diagnostic
+Read,22KC.00,Obese class I (body mass index 30.0 - 34.9),res72: Obesity,diagnostic

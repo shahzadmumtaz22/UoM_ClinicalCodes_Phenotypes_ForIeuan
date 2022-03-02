@@ -1,0 +1,329 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,8Hq..00,Admission to substance misuse detoxification centre,res76: Substance misuse,diagnostic
+Read,E257100,"Nondependent amphetamine/psychostimulant abuse, continuous",res76: Substance misuse,diagnostic
+Read,13cM.00,Substance misuse,res76: Substance misuse,diagnostic
+Read,9G2Z.00,Drug addiction notif NOS,res76: Substance misuse,diagnostic
+Read,1V0C.00,Drug addict,res76: Substance misuse,diagnostic
+Read,Eu15.00,[X]Mental & behav disorder due other stimulants inc caffein,res76: Substance misuse,diagnostic
+Read,Z1Q6200,Methadone maintenance,res76: Substance misuse,diagnostic
+Read,8BAc.00,Substance misuse management stopped - self withdrawal,res76: Substance misuse,diagnostic
+Read,677T.00,Substance misuse structured counselling,res76: Substance misuse,diagnostic
+Read,E256300,Nondependent cocaine abuse in remission,res76: Substance misuse,diagnostic
+Read,1T91.00,H/O weekly solvent misuse,res76: Substance misuse,diagnostic
+Read,E246z00,Glue sniffing dependence NOS,res76: Substance misuse,diagnostic
+Read,1V08.00,Smokes drugs in cigarette form,res76: Substance misuse,symptom
+Read,9HC1.00,Follow up substance misuse assessment,res76: Substance misuse,diagnostic
+Read,Eu14300,[X]Mental and behav dis due to use cocaine: withdrawal state,res76: Substance misuse,diagnostic
+Read,E259300,Nondependent mixed drug abuse in remission,res76: Substance misuse,diagnostic
+Read,E253100,"Nondependent hallucinogen abuse, continuous",res76: Substance misuse,diagnostic
+Read,E259000,"Nondependent mixed drug abuse, unspecified",res76: Substance misuse,diagnostic
+Read,9k51.00,Shared care drug misuse treatment - enhanced services admin,res76: Substance misuse,diagnostic
+Read,E255100,"Nondependent opioid abuse, continuous",res76: Substance misuse,diagnostic
+Read,1V02.00,Poly-drug misuser,res76: Substance misuse,diagnostic
+Read,Eu12200,[X]Mental and behav dis due to cannabinoids: dependence synd,res76: Substance misuse,diagnostic
+Read,9No5.00,Seen in substance misuse clinic,res76: Substance misuse,diagnostic
+Read,Eu12700,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis,res76: Substance misuse,diagnostic
+Read,9kS..00,Drug misuse assessment declined - enhanced services administ,res76: Substance misuse,diagnostic
+Read,Eu15z00,[X]Ment/beh dis oth stims inc caffeine: unsp ment/behav disd,res76: Substance misuse,diagnostic
+Read,1V01.00,Long-term drug misuser,res76: Substance misuse,diagnostic
+Read,Eu19700,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis,res76: Substance misuse,diagnostic
+Read,Eu11400,[X]Men & behav dis due opioid: withdrawl state with delirium,res76: Substance misuse,diagnostic
+Read,Eu16500,[X]Mental & behav dis due to hallucinogens: psychotic disord,res76: Substance misuse,diagnostic
+Read,E246100,"Glue sniffing dependence, continuous",res76: Substance misuse,diagnostic
+Read,E25y300,Nondependent other drug abuse in remission,res76: Substance misuse,diagnostic
+Read,1V6..00,Drug-related offending behaviour,res76: Substance misuse,symptom
+Read,Eu16300,[X]Mental and behav dis due hallucinogens: withdrawal state,res76: Substance misuse,diagnostic
+Read,Eu12600,[X]Mental and behav dis due to use cannabinoids: amnesic syn,res76: Substance misuse,diagnostic
+Read,E248000,"Combined opioid with other drug dependence, unspecified",res76: Substance misuse,diagnostic
+Read,9HC6.00,Substance misuse treatment declined,res76: Substance misuse,diagnostic
+Read,E259200,"Nondependent mixed drug abuse, episodic",res76: Substance misuse,diagnostic
+Read,L183z00,Drug dependence during pregnancy/childbirth/puerperium NOS,res76: Substance misuse,diagnostic
+Read,8AA..00,Drug abuse monitoring,res76: Substance misuse,diagnostic
+Read,Eu18500,[X]Mental & behav dis due to vol solvents: psychotic disordr,res76: Substance misuse,diagnostic
+Read,E259.00,Nondependent mixed drug abuse,res76: Substance misuse,diagnostic
+Read,Eu1A500,[X]Mental behav disord due crack cocaine: psychotic disorder,res76: Substance misuse,diagnostic
+Read,E249100,"Combined drug dependence, excluding opioid, continuous",res76: Substance misuse,diagnostic
+Read,E25y100,"Nondependent other drug abuse, continuous",res76: Substance misuse,diagnostic
+Read,E257300,Nondependent amphetamine/psychostimulant abuse in remission,res76: Substance misuse,diagnostic
+Read,E253200,"Nondependent hallucinogen abuse, episodic",res76: Substance misuse,diagnostic
+Read,Eu18200,[X]Mental and behav dis due to vol solvents: dependence synd,res76: Substance misuse,diagnostic
+Read,Z1Q6212,Methadone therapy,res76: Substance misuse,diagnostic
+Read,Eu14500,[X]Mental & behav dis due to use cocaine: psychotic disorder,res76: Substance misuse,diagnostic
+Read,Eu12z00,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd,res76: Substance misuse,diagnostic
+Read,E247.00,Other specified drug dependence,res76: Substance misuse,diagnostic
+Read,E247000,"Other specified drug dependence, unspecified",res76: Substance misuse,diagnostic
+Read,Eu19300,[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state,res76: Substance misuse,diagnostic
+Read,E248z00,Combined opioid with other drug dependence NOS,res76: Substance misuse,diagnostic
+Read,E243200,"Cannabis dependence, episodic",res76: Substance misuse,diagnostic
+Read,1TE..00,Uses heroin on top of substitution therapy,res76: Substance misuse,diagnostic
+Read,U1A5.11,[X]Accidental poisoning with heroin,res76: Substance misuse,symptom
+Read,9k52.00,Drug misuse treatment primary care - enhanced services admin,res76: Substance misuse,diagnostic
+Read,Eu11y00,[X]Men & behav dis due to use opioids: oth men & behav dis,res76: Substance misuse,diagnostic
+Read,E249000,"Combined drug dependence, excluding opioid, unspecified",res76: Substance misuse,diagnostic
+Read,Eu11500,[X]Mental & behav dis due to use opioids: psychotic disorder,res76: Substance misuse,diagnostic
+Read,1V65.00,Heroin misuse,res76: Substance misuse,diagnostic
+Read,E244200,"Amphetamine or psychostimulant dependence, episodic",res76: Substance misuse,diagnostic
+Read,E247200,"Other specified drug dependence, episodic",res76: Substance misuse,diagnostic
+Read,8B2R.00,Drug addiction detoxification therapy - buprenorphine,res76: Substance misuse,diagnostic
+Read,Eu16700,[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis,res76: Substance misuse,diagnostic
+Read,E02y.00,Other drug psychoses,res76: Substance misuse,diagnostic
+Read,1TD0.00,H/O daily opiate misuse,res76: Substance misuse,diagnostic
+Read,E241200,"Hypnotic or anxiolytic dependence, episodic",res76: Substance misuse,diagnostic
+Read,9k53.00,Pharmacy attended for drug misuse - enhanced services admin,res76: Substance misuse,diagnostic
+Read,Eu14200,[X]Mental and behav dis due to use cocaine: dependence syndr,res76: Substance misuse,diagnostic
+Read,E255300,Nondependent opioid abuse in remission,res76: Substance misuse,diagnostic
+Read,Eu12100,[X]Mental and behav dis due to use cannabinoids: harmful use,res76: Substance misuse,diagnostic
+Read,1T42.00,H/O infrequent amphetamine misuse,res76: Substance misuse,diagnostic
+Read,E253z00,Nondependent hallucinogen abuse NOS,res76: Substance misuse,diagnostic
+Read,1T02.00,Previous history of heroin misuse,res76: Substance misuse,diagnostic
+Read,8B2Q.00,Drug addiction maintenance therapy - buprenorphine,res76: Substance misuse,diagnostic
+Read,1V30.00,Injects drugs subcutaneously,res76: Substance misuse,symptom
+Read,E258.00,Nondependent antidepressant type drug abuse,res76: Substance misuse,diagnostic
+Read,E244011,"Amfetamine or psychostimulant dependence, unspecified",res76: Substance misuse,diagnostic
+Read,Eu18z00,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis,res76: Substance misuse,diagnostic
+Read,8Hh1.00,Self referral to substance misuse service,res76: Substance misuse,diagnostic
+Read,Eu11.00,[X]Mental and behavioural disorders due to use of opioids,res76: Substance misuse,diagnostic
+Read,1T90.00,H/O daily solvent misuse,res76: Substance misuse,diagnostic
+Read,E257z00,Nondependent amphetamine or psychostimulant abuse NOS,res76: Substance misuse,diagnostic
+Read,1T52.00,H/O infrequent cocaine misuse,res76: Substance misuse,diagnostic
+Read,Eu14100,[X]Mental and behav dis due to use of cocaine: harmful use,res76: Substance misuse,diagnostic
+Read,Z1Q6214,Heroin maintenance,res76: Substance misuse,diagnostic
+Read,Eu16211,[X]Drug addiction - hallucinogen,res76: Substance misuse,diagnostic
+Read,Eu16z00,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis,res76: Substance misuse,diagnostic
+Read,E257.12,Stimulant abuse,res76: Substance misuse,diagnostic
+Read,9HC4.00,Substance misuse treatment withdrawn,res76: Substance misuse,diagnostic
+Read,E256200,"Nondependent cocaine abuse, episodic",res76: Substance misuse,diagnostic
+Read,Eu11z00,[X]Ment & behav dis due use opioids: unsp ment & behav dis,res76: Substance misuse,diagnostic
+Read,E244300,Amphetamine or psychostimulant dependence in remission,res76: Substance misuse,diagnostic
+Read,Eu1Az00,[X]Ment behav dis due crack cocaine: unsp ment and behav dis,res76: Substance misuse,diagnostic
+Read,E256100,"Nondependent cocaine abuse, continuous",res76: Substance misuse,diagnostic
+Read,1TD3.00,Previous history of opiate misuse,res76: Substance misuse,diagnostic
+Read,9HC2.00,Substance misuse clinical management plan agreed,res76: Substance misuse,diagnostic
+Read,1TD2.00,H/O infrequent opiate misuse,res76: Substance misuse,diagnostic
+Read,E243300,Cannabis dependence in remission,res76: Substance misuse,diagnostic
+Read,E245000,"Hallucinogen dependence, unspecified",res76: Substance misuse,diagnostic
+Read,Eu19200,[X]Mental and behav dis mlti/oth psych sbs: dependence syndr,res76: Substance misuse,diagnostic
+Read,1T93.00,Previous history of solvent misuse,res76: Substance misuse,diagnostic
+Read,E240100,Continuous opioid dependence,res76: Substance misuse,diagnostic
+Read,9HC5.00,Substance misuse treatment programme completed,res76: Substance misuse,diagnostic
+Read,E243100,"Cannabis dependence, continuous",res76: Substance misuse,diagnostic
+Read,1T51.00,H/O weekly cocaine misuse,res76: Substance misuse,diagnostic
+Read,E244.11,Psychostimulant dependence,res76: Substance misuse,diagnostic
+Read,8BE0.00,Reinduction to methadone maintenance therapy,res76: Substance misuse,diagnostic
+Read,E252000,"Nondependent cannabis abuse, unspecified",res76: Substance misuse,diagnostic
+Read,Eu19y00,[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis,res76: Substance misuse,diagnostic
+Read,L183.00,"Drug dependence in pregnancy, childbirth and the puerperium",res76: Substance misuse,diagnostic
+Read,1T03.00,H/O infrequent heroin misuse,res76: Substance misuse,diagnostic
+Read,SL97200,Ecstasy poisoning,res76: Substance misuse,diagnostic
+Read,1T61.00,H/O weekly crack cocaine misuse,res76: Substance misuse,diagnostic
+Read,E252100,"Nondependent cannabis abuse, continuous",res76: Substance misuse,diagnostic
+Read,Eu13100,[X]Mental and behav dis due to use seds/hypntcs: harmful use,res76: Substance misuse,diagnostic
+Read,E255000,"Nondependent opioid abuse, unspecified",res76: Substance misuse,diagnostic
+Read,9k52.11,Drug misuse treatment in primary care,res76: Substance misuse,diagnostic
+Read,13cF.00,Preoccupied with substance misuse,res76: Substance misuse,diagnostic
+Read,9HCA.00,Substance misuse monitoring 6 month review,res76: Substance misuse,diagnostic
+Read,E243.11,Hashish dependence,res76: Substance misuse,diagnostic
+Read,9HCC.00,On substance misuse programme,res76: Substance misuse,diagnostic
+Read,E247z00,Other specified drug dependence NOS,res76: Substance misuse,diagnostic
+Read,1TG..00,H/O novel psychoactive substance misuse,res76: Substance misuse,diagnostic
+Read,Eu12500,[X]Mental & behav dis due to cannabinoids: psychotic disordr,res76: Substance misuse,diagnostic
+Read,9HC9.00,Substnce misse treatmnt pgme del other healththcare provider,res76: Substance misuse,diagnostic
+Read,Eu11100,[X]Mental and behav dis due to use of opioids: harmful use,res76: Substance misuse,diagnostic
+Read,1T01.00,H/O weekly heroin misuse,res76: Substance misuse,diagnostic
+Read,E257000,"Nondependent amphetamine/psychostimulant abuse, unspecified",res76: Substance misuse,diagnostic
+Read,9k53.11,Pharmacy attended for drug misuse,res76: Substance misuse,diagnostic
+Read,13cB.00,Misuses drugs orally,res76: Substance misuse,diagnostic
+Read,8HkF.00,Referral to substance misuse service,res76: Substance misuse,diagnostic
+Read,E244100,"Amphetamine or psychostimulant dependence, continuous",res76: Substance misuse,diagnostic
+Read,8B2T.00,Opioid antagonist therapy,res76: Substance misuse,diagnostic
+Read,E240000,Unspecified opioid dependence,res76: Substance misuse,diagnostic
+Read,SL97011,Amphetamine poisoning,res76: Substance misuse,diagnostic
+Read,E246000,"Glue sniffing dependence, unspecified",res76: Substance misuse,diagnostic
+Read,E256z00,Nondependent cocaine abuse NOS,res76: Substance misuse,diagnostic
+Read,Eu16711,[X]Post hallucinogen perception disorder,res76: Substance misuse,diagnostic
+Read,R10B200,[D]Finding of psychotropic drug in blood,res76: Substance misuse,symptom
+Read,SL50500,Morphine poisoning,res76: Substance misuse,diagnostic
+Read,1V0E.00,Health problem secondary to drug misuse,res76: Substance misuse,diagnostic
+Read,E244000,"Amphetamine or psychostimulant dependence, unspecified",res76: Substance misuse,diagnostic
+Read,1TD1.00,H/O weekly opiate misuse,res76: Substance misuse,diagnostic
+Read,E243.13,Marihuana dependence,res76: Substance misuse,diagnostic
+Read,Eu1A300,[X]Mental behav disord due crack cocaine: withdrawal state,res76: Substance misuse,diagnostic
+Read,9k5..00,Drug misuse - enhanced services administration,res76: Substance misuse,diagnostic
+Read,1V07.00,Notified addict,res76: Substance misuse,diagnostic
+Read,Eu13.00,[X]Mental and behavioural dis due use sedatives/hypnotics,res76: Substance misuse,diagnostic
+Read,Eu14700,[X]Men & beh dis due cocaine: resid & late-onset psychot dis,res76: Substance misuse,diagnostic
+Read,Eu11200,[X]Mental and behav dis due to use opioids: dependence syndr,res76: Substance misuse,diagnostic
+Read,Eu1A200,[X]Mental behav disorders due use crack cocaine: depend synd,res76: Substance misuse,diagnostic
+Read,E243000,"Cannabis dependence, unspecified",res76: Substance misuse,diagnostic
+Read,E244z11,Amfetamine or psychostimulant dependence NOS,res76: Substance misuse,diagnostic
+Read,Eu19500,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis,res76: Substance misuse,diagnostic
+Read,1V35.00,Shares drug equipment,res76: Substance misuse,symptom
+Read,Eu11300,[X]Mental and behav dis due to use opioids: withdrawal state,res76: Substance misuse,diagnostic
+Read,1V0B.00,Sniffs drugs,res76: Substance misuse,symptom
+Read,E240z00,Opioid drug dependence NOS,res76: Substance misuse,diagnostic
+Read,9k51.11,Shared care drug misuse treatment,res76: Substance misuse,diagnostic
+Read,8B23.00,Drug addiction therapy,res76: Substance misuse,diagnostic
+Read,Eu11600,[X]Mental and behav dis due to use opioids: amnesic syndrome,res76: Substance misuse,diagnostic
+Read,9HC0.00,Initial substance misuse assessment,res76: Substance misuse,diagnostic
+Read,13cM000,Novel psychoactive substance misuse,res76: Substance misuse,diagnostic
+Read,E24..11,Drug addiction,res76: Substance misuse,diagnostic
+Read,1V0A.00,Chases the dragon,res76: Substance misuse,symptom
+Read,Eu11212,[X]Heroin addiction,res76: Substance misuse,diagnostic
+Read,1TD..00,H/O opiate misuse,res76: Substance misuse,diagnostic
+Read,E242200,"Cocaine dependence, episodic",res76: Substance misuse,diagnostic
+Read,1T0..00,H/O heroin misuse,res76: Substance misuse,diagnostic
+Read,Eu13200,[X]Mental and behav dis due to seds/hypntcs: dependence synd,res76: Substance misuse,diagnostic
+Read,Eu1A100,[X]Mental behav disorders due use crack cocaine: harmful use,res76: Substance misuse,diagnostic
+Read,13c7.00,Current drug user,res76: Substance misuse,symptom
+Read,1T00.00,H/O daily heroin misuse,res76: Substance misuse,diagnostic
+Read,Eu18100,[X]Mental and behav dis due volatile solvents: harmful use,res76: Substance misuse,diagnostic
+Read,1T9..00,H/O solvent misuse,res76: Substance misuse,diagnostic
+Read,1J11.00,Suspected abuse hard drugs,res76: Substance misuse,symptom
+Read,1T53.00,Previous history of cocaine misuse,res76: Substance misuse,diagnostic
+Read,E25..00,Nondependent abuse of drugs,res76: Substance misuse,diagnostic
+Read,1T43.00,Previous history of amphetamine misuse,res76: Substance misuse,diagnostic
+Read,E243.00,Cannabis type drug dependence,res76: Substance misuse,diagnostic
+Read,8Hl5.00,Referral to drugs therapist,res76: Substance misuse,diagnostic
+Read,ZV6D700,[V]Drug abuse counselling and surveillance,res76: Substance misuse,diagnostic
+Read,1T...00,History of substance misuse,res76: Substance misuse,diagnostic
+Read,13c..00,Drug user,res76: Substance misuse,symptom
+Read,1TF..00,Does not use heroin on top of substitution therapy,res76: Substance misuse,diagnostic
+Read,8B23.13,Drug dependence therapy,res76: Substance misuse,diagnostic
+Read,1T63.00,Previous history of crack cocaine misuse,res76: Substance misuse,diagnostic
+Read,Eu19211,[X]Drug addiction NOS,res76: Substance misuse,diagnostic
+Read,E258z00,Nondependent antidepressant type drug abuse NOS,res76: Substance misuse,diagnostic
+Read,Eu15211,[X]Drug addiction-other stimul,res76: Substance misuse,diagnostic
+Read,1V09.00,Smokes drugs through a pipe,res76: Substance misuse,symptom
+Read,Eu11211,[X]Drug addiction - opioids,res76: Substance misuse,diagnostic
+Read,8B2S.00,Opioid agonist substitution therapy,res76: Substance misuse,diagnostic
+Read,Eu12.00,[X]Mental and behavioural disorders due to use cannabinoids,res76: Substance misuse,diagnostic
+Read,E245100,"Hallucinogen dependence, continuous",res76: Substance misuse,diagnostic
+Read,Eu19.00,[X]Men & behav disorder multiple drug use/psychoactive subst,res76: Substance misuse,diagnostic
+Read,9N1yJ00,Seen in drug misuse clinic,res76: Substance misuse,diagnostic
+Read,SL85000,Cocaine poisoning,res76: Substance misuse,diagnostic
+Read,Eu16200,[X]Mental and behav dis due to hallucinogens: dependence syn,res76: Substance misuse,diagnostic
+Read,E256.00,Nondependent cocaine abuse,res76: Substance misuse,diagnostic
+Read,E248100,"Combined opioid with other drug dependence, continuous",res76: Substance misuse,diagnostic
+Read,Eu14211,[X]Drug addiction - cocaine,res76: Substance misuse,diagnostic
+Read,9s...00,Drug misuse clinic administration,res76: Substance misuse,diagnostic
+Read,E242.00,Cocaine type drug dependence,res76: Substance misuse,diagnostic
+Read,E245z00,Hallucinogen dependence NOS,res76: Substance misuse,diagnostic
+Read,8HHL.00,Referral to community drug dependency team,res76: Substance misuse,diagnostic
+Read,L183100,Drug dependence during pregnancy - baby delivered,res76: Substance misuse,diagnostic
+Read,146F.00,H/O: drug abuse,res76: Substance misuse,diagnostic
+Read,E248200,"Combined opioid with other drug dependence, episodic",res76: Substance misuse,diagnostic
+Read,8H7x.00,Referral to drug abuse counsellor,res76: Substance misuse,diagnostic
+Read,Eu12y00,[X]Men/behav dis due to use cannabinoids: oth men/behav disd,res76: Substance misuse,diagnostic
+Read,E249.00,"Combined drug dependence, excluding opioids",res76: Substance misuse,diagnostic
+Read,SL50.00,Opiate and narcotic poisoning,res76: Substance misuse,diagnostic
+Read,E253.12,LSD reaction,res76: Substance misuse,diagnostic
+Read,Eu19100,[X]Mental and behav dis mlti drg/oth psychoa sbs: harmfl use,res76: Substance misuse,diagnostic
+Read,E25y.00,Nondependent other drug abuse,res76: Substance misuse,diagnostic
+Read,E259100,"Nondependent mixed drug abuse, continuous",res76: Substance misuse,diagnostic
+Read,E240.00,Opioid type drug dependence,res76: Substance misuse,diagnostic
+Read,E25y000,"Nondependent other drug abuse, unspecified",res76: Substance misuse,diagnostic
+Read,E02..00,Drug psychoses,res76: Substance misuse,diagnostic
+Read,E249200,"Combined drug dependence, excluding opioid, episodic",res76: Substance misuse,diagnostic
+Read,E240.12,Methadone dependence,res76: Substance misuse,diagnostic
+Read,Eu13300,[X]Mental and behav dis due seds/hypntcs: withdrawal state,res76: Substance misuse,diagnostic
+Read,SL50100,Heroin poisoning,res76: Substance misuse,diagnostic
+Read,E25yz00,Nondependent other drug abuse NOS,res76: Substance misuse,diagnostic
+Read,E240200,Episodic opioid dependence,res76: Substance misuse,diagnostic
+Read,Eu18400,[X]Men & beh dis vol solvents: withdrawal state wth delirium,res76: Substance misuse,diagnostic
+Read,E24A.00,Ecstasy type drug dependence,res76: Substance misuse,diagnostic
+Read,9k50.00,Drug misuse - enhanced service completed,res76: Substance misuse,diagnostic
+Read,ZV11400,[V]Personal history of psychoactive substance abuse,res76: Substance misuse,diagnostic
+Read,E255200,"Nondependent opioid abuse, episodic",res76: Substance misuse,diagnostic
+Read,9G2..11,Drug addict notific admin,res76: Substance misuse,diagnostic
+Read,E245.12,Lysergic acid diethylamide dependence,res76: Substance misuse,diagnostic
+Read,Eu12211,[X]Drug addiction - cannabis,res76: Substance misuse,diagnostic
+Read,Eu19600,[X]Mental/behav dis multi drg use/oth psy sbs: amnesic syndr,res76: Substance misuse,diagnostic
+Read,E245.11,LSD dependence,res76: Substance misuse,diagnostic
+Read,1T41.00,H/O weekly amphetamine misuse,res76: Substance misuse,diagnostic
+Read,13c0.00,Injecting drug user,res76: Substance misuse,symptom
+Read,1T62.00,H/O infrequent crack cocaine misuse,res76: Substance misuse,diagnostic
+Read,E02y400,Drug-induced personality disorder,res76: Substance misuse,diagnostic
+Read,9NX2.00,In-house substance misuse treatment,res76: Substance misuse,diagnostic
+Read,E244.00,Amphetamine or other psychostimulant dependence,res76: Substance misuse,diagnostic
+Read,9HC3.00,Substance misuse clinical management plan reviewed,res76: Substance misuse,diagnostic
+Read,E257.00,Nondependent amphetamine or other psychostimulant abuse,res76: Substance misuse,diagnostic
+Read,Eu1A000,[X]Ment behav dis due use crack cocaine: acute intoxication,res76: Substance misuse,diagnostic
+Read,9G21.00,Drug addict notific to CMO,res76: Substance misuse,diagnostic
+Read,8I2N.00,Drug dependence home detoxification contraindicated,res76: Substance misuse,diagnostic
+Read,E247100,"Other specified drug dependence, continuous",res76: Substance misuse,diagnostic
+Read,E253300,Nondependent hallucinogen abuse in remission,res76: Substance misuse,diagnostic
+Read,E259400,Misuse of prescription only drugs,res76: Substance misuse,symptom
+Read,Eu19400,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium,res76: Substance misuse,diagnostic
+Read,E257200,"Nondependent amphetamine or psychostimulant abuse, episodic",res76: Substance misuse,diagnostic
+Read,9G24.00,Drug addict-notify local SMR22,res76: Substance misuse,diagnostic
+Read,E252200,"Nondependent cannabis abuse, episodic",res76: Substance misuse,diagnostic
+Read,Eu19z00,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis,res76: Substance misuse,diagnostic
+Read,Z192.00,Dependent drug detoxification,res76: Substance misuse,diagnostic
+Read,9G23.00,Drug addict re-notif to CMO,res76: Substance misuse,diagnostic
+Read,E252z00,Nondependent cannabis abuse NOS,res76: Substance misuse,diagnostic
+Read,Eu12300,[X]Mental and behav dis due cannabinoids: withdrawal state,res76: Substance misuse,diagnostic
+Read,Eu11311,"[X]Cold turkey, opiate withdrawal",res76: Substance misuse,diagnostic
+Read,E249z00,"Combined drug dependence, excluding opioid, NOS",res76: Substance misuse,diagnostic
+Read,E244z00,Amphetamine or psychostimulant dependence NOS,res76: Substance misuse,diagnostic
+Read,L183.11,Pregnancy and drug dependence,res76: Substance misuse,diagnostic
+Read,E244.12,Stimulant dependence,res76: Substance misuse,diagnostic
+Read,L183300,Drug dependence during pregnancy - baby not yet delivered,res76: Substance misuse,diagnostic
+Read,E242100,"Cocaine dependence, continuous",res76: Substance misuse,diagnostic
+Read,E25y200,"Nondependent other drug abuse, episodic",res76: Substance misuse,diagnostic
+Read,Eu13211,[X]Drug addiction- sedative / hypnotics,res76: Substance misuse,diagnostic
+Read,E245200,"Hallucinogen dependence, episodic",res76: Substance misuse,diagnostic
+Read,E242000,"Cocaine dependence, unspecified",res76: Substance misuse,diagnostic
+Read,9G22.00,Drug addict re-notific due,res76: Substance misuse,diagnostic
+Read,13cE.00,Prolonged high dose use of cannabis,res76: Substance misuse,diagnostic
+Read,Eu16100,[X]Mental and behav dis due to use hallucinogens: harmfl use,res76: Substance misuse,diagnostic
+Read,E02z.00,Drug psychosis NOS,res76: Substance misuse,diagnostic
+Read,E253000,"Nondependent hallucinogen abuse, unspecified",res76: Substance misuse,diagnostic
+Read,E248.00,Combined opioid with other drug dependence,res76: Substance misuse,diagnostic
+Read,1T92.00,H/O infrequent solvent misuse,res76: Substance misuse,diagnostic
+Read,E255.00,Nondependent opioid abuse,res76: Substance misuse,diagnostic
+Read,Eu13500,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr,res76: Substance misuse,diagnostic
+Read,Eu11700,[X]Men & beh dis due opioids: resid & late-onset psychot dis,res76: Substance misuse,diagnostic
+Read,E255z00,Nondependent opioid abuse NOS,res76: Substance misuse,diagnostic
+Read,U205.11,[X]Overdose - heroin,res76: Substance misuse,symptom
+Read,Eu16.00,[X]Mental and behavioural disorders due to use hallucinogens,res76: Substance misuse,diagnostic
+Read,13cH.00,Persistent substance misuse,res76: Substance misuse,diagnostic
+Read,E02yz00,Other drug psychoses NOS,res76: Substance misuse,diagnostic
+Read,1283.00,FH: Drug dependency,res76: Substance misuse,diagnostic
+Read,8B2N.00,Drug addiction detoxification therapy - methadone,res76: Substance misuse,diagnostic
+Read,E24z.00,Drug dependence NOS,res76: Substance misuse,diagnostic
+Read,9G2..00,Drug addiction notification,res76: Substance misuse,diagnostic
+Read,Eu1..00,[X]Mental and behavioural disorders due to psychoactive subs,res76: Substance misuse,diagnostic
+Read,13c1.00,Intravenous drug user,res76: Substance misuse,symptom
+Read,9N4i.00,DNA - Did not attend substance misuse clinic,res76: Substance misuse,diagnostic
+Read,146C.00,Failed heroin detoxification,res76: Substance misuse,diagnostic
+Read,8BAX.00,Drug dependence home detoxification,res76: Substance misuse,diagnostic
+Read,8B2P.00,Drug addiction maintenance therapy - methadone,res76: Substance misuse,diagnostic
+Read,ZV11500,[V]Personal history of drug abuse by injection,res76: Substance misuse,diagnostic
+Read,7P22000,Delivery of rehabilitation for drug addiction,res76: Substance misuse,diagnostic
+Read,9HC..00,Substance misuse monitoring,res76: Substance misuse,diagnostic
+Read,Eu18.00,[X]Mental & behav disorders due to use of volatile solvents,res76: Substance misuse,diagnostic
+Read,SL97000,Amfetamine poisoning,res76: Substance misuse,diagnostic
+Read,Eu14.00,[X]Mental and behavioural disorders due to use of cocaine,res76: Substance misuse,diagnostic
+Read,Eu1A.00,[X]Mental and behavioural disorders due use of crack cocaine,res76: Substance misuse,diagnostic
+Read,8BAW.00,Drug dependence self detoxification,res76: Substance misuse,diagnostic
+Read,E257.11,Psychostimulant abuse,res76: Substance misuse,diagnostic
+Read,SL50.12,Opiate poisoning,res76: Substance misuse,diagnostic
+Read,E240.14,Opium dependence,res76: Substance misuse,diagnostic
+Read,E245.00,Hallucinogen dependence,res76: Substance misuse,diagnostic
+Read,E256000,"Nondependent cocaine abuse, unspecified",res76: Substance misuse,diagnostic
+Read,E243z00,Cannabis drug dependence NOS,res76: Substance misuse,diagnostic
+Read,Eu15200,[X]Mental and behav dis oth stim inc caffein: dependnce synd,res76: Substance misuse,diagnostic
+Read,Eu18211,[X]Drug addiction - solvent,res76: Substance misuse,diagnostic
+Read,E246200,"Glue sniffing dependence, episodic",res76: Substance misuse,diagnostic
+Read,E259z00,Nondependent mixed drug abuse NOS,res76: Substance misuse,diagnostic
+Read,E242z00,Cocaine drug dependence NOS,res76: Substance misuse,diagnostic
+Read,E241.13,Benzodiazepine dependence,res76: Substance misuse,diagnostic
+Read,E240.11,Heroin dependence,res76: Substance misuse,diagnostic
+Read,1J1..00,Suspected drug abuse,res76: Substance misuse,symptom
+Read,E252.00,Nondependent cannabis abuse,res76: Substance misuse,diagnostic
+Read,1463.00,H/O: drug dependency,res76: Substance misuse,diagnostic
+Read,E24..00,Drug dependence,res76: Substance misuse,diagnostic
+Read,E246.00,Glue sniffing dependence,res76: Substance misuse,diagnostic
+Read,E253.00,Nondependent hallucinogen abuse,res76: Substance misuse,diagnostic
+Read,1J10.00,Suspected abuse soft drugs,res76: Substance misuse,symptom
+Read,8B23.11,Drug addictn therap-methadone,res76: Substance misuse,diagnostic

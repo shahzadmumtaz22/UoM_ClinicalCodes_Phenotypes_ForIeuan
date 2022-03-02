@@ -1,0 +1,123 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E21yz00,Other personality disorder NOS,res76: Personality disorders,diagnostic
+Read,Eu6..00,[X]Disorders of adult personality and behaviour,res76: Personality disorders,diagnostic
+Read,Eu63.00,[X]Habit and impulse disorders,res76: Personality disorders,diagnostic
+Read,E21z.11,Psychopathic personality,res76: Personality disorders,diagnostic
+Read,Eu60311,[X]Aggressive personality disorder,res76: Personality disorders,diagnostic
+Read,E214.00,Compulsive personality disorders,res76: Personality disorders,diagnostic
+Read,Eu60000,[X]Paranoid personality disorder,res76: Personality disorders,diagnostic
+Read,E2C0.00,Aggressive unsocial conduct disorder,res76: Personality disorders,symptom
+Read,E21y700,Psychoneurotic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60512,[X]Obsessional personality disorder,res76: Personality disorders,diagnostic
+Read,E216.12,Dependent personality,res76: Personality disorders,diagnostic
+Read,Eu60214,[X]Psychopathic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu34013,[X]Cyclothymic personality,res76: Personality disorders,diagnostic
+Read,E217.00,Antisocial or sociopathic personality disorder,res76: Personality disorders,diagnostic
+Read,E213.00,Explosive personality disorder,res76: Personality disorders,diagnostic
+Read,E21y500,Immature personality disorder,res76: Personality disorders,diagnostic
+Read,Eu34011,[X]Affective personality disorder,res76: Personality disorders,diagnostic
+Read,28L..00,O/E - impulsive behaviour,res76: Personality disorders,symptom
+Read,E21y.00,Other personality disorders,res76: Personality disorders,diagnostic
+Read,Eu60312,[X]Borderline personality disorder,res76: Personality disorders,diagnostic
+Read,Eu63y00,[X]Other habit and impulse disorders,res76: Personality disorders,diagnostic
+Read,E21y400,Eccentric personality disorder,res76: Personality disorders,diagnostic
+Read,E214100,Obsessional personality,res76: Personality disorders,diagnostic
+Read,Eu6y111,[X] Munchausens syndrome,res76: Personality disorders,diagnostic
+Read,Eu21.18,[X]Schizotypal personality disorder,res76: Personality disorders,diagnostic
+Read,E215.00,Histrionic personality disorders,res76: Personality disorders,diagnostic
+Read,Eu60411,[X]Hysterical personality disorder,res76: Personality disorders,diagnostic
+Read,Eu61.00,[X]Mixed and other personality disorders,res76: Personality disorders,diagnostic
+Read,E21..11,Neurotic personality disorder,res76: Personality disorders,diagnostic
+Read,E21y711,Neurotic personality,res76: Personality disorders,diagnostic
+Read,E2C..00,Disturbance of conduct NEC,res76: Personality disorders,symptom
+Read,E21..00,Personality disorders,res76: Personality disorders,diagnostic
+Read,Eu63300,[X]Trichotillomania,res76: Personality disorders,diagnostic
+Read,Eu60600,[X]Anxious [avoidant] personality disorder,res76: Personality disorders,diagnostic
+Read,E216.00,Inadequate personality disorder,res76: Personality disorders,diagnostic
+Read,E215200,Emotionally unstable personality,res76: Personality disorders,diagnostic
+Read,E212.00,Schizoid personality disorder,res76: Personality disorders,diagnostic
+Read,E215.11,Hysterical personality disorders,res76: Personality disorders,diagnostic
+Read,Eu60300,[X]Emotionally unstable personality disorder,res76: Personality disorders,diagnostic
+Read,E213.11,Aggressive personality,res76: Personality disorders,diagnostic
+Read,E210.00,Paranoid personality disorder,res76: Personality disorders,diagnostic
+Read,Eu34112,[X]Depressive personality disorder,res76: Personality disorders,diagnostic
+Read,Eu63011,[X]Compulsive gambling,res76: Personality disorders,diagnostic
+Read,Eu63200,[X]Pathological stealing,res76: Personality disorders,diagnostic
+Read,E211100,Hypomanic personality disorder,res76: Personality disorders,diagnostic
+Read,E2C3100,Pathological gambling,res76: Personality disorders,diagnostic
+Read,E212z00,Schizoid personality disorder NOS,res76: Personality disorders,diagnostic
+Read,Eu62y11,[X]Chronic pain personality syndrome,res76: Personality disorders,diagnostic
+Read,E214z00,Compulsive personality disorder NOS,res76: Personality disorders,diagnostic
+Read,Eu62015,[X]Personality change after torture,res76: Personality disorders,diagnostic
+Read,Eu60700,[X]Dependent personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60713,[X]Passive personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60212,[X]Antisocial personality disorder,res76: Personality disorders,diagnostic
+Read,Eu63100,[X]Pathological fire-setting,res76: Personality disorders,diagnostic
+Read,Eu60511,[X]Compulsive personality disorder,res76: Personality disorders,diagnostic
+Read,Eu62y00,[X]Other enduring personality changes,res76: Personality disorders,diagnostic
+Read,Eu6yy00,[X]Other specified disorders of adult personality/behaviour,res76: Personality disorders,diagnostic
+Read,Eu60712,[X]Inadequate personality disorder,res76: Personality disorders,diagnostic
+Read,E21y100,Avoidant personality disorder,res76: Personality disorders,diagnostic
+Read,Eu62100,[X]Enduring personality change after psychiatric illness,res76: Personality disorders,diagnostic
+Read,E21y000,Narcissistic personality disorder,res76: Personality disorders,diagnostic
+Read,E21y300,Passive-aggressive personality disorder,res76: Personality disorders,diagnostic
+Read,Eu6y000,[X]Elaboration of physical symptoms for psychological reason,res76: Personality disorders,diagnostic
+Read,Eu60100,[X]Schizoid personality disorder,res76: Personality disorders,diagnostic
+Read,Eu6y100,[X]Intent product/feign of symptom/disab eith physical/psych,res76: Personality disorders,diagnostic
+Read,Eu60711,[X]Asthenic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu6z.00,[X]Unspecified disorder of adult personality and behaviour,res76: Personality disorders,diagnostic
+Read,Eu60800,[X]Addictive personality,res76: Personality disorders,diagnostic
+Read,E214.11,Anancastic personality,res76: Personality disorders,diagnostic
+Read,E21z.00,Personality disorder NOS,res76: Personality disorders,diagnostic
+Read,E211.00,Affective personality disorder,res76: Personality disorders,diagnostic
+Read,E211300,Cyclothymic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60200,[X]Dissocial personality disorder,res76: Personality disorders,diagnostic
+Read,E215100,Munchausen's syndrome,res76: Personality disorders,diagnostic
+Read,E211000,Unspecified affective personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60.00,[X]Specific personality disorders,res76: Personality disorders,diagnostic
+Read,Eu62000,[X]Enduring personality change after catastrophic experience,res76: Personality disorders,diagnostic
+Read,E2C4.00,Mixed disturbance of conduct and emotion,res76: Personality disorders,symptom
+Read,Eu6y200,[X]Munchausen's by proxy,res76: Personality disorders,diagnostic
+Read,Eu62014,[X]Personlty chang aft expos life-threat sit/victim/terrorsm,res76: Personality disorders,diagnostic
+Read,Eu60400,[X]Histrionic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu63000,[X]Pathological gambling,res76: Personality disorders,diagnostic
+Read,Eu60z00,"[X]Personality disorder, unspecified",res76: Personality disorders,diagnostic
+Read,E215000,Unspecified histrionic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60215,[X]Sociopathic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu62012,[X]Personality change after disasters,res76: Personality disorders,diagnostic
+Read,Eu60014,[X]Sensitive paranoid personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60z12,[X]Pathological personality NOS,res76: Personality disorders,diagnostic
+Read,Eu60y00,[X]Other specific personality disorders,res76: Personality disorders,diagnostic
+Read,E216.11,Asthenic personality,res76: Personality disorders,diagnostic
+Read,Eu34012,[X]Cycloid personality,res76: Personality disorders,diagnostic
+Read,Eu60y16,[X]Psychoneurotic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60y13,[X]Immature personality disorder,res76: Personality disorders,diagnostic
+Read,Eu62013,[X]Personality change aft prolong captiv+possib/being killed,res76: Personality disorders,diagnostic
+Read,Eu60500,[X]Anankastic personality disorder,res76: Personality disorders,diagnostic
+Read,E211z00,Affective personality disorder NOS,res76: Personality disorders,diagnostic
+Read,Eu60y14,[X]Narcissistic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60z11,[X]Character neurosis NOS,res76: Personality disorders,diagnostic
+Read,Eu62.00,[X]Enduring personality change not attrib to brain damag/dis,res76: Personality disorders,diagnostic
+Read,Eu60y11,[X]Eccentric personality disorder,res76: Personality disorders,diagnostic
+Read,Eu62011,[X]Personality change after concentration camp experiences,res76: Personality disorders,diagnostic
+Read,Eu60213,[X]Asocial personality disorder,res76: Personality disorders,diagnostic
+Read,Eu6y.00,[X]Other disorders of adult personality and behaviour,res76: Personality disorders,diagnostic
+Read,Eu60714,[X]Self defeating personality disorder,res76: Personality disorders,diagnostic
+Read,Eu63z00,"[X]Habit and impulse disorder, unspecified",res76: Personality disorders,diagnostic
+Read,Eu60313,[X]Explosive personality disorder,res76: Personality disorders,diagnostic
+Read,E212200,Schizotypal personality,res76: Personality disorders,diagnostic
+Read,E215z00,Histrionic personality disorder NOS,res76: Personality disorders,diagnostic
+Read,Eu60412,[X]Psychoinfantile personality disorder,res76: Personality disorders,diagnostic
+Read,E212000,Unspecified schizoid personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60013,[X]Querulant personality disorder,res76: Personality disorders,diagnostic
+Read,E217.11,Amoral personality,res76: Personality disorders,diagnostic
+Read,Eu60y12,[X]Haltlose type personality disorder,res76: Personality disorders,diagnostic
+Read,E21y600,Masochistic personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60211,[X]Amoral personality disorder,res76: Personality disorders,diagnostic
+Read,Eu62z00,"[X]Enduring personality change, unspecified",res76: Personality disorders,diagnostic
+Read,Eu6y300,[X]Factitious disorder,res76: Personality disorders,diagnostic
+Read,Eu60011,[X]Expansive paranoid personality disorder,res76: Personality disorders,diagnostic
+Read,E216.13,Labile personality,res76: Personality disorders,diagnostic
+Read,E21y200,Borderline personality disorder,res76: Personality disorders,diagnostic
+Read,Eu60513,[X]Obsessive-compulsive personality disorder,res76: Personality disorders,diagnostic
+Read,E214000,Anankastic personality,res76: Personality disorders,diagnostic

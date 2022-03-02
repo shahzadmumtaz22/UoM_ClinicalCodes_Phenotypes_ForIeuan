@@ -1,0 +1,63 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,C106.13,Diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,C109600,Non-insulin-dependent diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBS.00,O/E - left eye preproliferative diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,F420200,Preproliferative diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,F420100,Proliferative diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,F420.00,Diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBR.00,O/E - right eye preproliferative diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,F420000,Background diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,C108700,Insulin dependent diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBT.00,O/E - right eye proliferative diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,F420600,Non proliferative diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,F420z00,Diabetic retinopathy NOS,res72: Microvascular complications,diagnostic
+Read,2BBQ.00,O/E - left eye background diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBP.00,O/E - right eye background diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,C109612,Type 2 diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBY.00,O/E - referable retinopathy,res72: Microvascular complications,diagnostic
+Read,C108712,Type 1 diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,C10F600,Type 2 diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,C10E700,Type 1 diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,C108711,Type I diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,F422z00,Proliferative retinopathy NOS,res72: Microvascular complications,diagnostic
+Read,F420700,High risk proliferative diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBa.00,O/E- non-referable retinopathy,res72: Microvascular complications,diagnostic
+Read,F420800,High risk non proliferative diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,F372.11,Diabetic polyneuropathy,res72: Microvascular complications,diagnostic
+Read,F367.00,Peripheral neuropathy,res72: Microvascular complications,diagnostic
+Read,C10F611,Type II diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,C109611,Type II diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBo.00,O/E - sight threatening diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBr.00,Impaired vision due to diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,C10E712,Insulin dependent diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,C10FB00,Type 2 diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,F171100,Autonomic neuropathy due to diabetes,res72: Microvascular complications,diagnostic
+Read,F374500,Polyneuropathy in hypoglycaemia,res72: Microvascular complications,diagnostic
+Read,F171.00,Peripheral autonomic neuropathy disease EC,res72: Microvascular complications,diagnostic
+Read,F372.00,Polyneuropathy in diabetes,res72: Microvascular complications,diagnostic
+Read,F372200,Asymptomatic diabetic neuropathy,res72: Microvascular complications,diagnostic
+Read,C108B00,Insulin dependent diabetes mellitus with mononeuropathy,res72: Microvascular complications,diagnostic
+Read,C10EB00,Type 1 diabetes mellitus with mononeuropathy,res72: Microvascular complications,diagnostic
+Read,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,C108C00,Insulin dependent diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,F372100,Chronic painful diabetic neuropathy,res72: Microvascular complications,diagnostic
+Read,C109B11,Type II diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,C10EC00,Type 1 diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,C10FA00,Type 2 diabetes mellitus with mononeuropathy,res72: Microvascular complications,diagnostic
+Read,C109A11,Type II diabetes mellitus with mononeuropathy,res72: Microvascular complications,diagnostic
+Read,C10FB11,Type II diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,F372000,Acute painful diabetic neuropathy,res72: Microvascular complications,diagnostic
+Read,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,C108B11,Type I diabetes mellitus with mononeuropathy,res72: Microvascular complications,diagnostic
+Read,C10FA11,Type II diabetes mellitus with mononeuropathy,res72: Microvascular complications,diagnostic
+Read,C10EC11,Type I diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,C109B12,Type 2 diabetes mellitus with polyneuropathy,res72: Microvascular complications,diagnostic
+Read,2BBl.00,O/E - left eye stable treated prolif diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,F366.00,Polyneuropathy,res72: Microvascular complications,diagnostic
+Read,F3y0.00,Diabetic mononeuropathy,res72: Microvascular complications,diagnostic
+Read,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy,res72: Microvascular complications,diagnostic
+Read,C106.12,Diabetes mellitus with neuropathy,res72: Microvascular complications,diagnostic
+Read,C10E711,Type I diabetes mellitus with retinopathy,res72: Microvascular complications,diagnostic
+Read,F372.12,Diabetic neuropathy,res72: Microvascular complications,diagnostic
+Read,2BBk.00,O/E - right eye stable treated prolif diabetic retinopathy,res72: Microvascular complications,diagnostic
+Read,2BBV.00,O/E - left eye proliferative diabetic retinopathy,res72: Microvascular complications,diagnostic

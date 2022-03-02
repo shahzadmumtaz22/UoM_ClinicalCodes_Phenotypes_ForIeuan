@@ -1,0 +1,281 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu40214,[X]Simple phobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,1B1V.00,C/O - panic attack,res76: Anxiety and neurotic disorders,symptom
+Read,Eu40z12,[X]Phobic state NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45215,[X]Nosophobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45500,[X]Globus pharyngeus,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46y13,"[X]Occupational neurosis, including writer's cramp",res76: Anxiety and neurotic disorders,diagnostic
+Read,E292311,Specific academic or work inhibition,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202.12,Phobic anxiety,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202D00,Fear of death,res76: Anxiety and neurotic disorders,diagnostic
+Read,R2y2.12,[D]Nervous tension,res76: Anxiety and neurotic disorders,symptom
+Read,Eu40200,[X]Specific (isolated) phobias,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41100,[X]Generalized anxiety disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,E264311,Spurious diarrhoea,res76: Anxiety and neurotic disorders,diagnostic
+Read,E262300,Psychogenic cardiovascular disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45316,[X]Psychogenic cough,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40213,[X]Claustrophobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Z7CG400,Flashbacks,res76: Anxiety and neurotic disorders,symptom
+Read,Eu45214,[X]Hypochondriasis,res76: Anxiety and neurotic disorders,diagnostic
+Read,146G.00,H/O: agoraphobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44y14,[X]Psychogenic twilight state,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44y11,[X]Ganser's syndrome,res76: Anxiety and neurotic disorders,diagnostic
+Read,E29y100,Other post-traumatic stress disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,E278200,Psychogenic backache,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201200,Hysterical deafness,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46y16,[X]Psychogenic syncope,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45y11,[X]Psychogenic dysmenorrhoea,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40211,[X]Acrophobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40100,[X]Social phobias,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201611,"Astasia - abasia, hysterical",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45311,[X]Cardiac neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E264500,Psychogenic constipation,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41300,[X]Other mixed anxiety disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E261000,Psychogenic air hunger,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45314,[X]Neurocirculatory asthenia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu43400,[X]Chron post-traumatic stress disorder follow military comb,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202300,"Social phobia, fear of eating in public",res76: Anxiety and neurotic disorders,diagnostic
+Read,E260.00,Psychogenic musculoskeletal symptoms,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46y00,[X]Other specified neurotic disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20yz00,Other neurotic disorder NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40112,[X]Social neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E2z..00,Neuroses or other mental disorder NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201900,Multiple personality,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45317,[X]Psychogenic diarrhoea,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201000,Hysteria unspecified,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu43300,[X]Acute post-traumatic stress disorder follow military comb,res76: Anxiety and neurotic disorders,diagnostic
+Read,E203z00,Obsessive-compulsive disorder NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E263000,Psychogenic pruritus,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20y200,Other occupational neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45325,[X]Psychogenic pylorospasm,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45324,[X]Psychogenic IBS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45511,[X]Globus hystericus,res76: Anxiety and neurotic disorders,diagnostic
+Read,1B13.12,Anxious,res76: Anxiety and neurotic disorders,symptom
+Read,E261100,Psychogenic cough,res76: Anxiety and neurotic disorders,diagnostic
+Read,ZS7C700,Post-traumatic mutism,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46y15,[X]Psychasthenia neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E26yz00,Other psychogenic malfunction NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E262200,Neurocirculatory asthenia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44511,[X]Pseudoseizures,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20y000,Somatization disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,E264300,Psychogenic diarrhoea,res76: Anxiety and neurotic disorders,diagnostic
+Read,E260000,Psychogenic paralysis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E262000,Cardiac neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E2...00,"Neurotic, personality and other nonpsychotic disorders",res76: Anxiety and neurotic disorders,diagnostic
+Read,E263z00,Psychogenic skin symptoms NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E261500,Psychogenic aphonia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E2y..00,Other specified neuroses or other mental disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40300,[X]Needle phobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu34114,[X]Persistant anxiety depression,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20y.00,Other neurotic disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E265200,Psychogenic dysmenorrhea,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45312,[X]Da Costa's syndrome,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45211,[X]Body dysmorphic disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,8G52.00,Antiphobic therapy,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41200,[X]Mixed anxiety and depressive disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45322,[X]Psychogenic hyperventilat,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201600,Other conversion disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45320,[X]Psychogenic flatulence,res76: Anxiety and neurotic disorders,diagnostic
+Read,E265.00,Psychogenic genitourinary tract symptoms,res76: Anxiety and neurotic disorders,diagnostic
+Read,E203.11,Anancastic neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20z.00,Neurotic disorder NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E260z00,Psychogenic musculoskeletal symptoms NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu43111,[X]Traumatic neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40y00,[X]Other phobic anxiety disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45000,[X]Somatization disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45012,[X]Briquet's syndrome,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45321,[X]Psychogenic hiccough,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44.12,[X]Conversion reaction,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45300,[X]Somatoform autonomic dysfunction,res76: Anxiety and neurotic disorders,diagnostic
+Read,Z7CG500,Reliving traumatic memories,res76: Anxiety and neurotic disorders,symptom
+Read,Eu45319,[X]Psychogenic dysuria,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201511,Fit - hysterical,res76: Anxiety and neurotic disorders,diagnostic
+Read,E265300,Psychogenic dysuria,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40z00,"[X]Phobic anxiety disorder, unspecified",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44611,[X]Psychogenic deafness,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45411,[X]Psychalgia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202200,Agoraphobia without mention of panic attacks,res76: Anxiety and neurotic disorders,diagnostic
+Read,E031000,"Subacute confusional state, post traumatic",res76: Anxiety and neurotic disorders,diagnostic
+Read,E278000,Psychogenic pain unspecified,res76: Anxiety and neurotic disorders,diagnostic
+Read,E278z00,Psychalgia NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20y011,Briquet's disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45100,[X]Undifferentiated somatoform disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,E260100,Psychogenic torticollis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44200,[X]Dissociative stupor,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202900,Fear of crowds,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44500,[X]Dissociative convulsions,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45313,[X]Gastric neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E264.00,Psychogenic gastrointestinal tract symptoms,res76: Anxiety and neurotic disorders,diagnostic
+Read,Z4I7100,Recognising anxiety,res76: Anxiety and neurotic disorders,symptom
+Read,E261200,Psychogenic hiccough,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44y12,[X]Multiple personality,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44000,[X]Dissociative amnesia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E261z00,Psychogenic respiratory symptom NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44100,[X]Dissociative fugue,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201z13,Ganser's syndrome - hysterical,res76: Anxiety and neurotic disorders,diagnostic
+Read,E278.00,Psychalgia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46y11,[X]Briquet's disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44300,[X]Trance and possession disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E292300,Specific academic or work inhibition,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45y00,[X]Other somatoform disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46y14,[X]Psychasthenia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E26y.00,Other psychogenic malfunction,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45414,[X]Somatoform pain disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,2258.00,O/E - anxious,res76: Anxiety and neurotic disorders,symptom
+Read,Eu44.11,[X]Conversion hysteria,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201400,Hysterical paralysis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44400,[X]Dissociative motor disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45111,[X]Undifferentiated psychosomatic disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41112,[X]Anxiety reaction,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45y14,[X]Psychogenic torticollis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202z00,Phobic disorder NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201500,Hysterical seizures,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu52611,[X]Psychogenic dyspareunia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45412,[X]Psychogenic backache,res76: Anxiety and neurotic disorders,diagnostic
+Read,E261.00,Psychogenic respiratory symptoms,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46y12,[X]Dhat syndrome,res76: Anxiety and neurotic disorders,diagnostic
+Read,E264.11,Globus abdominalis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu42y00,[X]Other obsessive-compulsive disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202z11,Weight fixation,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46000,[X]Neurasthenia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45212,[X]Dysmorphophobia nondelusional,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46011,[X]Fatigue syndrome,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202.11,Social phobic disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E262z00,Psychogenic cardiovascular symptom NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44y00,[X]Other dissociative [conversion] disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44411,[X]Psychogenic aphonia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202400,"Social phobia, fear of public speaking",res76: Anxiety and neurotic disorders,diagnostic
+Read,E264z00,Psychogenic gastrointestinal tract symptom NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20y300,Psychasthenic neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E267.00,Psychogenic symptom of special sense organ,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40.00,[X]Phobic anxiety disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E265z00,Psychogenic genitourinary tract symptom NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,1B13.00,Anxiousness,res76: Anxiety and neurotic disorders,symptom
+Read,Eu44700,[X]Mixed dissociative [conversion] disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44z00,"[X]Dissociative [conversion] disorder, unspecified",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46100,[X]Depersonalization - derealization syndrome,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46z00,"[X]Neurotic disorder, unspecified",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45z00,"[X]Somatoform disorder, unspecified",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41111,[X]Anxiety neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44412,[X]Psychogenic dysphonia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E200111,Panic attack,res76: Anxiety and neurotic disorders,diagnostic
+Read,E200300,Anxiety with depression,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20z.11,Nervous breakdown,res76: Anxiety and neurotic disorders,diagnostic
+Read,E200.00,Anxiety states,res76: Anxiety and neurotic disorders,diagnostic
+Read,1B12.12,Tension - nervous,res76: Anxiety and neurotic disorders,symptom
+Read,E200400,Chronic anxiety,res76: Anxiety and neurotic disorders,diagnostic
+Read,E205.00,Neurasthenia - nervous debility,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41113,[X]Anxiety state,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202800,Claustrophobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E205.11,Nervous exhaustion,res76: Anxiety and neurotic disorders,symptom
+Read,E207.00,Hypochondriasis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202B00,Cancer phobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202C00,Dental phobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202.00,Phobic disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202000,Phobia unspecified,res76: Anxiety and neurotic disorders,diagnostic
+Read,E203100,Obsessional neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201.00,Hysteria,res76: Anxiety and neurotic disorders,diagnostic
+Read,1Bb..00,Specific fear,res76: Anxiety and neurotic disorders,symptom
+Read,1B14.11,Tenseness - symptom,res76: Anxiety and neurotic disorders,symptom
+Read,R2y2.00,[D]Nervousness,res76: Anxiety and neurotic disorders,symptom
+Read,Eu40000,[X]Agoraphobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E203.00,Obsessive-compulsive disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E264200,Cyclical vomiting - psychogenic,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202100,Agoraphobia with panic attacks,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu42.00,[X]Obsessive - compulsive disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,1B12.11,'Nerves',res76: Anxiety and neurotic disorders,symptom
+Read,E201100,Hysterical blindness,res76: Anxiety and neurotic disorders,diagnostic
+Read,1466.00,H/O: anxiety state,res76: Anxiety and neurotic disorders,symptom
+Read,E202A00,Fear of flying,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201612,Globus hystericus,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20y100,Writer's cramp neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E264400,Psychogenic dyspepsia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201z11,Aphonia - hysterical,res76: Anxiety and neurotic disorders,diagnostic
+Read,E200100,Panic disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41012,[X]Panic state,res76: Anxiety and neurotic disorders,diagnostic
+Read,E200200,Generalised anxiety disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu43100,[X]Post - traumatic stress disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,E200500,Recurrent anxiety,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201700,Hysterical amnesia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E200z00,Anxiety state NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E20..00,Neurotic disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201800,Hysterical fugue,res76: Anxiety and neurotic disorders,diagnostic
+Read,E26z.00,Psychosomatic disorder NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E264000,Psychogenic aerophagy,res76: Anxiety and neurotic disorders,diagnostic
+Read,8G94.00,Anxiety management training,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41.00,[X]Other anxiety disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E206.00,Depersonalisation syndrome,res76: Anxiety and neurotic disorders,diagnostic
+Read,1B1H.11,Fear,res76: Anxiety and neurotic disorders,symptom
+Read,1B13.11,Anxiousness - symptom,res76: Anxiety and neurotic disorders,symptom
+Read,E203000,Compulsive neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E200000,Anxiety state unspecified,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202E00,Fear of pregnancy,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41011,[X]Panic attack,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45200,[X]Hypochondriacal disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40z11,[X]Phobia NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41000,[X]Panic disorder [episodic paroxysmal anxiety],res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu43015,[X]Psychic shock,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41211,[X]Mild anxiety depression,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202500,"Social phobia, fear of public washing",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45y13,[X]Psychogenic pruritis,res76: Anxiety and neurotic disorders,diagnostic
+Read,2259.00,O/E - nervous,res76: Anxiety and neurotic disorders,symptom
+Read,Eu40011,[X]Agoraphobia without history of panic disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45318,[X]Psychogenic dyspepsia,res76: Anxiety and neurotic disorders,diagnostic
+Read,1Ba0.00,Obsessional thoughts,res76: Anxiety and neurotic disorders,symptom
+Read,Eu45323,[X]Psychogenic freq micturit,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44y13,[X]Psychogenic confusion,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45.00,[X]Somatoform disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,R2y2.11,[D]Nerves,res76: Anxiety and neurotic disorders,symptom
+Read,Eu42200,[X]Mixed obsessional thoughts and acts,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40212,[X]Animal phobias,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu42z00,"[X]Obsessive-compulsive disorder, unspecified",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu42.11,[X]Anankastic neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu42.12,[X]Obsessive-compulsive neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45400,[X]Persistent somatoform pain disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46z11,[X]Neurosis NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,225J.00,O/E - panic attack,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45z11,[X]Psychosomatic disorder NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45y12,[X]Globus hystericus,res76: Anxiety and neurotic disorders,diagnostic
+Read,E261300,Psychogenic hyperventilation,res76: Anxiety and neurotic disorders,diagnostic
+Read,E28z.12,Flying phobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,E265100,Psychogenic vaginismus,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu42000,[X]Predominantly obsessional thoughts or ruminations,res76: Anxiety and neurotic disorders,diagnostic
+Read,1P3..00,Compulsive behaviour,res76: Anxiety and neurotic disorders,symptom
+Read,Eu44.00,[X]Dissociative [conversion] disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E13y000,Psychogenic stupor,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu42100,[X]Predominantly compulsive acts [obsessional rituals],res76: Anxiety and neurotic disorders,diagnostic
+Read,Z4I7.00,Acknowledging anxiety,res76: Anxiety and neurotic disorders,symptom
+Read,Eu41y00,[X]Other specified anxiety disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201A00,Dissociative reaction unspecified,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201z00,Hysteria NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,E261400,Psychogenic yawning,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41z00,"[X]Anxiety disorder, unspecified",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45011,[X]Multiple psychosomatic disorder,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201300,Hysterical tremor,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu4..00,"[X]Neurotic, stress - related and somoform disorders",res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45213,[X]Hypochondriacal neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E030000,"Acute confusional state, post traumatic",res76: Anxiety and neurotic disorders,diagnostic
+Read,E201C00,Phantom pregnancy,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201z12,Ataxia - hysterical,res76: Anxiety and neurotic disorders,diagnostic
+Read,E283100,Acute posttrauma stress state,res76: Anxiety and neurotic disorders,diagnostic
+Read,1S1..00,Flashbacks,res76: Anxiety and neurotic disorders,symptom
+Read,Eu41z11,[X]Anxiety NOS,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44600,[X]Dissociative anaesthesia and sensory loss,res76: Anxiety and neurotic disorders,diagnostic
+Read,Z4I7211,Reducing anxiety,res76: Anxiety and neurotic disorders,symptom
+Read,Eu44.13,[X]Hysteria,res76: Anxiety and neurotic disorders,diagnostic
+Read,E292312,Specific work inhibition,res76: Anxiety and neurotic disorders,diagnostic
+Read,E28z.13,Stage fright,res76: Anxiety and neurotic disorders,diagnostic
+Read,E263.00,Psychogenic skin symptoms,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu46.00,[X]Other neurotic disorders,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu44.14,[X]Hysterical psychosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E202600,Acrophobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu41y11,[X]Anxiety hysteria,res76: Anxiety and neurotic disorders,diagnostic
+Read,E262.00,Psychogenic cardiovascular symptoms,res76: Anxiety and neurotic disorders,diagnostic
+Read,8HHp.00,Referral for guided self-help for anxiety,res76: Anxiety and neurotic disorders,diagnostic
+Read,Z4I7200,Alleviating anxiety,res76: Anxiety and neurotic disorders,symptom
+Read,E202700,Animal phobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu45413,[X]Psychogenic headache,res76: Anxiety and neurotic disorders,diagnostic
+Read,E201B00,Compensation neurosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,E131.00,Acute hysterical psychosis,res76: Anxiety and neurotic disorders,diagnostic
+Read,Eu40012,[X]Panic disorder with agoraphobia,res76: Anxiety and neurotic disorders,diagnostic
+Read,1B12.00,'Nerves' - nervousness,res76: Anxiety and neurotic disorders,symptom

@@ -1,0 +1,128 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,I60-164,,res72: MACE,diagnostic
+ICD-10,I20-I23,,res72: MACE,diagnostic
+Read,G601.00,Subarachnoid haemorrhage from carotid siphon and bifurcation,res72: MACE,diagnostic
+Read,G632.00,Vertebral artery occlusion,res72: MACE,diagnostic
+Read,G604.00,Subarachnoid haemorrhage from posterior communicating artery,res72: MACE,diagnostic
+Read,G602.00,Subarachnoid haemorrhage from middle cerebral artery,res72: MACE,diagnostic
+Read,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",res72: MACE,diagnostic
+Read,323..00,ECG: myocardial infarction,res72: MACE,diagnostic
+Read,323Z.00,ECG: myocardial infarct NOS,res72: MACE,diagnostic
+Read,G30..12,Coronary thrombosis,res72: MACE,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),res72: MACE,diagnostic
+Read,Gyu3600,[X]Subsequent myocardial infarction of unspecified site,res72: MACE,diagnostic
+Read,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,res72: MACE,diagnostic
+Read,G301100,Acute anteroseptal infarction,res72: MACE,diagnostic
+Read,G307000,Acute non-Q wave infarction,res72: MACE,diagnostic
+Read,G300.00,Acute anterolateral infarction,res72: MACE,diagnostic
+Read,G301000,Acute anteroapical infarction,res72: MACE,diagnostic
+Read,G302.00,Acute inferolateral infarction,res72: MACE,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,res72: MACE,diagnostic
+Read,G575.12,Asystole,res72: MACE,diagnostic
+Read,G30..00,Acute myocardial infarction,res72: MACE,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res72: MACE,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,res72: MACE,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,res72: MACE,diagnostic
+Read,G30y100,Acute papillary muscle infarction,res72: MACE,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res72: MACE,diagnostic
+Read,G309.00,Acute Q-wave infarct,res72: MACE,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,res72: MACE,diagnostic
+Read,G307.00,Acute subendocardial infarction,res72: MACE,diagnostic
+Read,G30y200,Acute septal infarction,res72: MACE,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res72: MACE,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,res72: MACE,diagnostic
+Read,G311011,MI - myocardial infarction aborted,res72: MACE,diagnostic
+Read,G64z.11,Brainstem infarction NOS,res72: MACE,diagnostic
+Read,G30..15,MI - acute myocardial infarction,res72: MACE,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,res72: MACE,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res72: MACE,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,res72: MACE,diagnostic
+Read,G380.00,Postoperative transmural myocardial infarction anterior wall,res72: MACE,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,res72: MACE,diagnostic
+Read,G30y.00,Other acute myocardial infarction,res72: MACE,diagnostic
+Read,G311000,Myocardial infarction aborted,res72: MACE,diagnostic
+Read,G384.00,Postoperative subendocardial myocardial infarction,res72: MACE,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,res72: MACE,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,res72: MACE,diagnostic
+Read,G38z.00,"Postoperative myocardial infarction, unspecified",res72: MACE,diagnostic
+Read,G38..00,Postoperative myocardial infarction,res72: MACE,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,res72: MACE,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,res72: MACE,diagnostic
+Read,G64z000,Brainstem infarction,res72: MACE,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,res72: MACE,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,res72: MACE,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,res72: MACE,diagnostic
+Read,G350.00,Subsequent myocardial infarction of anterior wall,res72: MACE,diagnostic
+Read,G30..17,Silent myocardial infarction,res72: MACE,diagnostic
+Read,G35..00,Subsequent myocardial infarction,res72: MACE,diagnostic
+Read,G663.00,Brain stem stroke syndrome,res72: MACE,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res72: MACE,diagnostic
+Read,G30..16,Thrombosis - coronary,res72: MACE,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,res72: MACE,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,res72: MACE,diagnostic
+Read,G306.00,True posterior myocardial infarction,res72: MACE,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,res72: MACE,diagnostic
+Read,G612.00,Basal nucleus haemorrhage,res72: MACE,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,res72: MACE,diagnostic
+Read,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified",res72: MACE,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,res72: MACE,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,res72: MACE,diagnostic
+Read,Gyu6100,[X]Other subarachnoid haemorrhage,res72: MACE,diagnostic
+Read,G671000,Acute cerebrovascular insufficiency NOS,res72: MACE,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,res72: MACE,diagnostic
+Read,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",res72: MACE,diagnostic
+Read,G615.00,Bulbar haemorrhage,res72: MACE,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,res72: MACE,diagnostic
+Read,G613.00,Cerebellar haemorrhage,res72: MACE,diagnostic
+Read,G641.11,Cerebral embolus,res72: MACE,diagnostic
+Read,G641.00,Cerebral embolism,res72: MACE,diagnostic
+Read,G64z.12,Cerebellar infarction,res72: MACE,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,res72: MACE,diagnostic
+Read,G671z00,Generalised ischaemic cerebrovascular disease NOS,res72: MACE,diagnostic
+Read,G640.00,Cerebral thrombosis,res72: MACE,diagnostic
+Read,G620.00,Extradural haemorrhage - nontraumatic,res72: MACE,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,res72: MACE,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res72: MACE,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,res72: MACE,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,res72: MACE,diagnostic
+Read,G64z.00,Cerebral infarction NOS,res72: MACE,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,res72: MACE,diagnostic
+Read,G66..12,Stroke unspecified,res72: MACE,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,res72: MACE,diagnostic
+Read,G616.00,External capsule haemorrhage,res72: MACE,diagnostic
+Read,G610.00,Cortical haemorrhage,res72: MACE,diagnostic
+Read,G66..11,CVA unspecified,res72: MACE,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,res72: MACE,diagnostic
+Read,G64..12,Infarction - cerebral,res72: MACE,diagnostic
+Read,G62z.00,Intracranial haemorrhage NOS,res72: MACE,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,res72: MACE,diagnostic
+Read,G671.00,Generalised ischaemic cerebrovascular disease NOS,res72: MACE,diagnostic
+Read,G618.00,"Intracerebral haemorrhage, multiple localized",res72: MACE,diagnostic
+Read,G611.00,Internal capsule haemorrhage,res72: MACE,diagnostic
+Read,G64z400,Infarction of basal ganglia,res72: MACE,diagnostic
+Read,G63..11,Infarction - precerebral,res72: MACE,diagnostic
+Read,G617.00,"Intracerebral haemorrhage, intraventricular",res72: MACE,diagnostic
+Read,G61..00,Intracerebral haemorrhage,res72: MACE,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,res72: MACE,diagnostic
+Read,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",res72: MACE,diagnostic
+Read,G63..00,Precerebral arterial occlusion,res72: MACE,diagnostic
+Read,G614.00,Pontine haemorrhage,res72: MACE,diagnostic
+Read,G64z111,Lateral medullary syndrome,res72: MACE,diagnostic
+Read,G62..00,Other and unspecified intracranial haemorrhage,res72: MACE,diagnostic
+Read,G64z200,Left sided cerebral infarction,res72: MACE,diagnostic
+Read,G61X000,"Left sided intracerebral haemorrhage, unspecified",res72: MACE,diagnostic
+Read,G667.00,Left sided CVA,res72: MACE,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,res72: MACE,diagnostic
+Read,G61X100,"Right sided intracerebral haemorrhage, unspecified",res72: MACE,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,res72: MACE,diagnostic
+Read,G668.00,Right sided CVA,res72: MACE,diagnostic
+Read,G64z300,Right sided cerebral infarction,res72: MACE,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,res72: MACE,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,res72: MACE,diagnostic
+Read,G600.00,Ruptured berry aneurysm,res72: MACE,diagnostic
+Read,G603.00,Subarachnoid haemorrhage from anterior communicating artery,res72: MACE,diagnostic
+Read,G60..00,Subarachnoid haemorrhage,res72: MACE,diagnostic
+Read,G60z.00,Subarachnoid haemorrhage NOS,res72: MACE,diagnostic
+Read,G605.00,Subarachnoid haemorrhage from basilar artery,res72: MACE,diagnostic
+Read,G621.00,Subdural haemorrhage - nontraumatic,res72: MACE,diagnostic
+Read,G606.00,Subarachnoid haemorrhage from vertebral artery,res72: MACE,diagnostic

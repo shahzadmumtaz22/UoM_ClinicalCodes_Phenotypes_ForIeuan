@@ -1,0 +1,288 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,L120100,Benign essential hypertension in preg/childb/puerp - deliv,res72: History of pregnancy,diagnostic
+Read,L120000,Benign essential hypertension in preg/childb/puerp unspec,res72: History of pregnancy,diagnostic
+Read,Z254C00,Face delivery,res72: History of pregnancy,diagnostic
+Read,7F19z00,Normal delivery NOS,res72: History of pregnancy,diagnostic
+Read,7F19y00,Other specified normal delivery,res72: History of pregnancy,diagnostic
+Read,Z257.11,Normal delivery,res72: History of pregnancy,diagnostic
+Read,6234,A/N care: H/O stillbirth,res72: History of pregnancy,diagnostic
+Read,6232,A/N care: recurrent aborter,res72: History of pregnancy,diagnostic
+Read,L163300,Pregnancy care of habitual aborter,res72: History of pregnancy,diagnostic
+Read,ZV23400,[V]Pregnancy with other poor obstetric history,res72: History of pregnancy,diagnostic
+Read,Z257.00,Delivery normal,res72: History of pregnancy,diagnostic
+Read,Ly0..00,Spontaneous vertex delivery,res72: History of pregnancy,diagnostic
+Read,Lyu5000,[X]Other single spontaneous delivery,res72: History of pregnancy,diagnostic
+Read,Z257.12,Spontaneous vaginal delivery,res72: History of pregnancy,diagnostic
+Read,7F19100,Water birth delivery,res72: History of pregnancy,diagnostic
+Read,7F14.00,Breech extraction delivery,res72: History of pregnancy,diagnostic
+Read,14Y3.00,Born by normal vaginal delivery,res72: History of pregnancy,diagnostic
+Read,Z257.15,ND - Normal delivery,res72: History of pregnancy,diagnostic
+Read,Z257.13,SVD - Spontaneous vaginal delivery,res72: History of pregnancy,diagnostic
+Read,Z257.14,FTND - Full term normal delivery,res72: History of pregnancy,diagnostic
+Read,Z248.00,Normal labour,res72: History of pregnancy,diagnostic
+Read,Z257100,Spontaneous vertex delivery,res72: History of pregnancy,diagnostic
+Read,Z254800,Deliveries by spontaneous breech delivery,res72: History of pregnancy,diagnostic
+Read,7F14000,Breech extraction delivery with version,res72: History of pregnancy,diagnostic
+Read,L20z.00,Normal delivery in completely normal case NOS,res72: History of pregnancy,diagnostic
+Read,7F15000,Spontaneous breech delivery,res72: History of pregnancy,diagnostic
+Read,7F15.00,Other breech delivery,res72: History of pregnancy,diagnostic
+Read,7F14z00,Breech extraction delivery NOS,res72: History of pregnancy,diagnostic
+Read,L200.00,Normal delivery but ante- or post- natal conditions present,res72: History of pregnancy,diagnostic
+Read,7F15y00,Other specified other breech delivery,res72: History of pregnancy,diagnostic
+Read,7F15100,Assisted breech delivery,res72: History of pregnancy,diagnostic
+Read,L20..11,Spontaneous vaginal delivery,res72: History of pregnancy,diagnostic
+Read,7F15z00,Other breech delivery NOS,res72: History of pregnancy,diagnostic
+Read,L20..00,Normal delivery in a completely normal case,res72: History of pregnancy,diagnostic
+Read,L395300,Mid-cavity forceps delivery,res72: History of pregnancy,diagnostic
+Read,7F18y00,Cephalic vagin deliv abnorm pres head without instrument OS,res72: History of pregnancy,diagnostic
+Read,L398000,Caesarean delivery unspecified,res72: History of pregnancy,diagnostic
+Read,7F18z00,Cephalic vagin deliv abnorm pres head without instrument NOS,res72: History of pregnancy,diagnostic
+Read,7F16300,Mid forceps cephalic delivery NEC,res72: History of pregnancy,diagnostic
+Read,7F16200,Mid forceps cephalic delivery with rotation,res72: History of pregnancy,diagnostic
+Read,7F16000,High forceps cephalic delivery with rotation,res72: History of pregnancy,diagnostic
+Read,7F19.00,Normal delivery,res72: History of pregnancy,diagnostic
+Read,7F16.00,Forceps cephalic delivery,res72: History of pregnancy,diagnostic
+Read,14Y1.00,Born by forceps delivery,res72: History of pregnancy,diagnostic
+Read,14Y5.00,Born by ventouse delivery,res72: History of pregnancy,diagnostic
+Read,L395200,Low forceps delivery,res72: History of pregnancy,diagnostic
+Read,7F17.00,Vacuum delivery,res72: History of pregnancy,diagnostic
+Read,7F16500,Trial of forceps delivery,res72: History of pregnancy,diagnostic
+Read,7F16400,Low forceps cephalic delivery,res72: History of pregnancy,diagnostic
+Read,7F16600,Failed forceps delivery,res72: History of pregnancy,diagnostic
+Read,7F16z00,Forceps cephalic delivery NOS,res72: History of pregnancy,diagnostic
+Read,7F16y00,Other specified forceps cephalic delivery,res72: History of pregnancy,diagnostic
+Read,7F16700,Barton forceps cephalic delivery with rotation,res72: History of pregnancy,diagnostic
+Read,7F16900,Kielland forceps cephalic delivery with rotation,res72: History of pregnancy,diagnostic
+Read,L395000,Forceps delivery unspecified,res72: History of pregnancy,diagnostic
+Read,7F17.11,Ventouse delivery,res72: History of pregnancy,diagnostic
+Read,7F17300,Trial of vacuum delivery,res72: History of pregnancy,diagnostic
+Read,7F17200,Vacuum delivery before full dilation of cervix,res72: History of pregnancy,diagnostic
+Read,7F17000,High vacuum delivery,res72: History of pregnancy,diagnostic
+Read,7F17100,Low vacuum delivery,res72: History of pregnancy,diagnostic
+Read,L395.13,Simpson's forceps delivery,res72: History of pregnancy,diagnostic
+Read,7F19000,Manually assisted vaginal delivery,res72: History of pregnancy,diagnostic
+Read,7F17z00,Vacuum delivery NOS,res72: History of pregnancy,diagnostic
+Read,L395.12,Neville - Barnes forceps delivery,res72: History of pregnancy,diagnostic
+Read,L395.00,Forceps delivery,res72: History of pregnancy,diagnostic
+Read,L395.11,Keilland's forceps delivery,res72: History of pregnancy,diagnostic
+Read,L396.00,Vacuum extractor delivery,res72: History of pregnancy,diagnostic
+Read,L398.00,Caesarean delivery,res72: History of pregnancy,diagnostic
+Read,Lyu5700,"[X]Assisted single delivery, unspecified",res72: History of pregnancy,diagnostic
+Read,L395z00,Forceps delivery NOS,res72: History of pregnancy,diagnostic
+Read,L395400,Delivery by combination of forceps and vacuum extractor,res72: History of pregnancy,diagnostic
+Read,L120.00,Benign essential hypertension in pregnancy/childbirth/puerp,res72: History of pregnancy,diagnostic
+Read,L396100,Vacuum extractor delivery - delivered,res72: History of pregnancy,diagnostic
+Read,Lyu5500,[X]Other specified assisted single delivery,res72: History of pregnancy,diagnostic
+Read,L396000,Vacuum extractor delivery unspecified,res72: History of pregnancy,diagnostic
+Read,L396.11,Ventouse delivery,res72: History of pregnancy,diagnostic
+Read,Lyu5400,[X]Other manipulation-assisted delivery,res72: History of pregnancy,diagnostic
+Read,Lyu5100,[X]Other and unspecified forceps delivery,res72: History of pregnancy,diagnostic
+Read,L396z00,Vacuum extractor delivery NOS,res72: History of pregnancy,diagnostic
+Read,Z254200,Delivered by low forceps delivery,res72: History of pregnancy,diagnostic
+Read,Z254300,Delivered by mid-cavity forceps delivery,res72: History of pregnancy,diagnostic
+Read,7F12111,Elective lower uterine segment caesarean section (LSCS),res72: History of pregnancy,diagnostic
+Read,7F13z00,Other caesarean delivery NOS,res72: History of pregnancy,diagnostic
+Read,14Y2.00,Born by elective caesarean section,res72: History of pregnancy,diagnostic
+Read,7F12100,Elective lower uterine segment caesarean delivery,res72: History of pregnancy,diagnostic
+Read,7F12000,Elective upper uterine segment caesarean delivery,res72: History of pregnancy,diagnostic
+Read,14Y6.00,Born by emergency caesarean section,res72: History of pregnancy,diagnostic
+Read,7F12.00,Elective caesarean delivery,res72: History of pregnancy,diagnostic
+Read,7F13y00,Other specified other caesarean delivery,res72: History of pregnancy,diagnostic
+Read,7F13000,Upper uterine segment caesarean delivery NEC,res72: History of pregnancy,diagnostic
+Read,7F13.00,Other caesarean delivery,res72: History of pregnancy,diagnostic
+Read,7F12y00,Other specified elective caesarean delivery,res72: History of pregnancy,diagnostic
+Read,7F12z00,Elective caesarean delivery NOS,res72: History of pregnancy,diagnostic
+Read,7F13100,Lower uterine segment caesarean delivery NEC,res72: History of pregnancy,diagnostic
+Read,7F13200,Extraperitoneal caesarean section,res72: History of pregnancy,diagnostic
+Read,7F13111,Lower uterine segment caesarean section (LSCS) NEC,res72: History of pregnancy,diagnostic
+Read,L12..00,Hypertension complicating pregnancy/childbirth/puerperium,res72: History of pregnancy,diagnostic
+Read,L264z00,Intrauterine death NOS,res72: History of pregnancy,diagnostic
+Read,L04..00,Spontaneous abortion,res72: History of pregnancy,diagnostic
+Read,L398300,Delivery by elective caesarean section,res72: History of pregnancy,diagnostic
+Read,Lyu5200,[X]Other single delivery by caesarean section,res72: History of pregnancy,diagnostic
+Read,L398200,Caesarean section - pregnancy at term,res72: History of pregnancy,diagnostic
+Read,L398100,Caesarean delivery - delivered,res72: History of pregnancy,diagnostic
+Read,L398400,Delivery by emergency caesarean section,res72: History of pregnancy,diagnostic
+Read,Z254500,Delivered by caesarean section - pregnancy at term,res72: History of pregnancy,diagnostic
+Read,14Y0.00,Born by caesarean section,res72: History of pregnancy,diagnostic
+Read,L398500,Delivery by caesarean hysterectomy,res72: History of pregnancy,diagnostic
+Read,L398600,Caesarean delivery following previous Caesarean delivery,res72: History of pregnancy,diagnostic
+Read,L264200,Intrauterine death with antenatal problem,res72: History of pregnancy,diagnostic
+Read,ZV27.12,[V]Stillbirth,res72: History of pregnancy,diagnostic
+Read,633..12,Stillbirth [prevention record],res72: History of pregnancy,diagnostic
+Read,L02..00,Missed abortion,res72: History of pregnancy,diagnostic
+Read,L040.00,Spontaneous abortion unspecified,res72: History of pregnancy,diagnostic
+Read,Q48D.00,[X] Stillbirth,res72: History of pregnancy,diagnostic
+Read,6332,Single stillbirth,res72: History of pregnancy,diagnostic
+Read,Q4z..15,Stillbirth NEC,res72: History of pregnancy,diagnostic
+Read,Q48D100,[X]Macerated stillbirth,res72: History of pregnancy,diagnostic
+Read,Q48D000,[X]Fresh stillbirth,res72: History of pregnancy,diagnostic
+Read,L264100,Intrauterine death - delivered,res72: History of pregnancy,diagnostic
+Read,L264.00,Intrauterine death,res72: History of pregnancy,diagnostic
+Read,ZV27100,[V]Single stillbirth,res72: History of pregnancy,diagnostic
+Read,L264000,Intrauterine death unspecified,res72: History of pregnancy,diagnostic
+Read,L264.11,Fetal death in utero,res72: History of pregnancy,diagnostic
+Read,Q10z.00,Fetal growth retardation NOS,res72: History of pregnancy,diagnostic
+Read,Q101.00,Fetus small-for-dates with signs of malnutrition,res72: History of pregnancy,diagnostic
+Read,L16C100,Gestational oedema with proteinuria,res72: History of pregnancy,diagnostic
+Read,62O4.00,Fetal maturity: dates not=size,res72: History of pregnancy,diagnostic
+Read,Q211.00,Fetal death due to labour anoxia,res72: History of pregnancy,diagnostic
+Read,Q210.00,Fetal death due to prelabour anoxia,res72: History of pregnancy,diagnostic
+Read,Q11..00,Short gestation and unspecified low birthweight problems,res72: History of pregnancy,diagnostic
+Read,Q10z.11,Intrauterine growth retardation,res72: History of pregnancy,diagnostic
+Read,Q100.11,"Fetus small-for-dates (SFD), without mention of malnutrition",res72: History of pregnancy,diagnostic
+Read,Q100.00,"Fetus small-for-dates, without mention of malnutrition",res72: History of pregnancy,diagnostic
+Read,L265200,Small-for-dates with antenatal problem,res72: History of pregnancy,diagnostic
+Read,Q13..00,Light for gestational age,res72: History of pregnancy,diagnostic
+Read,Q10..00,Slow fetal growth and fetal malnutrition,res72: History of pregnancy,diagnostic
+Read,L265300,Maternal care for poor fetal growth,res72: History of pregnancy,diagnostic
+Read,L265311,Maternal care for intrauterine growth retardation,res72: History of pregnancy,diagnostic
+Read,L16C000,Gestational proteinuria,res72: History of pregnancy,diagnostic
+Read,N000500,Neonatal lupus erythematosus,res72: History of pregnancy,diagnostic
+Read,Q101.11,Fetus small-for-dates (SFD) with signs of malnutrition,res72: History of pregnancy,diagnostic
+Read,L265.00,Small-for-dates fetus in pregnancy,res72: History of pregnancy,diagnostic
+Read,L16C.00,Pregnancy induced oedema+proteinuria without hypertension,res72: History of pregnancy,diagnostic
+Read,Q021000,Fetus/neonate affected by antepartum haemorrhage unspecified,res72: History of pregnancy,diagnostic
+Read,L260z00,Fetal-maternal haemorrhage NOS,res72: History of pregnancy,diagnostic
+Read,L260.00,Fetal-maternal haemorrhage,res72: History of pregnancy,diagnostic
+Read,Q021011,Fetus affected by APH - antepartum haemorrhage,res72: History of pregnancy,diagnostic
+Read,L260000,Fetal-maternal haemorrhage unspecified,res72: History of pregnancy,diagnostic
+Read,L260200,Fetal-maternal haemorrhage with antenatal problem,res72: History of pregnancy,diagnostic
+Read,L393100,Post-delivery acute renal failure - delivered with p/n prob,res72: History of pregnancy,diagnostic
+Read,L127400,Pre-eclampsia or eclampsia with hypertension + p/n comp,res72: History of pregnancy,diagnostic
+Read,L126000,Eclampsia unspecified,res72: History of pregnancy,diagnostic
+Read,L120200,Benign ess hypert in preg/childb/puerp - deliv with p/n comp,res72: History of pregnancy,diagnostic
+Read,L127300,Pre-eclampsia or eclampsia with hypertension - not delivered,res72: History of pregnancy,diagnostic
+Read,L126600,Eclampsia in labour,res72: History of pregnancy,diagnostic
+Read,L127200,Pre-eclampsia or eclampsia with hypertension - del+p/n comp,res72: History of pregnancy,diagnostic
+Read,L126200,Eclampsia - delivered with postnatal complication,res72: History of pregnancy,diagnostic
+Read,L126100,Eclampsia - delivered,res72: History of pregnancy,diagnostic
+Read,L126z00,Eclampsia NOS,res72: History of pregnancy,diagnostic
+Read,L127100,Pre-eclampsia or eclampsia with hypertension - delivered,res72: History of pregnancy,diagnostic
+Read,L127000,Pre-eclampsia or eclampsia with hypertension unspecified,res72: History of pregnancy,diagnostic
+Read,L127.00,Pre-eclampsia or eclampsia with pre-existing hypertension,res72: History of pregnancy,diagnostic
+Read,L393000,Post-delivery acute renal failure unspecified,res72: History of pregnancy,diagnostic
+Read,L127z00,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,res72: History of pregnancy,diagnostic
+Read,L129.00,Moderate pre-eclampsia,res72: History of pregnancy,diagnostic
+Read,L12z000,Unspecified hypertension in preg/childb/puerp unspecified,res72: History of pregnancy,diagnostic
+Read,L12z.00,Unspecified hypertension in pregnancy/childbirth/puerperium,res72: History of pregnancy,diagnostic
+Read,L12A.00,"HELLP - Syndrome haemolysis, elev liver enzyme low platelets",res72: History of pregnancy,diagnostic
+Read,L12B.00,Proteinuric hypertension of pregnancy,res72: History of pregnancy,diagnostic
+Read,L12z300,Unspecified hypertension in preg/childb/puerp - not deliv,res72: History of pregnancy,diagnostic
+Read,L41z.00,Venous complications of pregnancy and puerperium NOS,res72: History of pregnancy,diagnostic
+Read,L12z200,Unspecified hypertension in preg/childb/puerp -del +p/n comp,res72: History of pregnancy,diagnostic
+Read,L12z100,Unspecified hypertension in preg/childb/puerp - delivered,res72: History of pregnancy,diagnostic
+Read,L12zz00,Unspecified hypertension in preg/childb/puerp NOS,res72: History of pregnancy,diagnostic
+Read,L41yz00,Other venous complication of pregnancy and puerperium NOS,res72: History of pregnancy,diagnostic
+Read,L417100,Cerebral venous thrombosis in the puerperium,res72: History of pregnancy,diagnostic
+Read,L417000,Cerebral venous thrombosis in pregnancy,res72: History of pregnancy,diagnostic
+Read,L41z500,"Venous complication of pregnancy, unspecified",res72: History of pregnancy,diagnostic
+Read,L413.11,"DVT - deep venous thrombosis, antenatal",res72: History of pregnancy,diagnostic
+Read,L440.11,CVA - cerebrovascular accident in the puerperium,res72: History of pregnancy,diagnostic
+Read,L43z400,Obstetric pulmonary embolism NOS with postnatal complication,res72: History of pregnancy,diagnostic
+Read,L393.00,Acute renal failure following labour and delivery,res72: History of pregnancy,diagnostic
+Read,L413.00,Antenatal deep vein thrombosis,res72: History of pregnancy,diagnostic
+Read,L440.12,Stroke in the puerperium,res72: History of pregnancy,diagnostic
+Read,L414z00,Postnatal deep vein thrombosis NOS,res72: History of pregnancy,diagnostic
+Read,L413z00,Antenatal deep vein thrombosis NOS,res72: History of pregnancy,diagnostic
+Read,L413200,Antenatal deep vein thrombosis with antenatal complication,res72: History of pregnancy,diagnostic
+Read,L413000,Antenatal deep vein thrombosis unspecified,res72: History of pregnancy,diagnostic
+Read,L413100,Antenatal deep vein thrombosis - delivered,res72: History of pregnancy,diagnostic
+Read,L414.00,Postnatal deep vein thrombosis,res72: History of pregnancy,diagnostic
+Read,L414200,Postnatal deep vein thrombosis with postnatal complication,res72: History of pregnancy,diagnostic
+Read,L414000,Postnatal deep vein thrombosis unspecified,res72: History of pregnancy,diagnostic
+Read,L414.11,"DVT - deep venous thrombosis, postnatal",res72: History of pregnancy,diagnostic
+Read,Q116.00,Premature infant 28-37 weeks,res72: History of pregnancy,diagnostic
+Read,L162.12,Nephropathy NOS in pregnancy without hypertension,res72: History of pregnancy,diagnostic
+Read,6359,Baby premature 38 weeks,res72: History of pregnancy,diagnostic
+Read,L162.00,Unspecified renal disease in pregnancy,res72: History of pregnancy,diagnostic
+Read,L393200,Post-delivery acute renal failure with postnatal problem,res72: History of pregnancy,diagnostic
+Read,6358,Baby premature 39 weeks,res72: History of pregnancy,diagnostic
+Read,635..13,Premature baby,res72: History of pregnancy,diagnostic
+Read,6357,Baby premature 24-26 weeks,res72: History of pregnancy,diagnostic
+Read,6356,Baby premature 26-28 weeks,res72: History of pregnancy,diagnostic
+Read,6351,Baby premature 36-38 weeks,res72: History of pregnancy,diagnostic
+Read,6352,Baby v. premature 32-36 weeks,res72: History of pregnancy,diagnostic
+Read,Q111.00,Premature - weight 1000g-2499g or gestation of 28-37weeks,res72: History of pregnancy,diagnostic
+Read,L142.00,Early onset of delivery,res72: History of pregnancy,diagnostic
+Read,635A.00,Baby premature 37 weeks,res72: History of pregnancy,diagnostic
+Read,635B.00,Baby premature 36 weeks,res72: History of pregnancy,diagnostic
+Read,L140.00,Threatened premature labour,res72: History of pregnancy,diagnostic
+Read,L14..11,Premature labour,res72: History of pregnancy,diagnostic
+Read,L14..00,Early or threatened labour,res72: History of pregnancy,diagnostic
+Read,L143.00,Premature labour and delivery,res72: History of pregnancy,diagnostic
+Read,L142.11,Premature delivery,res72: History of pregnancy,diagnostic
+Read,Q110.00,Very premature - less than 1000g or less than 28 weeks,res72: History of pregnancy,diagnostic
+Read,Q11..11,Baby born premature,res72: History of pregnancy,diagnostic
+Read,L143100,Premature labour with premature delivery,res72: History of pregnancy,diagnostic
+Read,L143000,Premature labour without delivery,res72: History of pregnancy,diagnostic
+Read,L112200,Placental abruption - not delivered,res72: History of pregnancy,diagnostic
+Read,Q022200,Fetus or neonate affected by placental insufficiency,res72: History of pregnancy,diagnostic
+Read,Q022000,Fetus or neonate affected by placental dysfunction,res72: History of pregnancy,diagnostic
+Read,L267600,Placental infarction,res72: History of pregnancy,diagnostic
+Read,Q11z.00,Born premature NOS,res72: History of pregnancy,diagnostic
+Read,63D4.00,Placental infarct,res72: History of pregnancy,diagnostic
+Read,Z262H00,Placenta calcified,res72: History of pregnancy,diagnostic
+Read,Z262300,Small placenta,res72: History of pregnancy,diagnostic
+Read,L112100,Placental abruption - delivered,res72: History of pregnancy,diagnostic
+Read,L265.11,Placental insufficiency,res72: History of pregnancy,diagnostic
+Read,Z262I00,Placenta infarcted,res72: History of pregnancy,diagnostic
+Read,L112000,Placental abruption unspecified,res72: History of pregnancy,diagnostic
+Read,L112.00,Placental abruption,res72: History of pregnancy,diagnostic
+Read,L11..00,"Antepartum haemorrhage, abruptio placentae, placenta praevia",res72: History of pregnancy,diagnostic
+Read,Z262D00,Fresh retroplacental clot,res72: History of pregnancy,diagnostic
+Read,L112300,Premature separation of placenta with coagulation defect,res72: History of pregnancy,diagnostic
+Read,Q021100,Fetus or neonate affected by abruptio placentae,res72: History of pregnancy,diagnostic
+Read,Z262C00,Retroplacental clot,res72: History of pregnancy,diagnostic
+Read,Q021.00,Fetus/neonate affect other placental separation/haemorrhage,res72: History of pregnancy,diagnostic
+Read,Q021111,Fetus affected by placental abruption,res72: History of pregnancy,diagnostic
+Read,Q021500,Fetus or neonate affected by premature placental separation,res72: History of pregnancy,diagnostic
+Read,L112z00,Placental abruption NOS,res72: History of pregnancy,diagnostic
+Read,Z262E11,Stale retroplacental clot,res72: History of pregnancy,diagnostic
+Read,Z262E00,Old retroplacental clot,res72: History of pregnancy,diagnostic
+Read,L125300,Severe pre-eclampsia - not delivered,res72: History of pregnancy,diagnostic
+Read,L126.00,Eclampsia,res72: History of pregnancy,diagnostic
+Read,L125400,Severe pre-eclampsia with postnatal complication,res72: History of pregnancy,diagnostic
+Read,L125z00,Severe pre-eclampsia NOS,res72: History of pregnancy,diagnostic
+Read,L120z00,Benign essential hypertension in preg/childb/puerp NOS,res72: History of pregnancy,diagnostic
+Read,L120400,Benign essential hypertension in preg/childb/puerp +p/n comp,res72: History of pregnancy,diagnostic
+Read,L120300,Benign essential hypertension in preg/childb/puerp-not deliv,res72: History of pregnancy,diagnostic
+Read,L125200,Severe pre-eclampsia - delivered with postnatal complication,res72: History of pregnancy,diagnostic
+Read,L125100,Severe pre-eclampsia - delivered,res72: History of pregnancy,diagnostic
+Read,L123600,Transient hypertension of pregnancy,res72: History of pregnancy,diagnostic
+Read,L123300,Transient hypertension of pregnancy - not delivered,res72: History of pregnancy,diagnostic
+Read,L123200,Transient hypertension of pregnancy - deliv with p/n comp,res72: History of pregnancy,diagnostic
+Read,L123.00,Transient hypertension of pregnancy,res72: History of pregnancy,diagnostic
+Read,L123000,Transient hypertension of pregnancy unspecified,res72: History of pregnancy,diagnostic
+Read,L124000,Mild or unspecified pre-eclampsia unspecified,res72: History of pregnancy,diagnostic
+Read,L125000,Severe pre-eclampsia unspecified,res72: History of pregnancy,diagnostic
+Read,L124.00,Mild or unspecified pre-eclampsia,res72: History of pregnancy,diagnostic
+Read,L125.00,Severe pre-eclampsia,res72: History of pregnancy,diagnostic
+Read,L124300,Mild or unspecified pre-eclampsia - not delivered,res72: History of pregnancy,diagnostic
+Read,L124200,Mild or unspecified pre-eclampsia - delivered with p/n comp,res72: History of pregnancy,diagnostic
+Read,L124z00,Mild or unspecified pre-eclampsia NOS,res72: History of pregnancy,diagnostic
+Read,L124500,Mild pre-eclampsia,res72: History of pregnancy,diagnostic
+Read,L124600,"Pre-eclampsia, unspecified",res72: History of pregnancy,diagnostic
+Read,L124400,Mild or unspecified pre-eclampsia with p/n complication,res72: History of pregnancy,diagnostic
+Read,L123z00,Transient hypertension of pregnancy NOS,res72: History of pregnancy,diagnostic
+Read,L124100,Mild or unspecified pre-eclampsia - delivered,res72: History of pregnancy,diagnostic
+Read,L124.11,Mild pre-eclampsia,res72: History of pregnancy,diagnostic
+Read,L398z00,Caesarean delivery NOS,res72: History of pregnancy,diagnostic
+Read,L123400,Transient hypertension of pregnancy + postnatal complication,res72: History of pregnancy,diagnostic
+Read,L123100,Transient hypertension of pregnancy - delivered,res72: History of pregnancy,diagnostic
+Read,Q113.00,Light for gestational age,res72: History of pregnancy,diagnostic
+Read,Q10..11,Fetal malnutrition,res72: History of pregnancy,diagnostic
+Read,7F16100,High forceps cephalic delivery NEC,res72: History of pregnancy,diagnostic
+Read,7F13300,Emergency caesarean section,res72: History of pregnancy,diagnostic
+Read,L395100,Forceps delivery - delivered,res72: History of pregnancy,diagnostic
+Read,7F1A.00,Other methods of delivery,res72: History of pregnancy,diagnostic
+Read,Z254A00,Abnormal delivery,res72: History of pregnancy,diagnostic
+Read,Z254B00,Brow delivery,res72: History of pregnancy,diagnostic
+Read,Z254900,Vaginal delivery,res72: History of pregnancy,diagnostic
+Read,7F14y00,Other specified breech extraction delivery,res72: History of pregnancy,diagnostic
+Read,14Y4.00,Born by breech delivery,res72: History of pregnancy,diagnostic
+Read,Ly1..00,Spontaneous breech delivery,res72: History of pregnancy,diagnostic
+Read,L126300,Eclampsia - not delivered,res72: History of pregnancy,diagnostic
+Read,L126500,Eclampsia in pregnancy,res72: History of pregnancy,diagnostic
+Read,L126400,Eclampsia with postnatal complication,res72: History of pregnancy,diagnostic
+Read,7F17y00,Other specified vacuum delivery,res72: History of pregnancy,diagnostic

@@ -1,0 +1,132 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,9H92.00,Depression interim review,res76: Depression,diagnostic
+Read,Eu32z11,[X]Depression NOS,res76: Depression,diagnostic
+Read,E112.14,Endogenous depression,res76: Depression,diagnostic
+Read,E2B0.00,Postviral depression,res76: Depression,diagnostic
+Read,E135.00,Agitated depression,res76: Depression,diagnostic
+Read,E204.00,Neurotic depression reactive type,res76: Depression,diagnostic
+Read,Eu32z00,"[X]Depressive episode, unspecified",res76: Depression,diagnostic
+Read,1B17.12,C/O - feeling unhappy,res76: Depression,symptom
+Read,62T1.00,Puerperal depression,res76: Depression,diagnostic
+Read,1465.00,H/O: depression,res76: Depression,diagnostic
+Read,E2B..00,Depressive disorder NEC,res76: Depression,diagnostic
+Read,2257.00,O/E - depressed,res76: Depression,symptom
+Read,E290.00,Brief depressive reaction,res76: Depression,diagnostic
+Read,E204.11,Postnatal depression,res76: Depression,diagnostic
+Read,1B17.00,Depressed,res76: Depression,symptom
+Read,E11..12,Depressive psychoses,res76: Depression,diagnostic
+Read,E03y300,Unspecified puerperal psychosis,res76: Depression,diagnostic
+Read,E112.11,Agitated depression,res76: Depression,diagnostic
+Read,Eu33.00,[X]Recurrent depressive disorder,res76: Depression,diagnostic
+Read,Eu32z12,[X]Depressive disorder NOS,res76: Depression,diagnostic
+Read,Eu32.00,[X]Depressive episode,res76: Depression,diagnostic
+Read,E2B1.00,Chronic depression,res76: Depression,diagnostic
+Read,E11z100,Rebound mood swings,res76: Depression,symptom
+Read,1B17.11,C/O - feeling depressed,res76: Depression,symptom
+Read,Eu3..00,[X]Mood - affective disorders,res76: Depression,diagnostic
+Read,Eu53012,[X]Postpartum depression NOS,res76: Depression,diagnostic
+Read,Eu32z14,[X] Reactive depression NOS,res76: Depression,diagnostic
+Read,1BO..00,Mood swings,res76: Depression,symptom
+Read,E113700,Recurrent depression,res76: Depression,diagnostic
+Read,E112.12,Endogenous depression first episode,res76: Depression,diagnostic
+Read,Eu32y00,[X]Other depressive episodes,res76: Depression,diagnostic
+Read,E113.11,Endogenous depression - recurrent,res76: Depression,diagnostic
+Read,Eu34114,[X]Persistant anxiety depression,res76: Depression,diagnostic
+Read,Eu32B00,[X]Antenatal depression,res76: Depression,diagnostic
+Read,E11z200,Masked depression,res76: Depression,diagnostic
+Read,Eu3y011,[X]Mixed affective episode,res76: Depression,diagnostic
+Read,1BT..11,Low mood,res76: Depression,symptom
+Read,Eu33.13,[X]Recurrent episodes of reactive depression,res76: Depression,diagnostic
+Read,Eu33.11,[X]Recurrent episodes of depressive reaction,res76: Depression,diagnostic
+Read,Eu34111,[X]Depressive neurosis,res76: Depression,diagnostic
+Read,E112.13,Endogenous depression first episode,res76: Depression,diagnostic
+Read,Eu34100,[X]Dysthymia,res76: Depression,diagnostic
+Read,E112z00,Single major depressive episode NOS,res76: Depression,diagnostic
+Read,Eu34113,[X]Neurotic depression,res76: Depression,diagnostic
+Read,E118.00,Seasonal affective disorder,res76: Depression,diagnostic
+Read,1B1U.00,Symptoms of depression,res76: Depression,symptom
+Read,Eu33.12,[X]Recurrent episodes of psychogenic depression,res76: Depression,diagnostic
+Read,Eu32200,[X]Severe depressive episode without psychotic symptoms,res76: Depression,diagnostic
+Read,L184200,Mental disorder in the puerperium - baby delivered,res76: Depression,diagnostic
+Read,1B1U.11,Depressive symptoms,res76: Depression,symptom
+Read,E112.00,Single major depressive episode,res76: Depression,diagnostic
+Read,Eu32400,[X]Mild depression,res76: Depression,diagnostic
+Read,E113.00,Recurrent major depressive episode,res76: Depression,diagnostic
+Read,Eu33211,[X]Endogenous depression without psychotic symptoms,res76: Depression,diagnostic
+Read,Eu33212,"[X]Major depression, recurrent without psychotic symptoms",res76: Depression,diagnostic
+Read,E113200,"Recurrent major depressive episodes, moderate",res76: Depression,diagnostic
+Read,9H91.00,Depression medication review,res76: Depression,diagnostic
+Read,9H90.00,Depression annual review,res76: Depression,diagnostic
+Read,212S.00,Depression resolved,res76: Depression,diagnostic
+Read,E112100,"Single major depressive episode, mild",res76: Depression,diagnostic
+Read,E112300,"Single major depressive episode, severe, without psychosis",res76: Depression,diagnostic
+Read,E112200,"Single major depressive episode, moderate",res76: Depression,diagnostic
+Read,Eu3y111,[X]Recurrent brief depressive episodes,res76: Depression,diagnostic
+Read,Eu53111,[X]Puerperal psychosis NOS,res76: Depression,diagnostic
+Read,Eu32.12,[X]Single episode of psychogenic depression,res76: Depression,diagnostic
+Read,Eu33z11,[X]Monopolar depression NOS,res76: Depression,diagnostic
+Read,1BQ..00,Loss of capacity for enjoyment,res76: Depression,symptom
+Read,Eu34000,[X]Cyclothymia,res76: Depression,diagnostic
+Read,Eu33400,"[X]Recurrent depressive disorder, currently in remission",res76: Depression,diagnostic
+Read,Eu33100,"[X]Recurrent depressive disorder, current episode moderate",res76: Depression,diagnostic
+Read,Eu32212,[X]Single episode major depression w'out psychotic symptoms,res76: Depression,diagnostic
+Read,Eu3y.00,[X]Other mood affective disorders,res76: Depression,diagnostic
+Read,E113z00,Recurrent major depressive episode NOS,res76: Depression,diagnostic
+Read,E113300,"Recurrent major depressive episodes, severe, no psychosis",res76: Depression,diagnostic
+Read,E113100,"Recurrent major depressive episodes, mild",res76: Depression,diagnostic
+Read,Eu32z13,[X]Prolonged single episode of reactive depression,res76: Depression,diagnostic
+Read,Eu33.14,[X]Seasonal depressive disorder,res76: Depression,diagnostic
+Read,Eu53.00,[X]Mental and behav disorders assoc with the puerperium NEC,res76: Depression,diagnostic
+Read,Eu3yy00,[X]Other specified mood affective disorders,res76: Depression,diagnostic
+Read,Eu33000,"[X]Recurrent depressive disorder, current episode mild",res76: Depression,diagnostic
+Read,E290z00,Brief depressive reaction NOS,res76: Depression,diagnostic
+Read,E112000,"Single major depressive episode, unspecified",res76: Depression,diagnostic
+Read,8HHq.00,Referral for guided self-help for depression,res76: Depression,diagnostic
+Read,E113000,"Recurrent major depressive episodes, unspecified",res76: Depression,diagnostic
+Read,Eu92000,[X]Depressive conduct disorder,res76: Depression,diagnostic
+Read,Eu33200,[X]Recurr depress disorder cur epi severe without psyc sympt,res76: Depression,diagnostic
+Read,9HA0.00,On depression register,res76: Depression,diagnostic
+Read,Eu53000,[X]Mild mental/behav disorder assoc with the puerperium NEC,res76: Depression,diagnostic
+Read,Eu34z00,"[X]Persistent mood affective disorder, unspecified",res76: Depression,diagnostic
+Read,Eu3z.00,[X]Unspecified mood affective disorder,res76: Depression,diagnostic
+Read,1JJ..00,Suspected depression,res76: Depression,symptom
+Read,Eu53100,[X]Severe mental and behav disorder assoc wth puerperium NEC,res76: Depression,diagnostic
+Read,Eu32211,[X]Single episode agitated depressn w'out psychotic symptoms,res76: Depression,diagnostic
+Read,Eu34.00,[X]Persistent mood affective disorders,res76: Depression,diagnostic
+Read,8BK0.00,Depression management programme,res76: Depression,diagnostic
+Read,Eu34y00,[X]Other persistent mood affective disorders,res76: Depression,diagnostic
+Read,Eu33z00,"[X]Recurrent depressive disorder, unspecified",res76: Depression,diagnostic
+Read,E112500,"Single major depressive episode, partial or unspec remission",res76: Depression,diagnostic
+Read,Eu15500,[X]Mental/behav dis oth stims inc caffeine: psychotic dis,res76: Depression,diagnostic
+Read,9HA1.00,Removed from depression register,res76: Depression,diagnostic
+Read,Eu33y00,[X]Other recurrent depressive disorders,res76: Depression,diagnostic
+Read,L184.00,"Mental disorders in pregnancy, childbirth and the puerperium",res76: Depression,diagnostic
+Read,E113500,"Recurrent major depressive episodes,partial/unspec remission",res76: Depression,diagnostic
+Read,1BU..00,Loss of hope for the future,res76: Depression,symptom
+Read,L184400,Mental disorder in puerperium - baby previously delivered,res76: Depression,diagnostic
+Read,Eu3y000,[X]Other single mood affective disorders,res76: Depression,diagnostic
+Read,E113600,"Recurrent major depressive episodes, in full remission",res76: Depression,diagnostic
+Read,Eu34012,[X]Cycloid personality,res76: Depression,diagnostic
+Read,E112600,"Single major depressive episode, in full remission",res76: Depression,diagnostic
+Read,Eu32y12,[X]Single episode of masked depression NOS,res76: Depression,diagnostic
+Read,Eu32700,"[X]Major depression, severe without psychotic symptoms",res76: Depression,diagnostic
+Read,Eu32500,"[X]Major depression, mild",res76: Depression,diagnostic
+Read,Eu32213,[X]Single episode vital depression w'out psychotic symptoms,res76: Depression,diagnostic
+Read,Eu33214,"[X]Vital depression, recurrent without psychotic symptoms",res76: Depression,diagnostic
+Read,Eu32600,"[X]Major depression, moderately severe",res76: Depression,diagnostic
+Read,9kQ..00,On full dose long term treatment depression - enh serv admin,res76: Depression,diagnostic
+Read,L184300,Mental disorder during pregnancy - baby not yet delivered,res76: Depression,diagnostic
+Read,Eu32.13,[X]Single episode of reactive depression,res76: Depression,diagnostic
+Read,1B1I111,C/O weepiness,res76: Depression,symptom
+Read,Eu33.15,[X]SAD - Seasonal affective disorder,res76: Depression,diagnostic
+Read,Eu32.11,[X]Single episode of depressive reaction,res76: Depression,diagnostic
+Read,Eu32100,[X]Moderate depressive episode,res76: Depression,diagnostic
+Read,1BT..00,Depressed mood,res76: Depression,symptom
+Read,E211200,Depressive personality disorder,res76: Depression,diagnostic
+Read,Eu32y11,[X]Atypical depression,res76: Depression,diagnostic
+Read,Eu32000,[X]Mild depressive episode,res76: Depression,diagnostic
+Read,Eu53011,[X]Postnatal depression NOS,res76: Depression,diagnostic
+Read,E291.00,Prolonged depressive reaction,res76: Depression,diagnostic
+Read,Eu53z00,"[X]Puerperal mental disorder, unspecified",res76: Depression,diagnostic
+Read,E11y200,Atypical depressive disorder,res76: Depression,diagnostic
+Read,Eu3y100,[X]Other recurrent mood affective disorders,res76: Depression,diagnostic

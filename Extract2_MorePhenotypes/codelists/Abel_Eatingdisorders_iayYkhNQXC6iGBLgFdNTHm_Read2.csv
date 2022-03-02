@@ -1,0 +1,36 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu50100,[X]Atypical anorexia nervosa,res76: Eating disorders,diagnostic
+Read,E275100,Bulimia (non-organic overeating),res76: Eating disorders,diagnostic
+Read,E264200,Cyclical vomiting - psychogenic,res76: Eating disorders,diagnostic
+Read,E271.00,Anorexia nervosa,res76: Eating disorders,diagnostic
+Read,R030.00,[D]Anorexia,res76: Eating disorders,diagnostic
+Read,R036011,[D]Bulimia NOS,res76: Eating disorders,diagnostic
+Read,1467.00,H/O: anorexia nervosa,res76: Eating disorders,diagnostic
+Read,Eu50.00,[X]Eating disorders,res76: Eating disorders,diagnostic
+Read,Eu50300,[X]Atypical bulimia nervosa,res76: Eating disorders,diagnostic
+Read,1612.00,Appetite loss - anorexia,res76: Eating disorders,symptom
+Read,E275z00,Non-organic eating disorder NOS,res76: Eating disorders,diagnostic
+Read,Eu50211,[X]Bulimia NOS,res76: Eating disorders,diagnostic
+Read,1612.11,Anorexia symptom,res76: Eating disorders,symptom
+Read,E275.00,Other and unspecified non-organic eating disorders,res76: Eating disorders,diagnostic
+Read,8HTN.00,Referral to eating disorders clinic,res76: Eating disorders,diagnostic
+Read,E275111,Compulsive eating disorder,res76: Eating disorders,diagnostic
+Read,Eu50200,[X]Bulimia nervosa,res76: Eating disorders,diagnostic
+Read,1614.12,Polyphagia symptom,res76: Eating disorders,symptom
+Read,R036.00,[D]Polyphagia,res76: Eating disorders,symptom
+Read,Z7D1200,Distorted body image,res76: Eating disorders,symptom
+Read,Eu50000,[X]Anorexia nervosa,res76: Eating disorders,diagnostic
+Read,1FF..00,Binge eating,res76: Eating disorders,diagnostic
+Read,Eu50212,[X]Hyperorexia nervosa,res76: Eating disorders,diagnostic
+Read,Eu50z00,"[X]Eating disorder, unspecified",res76: Eating disorders,diagnostic
+Read,1614.00,Excessive eating - polyphagia,res76: Eating disorders,symptom
+Read,Eu50y00,[X]Other eating disorders,res76: Eating disorders,diagnostic
+Read,9Nk9.00,Seen in eating disorder clinic,res76: Eating disorders,diagnostic
+Read,R030z00,[D]Anorexia NOS,res76: Eating disorders,diagnostic
+Read,E275000,Unspecified non-organic eating disorder,res76: Eating disorders,diagnostic
+Read,E275y00,Other specified non-organic eating disorder,res76: Eating disorders,diagnostic
+Read,R036z00,[D]Polyphagia NOS,res76: Eating disorders,symptom
+Read,Eu50y11,[X]Pica in adults,res76: Eating disorders,diagnostic
+Read,R036100,[D]Hyperalimentation,res76: Eating disorders,symptom
+Read,1G2..00,Dissatisfied with body image,res76: Eating disorders,symptom
+Read,1JZ..00,Suspected binge eating disorder,res76: Eating disorders,symptom

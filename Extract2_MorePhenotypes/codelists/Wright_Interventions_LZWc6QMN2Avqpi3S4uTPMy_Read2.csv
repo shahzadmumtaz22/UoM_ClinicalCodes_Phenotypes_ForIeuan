@@ -1,0 +1,173 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,8H76.00,Refer to dietician,res72: Interventions,diagnostic
+Read,9N0H.00,Seen in dietician clinic,res72: Interventions,diagnostic
+Read,138Z.00,Exercise grading NOS,res72: Interventions,diagnostic
+Read,6799,Health ed. - diet,res72: Interventions,diagnostic
+Read,13A..00,Diet - patient initiated,res72: Interventions,diagnostic
+Read,ZV65313,[V]Dietary counselling,res72: Interventions,diagnostic
+Read,ZV65312,[V]Dietary counselling in diabetes mellitus,res72: Interventions,diagnostic
+Read,ZL82.11,Refer to dietician,res72: Interventions,diagnostic
+Read,8B57.00,Weight reducing diet,res72: Interventions,diagnostic
+Read,8CA4700,Patient advised re low cholesterol diet,res72: Interventions,diagnostic
+Read,13B4.00,Lactose free diet,res72: Interventions,diagnostic
+Read,66C4.00,Has seen dietician - obesity,res72: Interventions,diagnostic
+Read,8CA4100,Pt advised re diabetic diet,res72: Interventions,diagnostic
+Read,ZC2C711,Dietary advice for weight reduction,res72: Interventions,diagnostic
+Read,ZC2C.00,Dietary advice for disorder,res72: Interventions,diagnostic
+Read,8CA4600,Pt advised re low fat diet,res72: Interventions,diagnostic
+Read,ZC2C700,Patient advised about weight-reducing diet,res72: Interventions,diagnostic
+Read,13AC.00,Diabetic weight reducing diet,res72: Interventions,diagnostic
+Read,138H.00,Enjoys intermediate exercise,res72: Interventions,diagnostic
+Read,ZL82.12,Refer to dietitian,res72: Interventions,diagnostic
+Read,ZC2CM00,Dietary advice for obesity,res72: Interventions,diagnostic
+Read,ZC2C800,Dietary advice for diabetes mellitus,res72: Interventions,diagnostic
+Read,8CA4z00,Pt advised re diet NOS,res72: Interventions,diagnostic
+Read,ZL82.00,Referral to dietitian,res72: Interventions,diagnostic
+Read,8CA4000,Pt advised re wt reducing diet,res72: Interventions,diagnostic
+Read,13A4.00,Low fat diet,res72: Interventions,diagnostic
+Read,ZLDH.00,Discharge by dietitian,res72: Interventions,diagnostic
+Read,ZV65317,[V]Dietary surveillance in hypercholesterolaemia,res72: Interventions,diagnostic
+Read,13A3.00,Weight reducing diet,res72: Interventions,diagnostic
+Read,13B1.00,Diabetic diet,res72: Interventions,diagnostic
+Read,9NNF.00,Under care of dietitian,res72: Interventions,diagnostic
+Read,66A8.00,Has seen dietician - diabetes,res72: Interventions,diagnostic
+Read,ZC2C100,Dietary treatment for disorder,res72: Interventions,diagnostic
+Read,8CE4.00,Diet leaflet given,res72: Interventions,diagnostic
+Read,03K1.00,Dietician,res72: Interventions,diagnostic
+Read,ZV65319,[V]Dietary counselling in obesity,res72: Interventions,diagnostic
+Read,ZV65300,[V]Dietary surveillance and counselling,res72: Interventions,diagnostic
+Read,13B..00,Diet - medical,res72: Interventions,diagnostic
+Read,ZRBB.11,DINE-Diet instr nutr educ ques,res72: Interventions,diagnostic
+Read,13AB.00,Diabetic lipid lowering diet,res72: Interventions,diagnostic
+Read,ZL45100,Under care of community-based dietitian,res72: Interventions,diagnostic
+Read,8CA4200,Pt advised re gluten free diet,res72: Interventions,diagnostic
+Read,ZL45.00,Under care of dietitian,res72: Interventions,diagnostic
+Read,8B5Z.00,Dietary regime NOS,res72: Interventions,diagnostic
+Read,8CA4900,Pt advised - lactose free diet,res72: Interventions,diagnostic
+Read,8B93.00,Low salt diet - prophylaxis,res72: Interventions,diagnostic
+Read,9NJ6.00,In-house dietetics,res72: Interventions,diagnostic
+Read,13AZ.00,Patient initiated diet NOS,res72: Interventions,diagnostic
+Read,1F11.00,Diet - low in fat,res72: Interventions,diagnostic
+Read,8B92.00,Low calorie diet - prophylaxis,res72: Interventions,diagnostic
+Read,ZL45211,Under care of hospital dietitian,res72: Interventions,diagnostic
+Read,ZC2CA00,Dietary advice for type II diabetes,res72: Interventions,diagnostic
+Read,ZL82100,Referral to community-based dietitian,res72: Interventions,diagnostic
+Read,1F7..00,Restricted diet pattern,res72: Interventions,diagnostic
+Read,ZC35.00,Dietary intake assessment using food diary,res72: Interventions,diagnostic
+Read,9N27.00,Seen by dietician,res72: Interventions,diagnostic
+Read,ZLDH111,Discharge by hospital dietitian,res72: Interventions,diagnostic
+Read,66AY.00,Diabetic diet - good compliance,res72: Interventions,diagnostic
+Read,ZC2CJ00,Dietary advice for hyperlipidaemia,res72: Interventions,diagnostic
+Read,ZC4..00,Dietary health promotion advice,res72: Interventions,diagnostic
+Read,ZC2..00,Dietary advice,res72: Interventions,diagnostic
+Read,ZL82211,Referral to hospital dietitian,res72: Interventions,diagnostic
+Read,ZL45111,Under care of community dietitian,res72: Interventions,diagnostic
+Read,ZL82111,Referral to community dietitian,res72: Interventions,diagnostic
+Read,ZV65318,[V]Dietary counselling in hypoglycaemia,res72: Interventions,diagnostic
+Read,ZL82200,Referral to hospital-based dietitian,res72: Interventions,diagnostic
+Read,66At111,Type 2 diabetic dietary review,res72: Interventions,diagnostic
+Read,ZC36.00,Diet in ass usng food fr quest,res72: Interventions,diagnostic
+Read,ZLDH100,Discharge by hospital-based dietitian,res72: Interventions,diagnostic
+Read,ZLDH200,Discharge by community-based dietitian,res72: Interventions,diagnostic
+Read,1F7Z.00,Dietary restriction NOS,res72: Interventions,diagnostic
+Read,ZLEH.00,Discharge from dietetics service,res72: Interventions,diagnostic
+Read,8CA4A00,Pt advis-low carbohydrate diet,res72: Interventions,diagnostic
+Read,ZLDH211,Discharge by community dietitian,res72: Interventions,diagnostic
+Read,ZC33.00,Dietary intake assessment using food models,res72: Interventions,diagnostic
+Read,ZL45200,Under care of hospital-based dietitian,res72: Interventions,diagnostic
+Read,ZC2CI00,Dietary advice for lipid disorder,res72: Interventions,diagnostic
+Read,ZLEH100,Discharge from hospital dietetics service,res72: Interventions,diagnostic
+Read,ZC2CO00,Dietary advice for weight loss,res72: Interventions,diagnostic
+Read,ZV65314,[V]Dietary surveillance,res72: Interventions,diagnostic
+Read,8B5C011,Very low calorie diet,res72: Interventions,diagnostic
+Read,138A.00,Aerobic exercise 2 times/week,res72: Interventions,diagnostic
+Read,8B91.00,Low carbohydrate diet -prophyl,res72: Interventions,diagnostic
+Read,ZLEH200,Discharge from community dietetics service,res72: Interventions,diagnostic
+Read,ZC2..11,Advice on diet,res72: Interventions,diagnostic
+Read,ZC2..12,Advice about diet,res72: Interventions,diagnostic
+Read,8B94.00,Salt free diet - prophylaxis,res72: Interventions,diagnostic
+Read,8B96.00,Unsaturated fat diet - prophyl,res72: Interventions,diagnostic
+Read,ZA11925,Advice on diet,res72: Interventions,diagnostic
+Read,1FH..00,Healthy diet,res72: Interventions,diagnostic
+Read,8B5A.00,Glycaemic index diet,res72: Interventions,diagnostic
+Read,9NJh.00,In-house dietetics first appointment,res72: Interventions,diagnostic
+Read,66At100,Type II diabetic dietary review,res72: Interventions,diagnostic
+Read,66At.00,Diabetic dietary review,res72: Interventions,diagnostic
+Read,67H7.00,Lifestyle advice regarding diet,res72: Interventions,diagnostic
+Read,138D.00,Anaerobic exercise 1 time/week,res72: Interventions,diagnostic
+Read,1385,Enjoys heavy exercise,res72: Interventions,diagnostic
+Read,8CA4V11,Dietary advice to maximise nutritional intake,res72: Interventions,diagnostic
+Read,8H76000,Referral to community dietician,res72: Interventions,diagnostic
+Read,8B5C.11,Low calorie diet,res72: Interventions,diagnostic
+Read,8B5C.00,Calorie restricted diet,res72: Interventions,diagnostic
+Read,8HgF.00,Discharge by dietitian,res72: Interventions,diagnostic
+Read,8HgL.00,Discharge from dietetics service,res72: Interventions,diagnostic
+Read,9NJi.00,In-house dietetics discharge appointment,res72: Interventions,diagnostic
+Read,1384,Enjoys moderate exercise,res72: Interventions,diagnostic
+Read,138..00,Exercise grading,res72: Interventions,diagnostic
+Read,9N6t.00,Referral by community-based dietitian,res72: Interventions,diagnostic
+Read,1383,Enjoys light exercise,res72: Interventions,diagnostic
+Read,8E7Z.00,Physical exercise NOS,res72: Interventions,diagnostic
+Read,6798,Health ed. - exercise,res72: Interventions,diagnostic
+Read,67H2.00,Lifestyle advice regarding exercise,res72: Interventions,diagnostic
+Read,8CA5.00,Patient advised re exercise,res72: Interventions,diagnostic
+Read,8BAH.00,Exercise on prescription,res72: Interventions,diagnostic
+Read,138F.00,Anaerobic exercise 3+ times/wk,res72: Interventions,diagnostic
+Read,138G.00,Attends exercise classes,res72: Interventions,diagnostic
+Read,Z68..00,Exercises,res72: Interventions,diagnostic
+Read,138B.00,Aerobic exercise 3+ times/week,res72: Interventions,diagnostic
+Read,8E7A.00,Group exercise programme,res72: Interventions,diagnostic
+Read,Z66..00,Exercise regime,res72: Interventions,diagnostic
+Read,ZG16.00,Advice about exercise,res72: Interventions,diagnostic
+Read,1389,Aerobic exercise 1 time/week,res72: Interventions,diagnostic
+Read,8E7..00,Physical exercises,res72: Interventions,diagnostic
+Read,ZG16100,Advice to exercise,res72: Interventions,diagnostic
+Read,8H7q.00,Referral for exercise therapy,res72: Interventions,diagnostic
+Read,8E79.00,Home exercise programme,res72: Interventions,diagnostic
+Read,8HHc.00,Referred for exercise programme,res72: Interventions,diagnostic
+Read,8E71.00,Therapeutic exercise,res72: Interventions,diagnostic
+Read,Z65B.00,Home exercise programme,res72: Interventions,diagnostic
+Read,8Hj0.00,Referral to diabetes structured education programme,res72: Interventions,diagnostic
+Read,679R.00,Patient offered diabetes structured education programme,res72: Interventions,diagnostic
+Read,Z658.00,Aerobic exercises,res72: Interventions,diagnostic
+Read,13CS.00,Physical activity target moderate exercise,res72: Interventions,diagnostic
+Read,Z6D3100,Aquaerobic exercises,res72: Interventions,diagnostic
+Read,8E72.00,Active exercise,res72: Interventions,diagnostic
+Read,138P.00,Aerobic exercise three times a week,res72: Interventions,diagnostic
+Read,8CA5200,Education about chair based exercise programme,res72: Interventions,diagnostic
+Read,8CA5000,Advice about aerobic exercise,res72: Interventions,diagnostic
+Read,8H7q000,Referral for graded exercise therapy,res72: Interventions,diagnostic
+Read,8E7C.00,Aerobic exercises,res72: Interventions,diagnostic
+Read,8HkX.00,Referral to exercise on referral programme,res72: Interventions,diagnostic
+Read,138E.00,Anaerobic exercise 2 times/wk,res72: Interventions,diagnostic
+Read,9OLB.00,Attended diabetes structured education programme,res72: Interventions,diagnostic
+Read,Z65..00,Exercise therapy,res72: Interventions,diagnostic
+Read,Z67..00,Exercise class,res72: Interventions,diagnostic
+Read,138R.00,Aerobic exercise five times a week,res72: Interventions,diagnostic
+Read,8E7B.00,Graded exercise therapy,res72: Interventions,diagnostic
+Read,8Hj5.00,Referral to XPERT diabetes structured education programme,res72: Interventions,diagnostic
+Read,9OLM.00,Diabetes structured education programme declined,res72: Interventions,diagnostic
+Read,8582,Free exercises in pool,res72: Interventions,diagnostic
+Read,8E8..00,Passive exercise,res72: Interventions,diagnostic
+Read,Z67..11,Group exercise,res72: Interventions,diagnostic
+Read,13CR.00,Physical activity target light exercise,res72: Interventions,diagnostic
+Read,Z6D1.00,Hydrotherapy exercises,res72: Interventions,diagnostic
+Read,8Hj4.00,Referral to DESMOND diabetes structured education programme,res72: Interventions,diagnostic
+Read,8E8Z.00,Passive exercise NOS,res72: Interventions,diagnostic
+Read,8581,Assisted exercise in pool,res72: Interventions,diagnostic
+Read,138Q.00,Aerobic exercise four times a week,res72: Interventions,diagnostic
+Read,9OLL.00,XPERT diabetes structured education programme completed,res72: Interventions,diagnostic
+Read,13CQ.00,Physical activity target minimal exercise,res72: Interventions,diagnostic
+Read,13CT.00,Physical activity target strenuous exercise,res72: Interventions,diagnostic
+Read,9OLK.00,DESMOND diabetes structured education programme completed,res72: Interventions,diagnostic
+Read,9OLC.00,Family/carer attended diabetes structured education prog,res72: Interventions,diagnostic
+Read,9OLF.00,Diabetes structured education programme completed,res72: Interventions,diagnostic
+Read,9OLG.00,Attended XPERT diabetes structured education programme,res72: Interventions,diagnostic
+Read,9NiD.00,Did not attend DESMOND diabetes structured education program,res72: Interventions,diagnostic
+Read,8I81.00,Did not complete diabetes structured education programme,res72: Interventions,diagnostic
+Read,9NiE.00,Did not attend XPERT diabetes structured education programme,res72: Interventions,diagnostic
+Read,8I84.00,Did not complete XPERT diabetes structured education program,res72: Interventions,diagnostic
+Read,67W1.00,Recommendation self-refer for diabetes structured education,res72: Interventions,diagnostic
+Read,9NiA.00,Did not attend diabetes structured education programme,res72: Interventions,diagnostic
+Read,8Hj1.00,Family/carer referral to diabetes structured education prog,res72: Interventions,diagnostic
+Read,8CA4.00,Patient advised re diet,res72: Interventions,diagnostic
