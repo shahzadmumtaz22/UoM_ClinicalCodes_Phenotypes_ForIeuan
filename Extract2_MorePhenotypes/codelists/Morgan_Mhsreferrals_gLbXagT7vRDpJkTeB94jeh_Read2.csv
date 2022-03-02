@@ -1,0 +1,42 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,8H23.00,Admit psychiatric emergency,res69: MHS referrals,diagnostic
+Read,64R7.11,Child refer- clinical psychol.,res69: MHS referrals,diagnostic
+Read,8H23000,Emerg psychiatric admiss MHA,res69: MHS referrals,diagnostic
+Read,8HVO.00,Private referral to psychiatrist,res69: MHS referrals,diagnostic
+Read,8HVi.00,Private referral to psychologist,res69: MHS referrals,diagnostic
+Read,8H49.00,Psychiatric referral,res69: MHS referrals,diagnostic
+Read,8HJ3.00,Psychiatric self-referral,res69: MHS referrals,diagnostic
+Read,8H7T.00,Refer to psychologist,res69: MHS referrals,diagnostic
+Read,ZL78.11,Refer to psychologist,res69: MHS referrals,diagnostic
+Read,ZL5B100,Referral to child and adolescent psychiatrist,res69: MHS referrals,diagnostic
+Read,8HHR.00,Referral to child and adolescent psychiatry service,res69: MHS referrals,diagnostic
+Read,8H4P.00,Referral to child psychiatrist,res69: MHS referrals,diagnostic
+Read,ZL5B111,Referral to child psychiatrist,res69: MHS referrals,diagnostic
+Read,8Hc0.00,Referral to community mental health team,res69: MHS referrals,diagnostic
+Read,8HlD.00,Referral to forensic psychiatrist,res69: MHS referrals,diagnostic
+Read,ZL5B200,Referral to forensic psychiatrist,res69: MHS referrals,diagnostic
+Read,8H4f.00,Referral to learning disabilities psychiatrist,res69: MHS referrals,diagnostic
+Read,ZL5B300,Referral to liaison psychiatrist,res69: MHS referrals,diagnostic
+Read,8Hc..00,Referral to mental health team,res69: MHS referrals,diagnostic
+Read,ZL62A00,Referral to nurse behavioural therapist,res69: MHS referrals,diagnostic
+Read,ZL62B00,Referral to nurse psychotherapist,res69: MHS referrals,diagnostic
+Read,8HHu.00,Referral to primary care mental health gateway worker,res69: MHS referrals,diagnostic
+Read,8HHv.00,Referral to primary care mental health graduate worker,res69: MHS referrals,diagnostic
+Read,8Hc2.00,Referral to primary care mental health team,res69: MHS referrals,diagnostic
+Read,ZL62E00,Referral to psychiatric nurse,res69: MHS referrals,diagnostic
+Read,ZL5B.00,Referral to psychiatrist,res69: MHS referrals,diagnostic
+Read,ZL5B500,Referral to psychiatrist for mental handicap,res69: MHS referrals,diagnostic
+Read,ZL78.00,Referral to psychologist,res69: MHS referrals,diagnostic
+Read,8HHs.00,Referral to psychosis early intervention service,res69: MHS referrals,diagnostic
+Read,ZL77.00,Referral to psychotherapist,res69: MHS referrals,diagnostic
+Read,8HHT.00,Referral to psychotherapist,res69: MHS referrals,diagnostic
+Read,ZL5B400,Referral to rehabilitation psychiatrist,res69: MHS referrals,diagnostic
+Read,8HlB.00,Urgent referral to psychiatrist,res69: MHS referrals,diagnostic
+Read,8H2L.00,Admit psychogeriatric emergency,res69: MHS referrals,diagnostic
+Read,8H2T.00,Emergency voluntary psychiatric admission Mental Health Act,res69: MHS referrals,diagnostic
+Read,8HVS.00,Private referral to psychogeriatrician,res69: MHS referrals,diagnostic
+Read,8H4D.00,Referral to psychogeriatrician,res69: MHS referrals,diagnostic
+Read,8H3Q.00,Non-urgent psychogeriatric admission,res69: MHS referrals,diagnostic
+Read,8H38.00,Non-urgent psychiatric admisn.,res69: MHS referrals,diagnostic
+Read,8HHn.00,Referral to non NHS mental health community service,res69: MHS referrals,diagnostic
+Read,8HHo.00,Referral to older age communiy mental health team,res69: MHS referrals,diagnostic

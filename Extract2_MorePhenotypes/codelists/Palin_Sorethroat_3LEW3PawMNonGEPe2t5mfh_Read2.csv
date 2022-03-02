@@ -1,0 +1,36 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,H023.00,Acute bacterial pharyngitis,res70: Sore throat,diagnostic
+Read,AA1z.12,Vincent's tonsillitis,res70: Sore throat,diagnostic
+Read,H021.00,Acute phlegmonous pharyngitis,res70: Sore throat,diagnostic
+Read,H03..12,Tonsillitis,res70: Sore throat,diagnostic
+Read,H022.00,Acute ulcerative pharyngitis,res70: Sore throat,diagnostic
+Read,AA1z.11,Vincent's laryngitis,res70: Sore throat,diagnostic
+Read,AA1z.00,Vincent's angina NOS,res70: Sore throat,diagnostic
+Read,AA12.00,Vincent's pharyngitis,res70: Sore throat,diagnostic
+Read,H035100,Acute staphylococcal tonsillitis,res70: Sore throat,diagnostic
+Read,H035.00,Acute bacterial tonsillitis,res70: Sore throat,diagnostic
+Read,1C9Z.00,Sore throat symptom NOS,res70: Sore throat,diagnostic
+Read,H035z00,Acute bacterial tonsillitis NOS,res70: Sore throat,diagnostic
+Read,1C9..11,Throat soreness,res70: Sore throat,diagnostic
+Read,1C9..00,Sore throat symptom,res70: Sore throat,diagnostic
+Read,H02..11,Sore throat NOS,res70: Sore throat,diagnostic
+Read,H030.00,Acute erythematous tonsillitis,res70: Sore throat,diagnostic
+Read,H02..13,Throat infection - pharyngitis,res70: Sore throat,diagnostic
+Read,H03..00,Acute tonsillitis,res70: Sore throat,diagnostic
+Read,H023z00,Acute bacterial pharyngitis NOS,res70: Sore throat,diagnostic
+Read,R041.00,[D]Throat pain,res70: Sore throat,diagnostic
+Read,H02z.00,Acute pharyngitis NOS,res70: Sore throat,diagnostic
+Read,H02..12,Viral sore throat NOS,res70: Sore throat,diagnostic
+Read,H02..00,Acute pharyngitis,res70: Sore throat,diagnostic
+Read,H14y600,Lingular tonsillitis,res70: Sore throat,diagnostic
+Read,H033.00,Acute catarrhal tonsillitis,res70: Sore throat,diagnostic
+Read,H14y500,Caseous tonsillitis,res70: Sore throat,diagnostic
+Read,H037.00,Recurrent acute tonsillitis,res70: Sore throat,diagnostic
+Read,H03..11,Throat infection - tonsillitis,res70: Sore throat,diagnostic
+Read,H032.00,Acute ulcerative tonsillitis,res70: Sore throat,diagnostic
+Read,AA1..11,Trench mouth,res70: Sore throat,diagnostic
+Read,H03z.00,Acute tonsillitis NOS,res70: Sore throat,diagnostic
+Read,H031.00,Acute follicular tonsillitis,res70: Sore throat,diagnostic
+Read,AA11.00,Vincent's gingivitis,res70: Sore throat,diagnostic
+Read,AA10.00,Vincent's stomatitis,res70: Sore throat,diagnostic
+Read,AA1..00,Vincent's angina,res70: Sore throat,diagnostic

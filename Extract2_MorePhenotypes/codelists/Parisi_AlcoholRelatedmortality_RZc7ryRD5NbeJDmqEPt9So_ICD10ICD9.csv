@@ -1,0 +1,19 @@
+Coding System (ICD-10 ICD-9),Codes,Description,Entity type,Category
+ICD-10,K86.0,Alcohol induced chronic pancreatitis,res61: Alcohol-related mortality,diagnostic
+ICD-10,K29.2,Alcoholic gastritis,res61: Alcohol-related mortality,diagnostic
+ICD-10,K73,"Chronic hepatitis, not elsewhere classified",res61: Alcohol-related mortality,diagnostic
+ICD-10,G62.1,Alcoholic polyneuropathy,res61: Alcohol-related mortality,diagnostic
+ICD-10,F10,Mental and behavioural disorders due to use of alcohol,res61: Alcohol-related mortality,diagnostic
+ICD-10,Y15,"Poisoning by and exposure to alcohol, undetermined intent",res61: Alcohol-related mortality,diagnostic
+ICD-10,X65,Intentional self-poisoning by and exposure to alcohol,res61: Alcohol-related mortality,diagnostic
+ICD-10,K70,Alcoholic liver disease,res61: Alcohol-related mortality,diagnostic
+ICD-10,I42.6,Alcoholic cardiomyopathy,res61: Alcohol-related mortality,diagnostic
+ICD-10,G31.2,Degeneration of nervous system due to alcohol,res61: Alcohol-related mortality,diagnostic
+ICD-10,K74,Fibrosis and cirrhosis of liver (Excluding K74.3?K74.5 - Biliary cirrhosis),res61: Alcohol-related mortality,diagnostic
+ICD-10,X45,Accidental poisoning by and exposure to alcohol,res61: Alcohol-related mortality,diagnostic
+ICD-9,291,Alcoholic psychoses,res61: Alcohol-related mortality,diagnostic
+ICD-9,571,Chronic liver disease and cirrhosis (Excluding 571.6 - Biliary cirrhosis),res61: Alcohol-related mortality,diagnostic
+ICD-9,303,Alcohol dependence syndrome,res61: Alcohol-related mortality,diagnostic
+ICD-9,305,Non-dependent abuse of alcohol,res61: Alcohol-related mortality,diagnostic
+ICD-9,E860,Accidental poisoning by alcohol,res61: Alcohol-related mortality,diagnostic
+ICD-9,425.5,Alcoholic cardiomyopathy,res61: Alcohol-related mortality,diagnostic

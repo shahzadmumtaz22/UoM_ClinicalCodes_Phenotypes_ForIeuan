@@ -1,0 +1,558 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,97087997,Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96111990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,83032998,Metformin 1g modified-release tablets,res67: Diabetes_Drug_Code,drug
+Read,81344998,METFORMIN HCL 1000mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,99514990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97087998,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,94235992,METFORMIN HCl 500 MG TAB,res67: Diabetes_Drug_Code,drug
+Read,98654990,Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,79510979,Metformin 850mg/5ml oral solution,res67: Diabetes_Drug_Code,drug
+Read,87883998,METFORMIN HCL 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,91221997,METFORMIN HCL 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,54786979,METFORMIN HCL 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96270990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98125989,Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,83619998,METFORMIN HCL 500mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,99513989,Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99590997,METFORMIN HCL 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96850990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97110989,Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,92983990,Metformin 500mg/5ml oral solution sugar free,res67: Diabetes_Drug_Code,drug
+Read,99149990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99513990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98125990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95271992,METFORMIN HCl 850 MG TAB,res67: Diabetes_Drug_Code,drug
+Read,58558979,METFORMIN HCL 500mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,98475998,ACARBOSE 50mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98915998,Acarbose 50mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98915997,Acarbose 100mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98475997,ACARBOSE 100mg tablets,res67: Diabetes_Drug_Code,drug
+Read,84697998,Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,82793998,LIRAGLUTIDE 6mg/mL pen,res67: Diabetes_Drug_Code,drug
+Read,84696998,Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,84694998,EXENATIDE 5mcg/0.02mL inj pen,res67: Diabetes_Drug_Code,drug
+Read,82794998,Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,81307998,Exenatide 2mg powder and solvent for suspension for injection vials,res67: Diabetes_Drug_Code,drug
+Read,84693998,EXENATIDE 10mcg/0.04mL inj pen,res67: Diabetes_Drug_Code,drug
+Read,81305998,EXENATIDE 2mg pdr+solv inj,res67: Diabetes_Drug_Code,drug
+Read,81159998,LINAGLIPTIN 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,81514998,Saxagliptin 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,84639998,SITAGLIPTIN 100mg tablets,res67: Diabetes_Drug_Code,drug
+Read,82573998,SAXAGLIPTIN 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,59371979,SITAGLIPTIN 50mg tablets,res67: Diabetes_Drug_Code,drug
+Read,82575998,Saxagliptin 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,81160998,Linagliptin 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,84338998,VILDAGLIPTIN 50mg tablets,res67: Diabetes_Drug_Code,drug
+Read,81513998,SAXAGLIPTIN 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,59373979,SITAGLIPTIN 25mg tablets,res67: Diabetes_Drug_Code,drug
+Read,84640998,Sitagliptin 100mg tablets,res67: Diabetes_Drug_Code,drug
+Read,59374979,Sitagliptin 25mg tablets,res67: Diabetes_Drug_Code,drug
+Read,59372979,Sitagliptin 50mg tablets,res67: Diabetes_Drug_Code,drug
+Read,84341998,Vildagliptin 50mg tablets,res67: Diabetes_Drug_Code,drug
+Read,87884998,PIOGLITAZONE 45mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88528998,Troglitazone 200mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,90048998,Rosiglitazone 2mg tablet,res67: Diabetes_Drug_Code,drug
+Read,92237997,Pioglitazone 30mg tablets,res67: Diabetes_Drug_Code,drug
+Read,89763996,Rosiglitazone 8mg tablets,res67: Diabetes_Drug_Code,drug
+Read,90048996,ROSIGLITAZONE 8mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88528996,Troglitazone 400mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,92238997,PIOGLITAZONE 30mg tablets,res67: Diabetes_Drug_Code,drug
+Read,90048997,ROSIGLITAZONE 4mg tablets,res67: Diabetes_Drug_Code,drug
+Read,92237998,Pioglitazone 15mg tablets,res67: Diabetes_Drug_Code,drug
+Read,92238998,PIOGLITAZONE 15mg tablets,res67: Diabetes_Drug_Code,drug
+Read,89763997,Rosiglitazone 4mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88523996,TROGLITAZONE 400mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88523998,TROGLITAZONE 200mg tablets,res67: Diabetes_Drug_Code,drug
+Read,87885998,Pioglitazone 45mg tablets,res67: Diabetes_Drug_Code,drug
+Read,53326979,Dapagliflozin 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,53328979,Dapagliflozin 10mg tablets,res67: Diabetes_Drug_Code,drug
+Read,53327979,DAPAGLIFLOZIN 10mg tablets,res67: Diabetes_Drug_Code,drug
+Read,53325979,DAPAGLIFLOZIN 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88131998,NATEGLINIDE 60mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88132996,Nateglinide 180mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88131997,NATEGLINIDE 120mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88131996,NATEGLINIDE 180mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88132997,Nateglinide 120mg tablets,res67: Diabetes_Drug_Code,drug
+Read,91924997,Repaglinide 1mg tablets,res67: Diabetes_Drug_Code,drug
+Read,91924998,Repaglinide 500microgram tablets,res67: Diabetes_Drug_Code,drug
+Read,85267998,REPAGLINIDE 1mg tablets,res67: Diabetes_Drug_Code,drug
+Read,92999979,Repaglinide 500microgram tablets,res67: Diabetes_Drug_Code,drug
+Read,85268998,REPAGLINIDE 0.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,85266998,REPAGLINIDE 2mg tablets,res67: Diabetes_Drug_Code,drug
+Read,91924996,Repaglinide 2mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88132998,Nateglinide 60mg tablets,res67: Diabetes_Drug_Code,drug
+Read,91908990,Repaglinide 500microgram tablets,res67: Diabetes_Drug_Code,drug
+Read,91923997,REPAGLINIDE 1mg tablets,res67: Diabetes_Drug_Code,drug
+Read,91923996,REPAGLINIDE 2mg tablets,res67: Diabetes_Drug_Code,drug
+Read,91923998,REPAGLINIDE 0.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,54905979,Linagliptin 2.5mg / Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,54904979,LINAGLIP/METFORM 2.5/850mg tab,res67: Diabetes_Drug_Code,drug
+Read,84009998,VILDA/METFORMIN 50/850mg tabs,res67: Diabetes_Drug_Code,drug
+Read,87182998,Rosiglitazone 2mg / Metformin 1g tablets,res67: Diabetes_Drug_Code,drug
+Read,87180998,ROSIGL 2mg/METFRMN 1000mg tab,res67: Diabetes_Drug_Code,drug
+Read,87774998,Metformin with rosiglitazone 500mg + 1mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,85625998,Pioglitazone 15mg / Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,87166998,Metformin with rosiglitazone 1000mg + 2mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,87179998,ROSIGL 4mg/METFRMN 1000mg tab,res67: Diabetes_Drug_Code,drug
+Read,84011998,Vildagliptin 50mg / Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,87181998,Rosiglitazone 4mg / Metformin 1g tablets,res67: Diabetes_Drug_Code,drug
+Read,87165998,Metformin with rosiglitazone 1000mg + 4mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,87772998,Metformin with rosiglitazone 500mg + 2mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,83401998,Metformin 1g / Sitagliptin 50mg tablets,res67: Diabetes_Drug_Code,drug
+Read,87771998,ROSIGLTZO/METFRMN 1/500mg tab,res67: Diabetes_Drug_Code,drug
+Read,87775998,Rosiglitazone 1mg / Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,85624998,Metformin with pioglitazone 850mg + 15mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,82068998,SITAG/METFORMIN 50/1000mg tabs,res67: Diabetes_Drug_Code,drug
+Read,87770998,ROSIGLTZN/METFRMN 2/500mg tab,res67: Diabetes_Drug_Code,drug
+Read,54906979,LINGLIP/METFORM 2.5/1000mg tab,res67: Diabetes_Drug_Code,drug
+Read,54907979,Linagliptin 2.5mg / Metformin 1g tablets,res67: Diabetes_Drug_Code,drug
+Read,87773998,Rosiglitazone 2mg / Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,85622998,METFMN 850mg/PIOGLIT 15mg tabs,res67: Diabetes_Drug_Code,drug
+Read,84008998,VILDA/METFORMIN 50/1000mg tabs,res67: Diabetes_Drug_Code,drug
+Read,84010998,Vildagliptin 50mg / Metformin 1g tablets,res67: Diabetes_Drug_Code,drug
+Read,86549998,INSULIN GLULISIN 100iu/mL cart,res67: Diabetes_Drug_Code,drug
+Read,86551998,INSULIN GLULISINE 100iu/mL vls,res67: Diabetes_Drug_Code,drug
+Read,96049998,Insulin soluble porcine 100units/ml solution for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,60064979,INSULIN ASPART 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,98474990,Insulin soluble bovine 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86047998,Insulin human 1mg inhalation powder blisters,res67: Diabetes_Drug_Code,drug
+Read,86046998,Insulin human 3mg inhalation powder blisters,res67: Diabetes_Drug_Code,drug
+Read,86319998,Insulin soluble human 100units/ml solution for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,83403998,INSULIN LISPRO 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86174998,Human insulin 100u/mL inj cart,res67: Diabetes_Drug_Code,drug
+Read,88999998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,86314998,NEUTRAL INSULIN 100iu/mL carts,res67: Diabetes_Drug_Code,drug
+Read,86312998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,91612998,INSULIN ASPART 100u/mL syrnge,res67: Diabetes_Drug_Code,drug
+Read,96787992,INSULIN HUMULIN S (NEUTRAL) CARTRIDGE 100 I/U,res67: Diabetes_Drug_Code,drug
+Read,86316998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,96048998,Insulin neutral human 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86185998,Insulin soluble porcine 100units/ml solution for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,90691998,Insulin soluble human pyr 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98480998,Insulin soluble porcine 100units/ml solution for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,81164998,INSULIN ASPART 100units/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86313998,Human Insulin 100u/mL inj pen,res67: Diabetes_Drug_Code,drug
+Read,94202992,INSULIN NEUSULIN (NEUTRAL)(PURIFIED) 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,86553998,Insulin glulisine 100unit/ml Solution for injection,res67: Diabetes_Drug_Code,drug
+Read,90379998,Insulin aspart human pyr 100 iu/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96047998,Insulin neutral human 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86215998,INSULIN GLULISINE 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86237998,Insulin glulisine 100units/ml solution for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,97602992,INSULIN SOLUBLE 40 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,98198998,INSULIN ASPART 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,90690998,Insulin soluble human emp 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96286992,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,95162992,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,93467992,INSULIN SOLUBLE INJ I/U^2,res67: Diabetes_Drug_Code,drug
+Read,99557998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,86044998,HUMAN INSULIN 3mg pdr for inh,res67: Diabetes_Drug_Code,drug
+Read,97322997,Human Insulin 100u/mL inj pen,res67: Diabetes_Drug_Code,drug
+Read,99976992,INSULIN SOLUBLE 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,88413998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,86255998,Insulin lispro 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,91274998,Human Insulin 100u/mL inj pen,res67: Diabetes_Drug_Code,drug
+Read,86045998,HUMAN INSULIN 1mg pdr for inh,res67: Diabetes_Drug_Code,drug
+Read,96688992,INSULIN NEUTRAL (HUMAN) 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,98227998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,87435979,INSULIN ASPART 100units/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86251998,INSULIN LISPRO 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,91509998,INSULIN ASPART 100units/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86184998,Insulin soluble porcine 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86214998,Insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,87434979,INSULIN ASPART 100units/mL pen,res67: Diabetes_Drug_Code,drug
+Read,97133992,CHLORPROPAMIDE 500 MG TAB,res67: Diabetes_Drug_Code,drug
+Read,86263998,Insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,86315998,Insulin soluble human 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,88003998,Insulin soluble human crb 100iu/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86176998,Insulin soluble bovine 100units/ml solution for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,99402998,INSULIN ASPART 100u/mL vial,res67: Diabetes_Drug_Code,drug
+Read,95158992,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,94292998,Insulin soluble human emp 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96295992,INSULIN QUICKSOL (SOLUBLE NEUTRAL) 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,90012998,Insulin lispro 100units/ml solution for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,93572979,INSULIN LISPRO 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,96290992,INSULIN NEUTRAL (PURIFIED) 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,86252998,INSULIN LISPRO 100iu/mL carts,res67: Diabetes_Drug_Code,drug
+Read,90689998,Insulin soluble human prb 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,94477992,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,94948998,Insulin soluble porcine 100units/ml solution for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,97322998,NEUTRAL INSULIN 100iu/mL carts,res67: Diabetes_Drug_Code,drug
+Read,90202979,Human Insulin 100u/mL inj pen,res67: Diabetes_Drug_Code,drug
+Read,96065998,Human insulin 100u/mL inj cart,res67: Diabetes_Drug_Code,drug
+Read,86183998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,87442979,INSULIN ASPART 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,86253998,INSULIN LISPRO 100iu/mL vials,res67: Diabetes_Drug_Code,drug
+Read,86182998,NEUTRAL INSULIN 100iu/mL carts,res67: Diabetes_Drug_Code,drug
+Read,96044992,INSULIN BP 100 I/U,res67: Diabetes_Drug_Code,drug
+Read,86317998,Insulin soluble human 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,99553998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,96050998,Neutral insulin bovine 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,90015998,INSULIN LISPRO 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86175998,Insulin soluble bovine cartridge 100unit/ml Solution for injection,res67: Diabetes_Drug_Code,drug
+Read,97525998,Human insulin 100u/mL inj cart,res67: Diabetes_Drug_Code,drug
+Read,98982998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,86254998,Insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,86256998,Insulin lispro 100units/ml solution for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,88851998,NEUTRAL INSULIN 100iu/mL carts,res67: Diabetes_Drug_Code,drug
+Read,86236998,Insulin glulisine 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86173998,NEUTRAL INSULIN 100iu/mL 10mL,res67: Diabetes_Drug_Code,drug
+Read,85591998,Insulin glulisine 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86265998,Insulin aspart 100units/ml solution for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,84421998,INSULIN GLULISINE 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86264998,Insulin aspart 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86169998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,90685998,Insulin zinc mixed human 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,96055998,Insulin isophane porcine 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86266998,Isoph insulin hum 100u/mL pen,res67: Diabetes_Drug_Code,drug
+Read,92376997,Insulin biphasic isophane human crb 25:75; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86249998,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,90684996,Insulin biphasic isophane human pyr 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,94322998,Insulin isophane human crb 100iu/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98228997,Insulin isophane human 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,97052996,Insulin biphasic isophane human prb 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96046992,INSULIN HUMULIN M4 CARTRIDGE 100 I/U,res67: Diabetes_Drug_Code,drug
+Read,96285992,INSULIN HYPURIN PROTAMINE ZINC 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,96291992,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,86309998,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86241998,Insulin glargine 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,91294997,Insulin isophane biphasic human 10/90 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,91700998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 5ml vials,res67: Diabetes_Drug_Code,drug
+Read,91292997,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,96058998,Insulin zinc suspension crystalline human pyr 100unit/ml long acting Injection,res67: Diabetes_Drug_Code,drug
+Read,86077998,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,86267998,Insulin isophane human 100units/ml suspension for injection 5ml vials,res67: Diabetes_Drug_Code,drug
+Read,90687998,Insulin isophane human prb 100iu/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86193998,Insulin isophane porcine 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86191998,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,81426998,Isoph insulin hum 100u/mL pen,res67: Diabetes_Drug_Code,drug
+Read,81963998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,86189998,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,86188998,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,84779998,INSULIN DETEMIR 100iu/mL syrg,res67: Diabetes_Drug_Code,drug
+Read,89990998,Insulin biphasic lispro human prb 25:75; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86306998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,96292992,INSULIN ISOPHANE (HIGHLY PURIFIED) 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,92376996,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 5ml vials,res67: Diabetes_Drug_Code,drug
+Read,89888998,Insulin biphasic isophane human emp 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,97051998,Insulin biphasic isophane human prb 40:60; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,89990997,Insulin biphasic lispro human prb 50:50; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,90169998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,99977992,INSULIN ISOPHANE 50%/NEUTRAL 50% 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,86268998,HUMAN ISOPH INS 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,82457998,Insulin lispro biphasic 25/75 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,96060998,Insulin zinc suspension mixed human pyr 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86275998,Insulin isophane human 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,91291997,Insulin isophane biphasic human 40/60 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,86028998,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86280998,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 5ml vials,res67: Diabetes_Drug_Code,drug
+Read,86078998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,86283998,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 5ml vials,res67: Diabetes_Drug_Code,drug
+Read,86284998,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,86294998,Insulin isophane biphasic human 40/60 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86291998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86295998,Insulin isophane biphasic human 40/60 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,91292996,Insulin biphasic isophane human pyr 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86298998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,86240998,INSULIN GLARGINE 100iu/mL vial,res67: Diabetes_Drug_Code,drug
+Read,99978992,INSULIN ISOPHANE (PURIFIED) 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,84422998,INSULIN GLARGINE 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,92323998,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,91273998,Insulin biphasic isophane human prb 40:60; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,97599992,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,86305998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,91290996,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,97527998,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,91295998,Isoph insulin hum 100u/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86259998,Biphas aspart 30/70 pen 3mL,res67: Diabetes_Drug_Code,drug
+Read,89668979,INSULIN GLARGINE 100iu/mL cart,res67: Diabetes_Drug_Code,drug
+Read,97052998,Insulin biphasic isophane human prb 10:90; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,99533998,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,89554998,Biphas aspart 30/70 pen 3mL,res67: Diabetes_Drug_Code,drug
+Read,86260998,Biphasic aspart 30/70 cart 3m,res67: Diabetes_Drug_Code,drug
+Read,86304998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,86186998,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,91505998,Insulin isophane human 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,87967998,Insulin biphasic isophane human prb 25:75; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,91275997,Insulin biphasic isophane human prb 20:80; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86029998,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,97053998,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,98225998,Insulin biphasic isophane human emp 50:50; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,95163992,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,86276998,Insulin isophane human vial 100unit/ml Sterile suspension injection,res67: Diabetes_Drug_Code,drug
+Read,86246998,Insulin detemir 100units/ml solution for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,87416979,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,96794992,INSULIN PUR-IN MIX 15/85 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,86242998,Insulin glargine 100units/ml solution for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,94298998,Insulin biphasic isophane human emp 25:75; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,93137992,INSULIN ISOPHANE (HUMAN) 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,86288998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,90697997,Insulin biphasic isophane human prb 20:80; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,99532998,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,98226998,Insulin biphasic isophane human emp 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86279998,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86243998,Insulin glargine 100units/ml solution for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,86274998,Insulin isophane human 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,91292998,Insulin biphasic isophane human pyr 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86308998,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86177998,ISOPHANE INSULIN 100iu/mL cart,res67: Diabetes_Drug_Code,drug
+Read,86190998,HUMAN ISOPH INS 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,81790998,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,91293997,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,97051997,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,86261998,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,86270998,ISOPHANE INSULIN 100iu/mL cart,res67: Diabetes_Drug_Code,drug
+Read,90698998,Insulin zinc suspension mixed bovine and porcine 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86248998,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,97600992,INSULIN BOVINE PROTAMINE ZINC 40 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,88995998,HUMAN ISOPH INS 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,93139992,INSULIN ISOPHANE 100 I/U,res67: Diabetes_Drug_Code,drug
+Read,90683997,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,92907998,Insulin biphasic isophane human pyr 40:60; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,94328998,Insulin biphasic isophane human pyr 20:80; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98228998,Isoph insulin hum 100u/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86282998,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,83405998,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,86262998,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,91275998,Insulin biphasic isophane human prb 10:90; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,97854998,Isoph insulin hum 100u/mL pen,res67: Diabetes_Drug_Code,drug
+Read,94337998,Insulin biphasic isophane human pyr 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96057998,Insulin zinc crystalline human 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,88978998,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,89640979,INSULIN GLARGINE 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,97526998,ISOPHANE INSULIN 100iu/mL cart,res67: Diabetes_Drug_Code,drug
+Read,91273997,Insulin biphasic isophane human prb 50:50; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,97127997,Glibenclamide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,90682998,Insulin biphasic isophane human prb 40:60; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,95168992,INSULIN SEMITARD 40 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,91291998,Insulin biphasic isophane human pyr 40:60; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96056998,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,97528998,Insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,96053997,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,90697998,Insulin biphasic isophane human prb 10:90; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,92932998,Insulin biphasic isophane human pyr 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86187998,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,86238998,INSULIN GLARGINE 100iu/mL cart,res67: Diabetes_Drug_Code,drug
+Read,86278998,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,90682997,Insulin biphasic isophane human prb 50:50; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98053990,Tolbutamide 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,87411979,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,96045998,Isophane insulin 100iu/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,90683998,Insulin biphasic isophane human pyr 40:60; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96284992,INSULIN HUMULIN M4 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,91294998,Insulin biphasic isophane human pyr 10:90; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,87472998,INSULIN DETEMIR 100iu/mL carts,res67: Diabetes_Drug_Code,drug
+Read,97052997,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,82458998,Insulin lispro biphasic 25/75 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,96046998,Insulin zinc mixed bovine 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,87471998,INSULIN DETEMIR 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,96064992,INSULIN SEMITARD 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,90684998,Insulin biphasic isophane human pyr 10:90; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86080998,HUMAN ISOPH INS 100u/mL syrng,res67: Diabetes_Drug_Code,drug
+Read,96548992,INSULIN HUMULIN M CARTRIDGE 100 I/U,res67: Diabetes_Drug_Code,drug
+Read,86311998,Insulin isophane biphasic human 10/90 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,99144998,Insulin zinc suspension amorphous porcine 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,94319998,Insulin biphasic isophane human pyr 10:90; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,99554998,Insulin isophane human prb 100iu/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98048990,Insulin isophane bovine 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,98817998,Insulin zinc crystalline human 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,97244992,INSULIN DEPO S.C.S. 5 400 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,90697996,Insulin biphasic isophane human prb 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,90168998,HUMAN ISOPH INS 100u/mL syrng,res67: Diabetes_Drug_Code,drug
+Read,86318998,Insulin soluble human 100units/ml solution for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,87365979,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,96283992,INSULIN ISOPHANE (NPH) 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,86303998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,91758998,Insulin glargine 100iu/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96689992,INSULIN ZINC CRYSTALLINE susp 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,91289998,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 5ml vials,res67: Diabetes_Drug_Code,drug
+Read,98481997,HUMAN ISOPH INS 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,92555998,INSULIN GLARGINE 100iu/mL vial,res67: Diabetes_Drug_Code,drug
+Read,89555998,Insulin biphasic aspart human pyr 30:70; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98228996,HUMAN ISOPH INS 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,91701998,Insulin biphasic isophane human crb 25:75; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96792992,INSULIN PUR-IN MIX 50/50 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,90686998,Insulin isophane human emp 100unit/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96294992,INSULIN ZINC BOVINE susp 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,95846992,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,86179998,Insulin isophane bovine 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,91276998,Isoph insulin hum 100u/mL pen,res67: Diabetes_Drug_Code,drug
+Read,86271998,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,96061998,Insulin zinc mixed bovine vial 100unit/ml Sterile suspension injection,res67: Diabetes_Drug_Code,drug
+Read,99415998,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,94436998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86178998,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,92906998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,94413998,Insulin biphasic isophane human pyr 40:60; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,97323998,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,86287998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,96289992,INSULIN NOVO ULTRATARD MC 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,96795992,INSULIN PUR-IN ISOPHANE 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,86239998,INSULIN GLARGINE 100iu/mL pen,res67: Diabetes_Drug_Code,drug
+Read,87473998,Insulin detemir 100 iu/ml Solution for injection,res67: Diabetes_Drug_Code,drug
+Read,99401998,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,81962998,Insulin isophane human 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,92909998,Insulin biphasic isophane human pyr 10:90; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,87385979,Insulin isophane human 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,86300998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,99668998,GLIBENCLAMIDE 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,87373979,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,99556998,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,91275996,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,96076992,INSULIN BOVINE PROTAMINE ZINC 100 I/U INJ,res67: Diabetes_Drug_Code,drug
+Read,81687998,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,96282992,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,86272998,INSULIN GLARGINE 100iu/mL cart,res67: Diabetes_Drug_Code,drug
+Read,99196998,Insulin biphasic 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,96051998,Insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,95164992,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,91293998,Insulin biphasic isophane human pyr 20:80; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98268998,Insulin zinc crystalline human 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,90688998,Insulin isophane human 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86301998,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86168998,HUMAN ISOPH INS 100u/mL cart,res67: Diabetes_Drug_Code,drug
+Read,92908998,Insulin biphasic isophane human pyr 20:80; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98505998,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,98525990,Insulin zinc mixed bovine 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,91290998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 1.5ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86180998,Insulin isophane bovine 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,98895998,Insulin biphasic lispro human prb 25:75; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,98481998,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,86247998,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,86081998,Insulin isophane human 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,96062998,Insulin biphasic 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,91290997,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,99480998,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,96287992,ISOPHANE INSULIN 100iu/mL 10m,res67: Diabetes_Drug_Code,drug
+Read,90684997,Insulin biphasic isophane human pyr 20:80; 100 units/ml Injection,res67: Diabetes_Drug_Code,drug
+Read,86250998,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86281998,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,83404998,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,86269998,Insulin isophane human 100units/ml suspension for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,86245998,Insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devices,res67: Diabetes_Drug_Code,drug
+Read,94201992,INSULN ZINC LENTE 100iu/mL in,res67: Diabetes_Drug_Code,drug
+Read,86310998,Insulin isophane biphasic human 10/90 100units/ml suspension for injection 3ml cartridges,res67: Diabetes_Drug_Code,drug
+Read,86286998,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml pre-filled disposable,res67: Diabetes_Drug_Code,drug
+Read,86194998,Insulin isophane porcine 100units/ml suspension for injection 10ml vials,res67: Diabetes_Drug_Code,drug
+Read,99588998,GLIBORNURIDE 25mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95674992,TOLBUTAMIDE 250 MG TAB,res67: Diabetes_Drug_Code,drug
+Read,96281998,GLIPIZIDE 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99145998,GLIBENCLAMIDE 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,83916998,GLICLAZIDE 30mg m/r tablets,res67: Diabetes_Drug_Code,drug
+Read,99787998,GLIBENCLAMIDE 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96280998,Gliquidone 30mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97537997,GLIBENCLAMIDE 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99582990,Glibenclamide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97583997,GLIBENCLAMIDE 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99754998,ACETOHEXAMIDE 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99347990,Tolbutamide 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97089998,TOLBUTAMIDE 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99246990,Chlorpropamide 100mg tablets,res67: Diabetes_Drug_Code,drug
+Read,94371992,TOLBUTAMIDE 100 MG TAB,res67: Diabetes_Drug_Code,drug
+Read,88449997,Glimepiride 1mg tablets,res67: Diabetes_Drug_Code,drug
+Read,86018998,Gliclazide 40mg/5ml oral suspension,res67: Diabetes_Drug_Code,drug
+Read,97032990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96981998,Acetohexamide 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88447996,GLIMEPIRIDE 3mg tablets,res67: Diabetes_Drug_Code,drug
+Read,83949998,GLICLAZIDE 30mg m/r tablets,res67: Diabetes_Drug_Code,drug
+Read,95149998,TOLAZAMIDE 100mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95150998,Tolazamide 100mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,88447997,GLIMEPIRIDE 1mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96282998,Glipizide 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97109998,Tolbutamide 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96893990,Glipizide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88447998,GLIMEPIRIDE 2mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96283998,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88449996,Glimepiride 3mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97202990,Glipizide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97938990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,82304998,Gliclazide 30mg modified-release tablets,res67: Diabetes_Drug_Code,drug
+Read,91407998,GLICLAZIDE 30mg m/r tablets,res67: Diabetes_Drug_Code,drug
+Read,98664990,Glibenclamide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99668997,GLIBENCLAMIDE 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,82137998,Gliclazide 40mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96427990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,85901998,Glibenclamide 5mg/5ml oral suspension,res67: Diabetes_Drug_Code,drug
+Read,95870992,BUTAMIDE CAP,res67: Diabetes_Drug_Code,drug
+Read,95150997,Tolazamide 250mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,97583998,GLIBENCLAMIDE 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97236992,DAONIL 10 MG TAB,res67: Diabetes_Drug_Code,drug
+Read,96755997,Chlorpropamide 250mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97889990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97026990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97537998,GLIBENCLAMIDE 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99349990,Tolbutamide 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88449998,Glimepiride 2mg tablets,res67: Diabetes_Drug_Code,drug
+Read,82136998,GLICLAZIDE 40mg tablets,res67: Diabetes_Drug_Code,drug
+Read,82989998,Gliclazide 30mg modified-release tablets,res67: Diabetes_Drug_Code,drug
+Read,96282997,Glipizide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96495990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97166990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97834990,Glipizide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,92831990,Gliclazide 30mg modified-release tablets,res67: Diabetes_Drug_Code,drug
+Read,97057997,GLIBENCLAMIDE 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97538990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96220990,Glibenclamide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96283997,Gliclazide 30mg modified-release tablets,res67: Diabetes_Drug_Code,drug
+Read,99764998,CHLORPROPAMIDE 100mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98188989,Chlorpropamide 250mg tablets,res67: Diabetes_Drug_Code,drug
+Read,81260998,Gliclazide 80mg/5ml oral suspension,res67: Diabetes_Drug_Code,drug
+Read,91559998,Glibornuride 25mg Tablet,res67: Diabetes_Drug_Code,drug
+Read,97303998,GLICLAZIDE 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97127998,Glibenclamide 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99591998,GLIPIZIDE 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98133990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99589998,GLIQUIDONE 30mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96687998,CHLORPROPAMIDE 250mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99764997,CHLORPROPAMIDE 250mg tablets,res67: Diabetes_Drug_Code,drug
+Read,96755998,Chlorpropamide 100mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95149997,TOLAZAMIDE 250mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99580990,Glibenclamide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97097997,GLIBENCLAMIDE 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99580989,Glibenclamide 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97057998,GLIBENCLAMIDE 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99582989,Glibenclamide 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97552990,Glibenclamide 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95898990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97590990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99419998,GLIPIZIDE 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,93545979,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98664989,Glibenclamide 2.5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88334998,GLIMEPIRIDE 4mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95025990,Gliclazide 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88355998,Glimepiride 4mg tablets,res67: Diabetes_Drug_Code,drug
+Read,88135998,GLICLAZIDE 80mg tablets,res67: Diabetes_Drug_Code,drug
+Read,97146990,Glipizide 5mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95672992,TOLBUTAMIDE 1 GM TAB,res67: Diabetes_Drug_Code,drug
+Read,99195998,TOLBUTAMIDE 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,99514989,Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,82917998,METFORMIN HCL 500mg/sachet pdr,res67: Diabetes_Drug_Code,drug
+Read,91221998,METFORMIN HCL 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,85555998,Metformin Oral solution,res67: Diabetes_Drug_Code,drug
+Read,89870979,Metformin 500mg modified-release tablets,res67: Diabetes_Drug_Code,drug
+Read,89129979,METFORMIN HCL 1000mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,82918998,Metformin 1g oral powder sachets sugar free,res67: Diabetes_Drug_Code,drug
+Read,83031998,METFORMIN HCL 1000mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,82916998,METFORMIN HCL 1000mg/sachet,res67: Diabetes_Drug_Code,drug
+Read,83732998,METFORMIN HCL 750mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,97110990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,94248990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,87536998,Metformin 100mg/ml Oral solution,res67: Diabetes_Drug_Code,drug
+Read,83733998,Metformin 750mg modified-release tablets,res67: Diabetes_Drug_Code,drug
+Read,87054998,Metformin 500mg modified-release tablets,res67: Diabetes_Drug_Code,drug
+Read,95272992,METFORMIN 250 MG TAB,res67: Diabetes_Drug_Code,drug
+Read,99590998,METFORMIN HCL 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,81158998,METFORMIN HCL 500mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,89868979,METFORMIN HCL 500mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,82919998,Metformin 500mg oral powder sachets sugar free,res67: Diabetes_Drug_Code,drug
+Read,87053998,METFORMIN HCL 500mg m/r tabs,res67: Diabetes_Drug_Code,drug
+Read,85673998,Metformin 500mg/5ml oral solution sugar free,res67: Diabetes_Drug_Code,drug
+Read,95880998,METFORMIN HCL 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95600990,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,81701998,METFORMIN HCL 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,95270992,METFORMIN 800 MG TAB,res67: Diabetes_Drug_Code,drug
+Read,98493990,Metformin 850mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98654989,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,98493989,Metformin 500mg tablets,res67: Diabetes_Drug_Code,drug
+Read,93167990,Metformin 500mg/5ml oral solution sugar free,res67: Diabetes_Drug_Code,drug
+Read,85674998,Metformin 500mg/5ml oral solution sugar free,res67: Diabetes_Drug_Code,drug

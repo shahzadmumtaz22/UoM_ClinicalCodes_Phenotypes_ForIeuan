@@ -1,0 +1,46 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,K76.0,"Fatty (change of) liver, not elsewhere classified",res69: mild_liver_disease,diagnostic
+ICD-10,B18,Chronic viral hepatitis,res69: mild_liver_disease,diagnostic
+ICD-10,K70.1,Alcoholic hepatitis,res69: mild_liver_disease,diagnostic
+ICD-10,K70.2,Alcoholic fibrosis and sclerosis of the liver,res69: mild_liver_disease,diagnostic
+ICD-10,K70.3,Alcoholic cirrhosis of the liver,res69: mild_liver_disease,diagnostic
+ICD-10,K73,"Chronic hepatitis, not elsewhere classified",res69: mild_liver_disease,diagnostic
+ICD-10,K70.0,Alcoholic fatty liver,res69: mild_liver_disease,diagnostic
+ICD-10,K74,Fibrosis and cirrhosis of liver,res69: mild_liver_disease,diagnostic
+ICD-10,K70.9,"Alcoholic liver disease, unspecified",res69: mild_liver_disease,diagnostic
+ICD-10,K71,Toxic liver disease,res69: mild_liver_disease,diagnostic
+Read,J61..00,Cirrhosis and chronic liver disease,res69: mild_liver_disease,diagnostic
+Read,J616000,Primary biliary cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J617000,Chronic alcoholic hepatitis,res69: mild_liver_disease,diagnostic
+Read,J616100,Secondary biliary cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J615300,Diffuse nodular cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J614y00,Chronic hepatitis unspecified,res69: mild_liver_disease,diagnostic
+Read,C310400,Glycogenosis with hepatic cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J614300,Recurrent hepatitis,res69: mild_liver_disease,diagnostic
+Read,J635600,Toxic liver disease with fibrosis and cirrhosis of liver,res69: mild_liver_disease,diagnostic
+Read,J616.00,Biliary cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J615400,Fatty portal cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J615100,Multilobular portal cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J615z13,Cirrhosis of liver NOS,res69: mild_liver_disease,diagnostic
+Read,J614.00,Chronic hepatitis,res69: mild_liver_disease,diagnostic
+Read,J615y00,Portal cirrhosis unspecified,res69: mild_liver_disease,diagnostic
+Read,C350012,Pigmentary cirrhosis of liver,res69: mild_liver_disease,diagnostic
+Read,J615z12,Cryptogenic cirrhosis of liver,res69: mild_liver_disease,diagnostic
+Read,J614z00,Chronic hepatitis NOS,res69: mild_liver_disease,diagnostic
+Read,J612.11,Florid cirrhosis,res69: mild_liver_disease,diagnostic
+Read,Jyu7100,[X]Other and unspecified cirrhosis of liver,res69: mild_liver_disease,diagnostic
+Read,J615700,Cardiac portal cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J615z00,Non-alcoholic cirrhosis NOS,res69: mild_liver_disease,diagnostic
+Read,J614100,Chronic active hepatitis,res69: mild_liver_disease,diagnostic
+Read,J612.00,Alcoholic cirrhosis of liver,res69: mild_liver_disease,diagnostic
+Read,J615z11,Macronodular cirrhosis of liver,res69: mild_liver_disease,diagnostic
+Read,J61y300,Portal fibrosis without cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J615C00,Xanthomatous portal cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J633.00,Hepatitis unspecified,res69: mild_liver_disease,diagnostic
+Read,J601200,Subacute yellow atrophy,res69: mild_liver_disease,diagnostic
+Read,J614200,Chronic aggressive hepatitis,res69: mild_liver_disease,diagnostic
+Read,J616z00,Biliary cirrhosis NOS,res69: mild_liver_disease,diagnostic
+Read,J615.00,Cirrhosis - non alcoholic,res69: mild_liver_disease,diagnostic
+Read,J600200,Acute yellow atrophy,res69: mild_liver_disease,diagnostic
+Read,J615.11,Portal cirrhosis,res69: mild_liver_disease,diagnostic
+Read,J614000,Chronic persistent hepatitis,res69: mild_liver_disease,diagnostic

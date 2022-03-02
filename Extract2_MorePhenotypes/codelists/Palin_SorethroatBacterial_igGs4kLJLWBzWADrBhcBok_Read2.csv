@@ -1,0 +1,14 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,J083600,Uvulitis,res70: Sore throat_bacterial,diagnostic
+Read,J083.00,Oral cellulitis and abscess,res70: Sore throat_bacterial,diagnostic
+Read,A340100,Streptococcal laryngitis,res70: Sore throat_bacterial,diagnostic
+Read,A341.00,Scarlet fever - scarlatina,res70: Sore throat_bacterial,diagnostic
+Read,A340.00,Streptococcal sore throat,res70: Sore throat_bacterial,diagnostic
+Read,A340000,Streptococcal angina,res70: Sore throat_bacterial,diagnostic
+Read,A340200,Streptococcal pharyngitis,res70: Sore throat_bacterial,diagnostic
+Read,A340300,Streptococcal tonsillitis,res70: Sore throat_bacterial,diagnostic
+Read,A341.12,Scarlatina,res70: Sore throat_bacterial,diagnostic
+Read,A341.11,Scarlet fever,res70: Sore throat_bacterial,diagnostic
+Read,A34..00,Streptococcal sore throat and scarlatina,res70: Sore throat_bacterial,diagnostic
+Read,A340z00,Streptococcal sore throat NOS,res70: Sore throat_bacterial,diagnostic
+Read,A34z.00,Streptococcal sore throat with scarlatina NOS,res70: Sore throat_bacterial,diagnostic

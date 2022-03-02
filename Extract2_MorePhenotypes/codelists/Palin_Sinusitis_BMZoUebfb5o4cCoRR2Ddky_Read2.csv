@@ -1,0 +1,26 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,H01z.00,Acute sinusitis NOS,res70: Sinusitis,diagnostic
+Read,H01yz00,Other acute sinusitis NOS,res70: Sinusitis,diagnostic
+Read,H13..00,Chronic sinusitis,res70: Sinusitis,diagnostic
+Read,H132.00,Chronic ethmoidal sinusitis,res70: Sinusitis,diagnostic
+Read,H012.00,Acute ethmoidal sinusitis,res70: Sinusitis,diagnostic
+Read,H01y.00,Other acute sinusitis,res70: Sinusitis,diagnostic
+Read,H010.00,Acute maxillary sinusitis,res70: Sinusitis,diagnostic
+Read,H014.00,Acute rhinosinusitis,res70: Sinusitis,diagnostic
+Read,H013.00,Acute sphenoidal sinusitis,res70: Sinusitis,diagnostic
+Read,H01..11,Sinusitis,res70: Sinusitis,diagnostic
+Read,H01..00,Acute sinusitis,res70: Sinusitis,diagnostic
+Read,H011.00,Acute frontal sinusitis,res70: Sinusitis,diagnostic
+Read,H131.00,Chronic frontal sinusitis,res70: Sinusitis,diagnostic
+Read,H130.12,Maxillary sinusitis,res70: Sinusitis,diagnostic
+Read,H130.11,Antritis - chronic,res70: Sinusitis,diagnostic
+Read,H130.00,Chronic maxillary sinusitis,res70: Sinusitis,diagnostic
+Read,H13..11,Chronic rhinosinusitis,res70: Sinusitis,diagnostic
+Read,H13y100,Pansinusitis,res70: Sinusitis,diagnostic
+Read,H13y000,Chronic pansinusitis,res70: Sinusitis,diagnostic
+Read,H131.11,Frontal sinusitis,res70: Sinusitis,diagnostic
+Read,H13yz00,Other chronic sinusitis NOS,res70: Sinusitis,diagnostic
+Read,H13z.00,Chronic sinusitis NOS,res70: Sinusitis,diagnostic
+Read,H13y.00,Other chronic sinusitis,res70: Sinusitis,diagnostic
+Read,H134.00,Fistula of nasal sinus,res70: Sinusitis,diagnostic
+Read,H135.00,Recurrent sinusitis,res70: Sinusitis,diagnostic

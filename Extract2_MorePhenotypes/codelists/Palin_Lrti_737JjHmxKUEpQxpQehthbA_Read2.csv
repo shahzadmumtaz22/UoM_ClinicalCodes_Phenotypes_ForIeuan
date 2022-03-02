@@ -1,0 +1,47 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,H061.00,Acute bronchiolitis,res70: LRTI,diagnostic
+Read,H060.00,Acute bronchitis,res70: LRTI,diagnostic
+Read,H060z00,Acute bronchitis NOS,res70: LRTI,diagnostic
+Read,H06..00,Acute bronchitis and bronchiolitis,res70: LRTI,diagnostic
+Read,H060.11,Acute wheezy bronchitis,res70: LRTI,diagnostic
+Read,H060500,Acute tracheobronchitis,res70: LRTI,diagnostic
+Read,H060x00,Acute bacterial bronchitis unspecified,res70: LRTI,diagnostic
+Read,H060400,Acute croupous bronchitis,res70: LRTI,diagnostic
+Read,H060000,Acute fibrinous bronchitis,res70: LRTI,diagnostic
+Read,H34z.00,Bronchiectasis NOS,res70: LRTI,diagnostic
+Read,H061300,Acute exudative bronchiolitis,res70: LRTI,diagnostic
+Read,H061200,Acute bronchiolitis with bronchospasm,res70: LRTI,diagnostic
+Read,H061000,Acute capillary bronchiolitis,res70: LRTI,diagnostic
+Read,H06z.00,Acute bronchitis or bronchiolitis NOS,res70: LRTI,diagnostic
+Read,H062.00,Acute lower respiratory tract infection,res70: LRTI,diagnostic
+Read,H061z00,Acute bronchiolitis NOS,res70: LRTI,diagnostic
+Read,H06z112,Acute lower respiratory tract infection,res70: LRTI,diagnostic
+Read,H06z000,Chest infection NOS,res70: LRTI,diagnostic
+Read,H06z111,Respiratory tract infection,res70: LRTI,diagnostic
+Read,H06z100,Lower resp tract infection,res70: LRTI,diagnostic
+Read,H06z011,Chest infection,res70: LRTI,diagnostic
+Read,H06z200,Recurrent chest infection,res70: LRTI,diagnostic
+Read,H24..11,Chest infection with infectious disease EC,res70: LRTI,diagnostic
+Read,H30..00,Bronchitis unspecified,res70: LRTI,diagnostic
+Read,H341.00,Post-infective bronchiectasis,res70: LRTI,diagnostic
+Read,H340.00,Recurrent bronchiectasis,res70: LRTI,diagnostic
+Read,H30..11,Chest infection - unspecified bronchitis,res70: LRTI,diagnostic
+Read,H34..00,Bronchiectasis,res70: LRTI,diagnostic
+Read,H300.00,Tracheobronchitis NOS,res70: LRTI,diagnostic
+Read,H30..12,Recurrent wheezy bronchitis,res70: LRTI,diagnostic
+Read,H301.00,Laryngotracheobronchitis,res70: LRTI,diagnostic
+Read,H30z.00,Bronchitis NOS,res70: LRTI,diagnostic
+Read,H302.00,Wheezy bronchitis,res70: LRTI,diagnostic
+Read,H501400,Purulent pleurisy,res70: LRTI,diagnostic
+Read,H501200,Pleural empyema,res70: LRTI,diagnostic
+Read,H500100,Empyema with bronchopleural fistula,res70: LRTI,diagnostic
+Read,H50..00,Empyema,res70: LRTI,diagnostic
+Read,H583200,Eosinophilic bronchitis,res70: LRTI,diagnostic
+Read,H510300,Acute dry pleurisy,res70: LRTI,diagnostic
+Read,H51..00,Pleurisy,res70: LRTI,diagnostic
+Read,H060300,Acute purulent bronchitis,res70: LRTI,diagnostic
+Read,H060600,Acute pneumococcal bronchitis,res70: LRTI,diagnostic
+Read,H060700,Acute streptococcal bronchitis,res70: LRTI,diagnostic
+Read,H060A00,Acute bronchitis due to mycoplasma pneumoniae,res70: LRTI,diagnostic
+Read,H060800,Acute haemophilus influenzae bronchitis,res70: LRTI,diagnostic
+Read,H510900,Pneumococcal pleurisy,res70: LRTI,diagnostic

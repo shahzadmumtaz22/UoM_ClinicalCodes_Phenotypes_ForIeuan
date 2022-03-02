@@ -1,0 +1,82 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,I60-I69,Cerebrovascular diseases,res69: cerebrovascular_disease,diagnostic
+ICD-10,G45,Transient cerebral ischaemic attacks and related syndromes,res69: cerebrovascular_disease,diagnostic
+ICD-10,G46,Vascular syndromes of brain in cerebrovascular diseases,res69: cerebrovascular_disease,diagnostic
+Read,G6z..00,Cerebrovascular disease NOS,res69: cerebrovascular_disease,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,res69: cerebrovascular_disease,diagnostic
+Read,G633.00,Multiple and bilateral precerebral arterial occlusion,res69: cerebrovascular_disease,diagnostic
+Read,G669.00,"Cerebral palsy, not congenital or infantile, acute",res69: cerebrovascular_disease,diagnostic
+Read,G65y.00,Other transient cerebral ischaemia,res69: cerebrovascular_disease,diagnostic
+Read,G601.00,Subarachnoid haemorrhage from carotid siphon and bifurcation,res69: cerebrovascular_disease,diagnostic
+Read,G603.00,Subarachnoid haemorrhage from anterior communicating artery,res69: cerebrovascular_disease,diagnostic
+Read,Gyu6.00,[X]Cerebrovascular diseases,res69: cerebrovascular_disease,diagnostic
+Read,662M.00,Stroke monitoring,res69: cerebrovascular_disease,diagnostic
+Read,G681.00,Sequelae of intracerebral haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G66..12,Stroke unspecified,res69: cerebrovascular_disease,diagnostic
+Read,7004300,Evacuation of intracerebral haematoma NEC,res69: cerebrovascular_disease,diagnostic
+Read,G63z.00,Precerebral artery occlusion NOS,res69: cerebrovascular_disease,diagnostic
+Read,S628.00,Traumatic subdural haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G61X100,"Right sided intracerebral haemorrhage, unspecified",res69: cerebrovascular_disease,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,res69: cerebrovascular_disease,diagnostic
+Read,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified",res69: cerebrovascular_disease,diagnostic
+Read,G65..00,Transient cerebral ischaemia,res69: cerebrovascular_disease,diagnostic
+Read,Gyu6100,[X]Other subarachnoid haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G60..00,Subarachnoid haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G62z.00,Intracranial haemorrhage NOS,res69: cerebrovascular_disease,diagnostic
+Read,G671.00,Generalised ischaemic cerebrovascular disease NOS,res69: cerebrovascular_disease,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,res69: cerebrovascular_disease,diagnostic
+Read,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries,res69: cerebrovascular_disease,diagnostic
+Read,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",res69: cerebrovascular_disease,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,res69: cerebrovascular_disease,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,res69: cerebrovascular_disease,diagnostic
+Read,G618.00,"Intracerebral haemorrhage, multiple localized",res69: cerebrovascular_disease,diagnostic
+Read,G66..11,CVA unspecified,res69: cerebrovascular_disease,diagnostic
+Read,G602.00,Subarachnoid haemorrhage from middle cerebral artery,res69: cerebrovascular_disease,diagnostic
+Read,G61..00,Intracerebral haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G65z.00,Transient cerebral ischaemia NOS,res69: cerebrovascular_disease,diagnostic
+Read,G663.00,Brain stem stroke syndrome,res69: cerebrovascular_disease,diagnostic
+Read,G6...00,Cerebrovascular disease,res69: cerebrovascular_disease,diagnostic
+Read,G67y.00,Other cerebrovascular disease OS,res69: cerebrovascular_disease,diagnostic
+Read,G60z.00,Subarachnoid haemorrhage NOS,res69: cerebrovascular_disease,diagnostic
+Read,F11x200,Cerebral degeneration due to cerebrovascular disease,res69: cerebrovascular_disease,diagnostic
+Read,G677400,Occlusion+stenosis of multiple and bilat cerebral arteries,res69: cerebrovascular_disease,diagnostic
+Read,G606.00,Subarachnoid haemorrhage from vertebral artery,res69: cerebrovascular_disease,diagnostic
+Read,G61X000,"Left sided intracerebral haemorrhage, unspecified",res69: cerebrovascular_disease,diagnostic
+Read,G667.00,Left sided CVA,res69: cerebrovascular_disease,diagnostic
+Read,S62..12,Subarachnoid haemorrhage following injury,res69: cerebrovascular_disease,diagnostic
+Read,G63..00,Precerebral arterial occlusion,res69: cerebrovascular_disease,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,res69: cerebrovascular_disease,diagnostic
+Read,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,res69: cerebrovascular_disease,diagnostic
+Read,G6y..00,Other specified cerebrovascular disease,res69: cerebrovascular_disease,diagnostic
+Read,G617.00,"Intracerebral haemorrhage, intraventricular",res69: cerebrovascular_disease,diagnostic
+Read,G623.00,Subdural haemorrhage NOS,res69: cerebrovascular_disease,diagnostic
+Read,G604.00,Subarachnoid haemorrhage from posterior communicating artery,res69: cerebrovascular_disease,diagnostic
+Read,G671z00,Generalised ischaemic cerebrovascular disease NOS,res69: cerebrovascular_disease,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,res69: cerebrovascular_disease,diagnostic
+Read,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,res69: cerebrovascular_disease,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,res69: cerebrovascular_disease,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,res69: cerebrovascular_disease,diagnostic
+Read,14A7.00,H/O: CVA/stroke,res69: cerebrovascular_disease,diagnostic
+Read,G68..00,Late effects of cerebrovascular disease,res69: cerebrovascular_disease,diagnostic
+Read,G600.00,Ruptured berry aneurysm,res69: cerebrovascular_disease,diagnostic
+Read,G680.00,Sequelae of subarachnoid haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G63y.00,Other precerebral artery occlusion,res69: cerebrovascular_disease,diagnostic
+Read,S627.00,Traumatic subarachnoid haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,res69: cerebrovascular_disease,diagnostic
+Read,G68W.00,Sequelae/other + unspecified cerebrovascular diseases,res69: cerebrovascular_disease,diagnostic
+Read,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",res69: cerebrovascular_disease,diagnostic
+Read,1477.00,H/O: cerebrovascular disease,res69: cerebrovascular_disease,diagnostic
+Read,G63..12,Stenosis of precerebral arteries,res69: cerebrovascular_disease,diagnostic
+Read,S620.00,Closed traumatic subarachnoid haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G67..00,Other cerebrovascular disease,res69: cerebrovascular_disease,diagnostic
+Read,G668.00,Right sided CVA,res69: cerebrovascular_disease,diagnostic
+Read,14A7.12,H/O: stroke,res69: cerebrovascular_disease,diagnostic
+Read,G613.00,Cerebellar haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G605.00,Subarachnoid haemorrhage from basilar artery,res69: cerebrovascular_disease,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G67z.00,Other cerebrovascular disease NOS,res69: cerebrovascular_disease,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,S621.00,Open traumatic subarachnoid haemorrhage,res69: cerebrovascular_disease,diagnostic
+Read,G65zz00,Transient cerebral ischaemia NOS,res69: cerebrovascular_disease,diagnostic
+Read,G660.00,Middle cerebral artery syndrome,res69: cerebrovascular_disease,diagnostic

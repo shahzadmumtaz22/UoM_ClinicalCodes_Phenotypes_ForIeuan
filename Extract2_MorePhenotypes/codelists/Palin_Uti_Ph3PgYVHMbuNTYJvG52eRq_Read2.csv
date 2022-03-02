@@ -1,0 +1,27 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,K190.11,Recurrent urinary tract infection,res70: UTI,diagnostic
+Read,L166.00,Genitourinary tract infections in pregnancy,res70: UTI,diagnostic
+Read,K190z00,"Urinary tract infection, site not specified NOS",res70: UTI,diagnostic
+Read,K190011,Asymptomatic bacteriuria,res70: UTI,diagnostic
+Read,K190000,"Bacteriuria, site not specified",res70: UTI,diagnostic
+Read,K190200,Post operative urinary tract infection,res70: UTI,diagnostic
+Read,K190500,Urinary tract infection,res70: UTI,diagnostic
+Read,K190311,Recurrent UTI,res70: UTI,diagnostic
+Read,K190300,Recurrent urinary tract infection,res70: UTI,diagnostic
+Read,L166.11,Cystitis of pregnancy,res70: UTI,diagnostic
+Read,L166800,Urinary tract infection complicating pregnancy,res70: UTI,diagnostic
+Read,L166600,Urinary tract infection following delivery,res70: UTI,diagnostic
+Read,L166100,Genitourinary tract infection in pregnancy - delivered,res70: UTI,diagnostic
+Read,L166000,Genitourinary tract infection in pregnancy unspecified,res70: UTI,diagnostic
+Read,L166500,Infections of kidney in pregnancy,res70: UTI,diagnostic
+Read,SP07Q11,CAUTI - catheter-associated urinary tract infection,res70: UTI,diagnostic
+Read,SP07Q00,Catheter-associated urinary tract infection,res70: UTI,diagnostic
+Read,L166z00,Genitourinary tract infection in pregnancy NOS,res70: UTI,diagnostic
+Read,L166z11,UTI - urinary tract infection in pregnancy,res70: UTI,diagnostic
+Read,1J4..00,Suspected UTI,res70: UTI,diagnostic
+Read,1AG..00,Recurrent urinary tract infections,res70: UTI,diagnostic
+Read,K15..00,Cystitis,res70: UTI,diagnostic
+Read,K15z.00,Cystitis NOS,res70: UTI,diagnostic
+Read,K155.00,Recurrent cystitis,res70: UTI,diagnostic
+Read,K150.00,Acute cystitis,res70: UTI,diagnostic
+Read,K190.00,"Urinary tract infection, site not specified",res70: UTI,diagnostic

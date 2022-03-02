@@ -1,0 +1,163 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,J40-J47,Chronic lower respiratory diseases,res69: chronic_pulmonary_disease,diagnostic
+ICD-10, J60-J67,Lung diseases due to external agents,res69: chronic_pulmonary_disease,diagnostic
+ICD-10, J68.4,"Chronic respiratory condtions due to chemicals, gases, fumes and vapours",res69: chronic_pulmonary_disease,diagnostic
+ICD-10, J70.1,Chronic and other pulmonary manifestations due to radiation,res69: chronic_pulmonary_disease,diagnostic
+ICD-10, J70.3,Chronic drug-indiced interstitial lung disorders,res69: chronic_pulmonary_disease,diagnostic
+ICD-10, J84.1,Other interstitial pulmonary diseases with fibrosis,res69: chronic_pulmonary_disease,diagnostic
+ICD-10, J92.0,Pleural plaque,res69: chronic_pulmonary_disease,diagnostic
+ICD-10,J96.1,Chronic respiratory failure,res69: chronic_pulmonary_disease,diagnostic
+ICD-10,J98.2,Interstitial emphysema,res69: chronic_pulmonary_disease,diagnostic
+ICD-10,J98.3,Compensatory emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H331.00,Intrinsic asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,663p.00,Asthma treatment compliance unsatisfactory,res69: chronic_pulmonary_disease,diagnostic
+Read,H464200,Chronic pulmonary fibrosis due to chemical fumes,res69: chronic_pulmonary_disease,diagnostic
+Read,H43..00,Pneumoconiosis due to other inorganic dust,res69: chronic_pulmonary_disease,diagnostic
+Read,H33zz13,Allergic bronchitis NEC,res69: chronic_pulmonary_disease,diagnostic
+Read,H31z.00,Chronic bronchitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H33zz12,Allergic asthma NEC,res69: chronic_pulmonary_disease,diagnostic
+Read,H320200,Giant bullous emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H352100,Pigeon-fanciers' lung,res69: chronic_pulmonary_disease,diagnostic
+Read,663s.00,Asthma never causes daytime symptoms,res69: chronic_pulmonary_disease,diagnostic
+Read,H581.00,Interstitial emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,663r.00,Asthma causes night symptoms 1 to 2 times per month,res69: chronic_pulmonary_disease,diagnostic
+Read,H434.00,Siderosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H353.00,Suberosis ( cork-handlers' lung ),res69: chronic_pulmonary_disease,diagnostic
+Read,H43z.00,Pneumoconiosis due to inorganic dust NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H352z00,Bird-fancier's lung NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H42z.00,Silica pneumoconiosis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,8H2P.00,"Emergency admission, asthma",res69: chronic_pulmonary_disease,diagnostic
+Read,H420.00,Talc pneumoconiosis,res69: chronic_pulmonary_disease,diagnostic
+Read,663N.00,Asthma disturbing sleep,res69: chronic_pulmonary_disease,diagnostic
+Read,H32y200,MacLeod's unilateral emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H330000,Extrinsic asthma without status asthmaticus,res69: chronic_pulmonary_disease,diagnostic
+Read,H432.00,Berylliosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H460.00,Bronchitis and pneumonitis due to chemical fumes,res69: chronic_pulmonary_disease,diagnostic
+Read,H322.00,Centrilobular emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,173c.00,Occupational asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H41..00,Asbestosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H423.00,Massive silicotic fibrosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H431.00,Bauxite fibrosis of lung,res69: chronic_pulmonary_disease,diagnostic
+Read,663V300,Severe asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H57y.00,Lung disease with diseases EC,res69: chronic_pulmonary_disease,diagnostic
+Read,H312011,Chronic wheezy bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H330.00,Extrinsic (atopic) asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H582.00,Compensatory emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,663P.00,Asthma limiting activities,res69: chronic_pulmonary_disease,diagnostic
+Read,H441.00,Cannabinosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H31y100,Chronic tracheobronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H35z100,Hypersensitivity pneumonitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,Hyu3000,[X]Other emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H35z.00,Allergic alveolitis and pneumonitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H330.14,Pollen asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H40..00,Coal workers' pneumoconiosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H30..00,Bronchitis unspecified,res69: chronic_pulmonary_disease,diagnostic
+Read,H4y1000,Chronic pulmonary fibrosis following radiation,res69: chronic_pulmonary_disease,diagnostic
+Read,H355.00,Mushroom workers' lung,res69: chronic_pulmonary_disease,diagnostic
+Read,H35..00,Extrinsic allergic alveolitis,res69: chronic_pulmonary_disease,diagnostic
+Read,663e.00,Asthma restricts exercise,res69: chronic_pulmonary_disease,diagnostic
+Read,663V000,Occasional asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,663u.00,Asthma causes daytime symptoms 1 to 2 times per week,res69: chronic_pulmonary_disease,diagnostic
+Read,14B4.00,H/O: asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H33..11,Bronchial asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H32y000,Acute vesicular emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H31yz00,Other chronic bronchitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H464000,Chronic emphysema due to chemical fumes,res69: chronic_pulmonary_disease,diagnostic
+Read,H32y.00,Other emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H31y.00,Other chronic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H311.00,Mucopurulent chronic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H331z00,Intrinsic asthma NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,663V200,Moderate asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,9OJ1.00,Attends asthma monitoring,res69: chronic_pulmonary_disease,diagnostic
+Read,663V100,Mild asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H31..00,Chronic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H352000,Budgerigar-fanciers' lung,res69: chronic_pulmonary_disease,diagnostic
+Read,H35y700,Wood asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H321.00,Panlobular emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,663W.00,Asthma prophylactic medication used,res69: chronic_pulmonary_disease,diagnostic
+Read,H310100,Smokers' cough,res69: chronic_pulmonary_disease,diagnostic
+Read,H311000,Purulent chronic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H330.12,Childhood asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H313.00,Mixed simple and mucopurulent chronic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H311100,Fetid chronic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H41z.00,Asbestosis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,663N100,Asthma disturbs sleep weekly,res69: chronic_pulmonary_disease,diagnostic
+Read,H35y500,Pituitary snuff-takers' disease,res69: chronic_pulmonary_disease,diagnostic
+Read,H350.00,Farmers' lung,res69: chronic_pulmonary_disease,diagnostic
+Read,1O2..00,Asthma confirmed,res69: chronic_pulmonary_disease,diagnostic
+Read,H310.00,Simple chronic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H30..11,Chest infection - unspecified bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H410.00,Pleural plaque disease due to asbestosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H460z00,Bronchitis and pneumonitis due to chemical fumes NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,L4930LO,,res69: chronic_pulmonary_disease,diagnostic
+Read,H312.00,Obstructive chronic bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H33z.00,Asthma unspecified,res69: chronic_pulmonary_disease,diagnostic
+Read,Hyu4000,[X]Pneumoconiosis due to other dust containing silica,res69: chronic_pulmonary_disease,diagnostic
+Read,H333.00,Acute exacerbation of asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H331111,Intrinsic asthma with asthma attack,res69: chronic_pulmonary_disease,diagnostic
+Read,H320.00,Chronic bullous emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H330z00,Extrinsic asthma NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H30z.00,Bronchitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H57yz00,Lung disease with diseases EC NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H310000,Chronic catarrhal bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H320000,Segmental bullous emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H320z00,Chronic bullous emphysema NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H35zz00,Allergic alveolitis and pneumonitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,663e100,Asthma severely restricts exercise,res69: chronic_pulmonary_disease,diagnostic
+Read,H331100,Intrinsic asthma with status asthmaticus,res69: chronic_pulmonary_disease,diagnostic
+Read,H45..00,Pneumoconiosis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H33z111,Asthma attack NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H33z011,Severe asthma attack,res69: chronic_pulmonary_disease,diagnostic
+Read,H4z..00,Lung disease due to external agents NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,9OJA.11,Asthma monitored,res69: chronic_pulmonary_disease,diagnostic
+Read,Hyu4300,[X]Hypersensitivity pneumonitis due to other organic dusts,res69: chronic_pulmonary_disease,diagnostic
+Read,SK07.00,Subcutaneous emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H352.00,Bird-fancier's lung,res69: chronic_pulmonary_disease,diagnostic
+Read,H300.00,Tracheobronchitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,663f.00,Asthma never restricts exercise,res69: chronic_pulmonary_disease,diagnostic
+Read,H34z.00,Bronchiectasis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H47y000,Detergent asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H435.00,Stannosis,res69: chronic_pulmonary_disease,diagnostic
+Read,663h.00,Asthma - currently dormant,res69: chronic_pulmonary_disease,diagnostic
+Read,H351.00,Bagassosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H35y600,Sequoiosis (red-cedar asthma),res69: chronic_pulmonary_disease,diagnostic
+Read,H33..00,Asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H330011,Hay fever with asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H340.00,Recurrent bronchiectasis,res69: chronic_pulmonary_disease,diagnostic
+Read,H35y.00,Other allergic alveolitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H312z00,Obstructive chronic bronchitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,1761,C/O bronchial catarrh,res69: chronic_pulmonary_disease,diagnostic
+Read,H331.11,Late onset asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H341.00,Post-infective bronchiectasis,res69: chronic_pulmonary_disease,diagnostic
+Read,H32..00,Emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H334.00,Brittle asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,66YC.00,Absent from work or school due to asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H32y100,Atrophic (senile) emphysema,res69: chronic_pulmonary_disease,diagnostic
+Read,H354.00,Malt workers' lung,res69: chronic_pulmonary_disease,diagnostic
+Read,H34..00,Bronchiectasis,res69: chronic_pulmonary_disease,diagnostic
+Read,66YP.00,Asthma night-time symptoms,res69: chronic_pulmonary_disease,diagnostic
+Read,H311z00,Mucopurulent chronic bronchitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H33zz11,Exercise induced asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H42..00,Silica and silicate pneumoconiosis,res69: chronic_pulmonary_disease,diagnostic
+Read,663q.00,Asthma daytime symptoms,res69: chronic_pulmonary_disease,diagnostic
+Read,H464100,Obliterative bronchiolitis due to chemical fumes,res69: chronic_pulmonary_disease,diagnostic
+Read,H33z200,Late-onset asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,663v.00,Asthma causes daytime symptoms most days,res69: chronic_pulmonary_disease,diagnostic
+Read,H33z000,Status asthmaticus NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H332.00,Mixed asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H440.00,Byssinosis,res69: chronic_pulmonary_disease,diagnostic
+Read,H312100,Emphysematous bronchitis,res69: chronic_pulmonary_disease,diagnostic
+Read,H32yz00,Other emphysema NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,663t.00,Asthma causes daytime symptoms 1 to 2 times per month,res69: chronic_pulmonary_disease,diagnostic
+Read,173A.00,Exercise induced asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,H35yz00,Other allergic alveolitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H3z..11,Chronic obstructive pulmonary disease NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H32z.00,Emphysema NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H331000,Intrinsic asthma without status asthmaticus,res69: chronic_pulmonary_disease,diagnostic
+Read,H330.13,Hay fever with asthma,res69: chronic_pulmonary_disease,diagnostic
+Read,663w.00,Asthma limits walking up hills or stairs,res69: chronic_pulmonary_disease,diagnostic
+Read,H310z00,Simple chronic bronchitis NOS,res69: chronic_pulmonary_disease,diagnostic
+Read,H330111,Extrinsic asthma with asthma attack,res69: chronic_pulmonary_disease,diagnostic
+Read,H356.00,Maple bark strippers' lung,res69: chronic_pulmonary_disease,diagnostic
+Read,663N000,Asthma causing night waking,res69: chronic_pulmonary_disease,diagnostic

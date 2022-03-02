@@ -1,0 +1,41 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,H042.00,Acute laryngotracheitis,res70: URTI,diagnostic
+Read,H041z00,Acute tracheitis NOS,res70: URTI,diagnostic
+Read,H0...00,Acute respiratory infections,res70: URTI,diagnostic
+Read,H040100,Acute ulcerative laryngitis,res70: URTI,diagnostic
+Read,H041100,Acute tracheitis with obstruction,res70: URTI,diagnostic
+Read,H04..00,Acute laryngitis and tracheitis,res70: URTI,diagnostic
+Read,H040000,Acute oedematous laryngitis,res70: URTI,diagnostic
+Read,H040.00,Acute laryngitis,res70: URTI,diagnostic
+Read,H041000,Acute tracheitis without obstruction,res70: URTI,diagnostic
+Read,H040200,Acute catarrhal laryngitis,res70: URTI,diagnostic
+Read,H040300,Acute phlegmonous laryngitis,res70: URTI,diagnostic
+Read,H041.00,Acute tracheitis,res70: URTI,diagnostic
+Read,H040z00,Acute laryngitis NOS,res70: URTI,diagnostic
+Read,H054.00,Recurrent upper respiratory tract infection,res70: URTI,diagnostic
+Read,H043000,Acute epiglottitis without obstruction,res70: URTI,diagnostic
+Read,H042.11,Laryngotracheitis,res70: URTI,diagnostic
+Read,H043.00,Acute epiglottitis (non strep),res70: URTI,diagnostic
+Read,H042000,Acute laryngotracheitis without obstruction,res70: URTI,diagnostic
+Read,H042z00,Acute laryngotracheitis NOS,res70: URTI,diagnostic
+Read,H042100,Acute laryngotracheitis with obstruction,res70: URTI,diagnostic
+Read,H05..00,Other acute upper respiratory infections,res70: URTI,diagnostic
+Read,H04z.00,Acute laryngitis and tracheitis NOS,res70: URTI,diagnostic
+Read,H043z00,Acute epiglottitis NOS,res70: URTI,diagnostic
+Read,H043200,Acute obstructive laryngitis,res70: URTI,diagnostic
+Read,H050.00,Acute laryngopharyngitis,res70: URTI,diagnostic
+Read,H053.00,Tracheopharyngitis,res70: URTI,diagnostic
+Read,H052.00,Pharyngotracheitis,res70: URTI,diagnostic
+Read,H051.00,Acute upper respiratory tract infection,res70: URTI,diagnostic
+Read,H055.00,Pharyngolaryngitis,res70: URTI,diagnostic
+Read,H160100,Chronic catarrhal laryngitis,res70: URTI,diagnostic
+Read,H05y.00,Other upper respiratory infections of multiple sites,res70: URTI,diagnostic
+Read,H0z..00,Acute respiratory infection NOS,res70: URTI,diagnostic
+Read,H05z.00,Upper respiratory infection NOS,res70: URTI,diagnostic
+Read,H0y..00,Other specified acute respiratory infections,res70: URTI,diagnostic
+Read,H05z.11,Upper respiratory tract infection NOS,res70: URTI,diagnostic
+Read,H040600,Acute suppurative laryngitis,res70: URTI,diagnostic
+Read,Hyu0.00,[X]Acute upper respiratory infections,res70: URTI,diagnostic
+Read,H040x00,Acute bacterial laryngitis unspecified,res70: URTI,diagnostic
+Read,Hyu0200,[X]Acute tonsillitis due to other specified organisms,res70: URTI,diagnostic
+Read,Hyu0100,[X]Acute pharyngitis due to other specified organisms,res70: URTI,diagnostic

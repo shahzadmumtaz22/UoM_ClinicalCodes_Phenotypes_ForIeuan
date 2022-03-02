@@ -1,0 +1,17 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,G81,Hemiplegia,res69: hemiplegia,diagnostic
+ICD-10,G82,Paraplegia and tetraplegia,res69: hemiplegia,diagnostic
+Read,2835.00,O/E - paraplegia,res69: hemiplegia,diagnostic
+Read,F22z.00,Hemiplegia NOS,res69: hemiplegia,diagnostic
+Read,F241100,Spastic paraplegia,res69: hemiplegia,diagnostic
+Read,F220.00,Flaccid hemiplegia,res69: hemiplegia,diagnostic
+Read,F230000,Congenital paraplegia,res69: hemiplegia,diagnostic
+Read,F241000,Flaccid paraplegia,res69: hemiplegia,diagnostic
+Read,F223.00,Right hemiplegia,res69: hemiplegia,diagnostic
+Read,F22..00,Hemiplegia,res69: hemiplegia,diagnostic
+Read,F141.00,Hereditary spastic paraplegia,res69: hemiplegia,diagnostic
+Read,F222.00,Left hemiplegia,res69: hemiplegia,diagnostic
+Read,F230.11,Paraplegia - congenital,res69: hemiplegia,diagnostic
+Read,F221.00,Spastic hemiplegia,res69: hemiplegia,diagnostic
+Read,2833.00,O/E - hemiplegia,res69: hemiplegia,diagnostic
+Read,F241.00,Paraplegia,res69: hemiplegia,diagnostic

@@ -1,0 +1,74 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,N02,Recurrent and persistent haematuria,res69: renal_disease,diagnostic
+ICD-10,N00,Acute nephritic syndrome,res69: renal_disease,diagnostic
+ICD-10,N04,Nephrotic syndrome,res69: renal_disease,diagnostic
+ICD-10,N03,Chronic nephritic syndrome,res69: renal_disease,diagnostic
+ICD-10,I13,Hypertensive heart and renal disease,res69: renal_disease,diagnostic
+ICD-10,I12,Hypertensive renal disease,res69: renal_disease,diagnostic
+ICD-10,N01,Rapidly progressive nephritic syndrome,res69: renal_disease,diagnostic
+ICD-10,N07,"Herediatry nephropathy, not elsewhere classified",res69: renal_disease,diagnostic
+ICD-10,N05,Unspecified nephritic syndrome,res69: renal_disease,diagnostic
+ICD-10,N11,Chronic tubulo-interstitial nephritis,res69: renal_disease,diagnostic
+ICD-10,Q61,Cystic kidney disease,res69: renal_disease,diagnostic
+ICD-10,N17-N19,Renal failure,res69: renal_disease,diagnostic
+ICD-10,N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,res69: renal_disease,diagnostic
+Read,K02y000,Chronic glomerulonephritis + diseases EC,res69: renal_disease,diagnostic
+Read,K101000,Acute pyelonephritis without medullary necrosis,res69: renal_disease,diagnostic
+Read,1Z10.00,Chronic kidney disease stage 1,res69: renal_disease,diagnostic
+Read,K032z00,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS,res69: renal_disease,diagnostic
+Read,K032y14,Mesangiocapillary glomerulonephritis NEC,res69: renal_disease,diagnostic
+Read,K0A3700,Chronic nephritic syn diffuse crescentic glomerulonephritis,res69: renal_disease,diagnostic
+Read,K012.00,Nephrotic syndrome+membranoproliferative glomerulonephritis,res69: renal_disease,diagnostic
+Read,K080200,Renal infantilism,res69: renal_disease,diagnostic
+Read,K100100,Chronic pyelonephritis with medullary necrosis,res69: renal_disease,diagnostic
+Read,K080300,Renal rickets,res69: renal_disease,diagnostic
+Read,K0A3500,Chronic neph syn difus mesangiocapillary glomerulonephritis,res69: renal_disease,diagnostic
+Read,K02y300,Chronic diffuse glomerulonephritis,res69: renal_disease,diagnostic
+Read,K022.00,Chronic membranoproliferative glomerulonephritis,res69: renal_disease,diagnostic
+Read,K080.00,Renal osteodystrophy,res69: renal_disease,diagnostic
+Read,K035.00,Renal medullary necrosis unspecified,res69: renal_disease,diagnostic
+Read,K08yz00,Other impaired renal function disorder NOS,res69: renal_disease,diagnostic
+Read,K080z00,Renal osteodystrophy NOS,res69: renal_disease,diagnostic
+Read,K080000,Phosphate-losing tubular disorders,res69: renal_disease,diagnostic
+Read,Kyu2100,[X]Other chronic renal failure,res69: renal_disease,diagnostic
+Read,K032000,Focal membranoproliferative glomerulonephritis,res69: renal_disease,diagnostic
+Read,K042.00,Acute renal medullary necrosis,res69: renal_disease,diagnostic
+Read,K041.00,Acute renal cortical necrosis,res69: renal_disease,diagnostic
+Read,K05..00,Chronic renal failure,res69: renal_disease,diagnostic
+Read,K021.00,Chronic membranous glomerulonephritis,res69: renal_disease,diagnostic
+Read,1Z11.00,Chronic kidney disease stage 2,res69: renal_disease,diagnostic
+Read,K019.00,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis",res69: renal_disease,diagnostic
+Read,K04z.00,Acute renal failure NOS,res69: renal_disease,diagnostic
+Read,K032.00,Membranoproliferative nephritis unspecified,res69: renal_disease,diagnostic
+Read,K06..00,Renal failure unspecified,res69: renal_disease,diagnostic
+Read,K032y00,Nephritis unsp+OS membranoprolif glomerulonephritis lesion,res69: renal_disease,diagnostic
+Read,K081.00,Nephrogenic diabetes insipidus,res69: renal_disease,diagnostic
+Read,K001.00,Acute nephritis with lesions of necrotising glomerulitis,res69: renal_disease,diagnostic
+Read,K03..00,Nephritis and nephropathy unspecified,res69: renal_disease,diagnostic
+Read,K03..11,Nephritis and nephropathy unspecified,res69: renal_disease,diagnostic
+Read,1Z14.00,Chronic kidney disease stage 5,res69: renal_disease,diagnostic
+Read,14D1.00,H/O: nephritis,res69: renal_disease,diagnostic
+Read,K0A3200,Chron nephritic syndrom difuse membranous glomerulonephritis,res69: renal_disease,diagnostic
+Read,K02z.00,Chronic glomerulonephritis NOS,res69: renal_disease,diagnostic
+Read,K08y000,Hypokalaemic nephropathy,res69: renal_disease,diagnostic
+Read,K0A5500,[X]Heredtry nephrpthy NEC difus mesangiocapilry glomneph,res69: renal_disease,diagnostic
+Read,K04y.00,Other acute renal failure,res69: renal_disease,diagnostic
+Read,K02..12,Nephropathy - chronic,res69: renal_disease,diagnostic
+Read,Kyu2.00,[X]Renal failure,res69: renal_disease,diagnostic
+Read,K050.00,End stage renal failure,res69: renal_disease,diagnostic
+Read,K023.00,Chronic rapidly progressive glomerulonephritis,res69: renal_disease,diagnostic
+Read,1Z13.00,Chronic kidney disease stage 4,res69: renal_disease,diagnostic
+Read,K02yz00,Other chronic glomerulonephritis NOS,res69: renal_disease,diagnostic
+Read,K0...00,"Nephritis, nephrosis and nephrotic syndrome",res69: renal_disease,diagnostic
+Read,K02..11,Nephritis - chronic,res69: renal_disease,diagnostic
+Read,K02..00,Chronic glomerulonephritis,res69: renal_disease,diagnostic
+Read,K034.00,Renal cortical necrosis unspecified,res69: renal_disease,diagnostic
+Read,K080100,Renal dwarfism,res69: renal_disease,diagnostic
+Read,Kyu2000,[X]Other acute renal failure,res69: renal_disease,diagnostic
+Read,1Z12.00,Chronic kidney disease stage 3,res69: renal_disease,diagnostic
+Read,K032y13,Mesangioproliferative glomerulonephritis NEC,res69: renal_disease,diagnostic
+Read,K100000,Chronic pyelonephritis without medullary necrosis,res69: renal_disease,diagnostic
+Read,K060.11,Impaired renal function,res69: renal_disease,diagnostic
+Read,K08z.00,Impaired renal function disorder NOS,res69: renal_disease,diagnostic
+Read,K02y200,Chronic focal glomerulonephritis,res69: renal_disease,diagnostic
+Read,K0A3300,Chron neph syn difus mesangial prolifrtiv glomerulonephritis,res69: renal_disease,diagnostic

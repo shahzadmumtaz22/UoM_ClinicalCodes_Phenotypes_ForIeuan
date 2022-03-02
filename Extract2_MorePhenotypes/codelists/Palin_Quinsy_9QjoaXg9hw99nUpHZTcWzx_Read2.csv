@@ -1,0 +1,3 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,H15..11,Quinsy,res70: Quinsy,diagnostic
+Read,H15..00,Peritonsillar abscess - quinsy,res70: Quinsy,diagnostic

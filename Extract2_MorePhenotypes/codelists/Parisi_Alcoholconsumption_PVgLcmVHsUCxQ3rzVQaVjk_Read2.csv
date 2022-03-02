@@ -1,0 +1,192 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E230300,"Acute alcoholic intoxication in remission, in alcoholism",res61: alcohol consumption,diagnostic
+Read,E230z00,Acute alcoholic intoxication in alcoholism NOS,res61: alcohol consumption,diagnostic
+Read,E231.00,Chronic alcoholism,res61: alcohol consumption,diagnostic
+Read,E231.11,Dipsomania,res61: alcohol consumption,diagnostic
+Read,E231000,Unspecified chronic alcoholism,res61: alcohol consumption,diagnostic
+Read,E231100,Continuous chronic alcoholism,res61: alcohol consumption,diagnostic
+Read,E231200,Episodic chronic alcoholism,res61: alcohol consumption,diagnostic
+Read,E231300,Chronic alcoholism in remission,res61: alcohol consumption,diagnostic
+Read,E231z00,Chronic alcoholism NOS,res61: alcohol consumption,diagnostic
+Read,E23z.00,Alcohol dependence syndrome NOS,res61: alcohol consumption,diagnostic
+Read,E250.00,Nondependent alcohol abuse,res61: alcohol consumption,diagnostic
+Read,E250.11,Drunkenness NOS,res61: alcohol consumption,diagnostic
+Read,E250.12,Hangover (alcohol),res61: alcohol consumption,diagnostic
+Read,E250.13,Inebriety NOS,res61: alcohol consumption,diagnostic
+Read,E250.14,Intoxication - alcohol,res61: alcohol consumption,diagnostic
+Read,E250000,"Nondependent alcohol abuse, unspecified",res61: alcohol consumption,diagnostic
+Read,E250100,"Nondependent alcohol abuse, continuous",res61: alcohol consumption,diagnostic
+Read,E250200,"Nondependent alcohol abuse, episodic",res61: alcohol consumption,diagnostic
+Read,E250300,Nondependent alcohol abuse in remission,res61: alcohol consumption,diagnostic
+Read,E250z00,Nondependent alcohol abuse NOS,res61: alcohol consumption,diagnostic
+Read,Eu10.00,[X]Mental and behavioural disorders due to use of alcohol,res61: alcohol consumption,diagnostic
+Read,Eu10000,[X]Mental & behav dis due to use alcohol: acute intoxication,res61: alcohol consumption,diagnostic
+Read,Eu10011,[X]Acute alcoholic drunkenness,res61: alcohol consumption,diagnostic
+Read,Eu10100,[X]Mental and behav dis due to use of alcohol: harmful use,res61: alcohol consumption,diagnostic
+Read,Eu10200,[X]Mental and behav dis due to use alcohol: dependence syndr,res61: alcohol consumption,diagnostic
+Read,Eu10211,[X]Alcohol addiction,res61: alcohol consumption,diagnostic
+Read,Eu10212,[X]Chronic alcoholism,res61: alcohol consumption,diagnostic
+Read,Eu10213,[X]Dipsomania,res61: alcohol consumption,diagnostic
+Read,Eu10300,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state,res61: alcohol consumption,diagnostic
+Read,Eu10400,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium,res61: alcohol consumption,diagnostic
+Read,Eu10411,"[x]delirium tremens, alcohol induced",res61: alcohol consumption,diagnostic
+Read,Eu10500,[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder,res61: alcohol consumption,diagnostic
+Read,Eu10511,[X]Alcoholic hallucinosis,res61: alcohol consumption,diagnostic
+Read,Eu10512,[x]alcoholic jealousy,res61: alcohol consumption,diagnostic
+Read,Eu10513,[X]Alcoholic paranoia,res61: alcohol consumption,diagnostic
+Read,Eu10514,[X]Alcoholic psychosis NOS,res61: alcohol consumption,diagnostic
+Read,Eu10600,[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome,res61: alcohol consumption,diagnostic
+Read,Eu10611,"[x]korsakov's psychosis, alcohol induced",res61: alcohol consumption,diagnostic
+Read,Eu10700,[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorde,res61: alcohol consumption,diagnostic
+Read,Eu10711,[X]Alcoholic dementia NOS,res61: alcohol consumption,diagnostic
+Read,Eu10712,[X]Chronic alcoholic brain syndrome,res61: alcohol consumption,diagnostic
+Read,Eu10800,[X]Alcohol withdrawal-induced seizure,res61: alcohol consumption,diagnostic
+Read,Eu10y00,[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders,res61: alcohol consumption,diagnostic
+Read,Eu10z00,[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disord,res61: alcohol consumption,diagnostic
+Read,F11x000,Cerebral degeneration due to alcoholism,res61: alcohol consumption,diagnostic
+Read,F11x011,Alcoholic encephalopathy,res61: alcohol consumption,diagnostic
+Read,F144000,Cerebellar ataxia due to alcoholism,res61: alcohol consumption,diagnostic
+Read,F25B.00,Alcohol-induced epilepsy,res61: alcohol consumption,diagnostic
+Read,F375.00,Alcoholic polyneuropathy,res61: alcohol consumption,diagnostic
+Read,F394100,Alcoholic myopathy,res61: alcohol consumption,diagnostic
+Read,G555.00,Alcoholic cardiomyopathy,res61: alcohol consumption,diagnostic
+Read,G852300,Oesophageal varices in alcoholic cirrhosis of the liver,res61: alcohol consumption,diagnostic
+Read,J153.00,Alcoholic gastritis,res61: alcohol consumption,diagnostic
+Read,J610.00,Alcoholic fatty liver,res61: alcohol consumption,diagnostic
+Read,1361,Teetotaller,res61: alcohol consumption,diagnostic
+Read,J611.00,Acute alcoholic hepatitis,res61: alcohol consumption,diagnostic
+Read,J612.00,Alcoholic cirrhosis of liver,res61: alcohol consumption,diagnostic
+Read,1361.11,Non drinker alcohol,res61: alcohol consumption,diagnostic
+Read,1361.12,Non-drinker alcohol,res61: alcohol consumption,diagnostic
+Read,J612000,Alcoholic fibrosis and sclerosis of liver,res61: alcohol consumption,diagnostic
+Read,J613.00,Alcoholic liver damage unspecified,res61: alcohol consumption,diagnostic
+Read,J613000,Alcoholic hepatic failure,res61: alcohol consumption,diagnostic
+Read,J617.00,Alcoholic hepatitis,res61: alcohol consumption,diagnostic
+Read,1362,Trivial drinker - <1u/day,res61: alcohol consumption,diagnostic
+Read,J617000,Chronic alcoholic hepatitis,res61: alcohol consumption,diagnostic
+Read,J671000,Alcohol-induced chronic pancreatitis,res61: alcohol consumption,diagnostic
+Read,1362.11,Drinks rarely,res61: alcohol consumption,diagnostic
+Read,L255300,Maternal care for (suspected) damage to fetus from alcohol,res61: alcohol consumption,diagnostic
+Read,R103.00,[D]Alcohol blood level excessive,res61: alcohol consumption,diagnostic
+Read,1362.12,Drinks occasionally,res61: alcohol consumption,diagnostic
+Read,1363,Light drinker - 1-2u/day,res61: alcohol consumption,diagnostic
+Read,1364,Moderate drinker - 3-6u/day,res61: alcohol consumption,diagnostic
+Read,1365,Heavy drinker - 7-9u/day,res61: alcohol consumption,diagnostic
+Read,SM0..00,Alcohol causing toxic effect,res61: alcohol consumption,diagnostic
+Read,SM00.00,Ethyl alcohol causing toxic effect,res61: alcohol consumption,diagnostic
+Read,SM00z00,Ethyl alcohol causing toxic effect NOS,res61: alcohol consumption,diagnostic
+Read,SM0z.00,Alcohol causing toxic effect NOS,res61: alcohol consumption,diagnostic
+Read,U60H300,[X]Alcohol deterrents causing adverse effects in therapeutic use,res61: alcohol consumption,diagnostic
+Read,U60H311,[X] Adverse reaction to alcohol deterrents,res61: alcohol consumption,diagnostic
+Read,U81..00,[X]Evid of alcohol involv determind by level of intoxication,res61: alcohol consumption,diagnostic
+Read,Z191.00,alcohol detoxification,res61: alcohol consumption,diagnostic
+Read,1366,Very heavy drinker - >9u/day,res61: alcohol consumption,diagnostic
+Read,1367,Stopped drinking alcohol,res61: alcohol consumption,diagnostic
+Read,Z191100,alcohol withdrawal regime,res61: alcohol consumption,diagnostic
+Read,Z191200,Planned reduction of alcohol consumption,res61: alcohol consumption,diagnostic
+Read,Z191211,alcohol reduction programme,res61: alcohol consumption,diagnostic
+Read,Z191400,Self-monitoring of alcohol intake,res61: alcohol consumption,diagnostic
+Read,1462,H/O: alcoholism,res61: alcohol consumption,diagnostic
+Read,Z4B1.00,Alcoholism counselling,res61: alcohol consumption,diagnostic
+Read,ZC22200,Advice to change alcoholic drink intake,res61: alcohol consumption,diagnostic
+Read,2577,O/E - breath - alcohol smell,res61: alcohol consumption,diagnostic
+Read,ZC2H.00,Advice to change alcohol intake,res61: alcohol consumption,diagnostic
+Read,ZG23100,Advice on alcohol consumption,res61: alcohol consumption,diagnostic
+Read,2577.11,O/E - alcoholic breath,res61: alcohol consumption,diagnostic
+Read,136..00,Alcohol consumption,res61: alcohol consumption,diagnostic
+Read,ZR1E.00,Alcohol dependence scale,res61: alcohol consumption,diagnostic
+Read,ZR1E.11,ads - alcohol dependence scale,res61: alcohol consumption,diagnostic
+Read,ZR1G.00,Alcohol use inventory,res61: alcohol consumption,diagnostic
+Read,ZRa1100,Brief Michigan alcoholism screening test,res61: alcohol consumption,diagnostic
+Read,136A.00,Ex-trivial drinker (<1u/day),res61: alcohol consumption,diagnostic
+Read,ZRk6.00,Severity of alcohol dependence questionnaire,res61: alcohol consumption,diagnostic
+Read,ZRk6.11,SADQ - Severity of alcohol dependence questionnaire,res61: alcohol consumption,diagnostic
+Read,136a.00,Increasing risk drinking,res61: alcohol consumption,diagnostic
+Read,ZV11300,[V]Personal history of alcoholism,res61: alcohol consumption,diagnostic
+Read,ZV11311,[V]Problems related to lifestyle alcohol use,res61: alcohol consumption,diagnostic
+Read,136B.00,Ex-light drinker - (1-2u/day),res61: alcohol consumption,diagnostic
+Read,136b.00,Feels should cut down drinking,res61: alcohol consumption,diagnostic
+Read,ZV4KC00,[V] Alcohol use,res61: alcohol consumption,diagnostic
+Read,ZV57A00,[V]Alcohol rehabilitation,res61: alcohol consumption,diagnostic
+Read,ZV6D600,[V]Alcohol abuse counselling and surveillance,res61: alcohol consumption,diagnostic
+Read,136C.00,Ex-moderate drinker - (3-6u/d),res61: alcohol consumption,diagnostic
+Read,136c.00,Higher risk drinking,res61: alcohol consumption,diagnostic
+Read,136D.00,Ex-heavy drinker - (7-9u/day),res61: alcohol consumption,diagnostic
+Read,136d.00,Lower risk drinking,res61: alcohol consumption,diagnostic
+Read,136E.00,Ex-very heavy drinker-(>9u/d),res61: alcohol consumption,diagnostic
+Read,136F.00,Spirit drinker,res61: alcohol consumption,diagnostic
+Read,136G.00,Beer drinker,res61: alcohol consumption,diagnostic
+Read,136H.00,Drinks beer and spirits,res61: alcohol consumption,diagnostic
+Read,136I.00,Drinks wine,res61: alcohol consumption,diagnostic
+Read,136J.00,Social drinker,res61: alcohol consumption,diagnostic
+Read,136K.00,Alcohol intake above recommended sensible limits,res61: alcohol consumption,diagnostic
+Read,136L.00,Alcohol intake within recommended sensible limits,res61: alcohol consumption,diagnostic
+Read,136M.00,Current non drinker,res61: alcohol consumption,diagnostic
+Read,136N.00,Light drinker,res61: alcohol consumption,diagnostic
+Read,136O.00,Moderate drinker,res61: alcohol consumption,diagnostic
+Read,136P.00,Heavy drinker,res61: alcohol consumption,diagnostic
+Read,136Q.00,Very heavy drinker,res61: alcohol consumption,diagnostic
+Read,136R.00,Binge drinker,res61: alcohol consumption,diagnostic
+Read,136S.00,Hazardous alcohol use,res61: alcohol consumption,diagnostic
+Read,136T.00,Harmful alcohol use,res61: alcohol consumption,diagnostic
+Read,136V.00,Alcohol units per week,res61: alcohol consumption,diagnostic
+Read,136W.00,Alcohol misuse,res61: alcohol consumption,diagnostic
+Read,136X.00,Alcohol units consumed on heaviest drinking day,res61: alcohol consumption,diagnostic
+Read,136Y.00,Drinks in morning to get rid of hangover,res61: alcohol consumption,diagnostic
+Read,136Z.00,Alcohol consumption NOS,res61: alcohol consumption,diagnostic
+Read,13Y8.00,Alcoholics anonymous,res61: alcohol consumption,diagnostic
+Read,13ZY.00,Disqualified from driving due to excess alcohol,res61: alcohol consumption,diagnostic
+Read,1B1c.00,Alcohol induced hallucinations,res61: alcohol consumption,diagnostic
+Read,1D19.00,Pain in lymph nodes after alcohol consumption,res61: alcohol consumption,diagnostic
+Read,38Dz.00,Severity of alcohol dependence questionnaire,res61: alcohol consumption,diagnostic
+Read,38Dz.11,SADQ - Severity of alcohol dependence questionnaire,res61: alcohol consumption,diagnostic
+Read,63C7.00,Maternal alcohol abuse,res61: alcohol consumption,diagnostic
+Read,66e..00,Alcohol disorder monitoring,res61: alcohol consumption,diagnostic
+Read,66e0.00,alcohol abuse monitoring,res61: alcohol consumption,diagnostic
+Read,7P22100,Delivery of rehabilitation for alcohol addiction,res61: alcohol consumption,diagnostic
+Read,8BA8.00,alcohol detoxification,res61: alcohol consumption,diagnostic
+Read,8CAM000,Advised to abstain from alcohol consumption,res61: alcohol consumption,diagnostic
+Read,8CAv.00,advised to contact primary care alcohol worker,res61: alcohol consumption,diagnostic
+Read,8G32.00,Aversion therapy - alcoholism,res61: alcohol consumption,diagnostic
+Read,8H35.00,admitted to alcohol detoxification centre,res61: alcohol consumption,diagnostic
+Read,8H7p.00,Referral to community alcohol team,res61: alcohol consumption,diagnostic
+Read,8HHe.00,Referral to community drug and alcohol team,res61: alcohol consumption,diagnostic
+Read,8HkG.00,Referral to specialist alcohol treatment service,res61: alcohol consumption,diagnostic
+Read,8HkJ.00,Referral to alcohol brief intervention service,res61: alcohol consumption,diagnostic
+Read,8IAF.00,brief intervention for excessive alcohol consumptn declined,res61: alcohol consumption,diagnostic
+Read,8IAJ.00,declined referral to specialist alcohol treatment service,res61: alcohol consumption,diagnostic
+Read,8IAt.00,Extended intervention for excessive alcohol consumption declined,res61: alcohol consumption,diagnostic
+Read,9EQ..11,Police:venesect-alcohol,res61: alcohol consumption,diagnostic
+Read,9k1..00,Alcohol misuse - enhanced services administration,res61: alcohol consumption,diagnostic
+Read,9k11.00,Alcohol consumption counselling,res61: alcohol consumption,diagnostic
+Read,9k12.00,Alcohol misuse - enhanced service completed,res61: alcohol consumption,diagnostic
+Read,9k19.00,Alcohol assesment declined - enhanced services admin,res61: alcohol consumption,diagnostic
+Read,9k1A.00,Brief intervention for excessive alcohol consumptn completed,res61: alcohol consumption,diagnostic
+Read,9k1B.00,Extended intervention for excessive alcohol consumption completed,res61: alcohol consumption,diagnostic
+Read,9NN2.00,Under care of community alcohol team,res61: alcohol consumption,diagnostic
+Read,C150500,Alcohol-induced pseudo-Cushing's syndrome,res61: alcohol consumption,diagnostic
+Read,E01..00,Alcoholic psychoses,res61: alcohol consumption,diagnostic
+Read,E010.00,Alcohol withdrawal delirium,res61: alcohol consumption,diagnostic
+Read,E011.00,Alcohol amnestic syndrome,res61: alcohol consumption,diagnostic
+Read,E011000,Korsakov's alcoholic psychosis,res61: alcohol consumption,diagnostic
+Read,E011100,Korsakov's alcoholic psychosis with peripheral neuritis,res61: alcohol consumption,diagnostic
+Read,E011200,Wernicke-Korsakov syndrome,res61: alcohol consumption,diagnostic
+Read,E011z00,Alcohol amnestic syndrome NOS,res61: alcohol consumption,diagnostic
+Read,E012.00,Other alcoholic dementia,res61: alcohol consumption,diagnostic
+Read,E012.11,alcoholic dementia nos,res61: alcohol consumption,diagnostic
+Read,E012000,Chronic alcoholic brain syndrome,res61: alcohol consumption,diagnostic
+Read,E013.00,Alcohol withdrawal hallucinosis,res61: alcohol consumption,diagnostic
+Read,E014.00,pathological alcohol intoxication,res61: alcohol consumption,diagnostic
+Read,E015.00,Alcoholic paranoia,res61: alcohol consumption,diagnostic
+Read,E01y.00,Other alcoholic psychosis,res61: alcohol consumption,diagnostic
+Read,E01y000,Alcohol withdrawal syndrome,res61: alcohol consumption,diagnostic
+Read,E01yz00,Other alcoholic psychosis NOS,res61: alcohol consumption,diagnostic
+Read,E01z.00,Alcoholic psychosis NOS,res61: alcohol consumption,diagnostic
+Read,E23..00,Alcohol dependence syndrome,res61: alcohol consumption,diagnostic
+Read,E23..11,Alcoholism,res61: alcohol consumption,diagnostic
+Read,E23..12,Alcohol problem drinking,res61: alcohol consumption,diagnostic
+Read,E230.00,Acute alcoholic intoxication in alcoholism,res61: alcohol consumption,diagnostic
+Read,E230.11,Alcohol dependence with acute alcoholic intoxication,res61: alcohol consumption,diagnostic
+Read,E230000,"Acute alcoholic intoxication, unspecified, in alcoholism",res61: alcohol consumption,diagnostic
+Read,E230100,Continuous acute alcoholic intoxication in alcoholism,res61: alcohol consumption,diagnostic
+Read,E230200,Episodic acute alcoholic intoxication in alcoholism,res61: alcohol consumption,diagnostic

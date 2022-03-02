@@ -1,0 +1,20 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,44TL.00,HbA1c,res62: hba1c_test_codes,test
+Read,42W1.00,HbA1c,res62: hba1c_test_codes,test
+Read,42W..12,HbA1c,res62: hba1c_test_codes,test
+Read,42c..00,HbA1c,res62: hba1c_test_codes,test
+Read,66Ae.00,HbA1c,res62: hba1c_test_codes,test
+Read,44TB.00,HbA1c,res62: hba1c_test_codes,test
+Read,42W4.00,HbA1c,res62: hba1c_test_codes,test
+Read,42W3.00,HbA1c,res62: hba1c_test_codes,test
+Read,42W2.00,HbA1c,res62: hba1c_test_codes,test
+Read,42WZ.00,HbA1c,res62: hba1c_test_codes,test
+Read,42c3.00,HbA1c,res62: hba1c_test_codes,test
+Read,42W..11,HbA1c,res62: hba1c_test_codes,test
+Read,44TC.00,HbA1c,res62: hba1c_test_codes,test
+Read,42W..00,HbA1c,res62: hba1c_test_codes,test
+Read,66Ae000,HbA1c,res62: hba1c_test_codes,test
+Read,42c1.00,HbA1c,res62: hba1c_test_codes,test
+Read,42W5.00,HbA1c,res62: hba1c_test_codes,test
+Read,42c0.00,HbA1c,res62: hba1c_test_codes,test
+Read,42c2.00,HbA1c,res62: hba1c_test_codes,test

@@ -1,0 +1,80 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,M09,Juvenile arthritis in disease classified elsewhere,res69: rheumatological_disease,diagnostic
+ICD-10,M30-M36,Systemic connective tissue disorders,res69: rheumatological_disease,diagnostic
+ICD-10,D86,Sarcoidosis,res69: rheumatological_disease,diagnostic
+ICD-10,M05,Seropositive rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+ICD-10,M06,Other rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+ICD-10,M08,Juvenile arthritis,res69: rheumatological_disease,diagnostic
+Read,N040M00,Rheumatoid arthritis of IP joint of toe,res69: rheumatological_disease,diagnostic
+Read,N2z..00,Nonarticular rheumatism NOS,res69: rheumatological_disease,diagnostic
+Read,Nyu1100,[X]Other seropositive rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,N04y111,Sero negative polyarthritis,res69: rheumatological_disease,diagnostic
+Read,N040700,Rheumatoid arthritis of wrist,res69: rheumatological_disease,diagnostic
+Read,Nyu4300,[X]Other forms of systemic lupus erythematosus,res69: rheumatological_disease,diagnostic
+Read,N20..00,Polymyalgia rheumatica,res69: rheumatological_disease,diagnostic
+Read,N041.00,Felty's syndrome,res69: rheumatological_disease,diagnostic
+Read,N040900,Rheumatoid arthritis of PIP joint of finger,res69: rheumatological_disease,diagnostic
+Read,K01x411,Lupus nephritis,res69: rheumatological_disease,diagnostic
+Read,Nyu4500,[X]Other forms of systemic sclerosis,res69: rheumatological_disease,diagnostic
+Read,F396600,Myopathy due to scleroderma,res69: rheumatological_disease,diagnostic
+Read,N001.12,Systemic sclerosis,res69: rheumatological_disease,diagnostic
+Read,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified",res69: rheumatological_disease,diagnostic
+Read,N040C00,Rheumatoid arthritis of sacro-iliac joint,res69: rheumatological_disease,diagnostic
+Read,K01x400,Nephrotic syndrome in systemic lupus erythematosus,res69: rheumatological_disease,diagnostic
+Read,N060.11,Endemic polyarthritis,res69: rheumatological_disease,diagnostic
+Read,N240200,Muscular rheumatism,res69: rheumatological_disease,diagnostic
+Read,H57y100,Lung disease with polymyositis,res69: rheumatological_disease,diagnostic
+Read,N240.00,Rheumatism and fibrositis unspecified,res69: rheumatological_disease,diagnostic
+Read,N000.00,Systemic lupus erythematosus,res69: rheumatological_disease,diagnostic
+Read,N000400,Systemic lupus erythematosus with pericarditis,res69: rheumatological_disease,diagnostic
+Read,N040T00,Flare of rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,N040F00,Rheumatoid arthritis of ankle,res69: rheumatological_disease,diagnostic
+Read,N240000,Rheumatism unspecified,res69: rheumatological_disease,diagnostic
+Read,N2y..00,Other specified nonarticular rheumatism,res69: rheumatological_disease,diagnostic
+Read,F396100,Myopathy due to disseminated lupus erythematosus,res69: rheumatological_disease,diagnostic
+Read,N040L00,Rheumatoid arthritis of lesser MTP joint,res69: rheumatological_disease,diagnostic
+Read,Nyu1200,[X]Other specified rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,N004.00,Polymyositis,res69: rheumatological_disease,diagnostic
+Read,N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy,res69: rheumatological_disease,diagnostic
+Read,N040J00,Rheumatoid arthritis of other tarsal joint,res69: rheumatological_disease,diagnostic
+Read,N240z00,Rheumatism or fibrositis NOS,res69: rheumatological_disease,diagnostic
+Read,2A42.00,O/E - ankle reflex abnormal,res69: rheumatological_disease,diagnostic
+Read,N04y000,Rheumatoid lung,res69: rheumatological_disease,diagnostic
+Read,N000z00,Systemic lupus erythematosus NOS,res69: rheumatological_disease,diagnostic
+Read,N040K00,Rheumatoid arthritis of 1st MTP joint,res69: rheumatological_disease,diagnostic
+Read,N04y011,Caplan's syndrome,res69: rheumatological_disease,diagnostic
+Read,N047.00,Seropositive errosive rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,G5yA.00,Rheumatoid carditis,res69: rheumatological_disease,diagnostic
+Read,Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems,res69: rheumatological_disease,diagnostic
+Read,N001.11,Acrosclerosis,res69: rheumatological_disease,diagnostic
+Read,N001000,Progressive systemic sclerosis,res69: rheumatological_disease,diagnostic
+Read,H572.00,Lung disease with systemic sclerosis,res69: rheumatological_disease,diagnostic
+Read,N040P00,Seronegative rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,N040B00,Rheumatoid arthritis of hip,res69: rheumatological_disease,diagnostic
+Read,N000300,Systemic lupus erythematosus with organ or sys involv,res69: rheumatological_disease,diagnostic
+Read,N040400,Rheumatoid arthritis of acromioclavicular joint,res69: rheumatological_disease,diagnostic
+Read,N040200,Rheumatoid arthritis of shoulder,res69: rheumatological_disease,diagnostic
+Read,N000000,Disseminated lupus erythematosus,res69: rheumatological_disease,diagnostic
+Read,N040800,Rheumatoid arthritis of MCP joint,res69: rheumatological_disease,diagnostic
+Read,F396400,Myopathy due to rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,N040H00,Rheumatoid arthritis of talonavicular joint,res69: rheumatological_disease,diagnostic
+Read,N04y012,Fibrosing alveolitis associated with rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,N000100,Libman-Sacks disease,res69: rheumatological_disease,diagnostic
+Read,N240700,Hand rheumatism,res69: rheumatological_disease,diagnostic
+Read,H57y400,Lung disease with systemic lupus erythematosus,res69: rheumatological_disease,diagnostic
+Read,N001.00,Scleroderma,res69: rheumatological_disease,diagnostic
+Read,N000200,Drug-induced systemic lupus erythematosus,res69: rheumatological_disease,diagnostic
+Read,N040300,Rheumatoid arthritis of sternoclavicular joint,res69: rheumatological_disease,diagnostic
+Read,N04X.00,"Seropositive rheumatoid arthritis, unspecified",res69: rheumatological_disease,diagnostic
+Read,N040.00,Rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,N040600,Rheumatoid arthritis of distal radio-ulnar joint,res69: rheumatological_disease,diagnostic
+Read,N040E00,Rheumatoid arthritis of tibio-fibular joint,res69: rheumatological_disease,diagnostic
+Read,N040D00,Rheumatoid arthritis of knee,res69: rheumatological_disease,diagnostic
+Read,N231400,Polymyositis ossificans,res69: rheumatological_disease,diagnostic
+Read,F371200,Polyneuropathy in rheumatoid arthritis,res69: rheumatological_disease,diagnostic
+Read,N040G00,Rheumatoid arthritis of subtalar joint,res69: rheumatological_disease,diagnostic
+Read,N040500,Rheumatoid arthritis of elbow,res69: rheumatological_disease,diagnostic
+Read,H570.00,Rheumatoid lung,res69: rheumatological_disease,diagnostic
+Read,N042100,Rheumatoid lung disease,res69: rheumatological_disease,diagnostic
+Read,N200.00,Giant cell arteritis with polymyalgia rheumatica,res69: rheumatological_disease,diagnostic
+Read,N040A00,Rheumatoid arthritis of DIP joint of finger,res69: rheumatological_disease,diagnostic

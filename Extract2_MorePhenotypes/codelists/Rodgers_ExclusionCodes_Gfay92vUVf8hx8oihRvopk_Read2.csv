@@ -1,0 +1,52 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,C10yz00,Diabetes mellitus NOS with other specified manifes,res62: exclusion_codes,diagnostic
+Read,C164.13,Multicystic ovaries,res62: exclusion_codes,diagnostic
+Read,Q44y100,Transitory metabolic disturbance-infant pre-diabet,res62: exclusion_codes,diagnostic
+Read,K081000,Acquired nephrogenic diabetes insipidus,res62: exclusion_codes,diagnostic
+Read,PKyP.00,"Diab insipidus,diab mell,optic atrophy and deafnes",res62: exclusion_codes,diagnostic
+Read,8CE0000,Gestational diabetes information leaflet given,res62: exclusion_codes,diagnostic
+Read,C10A000,Malnutrition-related diabetes mellitus with coma,res62: exclusion_codes,diagnostic
+Read,C10A100,Malnutrition-related diabetes mellitus with ketoac,res62: exclusion_codes,diagnostic
+Read,C10A.00,Malnutrition-related diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,C135000,Cranial diabetes insipidus,res62: exclusion_codes,diagnostic
+Read,Q44B.00,Syndrome of infant of mother with gestational diab,res62: exclusion_codes,diagnostic
+Read,L180900,Gestational diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,C10H.00,Diabetes mellitus induced by non-steroid drugs,res62: exclusion_codes,diagnostic
+Read,C105y00,Other specified diabetes mellitus with ophthalmic ,res62: exclusion_codes,diagnostic
+Read,C10G000,Secondary pancreatic diabetes mellitus without com,res62: exclusion_codes,diagnostic
+Read,C10y100,"Diabetes mellitus, adult, + other specified manife",res62: exclusion_codes,diagnostic
+Read,C10N000,Secondary diabetes mellitus without complication,res62: exclusion_codes,diagnostic
+Read,ZV13F00,[V]Personal history of gestational diabetes mellit,res62: exclusion_codes,diagnostic
+Read,8Hgd.00,Discharge from secondary care diabetes service,res62: exclusion_codes,diagnostic
+Read,C10B.00,Diabetes mellitus induced by steroids,res62: exclusion_codes,diagnostic
+Read,C10N100,Cystic fibrosis related diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,C10y000,"Diabetes mellitus, juvenile, + other specified man",res62: exclusion_codes,diagnostic
+Read,K01x100,Nephrotic syndrome in diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,C10B000,Steroid induced diabetes mellitus without complica,res62: exclusion_codes,diagnostic
+Read,Q441.00,Neonatal diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,Q440.00,'Infant of a diabetic mother' syndrome,res62: exclusion_codes,diagnostic
+Read,C164.00,Polycystic ovaries,res62: exclusion_codes,diagnostic
+Read,C135.00,Diabetes insipidus,res62: exclusion_codes,diagnostic
+Read,C10N.00,Secondary diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,Cyu2000,[X]Other specified diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,C104y00,Other specified diabetes mellitus with renal compl,res62: exclusion_codes,diagnostic
+Read,C10zy00,Other specified diabetes mellitus with unspecified,res62: exclusion_codes,diagnostic
+Read,66Ay.00,Gestational diabetes mellitus annual review,res62: exclusion_codes,diagnostic
+Read,ZC2CB00,Dietary advice for gestational diabetes,res62: exclusion_codes,diagnostic
+Read,C103y00,Other specified diabetes mellitus with coma,res62: exclusion_codes,diagnostic
+Read,C10yy00,Other specified diabetes mellitus with other spec ,res62: exclusion_codes,diagnostic
+Read,R003.00,[D]Convulsions,res62: exclusion_codes,diagnostic
+Read,L180811,Gestational diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,C11y000,Steroid induced diabetes,res62: exclusion_codes,diagnostic
+Read,K081.00,Nephrogenic diabetes insipidus,res62: exclusion_codes,diagnostic
+Read,C10y.00,Diabetes mellitus with other specified manifestati,res62: exclusion_codes,diagnostic
+Read,C106y00,Other specified diabetes mellitus with neurologica,res62: exclusion_codes,diagnostic
+Read,F381300,Myasthenic syndrome due to diabetic amyotrophy,res62: exclusion_codes,diagnostic
+Read,L180700,Pre-existing malnutrition-related diabetes mellitu,res62: exclusion_codes,diagnostic
+Read,C108y00,Other specified diabetes mellitus with multiple co,res62: exclusion_codes,diagnostic
+Read,C10D.11,Maturity onset diabetes in youth type 2,res62: exclusion_codes,diagnostic
+Read,C135.12,Diabetes insipidus - pituitary,res62: exclusion_codes,diagnostic
+Read,C10C.11,Maturity onset diabetes in youth,res62: exclusion_codes,diagnostic
+Read,C101y00,Other specified diabetes mellitus with ketoacidosi,res62: exclusion_codes,diagnostic
+Read,C10G.00,Secondary pancreatic diabetes mellitus,res62: exclusion_codes,diagnostic
+Read,C10C.12,Maturity onset diabetes in youth type 1,res62: exclusion_codes,diagnostic

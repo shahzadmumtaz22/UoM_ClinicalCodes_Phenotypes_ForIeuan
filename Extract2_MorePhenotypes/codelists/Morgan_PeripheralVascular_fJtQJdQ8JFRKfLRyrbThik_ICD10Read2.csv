@@ -1,0 +1,58 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,I74,Arterial embolism and thrombosis,res69: peripheral_vascular,diagnostic
+ICD-10,I77,Other disorders of arteries and arterioles,res69: peripheral_vascular,diagnostic
+ICD-10,I73,Other peripheral vascular diseases,res69: peripheral_vascular,diagnostic
+ICD-10,I71,Aortic aneurysm and dissection,res69: peripheral_vascular,diagnostic
+ICD-10,I70,Atherosclerosis,res69: peripheral_vascular,diagnostic
+ICD-10,I72,Other aneurysm,res69: peripheral_vascular,diagnostic
+Read,G713.11,Ruptured abdominal aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,G732000,Gangrene of toe,res69: peripheral_vascular,diagnostic
+Read,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured",res69: peripheral_vascular,diagnostic
+Read,14NB.00,H/O: Peripheral vascular disease procedure,res69: peripheral_vascular,diagnostic
+Read,R054200,[D]Gangrene of toe in diabetic,res69: peripheral_vascular,diagnostic
+Read,7A14411,Tube graft of Abdominal aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,R054z00,[D]Gangrene NOS,res69: peripheral_vascular,diagnostic
+Read,G711.00,Thoracic aortic aneurysm which has ruptured,res69: peripheral_vascular,diagnostic
+Read,G73yz00,Other specified peripheral vascular disease NOS,res69: peripheral_vascular,diagnostic
+Read,G714100,Inflammatory abdominal aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,G732100,Gangrene of foot,res69: peripheral_vascular,diagnostic
+Read,G732300,Gangrene of thumb,res69: peripheral_vascular,diagnostic
+Read,G73zz00,Peripheral vascular disease NOS,res69: peripheral_vascular,diagnostic
+Read,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture,res69: peripheral_vascular,diagnostic
+Read,G73z.00,Peripheral vascular disease NOS,res69: peripheral_vascular,diagnostic
+Read,7A13411,Tube graft abdominal Aortic aneurysm (emergency),res69: peripheral_vascular,diagnostic
+Read,R054000,"[D]Gangrene, spreading cutaneous",res69: peripheral_vascular,diagnostic
+Read,Gyu7400,[X]Other specified peripheral vascular diseases,res69: peripheral_vascular,diagnostic
+Read,G73z011,Claudication,res69: peripheral_vascular,diagnostic
+Read,G716.00,Aortic aneurysm without mention of rupture NOS,res69: peripheral_vascular,diagnostic
+Read,G715000,"Thoracoabdominal aortic aneurysm, ruptured",res69: peripheral_vascular,diagnostic
+Read,G716000,"Thoracoabdominal aortic aneurysm, without mention of rupture",res69: peripheral_vascular,diagnostic
+Read,G73..11,Peripheral ischaemic vascular disease,res69: peripheral_vascular,diagnostic
+Read,G711.11,Ruptured thoracic aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,7A11211,Y graft of abdominal Aortic aneurysm (emergency),res69: peripheral_vascular,diagnostic
+Read,7A11311,Y graft abdominal Aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,2I16.00,O/E - gangrene,res69: peripheral_vascular,diagnostic
+Read,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured",res69: peripheral_vascular,diagnostic
+Read,G71..00,Aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,G712.00,Thoracic aortic aneurysm without mention of rupture,res69: peripheral_vascular,diagnostic
+Read,R054.00,[D]Gangrene,res69: peripheral_vascular,diagnostic
+Read,C107.12,Diabetes with gangrene,res69: peripheral_vascular,diagnostic
+Read,G73y.00,Other specified peripheral vascular disease,res69: peripheral_vascular,diagnostic
+Read,G732400,Gangrene of hand,res69: peripheral_vascular,diagnostic
+Read,G718.00,Leaking abdominal aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,R054300,[D]Widespread diabetic foot gangrene,res69: peripheral_vascular,diagnostic
+Read,G73z000,Intermittent claudication,res69: peripheral_vascular,diagnostic
+Read,G713000,Ruptured suprarenal aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,7A13.11,Emergency repair of aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,G713.00,Abdominal aortic aneurysm which has ruptured,res69: peripheral_vascular,diagnostic
+Read,G73..00,Other peripheral vascular disease,res69: peripheral_vascular,diagnostic
+Read,G732.00,Peripheral gangrene,res69: peripheral_vascular,diagnostic
+Read,G714000,Juxtarenal aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,G732200,Gangrene of finger,res69: peripheral_vascular,diagnostic
+Read,G731100,Presenile gangrene,res69: peripheral_vascular,diagnostic
+Read,G714.00,Abdominal aortic aneurysm without mention of rupture,res69: peripheral_vascular,diagnostic
+Read,7A14.11,Aortic aneurysm repair,res69: peripheral_vascular,diagnostic
+Read,G710.00,Dissecting aortic aneurysm,res69: peripheral_vascular,diagnostic
+Read,G71z.00,Aortic aneurysm NOS,res69: peripheral_vascular,diagnostic
+Read,G715.00,Ruptured aortic aneurysm NOS,res69: peripheral_vascular,diagnostic
+Read,14AE.00,H/O: aortic aneurysm,res69: peripheral_vascular,diagnostic

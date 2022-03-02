@@ -1,0 +1,27 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,I21,Acute myocardial infarction,res69: myocardial_infarction,diagnostic
+ICD-10,I22,Subsequent myocardial infarction,res69: myocardial_infarction,diagnostic
+ICD-10,I23,Certain current complications following acute myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G30..15,MI - acute myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),res69: myocardial_infarction,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G307000,Acute non-Q wave infarction,res69: myocardial_infarction,diagnostic
+Read,G30..00,Acute myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G302.00,Acute inferolateral infarction,res69: myocardial_infarction,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,res69: myocardial_infarction,diagnostic
+Read,G307.00,Acute subendocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G32..00,Old myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res69: myocardial_infarction,diagnostic
+Read,G32..12,Personal history of myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G30..12,Coronary thrombosis,res69: myocardial_infarction,diagnostic
+Read,G30y.00,Other acute myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,res69: myocardial_infarction,diagnostic
+Read,G30..14,Heart attack,res69: myocardial_infarction,diagnostic
+Read,14AH.00,H/O: Myocardial infarction in last year,res69: myocardial_infarction,diagnostic
+Read,G300.00,Acute anterolateral infarction,res69: myocardial_infarction,diagnostic
+Read,G32..11,Healed myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G301100,Acute anteroseptal infarction,res69: myocardial_infarction,diagnostic
+Read,G30..17,Silent myocardial infarction,res69: myocardial_infarction,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,res69: myocardial_infarction,diagnostic

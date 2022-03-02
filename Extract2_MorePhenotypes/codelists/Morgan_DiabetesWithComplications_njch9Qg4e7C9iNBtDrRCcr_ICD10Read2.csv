@@ -1,0 +1,122 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,E11.8,Non-insulin depend diabetes mellitus with  unspecified complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E11.4,Non-insulin depend diabetes mellitus with neurological complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E10.2,Insulin-dependent diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E10.3,Insulin-dependent diabetes mellitus with ophthalmic complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E10.4,Insulin-dependent diabetes mellitus with neurological complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E10.5,Insulin-dependent diabetes mellitus with peripheral circulatory complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E10.6,Insulin-dependent diabetes mellitus with other specified complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E10.7,Insulin-dependent diabetes mellitus with  multiple complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E10.8,Insulin-dependent diabetes mellitus with unspecified complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E11.2,Non-insulin depend diabetes mellitus with  renal complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E11.3,Non-insulin depend diabetes mellitus with ophthalmic complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E11.5,Non-insulin depend diabetes mellitus with peripheral circulatory complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E11.6,Non-insulin depend diabetes mellitus with other specified complications,res69: diabetes_with_complications,diagnostic
+ICD-10,E11.7,Non-insulin depend diabetes mellitus with multiple complications,res69: diabetes_with_complications,diagnostic
+Read,C108B00,Insulin dependent diabetes mellitus with mononeuropathy,res69: diabetes_with_complications,diagnostic
+Read,C109B11,Type II diabetes mellitus with polyneuropathy,res69: diabetes_with_complications,diagnostic
+Read,C108F11,Type I diabetes mellitus with diabetic cataract,res69: diabetes_with_complications,diagnostic
+Read,C108200,Insulin-dependent diabetes mellitus with neurological comps,res69: diabetes_with_complications,diagnostic
+Read,C108H00,Insulin dependent diabetes mellitus with arthropathy,res69: diabetes_with_complications,diagnostic
+Read,F420100,Proliferative diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C109E12,Type 2 diabetes mellitus with diabetic cataract,res69: diabetes_with_complications,diagnostic
+Read,C109E11,Type II diabetes mellitus with diabetic cataract,res69: diabetes_with_complications,diagnostic
+Read,C10F100,Type 2 diabetes mellitus with ophthalmic complications,res69: diabetes_with_complications,diagnostic
+Read,C10EF00,Type 1 diabetes mellitus with diabetic cataract,res69: diabetes_with_complications,diagnostic
+Read,C10E100,Type 1 diabetes mellitus with ophthalmic complications,res69: diabetes_with_complications,diagnostic
+Read,C108D00,Insulin dependent diabetes mellitus with nephropathy,res69: diabetes_with_complications,diagnostic
+Read,C104y00,Other specified diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy,res69: diabetes_with_complications,diagnostic
+Read,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps,res69: diabetes_with_complications,diagnostic
+Read,C105100,"Diabetes mellitus, adult onset, + ophthalmic manifestation",res69: diabetes_with_complications,diagnostic
+Read,F420600,Non proliferative diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,F420800,High risk non proliferative diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C10F600,Type 2 diabetes mellitus with retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C109112,Type 2 diabetes mellitus with ophthalmic complications,res69: diabetes_with_complications,diagnostic
+Read,C106y00,Other specified diabetes mellitus with neurological comps,res69: diabetes_with_complications,diagnostic
+Read,F420.00,Diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C10EQ00,Type 1 diabetes mellitus with gastroparesis,res69: diabetes_with_complications,diagnostic
+Read,C109A11,Type II diabetes mellitus with mononeuropathy,res69: diabetes_with_complications,diagnostic
+Read,C108F00,Insulin dependent diabetes mellitus with diabetic cataract,res69: diabetes_with_complications,diagnostic
+Read,C108C00,Insulin dependent diabetes mellitus with polyneuropathy,res69: diabetes_with_complications,diagnostic
+Read,2BBS.00,O/E - left eye preproliferative diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C10ED00,Type 1 diabetes mellitus with nephropathy,res69: diabetes_with_complications,diagnostic
+Read,C108711,Type I diabetes mellitus with retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C109H11,Type II diabetes mellitus with neuropathic arthropathy,res69: diabetes_with_complications,diagnostic
+Read,C108000,Insulin-dependent diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,C109611,Type II diabetes mellitus with retinopathy,res69: diabetes_with_complications,diagnostic
+Read,F420200,Preproliferative diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,F420400,Diabetic maculopathy,res69: diabetes_with_complications,diagnostic
+Read,C109600,Non-insulin-dependent diabetes mellitus with retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C108B11,Type I diabetes mellitus with mononeuropathy,res69: diabetes_with_complications,diagnostic
+Read,C106.00,Diabetes mellitus with neurological manifestation,res69: diabetes_with_complications,diagnostic
+Read,C106100,"Diabetes mellitus, adult onset, + neurological manifestation",res69: diabetes_with_complications,diagnostic
+Read,C105000,"Diabetes mellitus, juvenile type, + ophthalmic manifestation",res69: diabetes_with_complications,diagnostic
+Read,C109212,Type 2 diabetes mellitus with neurological complications,res69: diabetes_with_complications,diagnostic
+Read,C10F611,Type II diabetes mellitus with retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C109211,Type II diabetes mellitus with neurological complications,res69: diabetes_with_complications,diagnostic
+Read,F464000,Diabetic cataract,res69: diabetes_with_complications,diagnostic
+Read,C10E000,Type 1 diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,F381311,Diabetic amyotrophy,res69: diabetes_with_complications,diagnostic
+Read,C109200,Non-insulin-dependent diabetes mellitus with neuro comps,res69: diabetes_with_complications,diagnostic
+Read,F420700,High risk proliferative diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy,res69: diabetes_with_complications,diagnostic
+Read,C109012,Type 2 diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,2BBl.00,O/E - left eye stable treated prolif diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,K01x111,Kimmelstiel - Wilson disease,res69: diabetes_with_complications,diagnostic
+Read,C109111,Type II diabetes mellitus with ophthalmic complications,res69: diabetes_with_complications,diagnostic
+Read,2BBV.00,O/E - left eye proliferative diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C106z00,Diabetes mellitus NOS with neurological manifestation,res69: diabetes_with_complications,diagnostic
+Read,C10FR00,Type 2 diabetes mellitus with gastroparesis,res69: diabetes_with_complications,diagnostic
+Read,F381300,Myasthenic syndrome due to diabetic amyotrophy,res69: diabetes_with_complications,diagnostic
+Read,C109C12,Type 2 diabetes mellitus with nephropathy,res69: diabetes_with_complications,diagnostic
+Read,C108700,Insulin dependent diabetes mellitus with retinopathy,res69: diabetes_with_complications,diagnostic
+Read,F372.12,Diabetic neuropathy,res69: diabetes_with_complications,diagnostic
+Read,C10F200,Type 2 diabetes mellitus with neurological complications,res69: diabetes_with_complications,diagnostic
+Read,F420z00,Diabetic retinopathy NOS,res69: diabetes_with_complications,diagnostic
+Read,C10FC00,Type 2 diabetes mellitus with nephropathy,res69: diabetes_with_complications,diagnostic
+Read,C106.13,Diabetes mellitus with polyneuropathy,res69: diabetes_with_complications,diagnostic
+Read,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy,res69: diabetes_with_complications,diagnostic
+Read,C10FC11,Type II diabetes mellitus with nephropathy,res69: diabetes_with_complications,diagnostic
+Read,2BBk.00,O/E - right eye stable treated prolif diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C106.12,Diabetes mellitus with neuropathy,res69: diabetes_with_complications,diagnostic
+Read,C106.11,Diabetic amyotrophy,res69: diabetes_with_complications,diagnostic
+Read,C10FE00,Type 2 diabetes mellitus with diabetic cataract,res69: diabetes_with_complications,diagnostic
+Read,C10E200,Type 1 diabetes mellitus with neurological complications,res69: diabetes_with_complications,diagnostic
+Read,C105y00,Other specified diabetes mellitus with ophthalmic complicatn,res69: diabetes_with_complications,diagnostic
+Read,F374z00,Polyneuropathy in disease NOS,res69: diabetes_with_complications,diagnostic
+Read,2BBR.00,O/E - right eye preproliferative diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C10FB11,Type II diabetes mellitus with polyneuropathy,res69: diabetes_with_complications,diagnostic
+Read,C109612,Type 2 diabetes mellitus with retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C10EC00,Type 1 diabetes mellitus with polyneuropathy,res69: diabetes_with_complications,diagnostic
+Read,C108712,Type 1 diabetes mellitus with retinopathy,res69: diabetes_with_complications,diagnostic
+Read,F372.11,Diabetic polyneuropathy,res69: diabetes_with_complications,diagnostic
+Read,C109000,Non-insulin-dependent diabetes mellitus with renal comps,res69: diabetes_with_complications,diagnostic
+Read,C104000,"Diabetes mellitus, juvenile type, with renal manifestation",res69: diabetes_with_complications,diagnostic
+Read,C108012,Type 1 diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,C10FB00,Type 2 diabetes mellitus with polyneuropathy,res69: diabetes_with_complications,diagnostic
+Read,C108D11,Type I diabetes mellitus with nephropathy,res69: diabetes_with_complications,diagnostic
+Read,C10F011,Type II diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,C109H00,Non-insulin dependent d m with neuropathic arthropathy,res69: diabetes_with_complications,diagnostic
+Read,C108211,Type I diabetes mellitus with neurological complications,res69: diabetes_with_complications,diagnostic
+Read,C109C00,Non-insulin dependent diabetes mellitus with nephropathy,res69: diabetes_with_complications,diagnostic
+Read,2BBQ.00,O/E - left eye background diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,2BBL.00,O/E - diabetic maculopathy present both eyes,res69: diabetes_with_complications,diagnostic
+Read,2BBP.00,O/E - right eye background diabetic retinopathy,res69: diabetes_with_complications,diagnostic
+Read,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy,res69: diabetes_with_complications,diagnostic
+Read,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy,res69: diabetes_with_complications,diagnostic
+Read,C109C11,Type II diabetes mellitus with nephropathy,res69: diabetes_with_complications,diagnostic
+Read,C108212,Type 1 diabetes mellitus with neurological complications,res69: diabetes_with_complications,diagnostic
+Read,C105z00,Diabetes mellitus NOS with ophthalmic manifestation,res69: diabetes_with_complications,diagnostic
+Read,F420300,Advanced diabetic maculopathy,res69: diabetes_with_complications,diagnostic
+Read,C10EB00,Type 1 diabetes mellitus with mononeuropathy,res69: diabetes_with_complications,diagnostic
+Read,C10FA00,Type 2 diabetes mellitus with mononeuropathy,res69: diabetes_with_complications,diagnostic
+Read,C109011,Type II diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract,res69: diabetes_with_complications,diagnostic
+Read,C104.11,Diabetic nephropathy,res69: diabetes_with_complications,diagnostic
+Read,C105.00,Diabetes mellitus with ophthalmic manifestation,res69: diabetes_with_complications,diagnostic
+Read,C10F000,Type 2 diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps,res69: diabetes_with_complications,diagnostic
+Read,F3y0.00,Diabetic mononeuropathy,res69: diabetes_with_complications,diagnostic
+Read,C108011,Type I diabetes mellitus with renal complications,res69: diabetes_with_complications,diagnostic
+Read,C104z00,Diabetes mellitus with nephropathy NOS,res69: diabetes_with_complications,diagnostic

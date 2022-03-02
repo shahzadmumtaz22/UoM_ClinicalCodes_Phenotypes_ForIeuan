@@ -1,0 +1,39 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,F586.00,Otorrhoea,res70: Otitis externa,diagnostic
+Read,F586z00,Otorrhoea NOS,res70: Otitis externa,diagnostic
+Read,F586200,Otorrhagia,res70: Otitis externa,diagnostic
+Read,F586011,Discharging ear NOS,res70: Otitis externa,diagnostic
+Read,F586000,Unspecified otorrhoea,res70: Otitis externa,diagnostic
+Read,2D95.00,O/E - tympanic membrane red,res70: Otitis externa,diagnostic
+Read,F500211,Chondrodermatitis nodularis helicis,res70: Otitis externa,diagnostic
+Read,F500.00,Perichondritis of pinna,res70: Otitis externa,diagnostic
+Read,F500200,Chronic pinna perichondritis,res70: Otitis externa,diagnostic
+Read,F500100,Acute perichondritis of pinna,res70: Otitis externa,diagnostic
+Read,F500000,Unspecified perichondritis of pinna,res70: Otitis externa,diagnostic
+Read,F501F00,Chronic infective otitis externa NOS,res70: Otitis externa,diagnostic
+Read,F501.00,Infective otitis externa,res70: Otitis externa,diagnostic
+Read,F500z00,Perichondritis of pinna NOS,res70: Otitis externa,diagnostic
+Read,F500300,Chondrodermatitis nodularis helicis,res70: Otitis externa,diagnostic
+Read,F501112,"Cellulitis, external ear",res70: Otitis externa,diagnostic
+Read,F501000,Unspecified infective otitis externa,res70: Otitis externa,diagnostic
+Read,F501111,"Abscess, external ear",res70: Otitis externa,diagnostic
+Read,F501100,Acute infective otitis externa,res70: Otitis externa,diagnostic
+Read,F501400,Infective otitis externa due to erysipelas,res70: Otitis externa,diagnostic
+Read,F501200,Acute infection of pinna,res70: Otitis externa,diagnostic
+Read,F501300,Acute swimmers' ear,res70: Otitis externa,diagnostic
+Read,F501E00,Other chronic infective otitis externa,res70: Otitis externa,diagnostic
+Read,F501900,Other acute external ear infections,res70: Otitis externa,diagnostic
+Read,F501411,Erysipelas - otitis externa,res70: Otitis externa,diagnostic
+Read,F501711,Impetigo - otitis externa,res70: Otitis externa,diagnostic
+Read,F501700,Infective otitis externa due to impetigo,res70: Otitis externa,diagnostic
+Read,F501y00,Other specified infective otitis externa,res70: Otitis externa,diagnostic
+Read,F501G00,Haemorrhagic otitis externa,res70: Otitis externa,diagnostic
+Read,F502z11,Inflammation ear external,res70: Otitis externa,diagnostic
+Read,F502.00,Other otitis externa,res70: Otitis externa,diagnostic
+Read,F501z00,Infective otitis externa NOS,res70: Otitis externa,diagnostic
+Read,F587000,Unspecified otalgia,res70: Otitis externa,diagnostic
+Read,F502z00,Otitis externa NOS,res70: Otitis externa,diagnostic
+Read,F587.00,Otalgia,res70: Otitis externa,diagnostic
+Read,F506.00,Abscess of external ear,res70: Otitis externa,diagnostic
+Read,F587.11,Ear pain,res70: Otitis externa,diagnostic
+Read,F587z00,Otalgia NOS,res70: Otitis externa,diagnostic
