@@ -1,0 +1,82 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,239873007,Osteoarthritis of knee,res174: knee diagnoses,diagnostic
+SNOMED,241641004,MRI of knee,res174: knee diagnoses,diagnostic
+SNOMED,239312004,Osteotomy of proximal tibia,res174: knee diagnoses,diagnostic
+SNOMED,31757006,Osteotomy of tibia,res174: knee diagnoses,diagnostic
+SNOMED,239732001,Disorder of patellofemoral joint,res174: knee diagnoses,diagnostic
+SNOMED,63643000,Derangement of knee,res174: knee diagnoses,diagnostic
+SNOMED,371081002,Arthritis of knee,res174: knee diagnoses,diagnostic
+SNOMED,239733006,Anterior knee pain,res174: knee diagnoses,diagnostic
+SNOMED,269113006,"Acute meniscal tear, medial",res174: knee diagnoses,diagnostic
+SNOMED,86255002,Arthroscopy of knee with medial meniscectomy,res174: knee diagnoses,diagnostic
+SNOMED,281814008,Arthroscopic lateral patellar release,res174: knee diagnoses,diagnostic
+SNOMED,274056002,Arthrodesis of knee,res174: knee diagnoses,diagnostic
+SNOMED,22878006,Contusion of knee,res174: knee diagnoses,diagnostic
+SNOMED,302490008,Arthroscopic meniscectomy,res174: knee diagnoses,diagnostic
+SNOMED,38964008,Arthroscopy of knee with lateral meniscectomy,res174: knee diagnoses,diagnostic
+SNOMED,309431009,Arthroscopy of knee,res174: knee diagnoses,diagnostic
+SNOMED,423466006,Arthroscopic procedure,res174: knee diagnoses,diagnostic
+SNOMED,36701003,Both knees,res174: knee diagnoses,diagnostic
+SNOMED,209627008,"Complete tear, knee, medial collateral ligament",res174: knee diagnoses,diagnostic
+SNOMED,281810004,Aspiration of knee joint,res174: knee diagnoses,diagnostic
+SNOMED,6188005,Arthrotomy of knee,res174: knee diagnoses,diagnostic
+SNOMED,111243002,Bursitis of knee,res174: knee diagnoses,diagnostic
+SNOMED,36071006,Chondromalacia of patella,res174: knee diagnoses,diagnostic
+SNOMED,239838005,Chondrocalcinosis,res174: knee diagnoses,diagnostic
+SNOMED,239832006,Calcium pyrophosphate deposition disease,res174: knee diagnoses,diagnostic
+SNOMED,444470001,Injury of anterior cruciate ligament,res174: knee diagnoses,diagnostic
+SNOMED,397529006,Finding of tear meniscus,res174: knee diagnoses,diagnostic
+SNOMED,445247000,Inflammation of bursa of patella,res174: knee diagnoses,diagnostic
+SNOMED,30989003,Knee pain,res174: knee diagnoses,diagnostic
+SNOMED,202413005,Haemarthrosis of knee,res174: knee diagnoses,diagnostic
+SNOMED,428257007,Fracture of tibial plateau,res174: knee diagnoses,diagnostic
+SNOMED,299331007,Knee joint - varus deformity,res174: knee diagnoses,diagnostic
+SNOMED,9.41E+11,Strain of knee,res174: knee diagnoses,diagnostic
+SNOMED,1126007,Knee locking,res174: knee diagnoses,diagnostic
+SNOMED,125601008,Injury of knee,res174: knee diagnoses,diagnostic
+SNOMED,299330008,Knee joint valgus deformity,res174: knee diagnoses,diagnostic
+SNOMED,202381003,Knee joint effusion,res174: knee diagnoses,diagnostic
+SNOMED,178158006,Repair of patellar tendon,res174: knee diagnoses,diagnostic
+SNOMED,249913002,knee stiff,res174: knee diagnoses,diagnostic
+SNOMED,72696002,Knee region structure,res174: knee diagnoses,diagnostic
+SNOMED,239446002,Stabilisation of patellofemoral joint,res174: knee diagnoses,diagnostic
+SNOMED,81512004,Loose body in knee,res174: knee diagnoses,diagnostic
+SNOMED,239419007,Repair of meniscus,res174: knee diagnoses,diagnostic
+SNOMED,250111002,Patellar maltracking,res174: knee diagnoses,diagnostic
+SNOMED,429696002,Patellar instability,res174: knee diagnoses,diagnostic
+SNOMED,81902001,Sprain of medial collateral ligament of knee,res174: knee diagnoses,diagnostic
+SNOMED,47123000,Rupture of cruciate ligaments,res174: knee diagnoses,diagnostic
+SNOMED,239725005,Rupture of anterior cruciate ligament,res174: knee diagnoses,diagnostic
+SNOMED,430698003,Replacement of total knee joint,res174: knee diagnoses,diagnostic
+SNOMED,239729004,Rupture of medial collateral ligament of knee,res174: knee diagnoses,diagnostic
+SNOMED,35726004,Sprain of lateral collateral ligament of knee,res174: knee diagnoses,diagnostic
+SNOMED,54888009,Sprain of knee,res174: knee diagnoses,diagnostic
+SNOMED,239727002,Rupture of posterior cruciate ligament,res174: knee diagnoses,diagnostic
+SNOMED,263059002,Subluxation of patellofemoral joint,res174: knee diagnoses,diagnostic
+SNOMED,209508007,Strain of patellar tendon,res174: knee diagnoses,diagnostic
+SNOMED,281543009,Strain of tendon of medial thigh muscle,res174: knee diagnoses,diagnostic
+SNOMED,6757004,Structure of right knee,res174: knee diagnoses,diagnostic
+SNOMED,443681002,Total replacement of left knee joint,res174: knee diagnoses,diagnostic
+SNOMED,52349002,Structure of prepatellar bursa,res174: knee diagnoses,diagnostic
+SNOMED,82169009,Structure of left knee,res174: knee diagnoses,diagnostic
+SNOMED,240008008,Synovial cyst of knee,res174: knee diagnoses,diagnostic
+SNOMED,609588000,Total knee replacement,res174: knee diagnoses,diagnostic
+SNOMED,248491001,Swollen knee,res174: knee diagnoses,diagnostic
+SNOMED,240003004,Suprapatellar bursitis,res174: knee diagnoses,diagnostic
+SNOMED,82675004,Synovial cyst of popliteal space,res174: knee diagnoses,diagnostic
+SNOMED,239720000,Tear of meniscus of knee,res174: knee diagnoses,diagnostic
+SNOMED,302932006,Tear of medial meniscus of knee,res174: knee diagnoses,diagnostic
+SNOMED,302933001,Tear of lateral meniscus of knee,res174: knee diagnoses,diagnostic
+SNOMED,415748002,Traumatic rupture of patellar tendon,res174: knee diagnoses,diagnostic
+SNOMED,443682009,Total replacement of right knee joint,res174: knee diagnoses,diagnostic
+SNOMED,250102002,Unstable knee,res174: knee diagnoses,diagnostic
+SNOMED,35926005,Repair of knee cruciate ligaments,res174: knee diagnoses,diagnostic
+SNOMED,76934002,Repair of knee collateral ligaments,res174: knee diagnoses,diagnostic
+SNOMED,309566008,Problem knee,res174: knee diagnoses,diagnostic
+SNOMED,239426007,Repair of anterior cruciate ligament of knee joint,res174: knee diagnoses,diagnostic
+SNOMED,74016001,Radiologic examination of knee,res174: knee diagnoses,diagnostic
+SNOMED,17059001,Prepatellar bursitis,res174: knee diagnoses,diagnostic
+SNOMED,430725003,Patellofemoral stress syndrome,res174: knee diagnoses,diagnostic
+SNOMED,450521003,Patellofemoral osteoarthritis,res174: knee diagnoses,diagnostic
+SNOMED,58992007,Patellectomy,res174: knee diagnoses,diagnostic
+SNOMED,37785001,Patellar tendonitis,res174: knee diagnoses,diagnostic

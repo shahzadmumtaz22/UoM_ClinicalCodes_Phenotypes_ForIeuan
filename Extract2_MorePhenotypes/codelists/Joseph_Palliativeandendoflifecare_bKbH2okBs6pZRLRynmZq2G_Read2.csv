@@ -1,0 +1,55 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,8BAe.00,anticipatory palliative care,res176: Palliative and end of life care,diagnostic
+Read,8BA2.11,end of life care,res176: Palliative and end of life care,diagnostic
+Read,8BMM.00,issue of palliative care anticipatory medication box,res176: Palliative and end of life care,diagnostic
+Read,8BMM.11,issue of palliative care just in case box,res176: Palliative and end of life care,diagnostic
+Read,8B2a.00,prescription of palliative care anticipatory medication,res176: Palliative and end of life care,diagnostic
+Read,66S4.00,shared care - hospice / gp,res176: Palliative and end of life care,diagnostic
+Read,66S3.00,full care by hospice,res176: Palliative and end of life care,diagnostic
+Read,ZL5AP00,referral to palliative care physician,res176: Palliative and end of life care,diagnostic
+Read,8BAS.00,specialist palliative care treatment - daycare,res176: Palliative and end of life care,diagnostic
+Read,8BAR.00,specialist palliative care treatment - inpatient,res176: Palliative and end of life care,diagnostic
+Read,8BAP.00,specialist palliative care,res176: Palliative and end of life care,diagnostic
+Read,8BAN.00,community specialist palliative care,res176: Palliative and end of life care,diagnostic
+Read,8HgX.00,discharge from palliative care service,res176: Palliative and end of life care,diagnostic
+Read,8BAQ.00,final days pathway,res176: Palliative and end of life care,diagnostic
+Read,8Hg0.00,discharged from community specialist palliative care team,res176: Palliative and end of life care,diagnostic
+Read,8BAT.00,specialist palliative care treatment - outpatient,res176: Palliative and end of life care,diagnostic
+Read,8H7g.00,referral to palliative care service,res176: Palliative and end of life care,diagnostic
+Read,8CMW300,end of life care pathway,res176: Palliative and end of life care,diagnostic
+Read,8CM1.00,on gold standards palliative care framework,res176: Palliative and end of life care,diagnostic
+Read,8Hga.00,discharge from hospice,res176: Palliative and end of life care,diagnostic
+Read,8HX1.00,routine admission to hospice,res176: Palliative and end of life care,diagnostic
+Read,9c0P.00,current palliative oncology treatment,res176: Palliative and end of life care,diagnostic
+Read,8HH7.00,referred to community specialist palliative care team,res176: Palliative and end of life care,diagnostic
+Read,ZL18R00,under care of palliative care physician,res176: Palliative and end of life care,diagnostic
+Read,8HX..00,admission to hospice,res176: Palliative and end of life care,diagnostic
+Read,8HX0.00,urgent admission to hospice,res176: Palliative and end of life care,diagnostic
+Read,9b74.00,hospice,res176: Palliative and end of life care,diagnostic
+Read,9c0L000,planned palliative oncology treatment,res176: Palliative and end of life care,diagnostic
+Read,9b1C.00,hospice - independent,res176: Palliative and end of life care,diagnostic
+Read,8HY..00,referral to hospice,res176: Palliative and end of life care,diagnostic
+Read,8HX2.00,admission to hospice for respite,res176: Palliative and end of life care,diagnostic
+Read,9b1B.00,hospice - nhs,res176: Palliative and end of life care,diagnostic
+Read,949A.00,patient died in hospice,res176: Palliative and end of life care,diagnostic
+Read,949G.00,patient died in hospice community lodge,res176: Palliative and end of life care,diagnostic
+Read,9b74000,hospice community lodge,res176: Palliative and end of life care,diagnostic
+Read,9b9B.00,palliative medicine,res176: Palliative and end of life care,diagnostic
+Read,Z172.00,palliative care,res176: Palliative and end of life care,diagnostic
+Read,9NgD.00,under care of palliative care service,res176: Palliative and end of life care,diagnostic
+Read,9e02.00,notif to primary care oohs of palliative care plan in place,res176: Palliative and end of life care,diagnostic
+Read,9Nh0.00,under the care of community palliative care team,res176: Palliative and end of life care,diagnostic
+Read,9Ng7.00,on end of life care register,res176: Palliative and end of life care,diagnostic
+Read,9NlJ.00,seen by palliative care service,res176: Palliative and end of life care,diagnostic
+Read,M270300,hospice acquired pressure ulcer,res176: Palliative and end of life care,diagnostic
+Read,9NkJ.00,seen in hospice,res176: Palliative and end of life care,diagnostic
+Read,9NNZ.00,has end of life care pathway key worker,res176: Palliative and end of life care,diagnostic
+Read,9NNd.00,under care of palliative care specialist nurse,res176: Palliative and end of life care,diagnostic
+Read,9NNf000,under care of palliative care physician,res176: Palliative and end of life care,diagnostic
+Read,ZV57C00,[v]palliative care,res176: Palliative and end of life care,diagnostic
+Read,ZLF1100,discharge from hospice day hospital,res176: Palliative and end of life care,diagnostic
+Read,ZL9AR00,seen by palliative care physician,res176: Palliative and end of life care,diagnostic
+Read,ZLF1.00,discharge from hospice,res176: Palliative and end of life care,diagnostic
+Read,ZLE6P00,discharge from palliative care service,res176: Palliative and end of life care,diagnostic
+Read,ZLD3R00,discharge by palliative care physician,res176: Palliative and end of life care,diagnostic
+Read,8BJ1.00,palliative treatment,res176: Palliative and end of life care,diagnostic

@@ -1,0 +1,20 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,301336003,Body weight problem,res174: obesity comorbidities,diagnostic
+SNOMED,363808001,Body weight measure,res174: obesity comorbidities,diagnostic
+SNOMED,27113001,Body weight,res174: obesity comorbidities,diagnostic
+SNOMED,162864005,Body mass index 30+ - obesity,res174: obesity comorbidities,diagnostic
+SNOMED,162863004,Body mass index 25-29 - overweight,res174: obesity comorbidities,diagnostic
+SNOMED,60621009,Body mass index,res174: obesity comorbidities,diagnostic
+SNOMED,161833006,Abnormal weight gain,res174: obesity comorbidities,diagnostic
+SNOMED,16208003,Low fat diet,res174: obesity comorbidities,diagnostic
+SNOMED,83421005,Failure to lose weight,res174: obesity comorbidities,diagnostic
+SNOMED,224994002,Excessive weight gain,res174: obesity comorbidities,diagnostic
+SNOMED,248311001,Central obesity,res174: obesity comorbidities,diagnostic
+SNOMED,414916001,Obesity,res174: obesity comorbidities,diagnostic
+SNOMED,414915002,Obese,res174: obesity comorbidities,diagnostic
+SNOMED,238136002,Morbid obesity,res174: obesity comorbidities,diagnostic
+SNOMED,388975008,Weight reduction consultation,res174: obesity comorbidities,diagnostic
+SNOMED,388976009,weight reduction regimen,res174: obesity comorbidities,diagnostic
+SNOMED,262286000,Weight increased,res174: obesity comorbidities,diagnostic
+SNOMED,8943002,Weight gain,res174: obesity comorbidities,diagnostic
+SNOMED,238131007,Overweight,res174: obesity comorbidities,diagnostic

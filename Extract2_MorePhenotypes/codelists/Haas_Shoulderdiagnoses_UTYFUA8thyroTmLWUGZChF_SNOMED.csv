@@ -1,0 +1,50 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,281812007,Arthroscopy of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,430263007,Arthroscopic shoulder decompression,res174: shoulder diagnoses,diagnostic
+SNOMED,179893007,Arthroscopic acromioplasty,res174: shoulder diagnoses,diagnostic
+SNOMED,79092002,Arthrography of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,20904001,Arthrodesis of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,429459001,Arthritis of acromioclavicular joint,res174: shoulder diagnoses,diagnostic
+SNOMED,399114005,Adhesive capsulitis of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,85856004,Acromioclavicular joint structure,res174: shoulder diagnoses,diagnostic
+SNOMED,125594001,Injury of shoulder region,res174: shoulder diagnoses,diagnostic
+SNOMED,6858004,Capsulitis,res174: shoulder diagnoses,diagnostic
+SNOMED,27741009,Calcific tendinitis of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,95414005,calcific tendinitis,res174: shoulder diagnoses,diagnostic
+SNOMED,239961006,Bursitis of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,263122000,Injury of glenoid labrum of shoulder joint,res174: shoulder diagnoses,diagnostic
+SNOMED,202329003,Detachment of the glenoid labrum and/or capsule of the shoulder joint,res174: shoulder diagnoses,diagnostic
+SNOMED,40257000,Contusion of shoulder region,res174: shoulder diagnoses,diagnostic
+SNOMED,263480002,Entire tendon of supraspinatus muscle,res174: shoulder diagnoses,diagnostic
+SNOMED,442520000,Inflammation of rotator cuff tendon,res174: shoulder diagnoses,diagnostic
+SNOMED,239960007,Impingement syndrome of shoulder region,res174: shoulder diagnoses,diagnostic
+SNOMED,202843000,Full thickness rotator cuff tear,res174: shoulder diagnoses,diagnostic
+SNOMED,217225009,Repair of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,239865003,Osteoarthritis of acromioclavicular joint,res174: shoulder diagnoses,diagnostic
+SNOMED,241633004,MRI of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,27182002,Sprain of acromioclavicular ligament,res174: shoulder diagnoses,diagnostic
+SNOMED,67315001,Osteoarthritis of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,56060000,Repair of musculotendinous cuff of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,29592009,Radiography of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,239958005,Painful arc syndrome,res174: shoulder diagnoses,diagnostic
+SNOMED,428883008,Rupture of tendon of biceps,res174: shoulder diagnoses,diagnostic
+SNOMED,202852009,Shoulder tendinitis,res174: shoulder diagnoses,diagnostic
+SNOMED,275334004,Shoulder strain,res174: shoulder diagnoses,diagnostic
+SNOMED,4106009,Rotator cuff syndrome,res174: shoulder diagnoses,diagnostic
+SNOMED,359532006,Rotator cuff impingement syndrome,res174: shoulder diagnoses,diagnostic
+SNOMED,86128003,"Rupture of tendon of biceps, long head",res174: shoulder diagnoses,diagnostic
+SNOMED,16982005,Shoulder region structure,res174: shoulder diagnoses,diagnostic
+SNOMED,119633005,Shoulder reconstruction,res174: shoulder diagnoses,diagnostic
+SNOMED,45326000,Shoulder pain,res174: shoulder diagnoses,diagnostic
+SNOMED,78715003,Subdeltoid bursitis,res174: shoulder diagnoses,diagnostic
+SNOMED,3199001,Sprain of shoulder,res174: shoulder diagnoses,diagnostic
+SNOMED,91775009,Structure of left shoulder region,res174: shoulder diagnoses,diagnostic
+SNOMED,40799003,Subacromial bursitis,res174: shoulder diagnoses,diagnostic
+SNOMED,7885001,Structure of rotator cuff including muscles and tendons,res174: shoulder diagnoses,diagnostic
+SNOMED,91774008,Structure of right shoulder region,res174: shoulder diagnoses,diagnostic
+SNOMED,399346004,Supraspinatus tear,res174: shoulder diagnoses,diagnostic
+SNOMED,274140005,Subscapularis tendinitis,res174: shoulder diagnoses,diagnostic
+SNOMED,263049003,Subluxation of acromioclavicular joint,res174: shoulder diagnoses,diagnostic
+SNOMED,202841003,Supraspinatus tendinitis,res174: shoulder diagnoses,diagnostic
+SNOMED,303922008,US shoulder region,res174: shoulder diagnoses,diagnostic
+SNOMED,42262007,Total shoulder replacement,res174: shoulder diagnoses,diagnostic

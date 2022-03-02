@@ -1,0 +1,136 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,1B17.00,Depressed,res173: Depression (Read codes),diagnostic
+Read,6G00.00,Postnatal depression counselling,res173: Depression (Read codes),diagnostic
+Read,6659000,Antidepressant drug treatment started,res173: Depression (Read codes),diagnostic
+Read,212S.00,Depression resolved,res173: Depression (Read codes),diagnostic
+Read,62T1.00,Puerperal depression,res173: Depression (Read codes),diagnostic
+Read,2257.00,O/E - depressed,res173: Depression (Read codes),diagnostic
+Read,9Ov..00,Depression monitoring administration,res173: Depression (Read codes),diagnostic
+Read,8HHq.00,Referral for guided self-help for depression,res173: Depression (Read codes),diagnostic
+Read,8BK0.00,Depression management programme,res173: Depression (Read codes),diagnostic
+Read,8CAa.00,Patient given advice about management of depression,res173: Depression (Read codes),diagnostic
+Read,9HA0.00,On depression register,res173: Depression (Read codes),diagnostic
+Read,8HHq000,Referral for depression self-help video,res173: Depression (Read codes),diagnostic
+Read,9H90.00,Depression annual review,res173: Depression (Read codes),diagnostic
+Read,9H92.00,Depression interim review,res173: Depression (Read codes),diagnostic
+Read,8IH5200,Referral for guided self-help for depression declined,res173: Depression (Read codes),diagnostic
+Read,9H91.00,Depression medication review,res173: Depression (Read codes),diagnostic
+Read,9Ov0.00,Depression monitoring first letter,res173: Depression (Read codes),diagnostic
+Read,9Ov1.00,Depression monitoring second letter,res173: Depression (Read codes),diagnostic
+Read,E113300,"Recurrent major depressive episodes, severe, no psychosis",res173: Depression (Read codes),diagnostic
+Read,9hC..00,Exception reporting: depression quality indicators,res173: Depression (Read codes),diagnostic
+Read,9Ov4.00,Depression monitoring telephone invite,res173: Depression (Read codes),diagnostic
+Read,E113400,"Recurrent major depressive episodes, severe, with psychosis",res173: Depression (Read codes),diagnostic
+Read,9Ov3.00,Depression monitoring verbal invite,res173: Depression (Read codes),diagnostic
+Read,9Ov2.00,Depression monitoring third letter,res173: Depression (Read codes),diagnostic
+Read,Eu33100,"[X]Recurrent depressive disorder, current episode moderate",res173: Depression (Read codes),diagnostic
+Read,9k4..00,Depression - enhanced services administration,res173: Depression (Read codes),diagnostic
+Read,E112.11,Agitated depression,res173: Depression (Read codes),diagnostic
+Read,9hC1.00,Excepted from depression quality indicators: Informed dissen,res173: Depression (Read codes),diagnostic
+Read,9hC0.00,Excepted from depression quality indicators: Patient unsuita,res173: Depression (Read codes),diagnostic
+Read,9k40.00,Depression - enhanced service completed,res173: Depression (Read codes),diagnostic
+Read,E11..12,Depressive psychoses,res173: Depression (Read codes),diagnostic
+Read,E112.00,Single major depressive episode,res173: Depression (Read codes),diagnostic
+Read,9kQ..11,On full dose long term treatment for depression,res173: Depression (Read codes),diagnostic
+Read,9kQ..00,On full dose long term treatment depression - enh serv admin,res173: Depression (Read codes),diagnostic
+Read,E112.13,Endogenous depression first episode,res173: Depression (Read codes),diagnostic
+Read,E112300,"Single major depressive episode, severe, without psychosis",res173: Depression (Read codes),diagnostic
+Read,E112.12,Endogenous depression first episode,res173: Depression (Read codes),diagnostic
+Read,E112200,"Single major depressive episode, moderate",res173: Depression (Read codes),diagnostic
+Read,E112.14,Endogenous depression,res173: Depression (Read codes),diagnostic
+Read,E112100,"Single major depressive episode, mild",res173: Depression (Read codes),diagnostic
+Read,E112000,"Single major depressive episode, unspecified",res173: Depression (Read codes),diagnostic
+Read,E112600,"Single major depressive episode, in full remission",res173: Depression (Read codes),diagnostic
+Read,E113200,"Recurrent major depressive episodes, moderate",res173: Depression (Read codes),diagnostic
+Read,E112500,"Single major depressive episode, partial or unspec remission",res173: Depression (Read codes),diagnostic
+Read,E112400,"Single major depressive episode, severe, with psychosis",res173: Depression (Read codes),diagnostic
+Read,E113100,"Recurrent major depressive episodes, mild",res173: Depression (Read codes),diagnostic
+Read,E112z00,Single major depressive episode NOS,res173: Depression (Read codes),diagnostic
+Read,E113000,"Recurrent major depressive episodes, unspecified",res173: Depression (Read codes),diagnostic
+Read,E113.11,Endogenous depression - recurrent,res173: Depression (Read codes),diagnostic
+Read,E113.00,Recurrent major depressive episode,res173: Depression (Read codes),diagnostic
+Read,Eu32200,[X]Severe depressive episode without psychotic symptoms,res173: Depression (Read codes),diagnostic
+Read,E204.99,Reactive (neurotic) depression,res173: Depression (Read codes),diagnostic
+Read,E118.00,Seasonal affective disorder,res173: Depression (Read codes),diagnostic
+Read,Eu33000,"[X]Recurrent depressive disorder, current episode mild",res173: Depression (Read codes),diagnostic
+Read,E113z00,Recurrent major depressive episode NOS,res173: Depression (Read codes),diagnostic
+Read,E113500,"Recurrent major depressive episodes,partial/unspec remission",res173: Depression (Read codes),diagnostic
+Read,E113700,Recurrent depression,res173: Depression (Read codes),diagnostic
+Read,E113600,"Recurrent major depressive episodes, in full remission",res173: Depression (Read codes),diagnostic
+Read,E130.00,Reactive depressive psychosis,res173: Depression (Read codes),diagnostic
+Read,E204.11,Postnatal depression,res173: Depression (Read codes),diagnostic
+Read,E11z200,Masked depression,res173: Depression (Read codes),diagnostic
+Read,E11y200,Atypical depressive disorder,res173: Depression (Read codes),diagnostic
+Read,E204.00,Neurotic depression reactive type,res173: Depression (Read codes),diagnostic
+Read,E130.11,Psychotic reactive depression,res173: Depression (Read codes),diagnostic
+Read,E200300,Anxiety with depression,res173: Depression (Read codes),diagnostic
+Read,E135.00,Agitated depression,res173: Depression (Read codes),diagnostic
+Read,E2B..00,Depressive disorder NEC,res173: Depression (Read codes),diagnostic
+Read,Eu32199,Moderate depression,res173: Depression (Read codes),diagnostic
+Read,Eu20400,[X]Post-schizophrenic depression,res173: Depression (Read codes),diagnostic
+Read,E290z00,Brief depressive reaction NOS,res173: Depression (Read codes),diagnostic
+Read,Eu05300,[X]Organic mood [affective] disorders,res173: Depression (Read codes),diagnostic
+Read,E2B..98,Depression,res173: Depression (Read codes),diagnostic
+Read,E2B1.00,Chronic depression,res173: Depression (Read codes),diagnostic
+Read,E2B..99,Depression NOS,res173: Depression (Read codes),diagnostic
+Read,Eu32.11,[X]Single episode of depressive reaction,res173: Depression (Read codes),diagnostic
+Read,Eu32100,[X]Moderate depressive episode,res173: Depression (Read codes),diagnostic
+Read,Eu32.00,[X]Depressive episode,res173: Depression (Read codes),diagnostic
+Read,Eu3..00,[X]Mood - affective disorders,res173: Depression (Read codes),diagnostic
+Read,Eu32099,Mild depression,res173: Depression (Read codes),diagnostic
+Read,Eu32.12,[X]Single episode of psychogenic depression,res173: Depression (Read codes),diagnostic
+Read,Eu32000,[X]Mild depressive episode,res173: Depression (Read codes),diagnostic
+Read,Eu32.13,[X]Single episode of reactive depression,res173: Depression (Read codes),diagnostic
+Read,Eu32211,[X]Single episode agitated depressn w'out psychotic symptoms,res173: Depression (Read codes),diagnostic
+Read,Eu33.14,[X]Seasonal depressive disorder,res173: Depression (Read codes),diagnostic
+Read,Eu32900,"Single major depressive episode, severe, with psychosis, psychosis in remission",res173: Depression (Read codes),diagnostic
+Read,Eu32311,[X]Single episode of major depression and psychotic symptoms,res173: Depression (Read codes),diagnostic
+Read,Eu32300,[X]Severe depressive episode with psychotic symptoms,res173: Depression (Read codes),diagnostic
+Read,Eu32212,[X]Single episode major depression w'out psychotic symptoms,res173: Depression (Read codes),diagnostic
+Read,Eu32299,Severe depression,res173: Depression (Read codes),diagnostic
+Read,Eu32213,[X]Single episode vital depression w'out psychotic symptoms,res173: Depression (Read codes),diagnostic
+Read,Eu32314,[X]Single episode of reactive depressive psychosis,res173: Depression (Read codes),diagnostic
+Read,Eu32800,"[X]Major depression, severe with psychotic symptoms",res173: Depression (Read codes),diagnostic
+Read,Eu32313,[X]Single episode of psychotic depression,res173: Depression (Read codes),diagnostic
+Read,Eu32312,[X]Single episode of psychogenic depressive psychosis,res173: Depression (Read codes),diagnostic
+Read,Eu32700,"[X]Major depression, severe without psychotic symptoms",res173: Depression (Read codes),diagnostic
+Read,Eu32400,[X]Mild depression,res173: Depression (Read codes),diagnostic
+Read,Eu32600,"[X]Major depression, moderately severe",res173: Depression (Read codes),diagnostic
+Read,Eu32500,"[X]Major depression, mild",res173: Depression (Read codes),diagnostic
+Read,Eu32A00,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission",res173: Depression (Read codes),diagnostic
+Read,Eu33.13,[X]Recurrent episodes of reactive depression,res173: Depression (Read codes),diagnostic
+Read,Eu32y12,[X]Single episode of masked depression NOS,res173: Depression (Read codes),diagnostic
+Read,Eu32y11,[X]Atypical depression,res173: Depression (Read codes),diagnostic
+Read,Eu32y00,[X]Other depressive episodes,res173: Depression (Read codes),diagnostic
+Read,Eu32B00,[X]Antenatal depression,res173: Depression (Read codes),diagnostic
+Read,Eu32z12,[X]Depressive disorder NOS,res173: Depression (Read codes),diagnostic
+Read,Eu33.12,[X]Recurrent episodes of psychogenic depression,res173: Depression (Read codes),diagnostic
+Read,Eu32z11,[X]Depression NOS,res173: Depression (Read codes),diagnostic
+Read,Eu32z00,"[X]Depressive episode, unspecified",res173: Depression (Read codes),diagnostic
+Read,Eu33.11,[X]Recurrent episodes of depressive reaction,res173: Depression (Read codes),diagnostic
+Read,Eu32z13,[X]Prolonged single episode of reactive depression,res173: Depression (Read codes),diagnostic
+Read,Eu33.00,[X]Recurrent depressive disorder,res173: Depression (Read codes),diagnostic
+Read,Eu32z14,[X] Reactive depression NOS,res173: Depression (Read codes),diagnostic
+Read,Eu33y00,[X]Other recurrent depressive disorders,res173: Depression (Read codes),diagnostic
+Read,Eu33212,"[X]Major depression, recurrent without psychotic symptoms",res173: Depression (Read codes),diagnostic
+Read,Eu33211,[X]Endogenous depression without psychotic symptoms,res173: Depression (Read codes),diagnostic
+Read,Eu33200,[X]Recurr depress disorder cur epi severe without psyc sympt,res173: Depression (Read codes),diagnostic
+Read,Eu33311,[X]Endogenous depression with psychotic symptoms,res173: Depression (Read codes),diagnostic
+Read,Eu33400,"[X]Recurrent depressive disorder, currently in remission",res173: Depression (Read codes),diagnostic
+Read,Eu33300,[X]Recurrent depress disorder cur epi severe with psyc symp,res173: Depression (Read codes),diagnostic
+Read,Eu33214,"[X]Vital depression, recurrent without psychotic symptoms",res173: Depression (Read codes),diagnostic
+Read,Eu33316,[X]Recurrent severe episodes/reactive depressive psychosis,res173: Depression (Read codes),diagnostic
+Read,Eu33313,[X]Recurr severe episodes/major depression+psychotic symptom,res173: Depression (Read codes),diagnostic
+Read,Eu33315,[X]Recurrent severe episodes of psychotic depression,res173: Depression (Read codes),diagnostic
+Read,Eu33314,[X]Recurr severe episodes/psychogenic depressive psychosis,res173: Depression (Read codes),diagnostic
+Read,Eu33z11,[X]Monopolar depression NOS,res173: Depression (Read codes),diagnostic
+Read,Eu41200,[X]Mixed anxiety and depressive disorder,res173: Depression (Read codes),diagnostic
+Read,Eu33z00,"[X]Recurrent depressive disorder, unspecified",res173: Depression (Read codes),diagnostic
+Read,Eu3y111,[X]Recurrent brief depressive episodes,res173: Depression (Read codes),diagnostic
+Read,Eu34111,[X]Depressive neurosis,res173: Depression (Read codes),diagnostic
+Read,Eu34114,[X]Persistant anxiety depression,res173: Depression (Read codes),diagnostic
+Read,Eu34113,[X]Neurotic depression,res173: Depression (Read codes),diagnostic
+Read,Eu53012,[X]Postpartum depression NOS,res173: Depression (Read codes),diagnostic
+Read,Eu53011,[X]Postnatal depression NOS,res173: Depression (Read codes),diagnostic
+Read,Eu41211,[X]Mild anxiety depression,res173: Depression (Read codes),diagnostic
+Read,R007z13,[D]Postoperative depression,res173: Depression (Read codes),diagnostic

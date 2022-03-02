@@ -1,0 +1,97 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,283165009,Decompression laminectomy,res174: low back diagnoses,diagnostic
+SNOMED,125872003,Fracture of sacrum,res174: low back diagnoses,diagnostic
+SNOMED,2304001,Discitis,res174: low back diagnoses,diagnostic
+SNOMED,608830002,Discogenic pain,res174: low back diagnoses,diagnostic
+SNOMED,241577003,CT of spine,res174: low back diagnoses,diagnostic
+SNOMED,241580002,CT of lumbar spine,res174: low back diagnoses,diagnostic
+SNOMED,303697006,CT of lumbar region,res174: low back diagnoses,diagnostic
+SNOMED,281933002,Crush fracture of lumbar vertebra,res174: low back diagnoses,diagnostic
+SNOMED,64217002,Curvature of spine,res174: low back diagnoses,diagnostic
+SNOMED,275249009,Correction of scoliosis,res174: low back diagnoses,diagnostic
+SNOMED,299966003,Compression of lumbar nerve root,res174: low back diagnoses,diagnostic
+SNOMED,161891005,Backache,res174: low back diagnoses,diagnostic
+SNOMED,302258001,Back problem,res174: low back diagnoses,diagnostic
+SNOMED,429350001,Arthropathy of spinal facet joint,res174: low back diagnoses,diagnostic
+SNOMED,371082009,Arthritis of spine,res174: low back diagnoses,diagnostic
+SNOMED,54735007,Bone structure of sacrum,res174: low back diagnoses,diagnostic
+SNOMED,42942008,Compression fracture of vertebral column,res174: low back diagnoses,diagnostic
+SNOMED,49668003,Bone structure of L5,res174: low back diagnoses,diagnostic
+SNOMED,64688005,Bone structure of coccyx,res174: low back diagnoses,diagnostic
+SNOMED,3418002,Chondrectomy of spine,res174: low back diagnoses,diagnostic
+SNOMED,443395009,Compression fracture,res174: low back diagnoses,diagnostic
+SNOMED,278860009,Chronic lower back pain,res174: low back diagnoses,diagnostic
+SNOMED,134407002,Chronic back pain,res174: low back diagnoses,diagnostic
+SNOMED,260649000,Lumbar microdiscectomy,res174: low back diagnoses,diagnostic
+SNOMED,445734009,Fracture of body of vertebra,res174: low back diagnoses,diagnostic
+SNOMED,26538006,Degeneration of lumbar intervertebral disc,res174: low back diagnoses,diagnostic
+SNOMED,247369005,Facet joint pain,res174: low back diagnoses,diagnostic
+SNOMED,77547008,Degeneration of intervertebral disc,res174: low back diagnoses,diagnostic
+SNOMED,302129007,Decompression of lumbar spine,res174: low back diagnoses,diagnostic
+SNOMED,24856003,Diagnostic radiography of coccyx,res174: low back diagnoses,diagnostic
+SNOMED,178771000,Exploration of spine,res174: low back diagnoses,diagnostic
+SNOMED,430886005,Disorder of vertebra,res174: low back diagnoses,diagnostic
+SNOMED,372109003,Disorder of joint of spine,res174: low back diagnoses,diagnostic
+SNOMED,50448004,Fracture of vertebral column,res174: low back diagnoses,diagnostic
+SNOMED,125608002,Fracture of lumbar spine,res174: low back diagnoses,diagnostic
+SNOMED,429377005,Lumbar laminectomy,res174: low back diagnoses,diagnostic
+SNOMED,425585009,L5/S1 disc,res174: low back diagnoses,diagnostic
+SNOMED,427094005,L4/5 disc,res174: low back diagnoses,diagnostic
+SNOMED,81102000,Injury of back,res174: low back diagnoses,diagnostic
+SNOMED,73589001,Intervertebral disc prolapse,res174: low back diagnoses,diagnostic
+SNOMED,282764008,Injury of coccyx,res174: low back diagnoses,diagnostic
+SNOMED,279039007,Low back pain,res174: low back diagnoses,diagnostic
+SNOMED,239542002,Lumbar discectomy,res174: low back diagnoses,diagnostic
+SNOMED,18347007,Spinal stenosis of lumbar region,res174: low back diagnoses,diagnostic
+SNOMED,61960001,Lordosis deformity of spine,res174: low back diagnoses,diagnostic
+SNOMED,387731002,Laminectomy,res174: low back diagnoses,diagnostic
+SNOMED,300956001,Low back strain,res174: low back diagnoses,diagnostic
+SNOMED,264082005,Lumbar,res174: low back diagnoses,diagnostic
+SNOMED,37822005,Lower back structure,res174: low back diagnoses,diagnostic
+SNOMED,282766005,Lower back injury,res174: low back diagnoses,diagnostic
+SNOMED,128196005,Lumbar radiculopathy,res174: low back diagnoses,diagnostic
+SNOMED,123798002,Lumbosacral spondylosis,res174: low back diagnoses,diagnostic
+SNOMED,52612000,Lumbar region back structure,res174: low back diagnoses,diagnostic
+SNOMED,356139006,Lumbosacral spine,res174: low back diagnoses,diagnostic
+SNOMED,209565008,Lumbar sprain,res174: low back diagnoses,diagnostic
+SNOMED,50172003,Lumbar spinal fusion,res174: low back diagnoses,diagnostic
+SNOMED,2415007,Lumbosacral radiculopathy,res174: low back diagnoses,diagnostic
+SNOMED,72274001,Nerve root disorder,res174: low back diagnoses,diagnostic
+SNOMED,392236004,Operative procedure on spinal structure,res174: low back diagnoses,diagnostic
+SNOMED,309710005,Lumbosacral strain,res174: low back diagnoses,diagnostic
+SNOMED,48210000,Lumbosacral spondylosis without myelopathy,res174: low back diagnoses,diagnostic
+SNOMED,241645008,Magnetic resonance imaging of spine,res174: low back diagnoses,diagnostic
+SNOMED,243338005,Nerve root compression syndrome,res174: low back diagnoses,diagnostic
+SNOMED,241648005,MRI of lumbar spine,res174: low back diagnoses,diagnostic
+SNOMED,44275008,Manipulation of spine,res174: low back diagnoses,diagnostic
+SNOMED,76107001,Spinal stenosis,res174: low back diagnoses,diagnostic
+SNOMED,267982002,Pain in lumbar spine,res174: low back diagnoses,diagnostic
+SNOMED,67721000,Sacroiliac arthrodesis,res174: low back diagnoses,diagnostic
+SNOMED,239880009,Osteoarthritis of lumbar spine,res174: low back diagnoses,diagnostic
+SNOMED,262521009,Spinal injury,res174: low back diagnoses,diagnostic
+SNOMED,34789001,Pain in the coccyx,res174: low back diagnoses,diagnostic
+SNOMED,61486003,Sacral back pain,res174: low back diagnoses,diagnostic
+SNOMED,79760008,Radiography of spine,res174: low back diagnoses,diagnostic
+SNOMED,202708005,Prolapsed lumbar intervertebral disc,res174: low back diagnoses,diagnostic
+SNOMED,298382003,Scoliosis deformity of spine,res174: low back diagnoses,diagnostic
+SNOMED,240219003,Spinal claudication,res174: low back diagnoses,diagnostic
+SNOMED,202487003,Sacroiliac joint pain,res174: low back diagnoses,diagnostic
+SNOMED,55146009,Sacroiliac joint inflamed,res174: low back diagnoses,diagnostic
+SNOMED,298591003,Scoliosis of lumbar spine,res174: low back diagnoses,diagnostic
+SNOMED,55705006,Spinal arthrodesis,res174: low back diagnoses,diagnostic
+SNOMED,53332000,Spinal arthritis deformans,res174: low back diagnoses,diagnostic
+SNOMED,203095000,Spasm of back muscles,res174: low back diagnoses,diagnostic
+SNOMED,22791004,X-ray of lumbosacral spine,res174: low back diagnoses,diagnostic
+SNOMED,8847002,Spondylosis,res174: low back diagnoses,diagnostic
+SNOMED,240221008,Spondylolysis,res174: low back diagnoses,diagnostic
+SNOMED,84172003,Spondylitis,res174: low back diagnoses,diagnostic
+SNOMED,307138004,Spondylolisthesis L5/S1 level,res174: low back diagnoses,diagnostic
+SNOMED,274152003,Spondylolisthesis,res174: low back diagnoses,diagnostic
+SNOMED,209548004,"Sprain, lumbosacral ligament",res174: low back diagnoses,diagnostic
+SNOMED,314668006,Wedge fracture of vertebra,res174: low back diagnoses,diagnostic
+SNOMED,281598004,Sprain of spinal ligament,res174: low back diagnoses,diagnostic
+SNOMED,68859000,Spondylosis without myelopathy,res174: low back diagnoses,diagnostic
+SNOMED,3.71E+11,Stenosis of intervertebral foramina,res174: low back diagnoses,diagnostic
+SNOMED,401226007,Vertebroplasty,res174: low back diagnoses,diagnostic
+SNOMED,203438009,Vertebral osteoporosis,res174: low back diagnoses,diagnostic
+SNOMED,249921008,Stiff back,res174: low back diagnoses,diagnostic

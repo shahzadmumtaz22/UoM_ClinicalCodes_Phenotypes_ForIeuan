@@ -1,0 +1,234 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,ZL9D.00,seen by psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZLD2b00,discharge by child and adolescent psychiatrist,res176: Contact with mental health services,diagnostic
+Read,69F..00,mental health act examination,res176: Contact with mental health services,diagnostic
+Read,9N5G400,111 contact disposition to mental health service,res176: Contact with mental health services,diagnostic
+Read,ZLD2c00,discharge by forensic psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL1B.00,under care of psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL9D200,seen by forensic psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL5B200,referral to forensic psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL9D300,seen by liaison psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL9D500,seen by psychiatrist for mental handicap,res176: Contact with mental health services,diagnostic
+Read,ZL9D600,seen by rehabilitation psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZLA2E00,seen by psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,ZLD1400,discharge by mental health counsellor,res176: Contact with mental health services,diagnostic
+Read,ZLA3100,seen by community psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,ZLBC.00,seen by psychotherapist,res176: Contact with mental health services,diagnostic
+Read,ZL78.11,refer to psychologist,res176: Contact with mental health services,diagnostic
+Read,69FZ.00,mental health act exam nos,res176: Contact with mental health services,diagnostic
+Read,ZL73400,referral to mental health counsellor,res176: Contact with mental health services,diagnostic
+Read,ZL62E00,referral to psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,7P22y00,other specified rehabilitation for psychiatric disorders,res176: Contact with mental health services,diagnostic
+Read,Z5A..00,psychoanalytic and psychodynamic therapy,res176: Contact with mental health services,diagnostic
+Read,Z5A3400,psychodynamic-interpersonal psychotherapy,res176: Contact with mental health services,diagnostic
+Read,Z5A4.00,brief focal psychodynamic therapy,res176: Contact with mental health services,diagnostic
+Read,Z5A5100,group analytic psychotherapy,res176: Contact with mental health services,diagnostic
+Read,Z5A6200,child-based psychoanalytic psychotherapy,res176: Contact with mental health services,diagnostic
+Read,ZL1B300,under care of liaison psychiatrist,res176: Contact with mental health services,diagnostic
+Read,Z574.00,narrative family psychotherapy,res176: Contact with mental health services,diagnostic
+Read,Z576200,relationship orientated psychosexual therapy,res176: Contact with mental health services,diagnostic
+Read,Z576.00,psychosexual therapy,res176: Contact with mental health services,diagnostic
+Read,Z573.00,structural family psychotherapy,res176: Contact with mental health services,diagnostic
+Read,ZL5B.00,referral to psychiatrist,res176: Contact with mental health services,diagnostic
+Read,9NJd.00,in-house psychiatry follow-up appointment,res176: Contact with mental health services,diagnostic
+Read,Z522.00,behavioural psychotherapy,res176: Contact with mental health services,diagnostic
+Read,Z571.00,systemic family psychotherapy,res176: Contact with mental health services,diagnostic
+Read,ZL5B111,referral to child psychiatrist,res176: Contact with mental health services,diagnostic
+Read,8CM9.00,mental health care programme approach contingency plan,res176: Contact with mental health services,diagnostic
+Read,ZL1B500,under care of psychiatrist for mental handicap,res176: Contact with mental health services,diagnostic
+Read,9bA2.00,child and adolescent psychiatry,res176: Contact with mental health services,diagnostic
+Read,9NN5.00,under care of psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL1B600,under care of rehabilitation psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL22E00,under care of psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,ZL23100,under care of community psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,8CM9.11,mental health cpa contingency plan available,res176: Contact with mental health services,diagnostic
+Read,9NlG.00,seen by forensic psychiatrist,res176: Contact with mental health services,diagnostic
+Read,9NN7.00,under care of mental health team,res176: Contact with mental health services,diagnostic
+Read,9NlK000,seen by trainee psychotherapist,res176: Contact with mental health services,diagnostic
+Read,9bA5.00,old age psychiatry,res176: Contact with mental health services,diagnostic
+Read,9N6h.00,referral by mental health service,res176: Contact with mental health services,diagnostic
+Read,9Nla.00,seen by psychiatrist,res176: Contact with mental health services,diagnostic
+Read,9NSA.00,unsuitable for biopsychosocial assessment,res176: Contact with mental health services,diagnostic
+Read,9Nk6.00,seen in mental health clinic,res176: Contact with mental health services,diagnostic
+Read,9NNM.00,under care of community psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,9NS1.00,attended psycho-educational group,res176: Contact with mental health services,diagnostic
+Read,9NJc.00,in-house psychiatry discharge,res176: Contact with mental health services,diagnostic
+Read,9bA4.00,psychotherapy (specialty),res176: Contact with mental health services,diagnostic
+Read,8CM2.00,psychiatry care plan,res176: Contact with mental health services,diagnostic
+Read,Z5A3100,long-term psychodynamic psychotherapy,res176: Contact with mental health services,diagnostic
+Read,Z572.00,strategic family psychotherapy,res176: Contact with mental health services,diagnostic
+Read,Z5A3.00,psychodynamic psychotherapy,res176: Contact with mental health services,diagnostic
+Read,Z576100,generic psychosexual therapy,res176: Contact with mental health services,diagnostic
+Read,Z5A..11,psychoanalytical - psychodynamic therapy,res176: Contact with mental health services,diagnostic
+Read,8A2Z.00,psychiatric monitoring nos,res176: Contact with mental health services,diagnostic
+Read,67X..00,psychoeducation,res176: Contact with mental health services,diagnostic
+Read,Z5A5.00,group psychotherapy,res176: Contact with mental health services,diagnostic
+Read,Z5C1.00,day psychotherapy programme,res176: Contact with mental health services,diagnostic
+Read,8A21.00,psychiatric observation,res176: Contact with mental health services,diagnostic
+Read,7P22.00,rehabilitation for psychiatric disorders,res176: Contact with mental health services,diagnostic
+Read,8A2..00,psychiatric monitoring,res176: Contact with mental health services,diagnostic
+Read,9bA1.00,mental illness (specialty),res176: Contact with mental health services,diagnostic
+Read,8Hc..00,referral to mental health team,res176: Contact with mental health services,diagnostic
+Read,8H2T.00,emergency voluntary psychiatric admission mental health act,res176: Contact with mental health services,diagnostic
+Read,8G51.00,group psychotherapy,res176: Contact with mental health services,diagnostic
+Read,8CY..00,mental health care programme approach,res176: Contact with mental health services,diagnostic
+Read,8CQ..00,mental health crisis plan,res176: Contact with mental health services,diagnostic
+Read,8CV3.00,psychological therapy started,res176: Contact with mental health services,diagnostic
+Read,8G16.00,interpersonal psychotherapy,res176: Contact with mental health services,diagnostic
+Read,8G11.00,psychotherapy - cognitive,res176: Contact with mental health services,diagnostic
+Read,8G13100,cbtp - cognitive behavioural therapy for psychosis,res176: Contact with mental health services,diagnostic
+Read,8H23000,emerg psychiatric admiss mha,res176: Contact with mental health services,diagnostic
+Read,64R6.00,child: school psychol. service,res176: Contact with mental health services,diagnostic
+Read,8GA..00,psychological nursing,res176: Contact with mental health services,diagnostic
+Read,Z922.00,care planning under section 117 of mental health act 1983,res176: Contact with mental health services,diagnostic
+Read,8H23.00,admit psychiatric emergency,res176: Contact with mental health services,diagnostic
+Read,64R7.00,child: clinical psychologist,res176: Contact with mental health services,diagnostic
+Read,677A.00,psychosexual counselling,res176: Contact with mental health services,diagnostic
+Read,8HVi.00,private referral to psychologist,res176: Contact with mental health services,diagnostic
+Read,8HHn.00,referral to non nhs mental health community service,res176: Contact with mental health services,diagnostic
+Read,8H4P.00,referral to child psychiatrist,res176: Contact with mental health services,diagnostic
+Read,8H38.00,non-urgent psychiatric admisn.,res176: Contact with mental health services,diagnostic
+Read,8H4D.00,referral to psychogeriatrician,res176: Contact with mental health services,diagnostic
+Read,8HHT.00,referral to psychotherapist,res176: Contact with mental health services,diagnostic
+Read,8H7T.00,refer to psychologist,res176: Contact with mental health services,diagnostic
+Read,8HHR.00,referral to child and adolescent psychiatry service,res176: Contact with mental health services,diagnostic
+Read,8HVS.00,private referral to psychogeriatrician,res176: Contact with mental health services,diagnostic
+Read,8HK9.00,psychiatric d.v. requested,res176: Contact with mental health services,diagnostic
+Read,8HHs.00,referral to psychosis early intervention service,res176: Contact with mental health services,diagnostic
+Read,8HJ3.00,psychiatric self-referral,res176: Contact with mental health services,diagnostic
+Read,8HVO.00,private referral to psychiatrist,res176: Contact with mental health services,diagnostic
+Read,8HLC.00,psychogeriatric d.v. done,res176: Contact with mental health services,diagnostic
+Read,8HTc.00,referral to psychosexual clinic,res176: Contact with mental health services,diagnostic
+Read,9bA0.00,mental handicap (specialty),res176: Contact with mental health services,diagnostic
+Read,9N2z.00,seen by child and adolescent mental health service,res176: Contact with mental health services,diagnostic
+Read,9N0T.00,seen in child psychology clinic,res176: Contact with mental health services,diagnostic
+Read,8HgB.00,discharged by mental health primary care worker,res176: Contact with mental health services,diagnostic
+Read,8Hc1.00,referral to mental health crisis team,res176: Contact with mental health services,diagnostic
+Read,8Hg9.00,discharged from community mental health service,res176: Contact with mental health services,diagnostic
+Read,9N0B.00,seen in psychogeriatric clinic,res176: Contact with mental health services,diagnostic
+Read,8Hl9.00,referral to educational psychologist,res176: Contact with mental health services,diagnostic
+Read,8T21.00,referral for mental health assessment,res176: Contact with mental health services,diagnostic
+Read,9N2v.00,seen by primary care mental health gateway worker,res176: Contact with mental health services,diagnostic
+Read,9N2W.00,seen by psychologist,res176: Contact with mental health services,diagnostic
+Read,9N1M.00,seen in psychology clinic,res176: Contact with mental health services,diagnostic
+Read,9N2E200,seen by core psychiatry trainee doctor,res176: Contact with mental health services,diagnostic
+Read,9N2r.00,seen by mental health triage nurse,res176: Contact with mental health services,diagnostic
+Read,9N2W200,seen by child and adolescent psychologist,res176: Contact with mental health services,diagnostic
+Read,9N2q.00,seen by primary care graduate mental health worker,res176: Contact with mental health services,diagnostic
+Read,9bA..00,psychiatry,res176: Contact with mental health services,diagnostic
+Read,9NNE000,under care of educational psychologist,res176: Contact with mental health services,diagnostic
+Read,9NJb.00,in-house psychiatry first appointment,res176: Contact with mental health services,diagnostic
+Read,9N5F.00,patient initiated encounter with mental health crisis team,res176: Contact with mental health services,diagnostic
+Read,9NI6.00,psychiatric outreach clinic,res176: Contact with mental health services,diagnostic
+Read,9NNE.00,under the care of psychologist,res176: Contact with mental health services,diagnostic
+Read,9NN4.00,has community mental health team key worker,res176: Contact with mental health services,diagnostic
+Read,9NN7000,under care of mental health in-reach team,res176: Contact with mental health services,diagnostic
+Read,9No0.00,seen in child and adolescent psychiatry clinic,res176: Contact with mental health services,diagnostic
+Read,9Ng6.00,independent mental capacity advocate instructed,res176: Contact with mental health services,diagnostic
+Read,9NNQ.00,under care of hospital psychiatric team,res176: Contact with mental health services,diagnostic
+Read,9NSC.00,accepted by psychological talking therapy service,res176: Contact with mental health services,diagnostic
+Read,9Nla100,seen by consultant psychiatrist,res176: Contact with mental health services,diagnostic
+Read,9NlK.00,seen by psychotherapist,res176: Contact with mental health services,diagnostic
+Read,9Nla000,seen by child and adolescent psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZLD7C00,discharge by psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,ZL62B00,referral to nurse psychotherapist,res176: Contact with mental health services,diagnostic
+Read,ZL1B412,under care of old age psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL1B411,under care of elderly mentally ill psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL1B100,under care of child and adolescent psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL1B400,under care of psychogeriatrician,res176: Contact with mental health services,diagnostic
+Read,ZL1B200,under care of forensic psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL5B500,referral to psychiatrist for mental handicap,res176: Contact with mental health services,diagnostic
+Read,ZL34.00,under care of psychotherapist,res176: Contact with mental health services,diagnostic
+Read,ZL22B00,under care of nurse psychotherapist,res176: Contact with mental health services,diagnostic
+Read,ZL31400,under care of mental health counsellor,res176: Contact with mental health services,diagnostic
+Read,ZL5B400,referral to rehabilitation psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL5B100,referral to child and adolescent psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL5B300,referral to liaison psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZLD2g00,discharge by rehabilitation psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL9D412,seen by old age psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL78.00,referral to psychologist,res176: Contact with mental health services,diagnostic
+Read,ZL77.00,referral to psychotherapist,res176: Contact with mental health services,diagnostic
+Read,ZL9D411,seen by psychiatrist for the elderly mentally ill,res176: Contact with mental health services,diagnostic
+Read,ZL9D100,seen by child and adolescent psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZL9D400,seen by psychogeriatrician,res176: Contact with mental health services,diagnostic
+Read,ZLD2f00,discharge by psychiatrist for mental handicap,res176: Contact with mental health services,diagnostic
+Read,ZLBB.00,seen by psychologist,res176: Contact with mental health services,diagnostic
+Read,ZLA2B00,seen by nurse psychotherapist,res176: Contact with mental health services,diagnostic
+Read,ZLB5.00,seen by mental health counsellor,res176: Contact with mental health services,diagnostic
+Read,ZLD2e11,discharge by old age psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZLD2a00,discharge by psychiatrist,res176: Contact with mental health services,diagnostic
+Read,ZLD2e00,discharge by psychogeriatrician,res176: Contact with mental health services,diagnostic
+Read,ZLE9600,discharge from rehabilitation psychiatry service,res176: Contact with mental health services,diagnostic
+Read,ZLE9100,discharge from child and adolescent psychiatry service,res176: Contact with mental health services,diagnostic
+Read,ZLD8100,discharge by community psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,ZLE9.00,discharge from psychiatry service,res176: Contact with mental health services,diagnostic
+Read,ZLDA.00,discharge by educational psychologist,res176: Contact with mental health services,diagnostic
+Read,ZLE9400,discharge from mental handicap psychiatry service,res176: Contact with mental health services,diagnostic
+Read,ZLE9200,discharge from forensic psychiatry service,res176: Contact with mental health services,diagnostic
+Read,ZLE9512,discharge from elderly mentally ill service,res176: Contact with mental health services,diagnostic
+Read,ZV67300,[v]psychotherapy/other treatment-mental disorder follow-up,res176: Contact with mental health services,diagnostic
+Read,ZLF2300,discharge from psychogeriatric day hospital,res176: Contact with mental health services,diagnostic
+Read,ZLED.00,discharge from psychotherapy service,res176: Contact with mental health services,diagnostic
+Read,ZV66300,[v]convalescence after psychotherapy or mental dis treatment,res176: Contact with mental health services,diagnostic
+Read,ZV69100,[v]psych patient - prev admitted this health care provider,res176: Contact with mental health services,diagnostic
+Read,ZV69.00,[v]psychiatric paitient admission details,res176: Contact with mental health services,diagnostic
+Read,ZV69211,[v]psychiatric patient - previously admitted other district,res176: Contact with mental health services,diagnostic
+Read,9N2W000,seen by assistant psychologist,res176: Contact with mental health services,diagnostic
+Read,9N2W100,seen by forensic psychologist,res176: Contact with mental health services,diagnostic
+Read,8GG..00,systemic psychotherapy,res176: Contact with mental health services,diagnostic
+Read,ZLD7900,discharge by nurse psychotherapist,res176: Contact with mental health services,diagnostic
+Read,9N2a.00,seen by community psychiatric nurse,res176: Contact with mental health services,diagnostic
+Read,7P22z00,rehabilitation for psychiatric disorders nos,res176: Contact with mental health services,diagnostic
+Read,9N2W300,seen by trainee psychologist,res176: Contact with mental health services,diagnostic
+Read,9N1H.00,seen in elderly mentaly infirm home,res176: Contact with mental health services,diagnostic
+Read,9N1yA00,seen in psychogeriatric clinic,res176: Contact with mental health services,diagnostic
+Read,9N1T.00,seen in psychiatry clinic,res176: Contact with mental health services,diagnostic
+Read,8H2L.00,admit psychogeriatric emergency,res176: Contact with mental health services,diagnostic
+Read,ZLD2e12,discharge by psychiatrist for the elderly mentally ill,res176: Contact with mental health services,diagnostic
+Read,8H7B.00,refer to community psych.nurse,res176: Contact with mental health services,diagnostic
+Read,8HkK.00,referral to improving access to psychological therapies prog,res176: Contact with mental health services,diagnostic
+Read,ZLD2d00,discharge by liaison psychiatrist,res176: Contact with mental health services,diagnostic
+Read,9bA3.00,forensic psychiatry,res176: Contact with mental health services,diagnostic
+Read,8HlD.00,referral to forensic psychiatrist,res176: Contact with mental health services,diagnostic
+Read,8Hj2.00,referral to psycho-educational group,res176: Contact with mental health services,diagnostic
+Read,8HlB.00,urgent referral to psychiatrist,res176: Contact with mental health services,diagnostic
+Read,8HMC.00,listed for psychogeriatr admis,res176: Contact with mental health services,diagnostic
+Read,8CQ0.00,completion of mental health crisis plan,res176: Contact with mental health services,diagnostic
+Read,8Hc0.00,referral to community mental health team,res176: Contact with mental health services,diagnostic
+Read,8Hc2.00,referral to primary care mental health team,res176: Contact with mental health services,diagnostic
+Read,ZV69000,[v]psychiatric patient - not previously admitted,res176: Contact with mental health services,diagnostic
+Read,8Hg7.00,discharged from care of mental health triage nurse,res176: Contact with mental health services,diagnostic
+Read,8HgY.00,discharge from child and adolescent mental health service,res176: Contact with mental health services,diagnostic
+Read,ZLDB.00,discharge by psychotherapist,res176: Contact with mental health services,diagnostic
+Read,ZV69111,[v]psychiatric patient - previous admission this district,res176: Contact with mental health services,diagnostic
+Read,ZV69200,[v]psych patient - prev admitted other health care provider,res176: Contact with mental health services,diagnostic
+Read,8CQ1.00,mental health care programme approach crisis plan,res176: Contact with mental health services,diagnostic
+Read,8HKC.00,psychogeriatrics d.v. requestd,res176: Contact with mental health services,diagnostic
+Read,8HL9.00,psychiatry d.v. done,res176: Contact with mental health services,diagnostic
+Read,8HM9.00,listed for psychiatric admissn,res176: Contact with mental health services,diagnostic
+Read,8HBK.00,mental health triage nurse follow up,res176: Contact with mental health services,diagnostic
+Read,ZLE9300,discharge from liaison psychiatry service,res176: Contact with mental health services,diagnostic
+Read,8HHo.00,referral to older age community mental health team,res176: Contact with mental health services,diagnostic
+Read,8HHv.00,referral to primary care mental health graduate worker,res176: Contact with mental health services,diagnostic
+Read,8HHr.00,referral for mental health self-help literature,res176: Contact with mental health services,diagnostic
+Read,8HHu.00,referral to primary care mental health gateway worker,res176: Contact with mental health services,diagnostic
+Read,8Ce7.00,preferred place of care - mental health unit,res176: Contact with mental health services,diagnostic
+Read,8H34.00,psychiatric day care,res176: Contact with mental health services,diagnostic
+Read,8H7A.00,refer to mental health worker,res176: Contact with mental health services,diagnostic
+Read,8HB8.00,mental therapy follow-up,res176: Contact with mental health services,diagnostic
+Read,8H3Q.00,non-urgent psychogeriatric admission,res176: Contact with mental health services,diagnostic
+Read,8H4f.00,referral to learning disabilities psychiatrist,res176: Contact with mental health services,diagnostic
+Read,8H49.00,psychiatric referral,res176: Contact with mental health services,diagnostic
+Read,9239,fp22-in mental hospital,res176: Contact with mental health services,diagnostic
+Read,6779,psychological counselling,res176: Contact with mental health services,diagnostic
+Read,ZLE9500,discharge from psychogeriatrician service,res176: Contact with mental health services,diagnostic
+Read,ZLF2200,discharge from psychiatry day hospital,res176: Contact with mental health services,diagnostic
+Read,ZLF2311,discharge from old age psychiatry day hospital,res176: Contact with mental health services,diagnostic
+Read,ZLF2312,discharge from elderly mentally ill day hospital,res176: Contact with mental health services,diagnostic
+Read,64R6.11,child referral-school psychol.,res176: Contact with mental health services,diagnostic
+Read,64R7.11,child refer- clinical psychol.,res176: Contact with mental health services,diagnostic
+Read,8G10.00,psychotherapy - behavioural,res176: Contact with mental health services,diagnostic
+Read,ZLE9511,discharge from old age psychiatry service,res176: Contact with mental health services,diagnostic
+Read,8G12.00,psychotherapy - psychodynamic,res176: Contact with mental health services,diagnostic
+Read,8G12000,short-term psychodynamic therapy,res176: Contact with mental health services,diagnostic
+Read,8GH..00,child psychotherapy,res176: Contact with mental health services,diagnostic

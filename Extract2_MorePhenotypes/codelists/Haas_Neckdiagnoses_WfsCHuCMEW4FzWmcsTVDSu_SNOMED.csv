@@ -1,0 +1,41 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,169068008,CT of neck,res174: neck diagnoses,diagnostic
+SNOMED,241578008,CT of cervical spine,res174: neck diagnoses,diagnostic
+SNOMED,1.121E+12,Chronic neck pain,res174: neck diagnoses,diagnostic
+SNOMED,81099000,Cervical arthrodesis,res174: neck diagnoses,diagnostic
+SNOMED,387801000,Cervical arthritis,res174: neck diagnoses,diagnostic
+SNOMED,95671001,Cervical nerve root compression,res174: neck diagnoses,diagnostic
+SNOMED,425878001,Cervical disc disorder,res174: neck diagnoses,diagnostic
+SNOMED,202664003,Cervical myelopathy,res174: neck diagnoses,diagnostic
+SNOMED,445429009,Cervical laminectomy,res174: neck diagnoses,diagnostic
+SNOMED,298393001,cervical kyphosis,res174: neck diagnoses,diagnostic
+SNOMED,72535009,Cervical rib,res174: neck diagnoses,diagnostic
+SNOMED,71760005,Cervico-occipital neuralgia,res174: neck diagnoses,diagnostic
+SNOMED,54404000,Cervical radiculopathy,res174: neck diagnoses,diagnostic
+SNOMED,11049006,Cervical radiculitis,res174: neck diagnoses,diagnostic
+SNOMED,59703009,cervical spinal fusion by anterior technique,res174: neck diagnoses,diagnostic
+SNOMED,279016001,Cervicogenic headache,res174: neck diagnoses,diagnostic
+SNOMED,122494005,Cervical spine structure,res174: neck diagnoses,diagnostic
+SNOMED,387800004,Cervical spine Degeneration,res174: neck diagnoses,diagnostic
+SNOMED,69195002,Degeneration of cervical intervertebral disc,res174: neck diagnoses,diagnostic
+SNOMED,262522002,Injury of cervical spine,res174: neck diagnoses,diagnostic
+SNOMED,33420007,Diffuse cervicobrachial syndrome,res174: neck diagnoses,diagnostic
+SNOMED,239541009,Excision of cervical intervertebral disc,res174: neck diagnoses,diagnostic
+SNOMED,405773007,Kyphoscoliosis deformity of spine,res174: neck diagnoses,diagnostic
+SNOMED,72221006,Magnetic resonance imaging of neck,res174: neck diagnoses,diagnostic
+SNOMED,66769009,Radiography of cervical spine,res174: neck diagnoses,diagnostic
+SNOMED,414564002,Kyphosis deformity of spine,res174: neck diagnoses,diagnostic
+SNOMED,241646009,MRI of cervical spine,res174: neck diagnoses,diagnostic
+SNOMED,240215009,Prolapsed cervical intervertebral disc,res174: neck diagnoses,diagnostic
+SNOMED,279029001,Pain in cervical spine,res174: neck diagnoses,diagnostic
+SNOMED,45048000,Neck structure,res174: neck diagnoses,diagnostic
+SNOMED,360450007,Strain of neck muscle,res174: neck diagnoses,diagnostic
+SNOMED,161882006,Stiff neck,res174: neck diagnoses,diagnostic
+SNOMED,83561009,Spinal stenosis in cervical region,res174: neck diagnoses,diagnostic
+SNOMED,360437006,Strain of tendon of neck,res174: neck diagnoses,diagnostic
+SNOMED,39848009,Whiplash injury to neck,res174: neck diagnoses,diagnostic
+SNOMED,70070008,Torticollis,res174: neck diagnoses,diagnostic
+SNOMED,81680005,Neck pain,res174: neck diagnoses,diagnostic
+SNOMED,90460009,Neck injury,res174: neck diagnoses,diagnostic
+SNOMED,3.01E+11,Muscle spasm of cervical muscle of neck,res174: neck diagnoses,diagnostic
+SNOMED,209557005,Neck sprain,res174: neck diagnoses,diagnostic

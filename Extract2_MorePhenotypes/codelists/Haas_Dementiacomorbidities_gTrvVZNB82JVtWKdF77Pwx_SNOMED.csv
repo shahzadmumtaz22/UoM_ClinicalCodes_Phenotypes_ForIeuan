@@ -1,0 +1,10 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,278857002,Dementia of frontal lobe type,res174: dementia comorbidities,diagnostic
+SNOMED,281004,Dementia associated with alcoholism,res174: dementia comorbidities,diagnostic
+SNOMED,52448006,Dementia,res174: dementia comorbidities,diagnostic
+SNOMED,26929004,Alzheimer's disease,res174: dementia comorbidities,diagnostic
+SNOMED,15662003,Senile dementia,res174: dementia comorbidities,diagnostic
+SNOMED,56267009,Multi-infarct dementia,res174: dementia comorbidities,diagnostic
+SNOMED,79341000119107,Mixed dementia,res174: dementia comorbidities,diagnostic
+SNOMED,312991009,Senile dementia of the Lewy body type,res174: dementia comorbidities,diagnostic
+SNOMED,429998004,Vascular dementia,res174: dementia comorbidities,diagnostic

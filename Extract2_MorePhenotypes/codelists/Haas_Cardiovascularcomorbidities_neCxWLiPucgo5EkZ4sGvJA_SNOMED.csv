@@ -1,0 +1,30 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,50490005,Hypertensive encephalopathy,res174: cardiovascular comorbidities,diagnostic
+SNOMED,57054005,Acute myocardial infarction,res174: cardiovascular comorbidities,diagnostic
+SNOMED,56675007,Acute heart failure,res174: cardiovascular comorbidities,diagnostic
+SNOMED,394659003,Acute coronary syndrome,res174: cardiovascular comorbidities,diagnostic
+SNOMED,84114007,Heart failure,res174: cardiovascular comorbidities,diagnostic
+SNOMED,73795002,Acute myocardial infarction of inferior wall,res174: cardiovascular comorbidities,diagnostic
+SNOMED,54329005,Acute myocardial infarction of anterior wall,res174: cardiovascular comorbidities,diagnostic
+SNOMED,38341003,"Hypertensive disorder, systemic arterial",res174: cardiovascular comorbidities,diagnostic
+SNOMED,401314000,Acute non-ST segment elevation myocardial infarction,res174: cardiovascular comorbidities,diagnostic
+SNOMED,42343007,Congestive heart failure,res174: cardiovascular comorbidities,diagnostic
+SNOMED,194828000,Angina,res174: cardiovascular comorbidities,diagnostic
+SNOMED,401303003,Acute ST segment elevation myocardial infarction,res174: cardiovascular comorbidities,diagnostic
+SNOMED,232720001,Coronary artery bypass grafts x 2,res174: cardiovascular comorbidities,diagnostic
+SNOMED,59621000,Essential hypertension,res174: cardiovascular comorbidities,diagnostic
+SNOMED,232717009,Coronary artery bypass graft,res174: cardiovascular comorbidities,diagnostic
+SNOMED,53741008,Coronary arteriosclerosis,res174: cardiovascular comorbidities,diagnostic
+SNOMED,232721002,coronary artery bypass grafts x 3,res174: cardiovascular comorbidities,diagnostic
+SNOMED,232723004,Coronary artery bypass grafts x 5,res174: cardiovascular comorbidities,diagnostic
+SNOMED,232722010,Coronary artery bypass grafts x 4,res174: cardiovascular comorbidities,diagnostic
+SNOMED,232722009,Coronary artery bypass grafts x 4,res174: cardiovascular comorbidities,diagnostic
+SNOMED,70272006,Malignant hypertension,res174: cardiovascular comorbidities,diagnostic
+SNOMED,64715009,Hypertensive heart disease,res174: cardiovascular comorbidities,diagnostic
+SNOMED,85232009,Left ventricular failure,res174: cardiovascular comorbidities,diagnostic
+SNOMED,276789009,Labile hypertension,res174: cardiovascular comorbidities,diagnostic
+SNOMED,414545008,Ischaemic heart disease,res174: cardiovascular comorbidities,diagnostic
+SNOMED,367363000,Right ventricular failure,res174: cardiovascular comorbidities,diagnostic
+SNOMED,128404006,Right heart failure,res174: cardiovascular comorbidities,diagnostic
+SNOMED,22298006,Myocardial infarction,res174: cardiovascular comorbidities,diagnostic
+SNOMED,56218007,Systolic hypertension,res174: cardiovascular comorbidities,diagnostic

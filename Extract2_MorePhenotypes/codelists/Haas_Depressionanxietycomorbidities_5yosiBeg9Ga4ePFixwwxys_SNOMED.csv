@@ -1,0 +1,17 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,48694002,Anxiety,res174: depression anxiety comorbidities,diagnostic
+SNOMED,83458005,Agitated depression,res174: depression anxiety comorbidities,diagnostic
+SNOMED,57194009,Adjustment disorder with depressed mood,res174: depression anxiety comorbidities,diagnostic
+SNOMED,47372000,Adjustment disorder with anxious mood,res174: depression anxiety comorbidities,diagnostic
+SNOMED,21897009,Generalised anxiety disorder,res174: depression anxiety comorbidities,diagnostic
+SNOMED,207363009,Anxiety neurosis,res174: depression anxiety comorbidities,diagnostic
+SNOMED,197480006,Anxiety disorder,res174: depression anxiety comorbidities,diagnostic
+SNOMED,191708009,Chronic anxiety,res174: depression anxiety comorbidities,diagnostic
+SNOMED,300706003,Endogenous depression,res174: depression anxiety comorbidities,diagnostic
+SNOMED,35489007,Depression,res174: depression anxiety comorbidities,diagnostic
+SNOMED,192080009,Chronic Depression,res174: depression anxiety comorbidities,diagnostic
+SNOMED,191616006,Recurrent depression,res174: depression anxiety comorbidities,diagnostic
+SNOMED,231504006,Mixed anxiety and depressive disorder,res174: depression anxiety comorbidities,diagnostic
+SNOMED,370143000,Major depressive disorder,res174: depression anxiety comorbidities,diagnostic
+SNOMED,310497006,Severe depression,res174: depression anxiety comorbidities,diagnostic
+SNOMED,73867007,Severe major depression with psychotic features,res174: depression anxiety comorbidities,diagnostic

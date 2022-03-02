@@ -1,0 +1,29 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,371081002,Arthritis of knee,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,399114005,Adhesive capsulitis of shoulder,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,279039007,Low back pain,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,3723001,Arthritis,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,68449006,Arthritis of hip,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,448589005,Arthritis of hand,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,448394006,Arthritis of foot,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,161891005,Backache,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,1.12E+12,Chronic neck pain,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,278860009,Chronic lower back pain,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,1.771E+12,Arthritis of wrist,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,371082009,Arthritis of spine,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,387800004,Cervical spine Degeneration,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,134407002,Chronic back pain,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,38850007,Chronic arthropathy,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,35908007,Chronic arthritis,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,69896004,Rheumatoid arthritis,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,279040009,Mechanical low back pain,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,239872002,Osteoarthritis of hip,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,430698003,Replacement of total knee joint,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,65323003,Polymyalgia rheumatica,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,67315001,Osteoarthritis of shoulder,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,52734007,Total replacement of hip,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,609588000,Total knee replacement,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,239792003,Seronegative rheumatoid arthritis,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,443681002,Total replacement of left knee joint,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,443682009,Total replacement of right knee joint,res174: musculoskeletal comorbidities,diagnostic
+SNOMED,443435007,Total replacement of right hip joint,res174: musculoskeletal comorbidities,diagnostic

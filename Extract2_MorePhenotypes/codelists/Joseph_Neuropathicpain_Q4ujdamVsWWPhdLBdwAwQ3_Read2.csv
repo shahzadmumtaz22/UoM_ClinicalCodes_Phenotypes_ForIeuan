@@ -1,0 +1,157 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,A72x100,mumps polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,A531511,postherpetic neuralgia,res176: Neuropathic pain,diagnostic
+Read,A531.11,post-herpetic neuralgia,res176: Neuropathic pain,diagnostic
+Read,1475,h/o: trigeminal neuralgia,res176: Neuropathic pain,diagnostic
+Read,1M8..00,diabetic peripheral neuropathic pain,res176: Neuropathic pain,diagnostic
+Read,F36z.00,hereditary or idiopathic peripheral neuropathy nos,res176: Neuropathic pain,diagnostic
+Read,F171z00,peripheral autonomic neuropathy due to disease nos,res176: Neuropathic pain,diagnostic
+Read,C10EB00,type 1 diabetes mellitus with mononeuropathy,res176: Neuropathic pain,diagnostic
+Read,C108J11,type i diabetes mellitus with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,C108B00,insulin dependent diabetes mellitus with mononeuropathy,res176: Neuropathic pain,diagnostic
+Read,C108J00,insulin dependent diab mell with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,C109H12,type 2 diabetes mellitus with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,C109A11,type ii diabetes mellitus with mononeuropathy,res176: Neuropathic pain,diagnostic
+Read,C109H11,type ii diabetes mellitus with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,F171100,autonomic neuropathy due to diabetes,res176: Neuropathic pain,diagnostic
+Read,C10FB00,type 2 diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,C10EC12,insulin dependent diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,C10FA11,type ii diabetes mellitus with mononeuropathy,res176: Neuropathic pain,diagnostic
+Read,F171000,autonomic neuropathy due to amyloid,res176: Neuropathic pain,diagnostic
+Read,C10FH11,type ii diabetes mellitus with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,F171.00,peripheral autonomic neuropathy disease ec,res176: Neuropathic pain,diagnostic
+Read,F36yz00,other idiopathic peripheral neuropathy nos,res176: Neuropathic pain,diagnostic
+Read,F36..00,hereditary and idiopathic peripheral neuropathy,res176: Neuropathic pain,diagnostic
+Read,F301000,tic douloureux,res176: Neuropathic pain,diagnostic
+Read,F262500,periodic migrainous neuralgia,res176: Neuropathic pain,diagnostic
+Read,F301.00,other specified trigeminal neuralgia,res176: Neuropathic pain,diagnostic
+Read,F335.00,neuralgic amyotrophy,res176: Neuropathic pain,diagnostic
+Read,F301z00,trigeminal neuralgia nos,res176: Neuropathic pain,diagnostic
+Read,F336000,phantom limb syndrome with pain,res176: Neuropathic pain,diagnostic
+Read,F36y.00,other idiopathic peripheral neuropathy,res176: Neuropathic pain,diagnostic
+Read,F367.00,peripheral neuropathy,res176: Neuropathic pain,diagnostic
+Read,F360z00,hereditary peripheral neuropathy nos,res176: Neuropathic pain,diagnostic
+Read,F366.00,polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,F369.11,chronic regional pain syndrome,res176: Neuropathic pain,diagnostic
+Read,F368000,hereditary motor and sensory neuropathy type i,res176: Neuropathic pain,diagnostic
+Read,F369.00,complex regional pain syndrome,res176: Neuropathic pain,diagnostic
+Read,F374800,polyneuropathy in porphyria,res176: Neuropathic pain,diagnostic
+Read,F372000,acute painful diabetic neuropathy,res176: Neuropathic pain,diagnostic
+Read,F372.12,diabetic neuropathy,res176: Neuropathic pain,diagnostic
+Read,F371z00,polyneuropathy in collagen vascular disease nos,res176: Neuropathic pain,diagnostic
+Read,F37..11,toxic neuropathy,res176: Neuropathic pain,diagnostic
+Read,F371100,polyneuropathy in polyarteritis nodosa,res176: Neuropathic pain,diagnostic
+Read,F372.11,diabetic polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,F372.00,polyneuropathy in diabetes,res176: Neuropathic pain,diagnostic
+Read,F374000,polyneuropathy in amyloidosis,res176: Neuropathic pain,diagnostic
+Read,F373.00,polyneuropathy in malignant disease,res176: Neuropathic pain,diagnostic
+Read,F372100,chronic painful diabetic neuropathy,res176: Neuropathic pain,diagnostic
+Read,F374600,polyneuropathy in mumps,res176: Neuropathic pain,diagnostic
+Read,F374400,polyneuropathy in herpes zoster,res176: Neuropathic pain,diagnostic
+Read,F374300,polyneuropathy in diphtheria,res176: Neuropathic pain,diagnostic
+Read,F374500,polyneuropathy in hypoglycaemia,res176: Neuropathic pain,diagnostic
+Read,F374200,polyneuropathy in vitamin b deficiency,res176: Neuropathic pain,diagnostic
+Read,F374100,polyneuropathy in beriberi,res176: Neuropathic pain,diagnostic
+Read,Fyu7500,[x]polyneuropathy/other endocrine+metabolic diseases ce,res176: Neuropathic pain,diagnostic
+Read,F376.00,polyneuropathy due to drugs,res176: Neuropathic pain,diagnostic
+Read,F377.00,other toxic agent polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,F37y.00,other toxic or inflammatory neuropathy,res176: Neuropathic pain,diagnostic
+Read,N119200,multiple-level cervical spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,M271100,neuropathic diabetic ulcer - foot,res176: Neuropathic pain,diagnostic
+Read,C106.13,diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,C109B12,type 2 diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,C109H00,non-insulin dependent d m with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,C373K13,familial amyloid polyneuropathy type iii,res176: Neuropathic pain,diagnostic
+Read,F347.00,complex regional pain syndrome type ii,res176: Neuropathic pain,diagnostic
+Read,F351.00,meralgia paraesthetica,res176: Neuropathic pain,diagnostic
+Read,F356100,morton's neuralgia,res176: Neuropathic pain,diagnostic
+Read,F374A00,polyneuropathy in uraemia,res176: Neuropathic pain,diagnostic
+Read,Fyu1300,[x]paraneoplastic neuromyopathy and neuropathy,res176: Neuropathic pain,diagnostic
+Read,Fyu6A00,[x]other mononeuropathies of upper limb,res176: Neuropathic pain,diagnostic
+Read,Fyu7200,[x]other specified polyneuropathies,res176: Neuropathic pain,diagnostic
+Read,N119100,two-level cervical spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,FyuAC00,[x]autonomic neuropathy/endocrine+metabolic diseases ce,res176: Neuropathic pain,diagnostic
+Read,Fyu7800,[x]polyneuropathy/other musculoskeletal disorders ce,res176: Neuropathic pain,diagnostic
+Read,N119000,single-level cervical spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N035.00,neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,M2y1500,painful operation scar,res176: Neuropathic pain,diagnostic
+Read,M271700,neuropathic foot ulcer,res176: Neuropathic pain,diagnostic
+Read,N119.00,cervical spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N035.12,neuropathic arthritis,res176: Neuropathic pain,diagnostic
+Read,N242z00,"neuralgia, neuritis or radiculitis nos",res176: Neuropathic pain,diagnostic
+Read,N11C200,multiple-level lumbosacral spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N11B.00,thoracic spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N11B200,multiple-level thoracic spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N11B000,single-level thoracic spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N11B100,two-level thoracic spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N11C100,two-level lumbosacral spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N11C000,single-level lumbosacral spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N11C.00,lumbosacral spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N12C000,cervical disc prolapse with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N242300,neuropathic pain,res176: Neuropathic pain,diagnostic
+Read,N11y200,neuropathic spondylopathy,res176: Neuropathic pain,diagnostic
+Read,N12C.00,disc prolapse with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N242000,neuralgia unspecified,res176: Neuropathic pain,diagnostic
+Read,N12C400,prolapsed lumbar intervertebral disc with sciatica,res176: Neuropathic pain,diagnostic
+Read,N12C200,lumbar disc prolapse with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N12C100,thoracic disc prolapse with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N242.00,"neuralgia, neuritis and radiculitis unspecified",res176: Neuropathic pain,diagnostic
+Read,N143.11,acute back pain with sciatica,res176: Neuropathic pain,diagnostic
+Read,N12zH00,cervical disc disorder with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N143.00,sciatica,res176: Neuropathic pain,diagnostic
+Read,N337.12,reflex sympathetic dystrophy,res176: Neuropathic pain,diagnostic
+Read,SP07300,internal prosthetic device causing pain,res176: Neuropathic pain,diagnostic
+Read,SD72200,neuropathic foot blister,res176: Neuropathic pain,diagnostic
+Read,Nyu6300,[x]other spondylosis with radiculopathy,res176: Neuropathic pain,diagnostic
+Read,N337111,reflex sympathetic dystrophy,res176: Neuropathic pain,diagnostic
+Read,N33C.00,complex regional pain syndrome type i,res176: Neuropathic pain,diagnostic
+Read,SyuKE11,[x] pain due to internal orthopaedic prosthesis,res176: Neuropathic pain,diagnostic
+Read,SP07A00,pain due to hip joint prosthesis,res176: Neuropathic pain,diagnostic
+Read,SP07B00,pain due to knee joint prosthesis,res176: Neuropathic pain,diagnostic
+Read,SP07C00,pain due to shoulder joint prosthesis,res176: Neuropathic pain,diagnostic
+Read,C106.12,diabetes mellitus with neuropathy,res176: Neuropathic pain,diagnostic
+Read,F375.00,alcoholic polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,N142000,lumbago with sciatica,res176: Neuropathic pain,diagnostic
+Read,C108J12,type 1 diabetes mellitus with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,Fyu7000,[x]other hereditary and idiopathic neuropathies,res176: Neuropathic pain,diagnostic
+Read,F3y0.00,diabetic mononeuropathy,res176: Neuropathic pain,diagnostic
+Read,Fyu6D00,[x]other mononeuropathies in diseases classified elsewhere,res176: Neuropathic pain,diagnostic
+Read,C109B11,type ii diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,F365.00,neuropathy in association with hereditary ataxia,res176: Neuropathic pain,diagnostic
+Read,F374900,polyneuropathy in sarcoidosis,res176: Neuropathic pain,diagnostic
+Read,F170.00,idiopathic peripheral autonomic neuropathy,res176: Neuropathic pain,diagnostic
+Read,F342400,ulnar neuropathy,res176: Neuropathic pain,diagnostic
+Read,C373200,familial neuropathic amyloid,res176: Neuropathic pain,diagnostic
+Read,1DC1.00,burning pain,res176: Neuropathic pain,diagnostic
+Read,Fyu6C00,[x]other specified mononeuropathies,res176: Neuropathic pain,diagnostic
+Read,Fyu6B00,[x]other mononeuropathies of lower limb,res176: Neuropathic pain,diagnostic
+Read,Fyu7.00,[x]polyneuropathies & other disord of peripheral nerv syst,res176: Neuropathic pain,diagnostic
+Read,F368200,hereditary motor and sensory neuropathy type iii,res176: Neuropathic pain,diagnostic
+Read,F368100,hereditary motor and sensory neuropathy type ii,res176: Neuropathic pain,diagnostic
+Read,F37..00,inflammatory and toxic neuropathy,res176: Neuropathic pain,diagnostic
+Read,F371.00,polyneuropathy in collagen vascular disease,res176: Neuropathic pain,diagnostic
+Read,F371000,polyneuropathy in disseminated lupus erythematosus,res176: Neuropathic pain,diagnostic
+Read,F364.00,idiopathic progressive polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,F368.00,hereditary motor and sensory neuropathy,res176: Neuropathic pain,diagnostic
+Read,F360.00,hereditary peripheral neuropathy,res176: Neuropathic pain,diagnostic
+Read,F362.00,hereditary sensory neuropathy,res176: Neuropathic pain,diagnostic
+Read,F170z00,idiopathic peripheral autonomic neuropathy nos,res176: Neuropathic pain,diagnostic
+Read,F321.00,glossopharyngeal neuralgia,res176: Neuropathic pain,diagnostic
+Read,F262100,horton's (histamine) neuralgia,res176: Neuropathic pain,diagnostic
+Read,F262C00,shortlast unilat neuralgifrm pain+conjunc inject+tearng synd,res176: Neuropathic pain,diagnostic
+Read,F300.00,post-herpetic trigeminal neuralgia,res176: Neuropathic pain,diagnostic
+Read,C10EC11,type i diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,C10EJ00,type 1 diabetes mellitus with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,C10FH00,type 2 diabetes mellitus with neuropathic arthropathy,res176: Neuropathic pain,diagnostic
+Read,C10FA00,type 2 diabetes mellitus with mononeuropathy,res176: Neuropathic pain,diagnostic
+Read,C10FB11,type ii diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,C109A00,non-insulin dependent diabetes mellitus with mononeuropathy,res176: Neuropathic pain,diagnostic
+Read,C109B00,non-insulin dependent diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,C10EC00,type 1 diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,1DC9.00,shooting pain,res176: Neuropathic pain,diagnostic
+Read,C108B11,type i diabetes mellitus with mononeuropathy,res176: Neuropathic pain,diagnostic
+Read,C108C00,insulin dependent diabetes mellitus with polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,1M4..00,central post-stroke pain,res176: Neuropathic pain,diagnostic
+Read,A531200,postherpetic trigeminal neuralgia,res176: Neuropathic pain,diagnostic
+Read,A531300,postherpetic polyneuropathy,res176: Neuropathic pain,diagnostic
+Read,A531500,postzoster neuralgia,res176: Neuropathic pain,diagnostic

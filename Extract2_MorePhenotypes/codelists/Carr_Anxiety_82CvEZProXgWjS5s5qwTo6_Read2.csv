@@ -1,0 +1,89 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E203.00,Obsessive-compulsive disorders,res173: Anxiety (Read codes),diagnostic
+Read,8HHp.00,Referral for guided self-help for anxiety,res173: Anxiety (Read codes),diagnostic
+Read,Eu34114,[X]Persistant anxiety depression,res173: Anxiety (Read codes),diagnostic
+Read,8G94.00,Anxiety management training,res173: Anxiety (Read codes),diagnostic
+Read,8G52.00,Antiphobic therapy,res173: Anxiety (Read codes),diagnostic
+Read,8CAZ000,Patient given advice about management of anxiety,res173: Anxiety (Read codes),diagnostic
+Read,225J.00,O/E - panic attack,res173: Anxiety (Read codes),diagnostic
+Read,1B1V.00,C/O - panic attack,res173: Anxiety (Read codes),diagnostic
+Read,8IH5300,Referral for guided self-help for anxiety declined,res173: Anxiety (Read codes),diagnostic
+Read,Eu05400,[X]Organic anxiety disorder,res173: Anxiety (Read codes),diagnostic
+Read,E202200,Agoraphobia without mention of panic attacks,res173: Anxiety (Read codes),diagnostic
+Read,E200400,Chronic anxiety,res173: Anxiety (Read codes),diagnostic
+Read,E200300,Anxiety with depression,res173: Anxiety (Read codes),diagnostic
+Read,E200100,Panic disorder,res173: Anxiety (Read codes),diagnostic
+Read,E200200,Generalised anxiety disorder,res173: Anxiety (Read codes),diagnostic
+Read,E200111,Panic attack,res173: Anxiety (Read codes),diagnostic
+Read,E202.11,Social phobic disorders,res173: Anxiety (Read codes),diagnostic
+Read,E202199,Agoraphobia,res173: Anxiety (Read codes),diagnostic
+Read,E202.00,Phobic disorders,res173: Anxiety (Read codes),diagnostic
+Read,E200500,Recurrent anxiety,res173: Anxiety (Read codes),diagnostic
+Read,E202100,Agoraphobia with panic attacks,res173: Anxiety (Read codes),diagnostic
+Read,E202.12,Phobic anxiety,res173: Anxiety (Read codes),diagnostic
+Read,E202000,Phobia unspecified,res173: Anxiety (Read codes),diagnostic
+Read,E202.99,Phobic state,res173: Anxiety (Read codes),diagnostic
+Read,E202300,"Social phobia, fear of eating in public",res173: Anxiety (Read codes),diagnostic
+Read,E29y199,Chron post-traum stress dis,res173: Anxiety (Read codes),diagnostic
+Read,E202z00,Phobic disorder NOS,res173: Anxiety (Read codes),diagnostic
+Read,E202299,Agoraphobia,res173: Anxiety (Read codes),diagnostic
+Read,E202800,Claustrophobia,res173: Anxiety (Read codes),diagnostic
+Read,E202400,"Social phobia, fear of public speaking",res173: Anxiety (Read codes),diagnostic
+Read,E202600,Acrophobia,res173: Anxiety (Read codes),diagnostic
+Read,E202500,"Social phobia, fear of public washing",res173: Anxiety (Read codes),diagnostic
+Read,E203.11,Anancastic neurosis,res173: Anxiety (Read codes),diagnostic
+Read,E28z.12,Flying phobia,res173: Anxiety (Read codes),diagnostic
+Read,E202z99,Other phobias,res173: Anxiety (Read codes),diagnostic
+Read,E202z98,Needle phobia,res173: Anxiety (Read codes),diagnostic
+Read,E20z.00,Neurotic disorder NOS,res173: Anxiety (Read codes),diagnostic
+Read,E203000,Compulsive neurosis,res173: Anxiety (Read codes),diagnostic
+Read,E203z00,Obsessive-compulsive disorder NOS,res173: Anxiety (Read codes),diagnostic
+Read,E203100,Obsessional neurosis,res173: Anxiety (Read codes),diagnostic
+Read,Eu42.00,[X]Obsessive - compulsive disorder,res173: Anxiety (Read codes),diagnostic
+Read,Eu40300,[X]Needle phobia,res173: Anxiety (Read codes),diagnostic
+Read,Eu40100,[X]Social phobias,res173: Anxiety (Read codes),diagnostic
+Read,Eu40012,[X]Panic disorder with agoraphobia,res173: Anxiety (Read codes),diagnostic
+Read,Eu40.00,[X]Phobic anxiety disorders,res173: Anxiety (Read codes),diagnostic
+Read,Eu40011,[X]Agoraphobia without history of panic disorder,res173: Anxiety (Read codes),diagnostic
+Read,Eu40000,[X]Agoraphobia,res173: Anxiety (Read codes),diagnostic
+Read,Eu40200,[X]Specific (isolated) phobias,res173: Anxiety (Read codes),diagnostic
+Read,Eu40299,Needle phobia,res173: Anxiety (Read codes),diagnostic
+Read,Eu40112,[X]Social neurosis,res173: Anxiety (Read codes),diagnostic
+Read,Eu40111,[X]Anthropophobia,res173: Anxiety (Read codes),diagnostic
+Read,Eu40214,[X]Simple phobia,res173: Anxiety (Read codes),diagnostic
+Read,Eu40211,[X]Acrophobia,res173: Anxiety (Read codes),diagnostic
+Read,Eu40213,[X]Claustrophobia,res173: Anxiety (Read codes),diagnostic
+Read,Eu40212,[X]Animal phobias,res173: Anxiety (Read codes),diagnostic
+Read,Eu40z00,"[X]Phobic anxiety disorder, unspecified",res173: Anxiety (Read codes),diagnostic
+Read,Eu41z00,"[X]Anxiety disorder, unspecified",res173: Anxiety (Read codes),diagnostic
+Read,Eu41011,[X]Panic attack,res173: Anxiety (Read codes),diagnostic
+Read,Eu40y00,[X]Other phobic anxiety disorders,res173: Anxiety (Read codes),diagnostic
+Read,Eu41000,[X]Panic disorder [episodic paroxysmal anxiety],res173: Anxiety (Read codes),diagnostic
+Read,Eu40z11,[X]Phobia NOS,res173: Anxiety (Read codes),diagnostic
+Read,Eu41.00,[X]Other anxiety disorders,res173: Anxiety (Read codes),diagnostic
+Read,Eu40z12,[X]Phobic state NOS,res173: Anxiety (Read codes),diagnostic
+Read,Eu41111,[X]Anxiety neurosis,res173: Anxiety (Read codes),diagnostic
+Read,Eu41y11,[X]Anxiety hysteria,res173: Anxiety (Read codes),diagnostic
+Read,Eu41100,[X]Generalized anxiety disorder,res173: Anxiety (Read codes),diagnostic
+Read,Eu41012,[X]Panic state,res173: Anxiety (Read codes),diagnostic
+Read,Eu41y00,[X]Other specified anxiety disorders,res173: Anxiety (Read codes),diagnostic
+Read,Eu41200,[X]Mixed anxiety and depressive disorder,res173: Anxiety (Read codes),diagnostic
+Read,Eu41300,[X]Other mixed anxiety disorders,res173: Anxiety (Read codes),diagnostic
+Read,Eu41211,[X]Mild anxiety depression,res173: Anxiety (Read codes),diagnostic
+Read,Eu42.12,[X]Obsessive-compulsive neurosis,res173: Anxiety (Read codes),diagnostic
+Read,Eu93y12,[X]Childhood overanxious disorder,res173: Anxiety (Read codes),diagnostic
+Read,Eu43013,[X]Combat fatigue,res173: Anxiety (Read codes),diagnostic
+Read,Eu42z00,"[X]Obsessive-compulsive disorder, unspecified",res173: Anxiety (Read codes),diagnostic
+Read,Eu42000,[X]Predominantly obsessional thoughts or ruminations,res173: Anxiety (Read codes),diagnostic
+Read,Eu42y00,[X]Other obsessive-compulsive disorders,res173: Anxiety (Read codes),diagnostic
+Read,Eu42200,[X]Mixed obsessional thoughts and acts,res173: Anxiety (Read codes),diagnostic
+Read,Eu43400,[X]Chron post-traumatic stress disorder follow military comb,res173: Anxiety (Read codes),diagnostic
+Read,Eu93200,[X]Social anxiety disorder of childhood,res173: Anxiety (Read codes),diagnostic
+Read,Eu43300,[X]Acute post-traumatic stress disorder follow military comb,res173: Anxiety (Read codes),diagnostic
+Read,Eu43100,[X]Post - traumatic stress disorder,res173: Anxiety (Read codes),diagnostic
+Read,Eu43500,[X]Delayed post-traumat stress disorder follow military comb,res173: Anxiety (Read codes),diagnostic
+Read,Eu93100,[X]Phobic anxiety disorder of childhood,res173: Anxiety (Read codes),diagnostic
+Read,Eu93000,[X]Separation anxiety disorder of childhood,res173: Anxiety (Read codes),diagnostic
+Read,Z4L1.00,Anxiety counselling,res173: Anxiety (Read codes),diagnostic
+Read,Z481.00,Phobia counselling,res173: Anxiety (Read codes),diagnostic
+Read,Z522600,Flooding - obsessional compulsive disorder,res173: Anxiety (Read codes),diagnostic

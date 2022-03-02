@@ -1,0 +1,945 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,65618,Duloxetine 30mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40815,Tardcaps XL 75mg capsules (IXL Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65555,Mirtazapine 15mg orodispersible tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65483,Vortioxetine 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73414,Fluoxetine 20mg/5ml oral solution (Pinewood Healthcare),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71543,Mirtazapine 30mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7153,Duloxetine 20mg gastro-resistant capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7147,Duloxetine 40mg gastro-resistant capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71806,Amphero XL 75mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40165,Paroxetine 30mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71782,Venlafaxine 150mg modified-release capsules (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76317,Dosulepin 25mg capsules (Strides Pharma UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71669,Duloxetine 20mg gastro-resistant capsules (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71848,Citalopram 20mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71852,Fluoxetine 20mg capsules (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40062,Venlalic XL 150mg tablets (Ethypharm UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71932,Venlasov XL 150mg capsules (Sovereign Medical Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,72211,Duloxetine 60mg gastro-resistant capsules (Dr Reddy's Laboratories (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,72124,Citalopram 40mg/ml oral drops sugar free (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73363,Doxepin 50mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,72626,Nortriptyline 10mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,72373,Citalopram 20mg tablets (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,72291,Trazodone 100mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7751,Tryptizol 25mg Tablet (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,727,Sertraline 100mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73298,Depalta 30mg gastro-resistant capsules (Disposable Medical Equipment Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7328,Sertraline 50mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,72773,Escitalopram 20mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73589,Seroxat 20mg tablets (Lexon (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4020,Trazodone 150mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73417,Citalopram 20mg tablets (PLIVA Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40494,Agomelatine 25mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7475,AMOXAPINE 25 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73540,Depalta 60mg gastro-resistant capsules (Disposable Medical Equipment Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73419,Trazodone 150mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73868,Duloxetine 60mg gastro-resistant capsules (Aspire Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73636,Trazodone 150mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73639,Trazodone 100mg capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73658,Venlafaxine 75mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73759,Sertraline 20mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73668,Paroxetine 20mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73667,Venlafaxine 37.5mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74753,Citalopram 30mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74,Dosulepin 75mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,73962,Sertraline 100mg tablets (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,742,Mirtazapine 30mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74010,Efexor XL 150mg capsules (Necessity Supplies Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40092,Vensir XL 150mg capsules (Morningside Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74190,Duciltia 60mg gastro-resistant capsules (Aristo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74011,Efexor XL 75mg capsules (Dowelhurst Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74688,Fluanxol 500microgram tablets (Necessity Supplies Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40048,ViePax XL 75mg tablets (Dexcel-Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74557,Mirtazapine 15mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74516,Venladex XL 225mg tablets (Dexcel-Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74586,Lofepramine 70mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7468,Bolvidon 10mg Tablet (Organon Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74588,Seroxat 20mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4003,Molipaxin 150mg tablets (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74907,Duloxetine 30mg gastro-resistant capsules (Creo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75952,Sertraline 50mg tablets (Tillomed Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74774,Duloxetine 60mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74886,Fluoxetine 2mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74858,Cipralex 10mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74785,Cipralex 10mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75054,Paroxetine oral liquid,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,74993,Escitalopram 10mg tablets (Brown & Burk UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75068,Fluoxetine 40mg capsules (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75247,Fluoxetine 60mg capsules (Advanz Pharma),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7515,Anafranil 10mg capsules (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75075,Citalopram 40mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75405,Sertraline 50mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75263,Venzip XL 75mg capsules (Milpharm Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40049,ViePax XL 150mg tablets (Dexcel-Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75525,Venlafaxine 37.5mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75688,Fluoxetine 20mg capsules (Genesis Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75645,Fluoxetine 2.5mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75894,Efexor XL 75mg capsules (Lexon (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75943,Prozac 20mg/5ml liquid (Necessity Supplies Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75702,Citalopram 40mg tablets (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75697,Citalopram 10mg tablets (Phoenix Healthcare Distribution Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7573,IMIPRAMINE 25 MG CAP,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75848,Winfex XL 150mg capsules (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,75799,Fluoxetine 20mg capsules (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76927,Amitriptyline 2.5mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76187,Mirtazapine 30mg orodispersible tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76298,Amitriptyline 10mg/5ml oral solution sugar free (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76727,Venzip XL 150mg capsules (Milpharm Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76480,Trazodone 150mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76772,Seroxat 30mg tablets (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76857,Duloxetine 30mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76771,Efexor XL 75mg capsules (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7677,Allegron 10mg tablets (King Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40054,Venlafaxine 225mg modified-release tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76839,Amitriptyline 10mg tablets (Genesis Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7678,Nortriptyline 25mg Capsule,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7693,Anafranil 50mg capsules (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77130,Dosulepin 10mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77488,Mirtazapine 30mg tablets (Arrow Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77089,Efexor 75mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76952,Amitriptyline 5mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,76946,Paroxetine 10mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77229,Amitriptyline 10mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77497,Amitriptyline 75mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77474,Trazodone 50mg/5ml oral solution sugar free (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77227,Clomipramine 50mg capsules (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77167,Amitriptyline 25mg tablets (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,39809,Tifaxin XL 150mg capsules (Genus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77385,Lustral 50mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77381,Prozac 20mg capsules (Dowelhurst Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77377,Zispin 30mg tablets (Dowelhurst Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7756,Protriptyline 5mg tablet,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78777,Duloxetine 60mg gastro-resistant capsules (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65482,Vortioxetine 5mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7755,Concordin 10 Tablet (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3951,Fluanxol 1mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77538,Sertraline 50mg/5ml oral suspension (Drug Tariff Special Order),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7784,IMIPRAMINE 50 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3953,Fluanxol 500microgram tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77650,Seroxat 20mg tablets (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77607,Sertraline 10mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77707,Sertraline 75mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7780,Nortriptyline 10mg / Fluphenazine 500microgram tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77717,Lofepramine 70mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78654,Mirtazapine 30mg tablets (Aurobindo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77865,Mirtazapine 15mg orodispersible tablets (Phoenix Healthcare Distribution Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78221,Amitriptyline 50mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77881,Fluoxetine 10mg capsules (Medreich Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7816,Concordin 5 Tablet (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78057,Clomipramine 5mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,77915,Trazodone 150mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78324,Clomipramine 50mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78626,Sertraline 15mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78278,Sertraline 12.5mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78224,Nortriptyline 25mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78364,Amitriptyline 25mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78585,ViePax XL 225mg tablets (Dexcel-Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,785,Cipralex 5mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,39360,Venlafaxine 150mg modified-release tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3955,Tranylcypromine with trifluoperazine Tablet,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78843,Paroxetine 30mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3903,Nortriptyline 25mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,78889,Fluoxetine 40mg capsules (Medreich Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3783,Tranylcypromine 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65445,Trimipramine 50mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65439,Amitriptyline 25mg tablets (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60839,Citalopram 40mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65320,Atomoxetine 4mg/ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60843,Sunveniz XL 75mg tablets (Sun Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4118,Nortriptyline 10mg Capsule,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65237,Nortriptyline 10mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41492,Strattera 80mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,39145,Nortriptyline 10mg/5ml Liquid,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3842,Doxepin 10mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,37256,Prozep 20mg/5ml oral solution (Chemidex Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,36893,Fluoxetine 20mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,36746,Citalopram 40mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3771,AMITRIPTYLINE 75 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3668,IMIPRAMINE 100 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,38274,Clomipramine 50mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55138,Trazodone 250mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55137,Trazodone 150mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54827,Citalopram 10mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45316,Fluoxetine 20mg capsules (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54877,Amitriptyline 25mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55033,Citalopram 40mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45329,Fluoxetine 20mg capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54826,Sertraline 150mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45318,Clomipramine 50mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45350,Clomipramine 25mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3601,Seroxat 20mg/10ml liquid (GlaxoSmithKline UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45286,Citalopram 10mg tablets (Niche Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33624,Amitriptyline 50mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3353,L-TRYPTOPHAN 500 MG CAP,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45304,Citalopram 40mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,32899,Paroxetine 20mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33720,Citalopram 10mg tablets (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3355,Trazodone 50mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3356,Parstelin Tablet (GlaxoSmithKline Consumer Healthcare),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,32863,Imipramine 10mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3351,Amoxapine 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33074,Praminil 10mg Tablet (DDSA Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33071,Felicium 20mg capsules (Opus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33090,Amitriptyline 10mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33337,Mirtazapine 45mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33164,Dosulepin 25mg capsules (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3349,Nardil 15mg tablets (Kyowa Kirin Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33410,Fluoxetine 20mg capsules (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54933,Sertraline 100mg tablets (PLIVA Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55023,Paroxetine 20mg tablets (Medreich Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3777,Amitriptyline 10mg/5ml sugar free oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3925,Clomipramine 50mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35723,Fluphenazine decanoate 50mg/2ml solution for injection ampoules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3652,Amoxapine 100mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35530,Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40515,Venaxx XL 75mg capsules (AMCo),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3657,Anafranil 25mg capsules (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35493,Sinepin 50mg capsules (Marlborough Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3554,Doxepin 25mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35487,Modecate Concentrate 50mg/0.5ml solution for injection ampoules (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3926,Modecate 25mg/ml Injection (Sanofi-Synthelabo Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35258,Sinepin 25mg capsules (Marlborough Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35391,Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35122,Modecate 12.5mg/0.5ml solution for injection ampoules (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,23497,AMITRIPTYLINE 300 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,19183,Fluoxetine 20mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,19181,Trazodone 100mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,19168,Dosulepin 25mg/5ml mixture,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,17014,Strattera 40mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,18932,Evadyne 25mg Tablet (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1730,Trazodone 100mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,17190,Fluphenazine enanthate 25mg/ml Injection,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,17087,Perphenazine 5mg/ml injection,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,17183,Aventyl 10mg Capsule (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1712,Cipramil 20mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1809,Imipramine 25mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1888,Amitriptyline 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,17588,Strattera 60mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,17319,Amoxapine 25mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,18832,Strattera 18mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,182,Tryptizol 10mg/ml Injection (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,18342,Amitriptyline 25mg / Chlordiazepoxide 10mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,18290,Marsilid 25mg Tablet (Roche Products Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2290,Fluvoxamine 100mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,20712,AMITRIPTYLINE S/R,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,19470,Fluoxetine 20mg capsules (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1940,Dothapax 25 capsules (Ashbourne Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,19186,Dosulepin 75mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,20061,PERPHENAZINE 8 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,20703,Moditen 5mg tablets (Sanofi-Synthelabo Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,20026,Domical 25mg Tablet (Berk Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,19779,Amitriptyline 10mg/ml injection,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,20152,Escitalopram 10mg/ml oral drops sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,20571,Fluphenazine with nortriptyline 500microgramswith10mg Tablet,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2039,Trimipramine 25mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2093,Gamanil 70mg tablets (Merck Serono Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,22872,DOXEPIN HCL,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2157,Perphenazine 4mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,20715,LIMBITROL 5,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,21357,Asendis 100mg Tablet (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,21081,Amitriptyline 12.5mg / Chlordiazepoxide 5mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,21157,Thaden 75mg tablets (Opus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,22,Fluoxetine 20mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,21820,Prepadine 25mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,21819,Prepadine 75mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,228,Fentazin 5mg/ml Injection (Goldshield Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,22006,TRYPTIZOL,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,22070,Amitriptyline 10mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2320,Prothiaden 75mg tablets (Teofarma),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24890,Trifluoperazine with tranylcypromine 1mg + 10mg Tablet,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24134,Amitriptyline 25mg tablets (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24107,FLUPHENAZINE HCl ELI,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,23334,FAVERIN,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2408,Cipramil 40mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,23426,Dosulepin 25mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24147,Amitriptyline 25mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2486,Lentizol 25mg modified-release capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24145,Amitriptyline 25mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24141,Amitriptyline 10mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24723,Asendis 150mg Tablet (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24152,Amitriptyline 10mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24700,Prondol 15mg Tablet (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,24680,Elavil 10mg Tablet (DDSA Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,25036,CLOMIPRAMINE HYDROCHLORIDE,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,25835,Moditen enanthate 25mg/ml Injection (Sanofi-Synthelabo Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2525,Amitriptyline 75mg modified-release capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,25045,TRIMIPRAMINE,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,252,Prozac 20mg/5ml liquid (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,25085,TRIMIPRAMINE,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,25070,LOFEPRAMINE,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2533,TRIMIPRAMINE 50 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,25909,Perphenazine 4mg/5ml Oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,32457,Butriptyline 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2532,Surmontil 25mg tablets (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,32848,Citalopram 10mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2531,Surmontil 50mg capsules (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,32546,Paxoran 10mg Tablet (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2579,Tofranil 10mg Tablet (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,25444,Lomont 70mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3670,Clomipramine 25mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2548,Fluoxetine 20mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,27568,SURMONTIL,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,26213,Domical 10mg Tablet (Berk Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2617,Venlafaxine 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,25945,Iproniazid 25mg,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,26056,Cipralex 10mg/ml oral drops (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,26016,Citalopram 20mg tablets (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2654,Venlafaxine 150mg modified-release capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,27565,FLUANXOL,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,26513,Clomipramine 25mg/2ml solution for injection ampoules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,27476,Iprindole hc 15mg,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,26715,BOLVIDON 60 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,27008,Domical 50mg Tablet (Berk Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,26822,PROTHIADEN,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,27733,Iprindole hc 30mg,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,30375,Anafranil 25mg/2ml solution for injection ampoules (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,29339,Trazodone 50mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,27616,PROTHIADEN,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2897,Faverin 50mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,27876,AMITRIPTYLINE,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2883,Moclobemide 150mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2880,Fluvoxamine 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,29786,Ranflutin 20mg capsules (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,30258,Fluoxetine 20mg/5ml oral solution (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,29756,Paxoran 20mg Tablet (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2936,Motival 10mg/500microgram tablets (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,301,Venlafaxine 37.5mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2985,Lentizol 50mg modified-release capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,29875,Dosulepin 25mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,29857,Trazodone 150mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,30376,Thaden 25mg capsules (Opus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,32439,Amitriptyline 25mg Tablet (Sussex Pharmaceutical Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,31168,MIRTAZAPINE,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,30738,AMITRIPTYLINE S/F,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,31672,Prondol 30mg Tablet (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,30983,Trazodone 150mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3083,Mianserin 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,32121,Dosulepin 75mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,31826,Dosulepin 75mg tablets (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3196,Trimipramine 50mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,31824,Dosulepin 25mg capsules (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3195,CLOMIPRAMINE 25 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3194,Clomipramine 10mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3183,Nortriptyline 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,32401,Sertraline 50mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40726,Escitalopram 20mg/ml oral drops sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58837,Venlafaxine 37.5mg modified-release capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34355,Imipramine 25mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35176,Fluphenazine decanoate 100mg/1ml solution for injection ampoules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35021,Paroxetine 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33780,Modecate 25mg/1ml solution for injection ampoules (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33779,Prozit 20mg/5ml oral solution (Pinewood Healthcare),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3391,Dutonin 100mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34046,Lofepramine 70mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34003,Trazodone 50mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,33978,Paroxetine 20mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34129,Amitriptyline 25mg tablets (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34202,Fluoxetine 20mg capsules (Genus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34107,Amitriptyline 50mg tablets (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34058,Dosulepin 75mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34182,Amitriptyline 50mg tablets (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34197,Amitriptyline 25mg Tablet (Berk Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34351,Paroxetine 20mg tablets (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34245,Clomipramine 25mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34216,Fluoxetine 20mg/5ml oral solution (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34222,Imipramine 10mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34224,Amitriptyline 25mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34223,Dosulepin 25mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34294,Fluoxetine 20mg capsules (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34251,Amitriptyline 50mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34288,Fluoxetine 20mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34274,Amitriptyline 50mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40517,Vexarin XL 150mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34415,Citalopram 20mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34413,Citalopram 10mg tablets (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34401,Amitriptyline 10mg tablets (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34356,Citalopram 20mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34436,Citalopram 10mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35455,Modecate Concentrate 100mg/1ml solution for injection ampoules (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34421,Trazodone 50mg capsules (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34419,Paroxetine 20mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34456,Fluoxetine 20mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34470,Trazodone 150mg tablets (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34499,Citalopram 10mg tablets (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34498,Citalopram 10mg Tablet (Neo Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34466,Citalopram 40mg tablets (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34474,Amitriptyline 25mg Tablet (Regent Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34731,Amitriptyline 10mg tablets (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34503,Amitriptyline 25mg tablets (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34580,Trazodone 100mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34525,Dosulepin 75mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34578,Lofepramine 70mg tablets (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34603,Citalopram 40mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34722,Citalopram 20mg Tablet (Neo Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34587,Paroxetine 30mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34586,Citalopram 10mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34672,Lofepramine 70mg tablets (Sterwin Medicines),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34634,Amitriptyline 50mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34643,Dosulepin 25mg capsules (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34641,Dosulepin 25mg capsules (Sovereign Medical Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34745,Dosulepin 25mg capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34849,Fluoxetine 20mg capsules (Tillomed Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34822,Citalopram 20mg tablets (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34782,Amitriptyline 25mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34813,Imipramine 25mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34866,Clomipramine 10mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34916,Amitriptyline 10mg Tablet (Berk Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34856,Fluoxetine 60mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3490,Amitriptyline 10mg / Perphenazine 2mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34872,Imipramine 25mg Tablet (C P Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34871,Citalopram 20mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34966,Citalopram 20mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35445,Modecate 50mg/2ml solution for injection ampoules (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35112,Seroxat 10mg tablets (GlaxoSmithKline UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34950,Lofepramine 70mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,34970,Citalopram 20mg tablets (Niche Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,35065,Fluphenazine decanoate 25mg/1ml solution for injection ampoules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43203,Venlafaxine 75mg modified-release capsules (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42499,Fluoxetine 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42803,Fluoxetine 20mg/5ml oral solution (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42734,Dosulepin 75mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4297,Dutonin 200mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4310,Trimipramine 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43024,Dosulepin 100mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42394,Amitriptyline 25mg Tablet (Crosspharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,44861,Fluvoxamine 100mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,46801,Amitriptyline 10mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42387,Sertraline 50mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4554,Nefazodone 100mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,44936,Venlaneo XL 150mg capsules (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45247,Fluoxetine 20mg capsules (Fannin UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45242,Amitriptyline 10mg Tablet (Sussex Pharmaceutical Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,46977,Citalopram 40mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41970,Fluphenazine decanoate 25mg/1ml solution for injection ampoules (Hospira UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,46668,Mirtazapine 15mg tablets (Arrow Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45737,Dosulepin 25mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45664,Depefex XL 150mg capsules (Chiesi Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45806,Venlafaxine 37.5mg modified-release tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45959,Depefex XL 75mg capsules (Chiesi Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45915,Sertraline 50mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45818,Venlalic XL 37.5mg tablets (Ethypharm UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4682,Amitriptyline 50mg modified-release capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,46970,Amitriptyline 50mg tablets (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,46926,Citalopram 40mg tablets (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,46818,Amitriptyline 10mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43241,Mirtazapine 15mg orodispersible tablets (Aurobindo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4690,Amitriptyline 50mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42600,Vexarin XL 75mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43235,Mirtazapine 45mg orodispersible tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43236,Mirtazapine 45mg orodispersible tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43239,Mirtazapine 15mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43237,Mirtazapine 15mg orodispersible tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,44853,Dosulepin 25mg capsules (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43242,Mirtazapine 15mg tablets (Genus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43247,Mirtazapine 45mg orodispersible tablets (Genus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43246,Mirtazapine 15mg orodispersible tablets (Genus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43250,Mirtazapine 30mg orodispersible tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43257,Mirtazapine 15mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42247,Imipramine 25mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43248,Mirtazapine 15mg orodispersible tablets (Focus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43256,Mirtazapine 45mg orodispersible tablets (Focus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43253,Mirtazapine 15mg orodispersible tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4352,Lustral 100mg tablets (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43334,Venlafaxine 150mg modified-release capsules (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4329,Mianserin 20mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4422,Tryptophan 500mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42660,Citalopram 10mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43519,Citalopram 40mg Tablet (Neo Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43518,Fluvoxamine 100mg tablets (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43561,Clomipramine 10mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4411,Amoxapine 150mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42078,Amitriptyline 25mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43534,Lofepramine 70mg/5ml Oral suspension (Rosemont Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43673,Politid XL 150mg capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4404,Tofranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43968,Foraven XL 75mg capsules (Forum Products Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,487,Amitriptyline 25mg modified-release capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,476,Citalopram 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,44944,Sertraline 100mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,44937,Venlaneo XL 75mg capsules (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45226,Trimipramine 25mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,47363,Mianserin 20mg Tablet (Berk Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45224,Fluoxetine 20mg capsules (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45223,Citalopram 40mg tablets (Niche Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4726,Zispin 30mg tablets (Organon Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42107,Fluoxetine 20mg capsules (Niche Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,45233,Amitriptyline 10mg tablets (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,48045,Fluvoxamine 100mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,47945,Mirtazapine 30mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4770,Citalopram 40mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53326,Venlafaxine 75mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,48026,Citalopram 20mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,42228,Trimipramine 10mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,47966,Mirtazapine 15mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,48185,Mirtazapine 30mg orodispersible tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,48698,Mirtazapine 15mg orodispersible tablets sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,48065,Amitriptyline oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,48220,Prozac 20mg capsules (Lexon (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41971,Fluphenazine decanoate 25mg/ml Injection (Antigen Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4218,Lofepramine 70mg/5ml oral suspension sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,48216,Nortriptyline 25mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,48199,Ranfaxine XL 75mg capsules (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,5073,Doxepin 50mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4874,Molipaxin 50mg capsules (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52607,Citalopram 20mg tablets (Bristol Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,49165,Citalopram 10mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4907,Prozac 60mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,49,Amitriptyline 25mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,488,Sertraline 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,49519,Sertraline 100mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52516,Alventa XL 150mg capsules (Consilient Health Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,49511,Venlablue XL 75mg capsules (Creo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,50722,Dosulepin 25mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,49820,Mirtazapine 45mg orodispersible tablets sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,50592,Fluanxol 1mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,50081,Venlablue XL 150mg capsules (Creo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,50,Paroxetine 20mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52408,Citalopram 10mg tablets (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,51383,Duloxetine 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,50892,Zispin SolTab 15mg orodispersible tablets (Necessity Supplies Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,50934,Venlafaxine 150mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,51361,Venlafaxine 37.5mg tablets (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,513,Citalopram 40mg/ml oral drops sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,51280,Efexor XL 150mg capsules (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,51758,Prothiaden 25mg capsules (Stephar (U.K.) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,51699,Venlafaxine 37.5mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52354,Citalopram 20mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,5187,Moclobemide 300mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,5212,Fluphenazine 1mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52100,Citalopram 10mg tablets (Arrow Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52074,Alventa XL 75mg capsules (Consilient Health Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,5298,Fluphenazine 5mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55139,Amitriptyline 25mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,527,Paroxetine 10mg/5ml oral suspension sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52867,Amitriptyline 10mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52824,Citalopram 10mg tablets (PLIVA Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,52716,Tonpular XL 75mg capsules (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41747,Moclobemide 150mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54792,Mirtazapine 30mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53187,Clomipramine 50mg capsules (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53161,Clomipramine 50mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53321,Mirtazapine 15mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53543,Zispin SolTab 30mg orodispersible tablets (Necessity Supplies Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53394,Citalopram 20mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55488,Sertraline 50mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55146,Sertraline 100mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55482,Mirtazapine 15mg orodispersible tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55424,Venlafaxine,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55289,Asendis 50mg tablets (Mercury Pharma Group Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55501,Venlafaxine 150mg Modified-release capsule (Hillcross Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55970,Nortriptyline 10mg tablets (King Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4194,Molipaxin 100mg capsules (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55491,Amitriptyline 10mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4321,Phenelzine 15mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,5597,Moditen 1mg tablets (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55635,Atomoxetine 100mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,55537,Seroxat 30mg tablets (Lexon (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41654,Tranylcypromine 10mg tablets (AMCo),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56009,Citalopram 20mg tablets (Arrow Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58723,Sertraline 50mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56209,Mirtazapine 30mg tablets (Phoenix Healthcare Distribution Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56292,Citalopram 40mg/ml oral drops sugar free (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56229,Lofepramine 70mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56501,Tofranil 25mg tablets (Lexon (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58664,Sertraline 50mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,57107,Amitriptyline 10mg tablets (Phoenix Healthcare Distribution Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56457,Venlafaxine 75mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56355,Citalopram 10mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56662,Venlafaxine 37.5mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,5710,Efexor XL 150mg capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,56703,Lofepramine 70mg tablets (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,57972,Amitriptyline 10mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,57532,Prozac 20mg capsules (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,57226,Trazodone 25mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58681,Venladex XL 75mg tablets (Dexcel-Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,57751,Tonpular XL 150mg capsules (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,57936,Citalopram 40mg/ml oral drops sugar free (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,57926,Dosulepin 75mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58476,Citalopram 20mg tablets (Aurobindo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58625,Mirtazapine 45mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58291,Mirtazapine 15mg orodispersible tablets (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,57978,Trimipramine 25mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41628,Clomipramine 10mg capsules (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58450,Feprapax 70mg tablets (Ashbourne Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,5832,Manerix 300mg tablets (Meda Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59650,Citalopram 10mg tablets (Aurobindo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54012,Mirtazapine 15mg orodispersible tablets sugar free (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54081,Sertraline 25mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,16969,Yentreve 20mg gastro-resistant capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53699,Mirtazapine 15mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,418,Prozac 20mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53648,Mirtazapine 30mg orodispersible tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53787,Citalopram 10mg tablets (Bristol Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,53808,Trimipramine 10mg tablets (Phoenix Healthcare Distribution Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41731,Isocarboxazid 10mg Tablet (Cambridge Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41627,Lofepramine 70mg Tablet (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54644,Mirtazapine 15mg tablets (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54342,Mirtazapine 15mg tablets (Medreich Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59288,Paroxetine 10mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,54686,Tryptophan 500mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59193,Citalopram 10mg tablets (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59161,Amitriptyline 10mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59035,Venlablue XL 37.5mg capsules (Creo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41681,Imipramine 10mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59600,Sertraline 100mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59365,Strattera 100mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59358,Fluoxetine 20mg capsules (Milpharm Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,595,Amitriptyline 25mg / Perphenazine 2mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59593,Fluanxol 500microgram tablets (Lexon (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41609,Trazodone 50mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59563,Venlafaxine 75mg modified-release capsules (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60138,Fluoxetine 20mg orodispersible tablets sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59694,Mirtazapine 30mg orodispersible tablets (Phoenix Healthcare Distribution Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41709,Trazodone 100mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59820,Amitriptyline 50mg/5ml oral solution sugar free (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59753,Sunveniz XL 150mg tablets (Sun Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59931,Trazodone 50mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60888,Citalopram 10mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59923,Venlafaxine 37.5mg tablets (Bristol Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59954,Mirtazapine 45mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,59953,Mirtazapine 15mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60355,Amitriptyline 25mg tablets (Phoenix Healthcare Distribution Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,603,Escitalopram 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,2356,Reboxetine 4mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41528,Citalopram 10mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60410,Amitriptyline 25mg/5ml oral solution sugar free (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41563,Clomipramine 25mg capsules (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60370,Zispin SolTab 15mg orodispersible tablets (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60591,Lofepramine 70mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60619,Fluoxetine 20mg/5ml oral solution (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60534,Fluoxetine 20mg dispersible tablets sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60449,Venlafaxine 75mg tablets (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60538,Mirtazapine 30mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60568,Citalopram 20mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60549,Venlafaxine 150mg modified-release capsules (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6054,Dosulepin 25mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,61835,Amitriptyline 10mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60962,Fluoxetine 20mg capsules (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60895,Venlafaxine 37.5mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,60929,Protriptyline 5mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,609,Perphenazine 2mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,61335,Prozac 20mg capsules (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64223,Mirtazapine 45mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,61236,Bonilux XL 150mg capsules (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,61657,Trazodone 75mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41408,Imipramine 25mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,61547,Mirtazapine 15mg/ml oral solution sugar free (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,61503,Sertraline 100mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62692,Sertraline 100mg tablets (Bristol Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,61842,Trazodone 50mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62155,Fluoxetine 20mg capsules (Phoenix Healthcare Distribution Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4149,PROTRIPTYLINE HCl 10 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,61856,Mirtazapine 15mg orodispersible tablets (Consilient Health Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62335,Olena 20mg dispersible tablets (AMCo),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41597,Clomipramine 50mg capsules (IVAX Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,623,Efexor 37.5mg tablets (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6218,Escitalopram 20mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6255,Mianserin 30mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62688,Duloxetine 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62620,Clomipramine 10mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62681,Dosulepin 75mg tablets (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62950,Sertraline 100mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62693,Sertraline 50mg tablets (Bristol Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64330,Amitriptyline 50mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62734,Venlafaxine 150mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62927,Sertraline 50mg tablets (Wockhardt UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,62819,Sertraline 12.5mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6274,Efexor 50mg tablets (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41710,Trazodone 100mg capsules (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63403,Mirtazapine 30mg tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63216,Cymbalta 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6312,Amitriptyline 25mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63268,Venlafaxine 75mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63370,Duloxetine 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41729,Amitriptyline 25mg Tablet (Celltech Pharma Europe Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63276,Nortriptyline 25mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64141,Amitriptyline 5mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63481,Sertraline 50mg tablets (Milpharm Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63441,Citalopram 10mg tablets (Rivopharm (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6421,Mirtazapine 15mg orodispersible tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6360,Cipralex 20mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41033,Rodomel XL 75mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63827,Dutonin 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63763,Duloxetine 60mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63953,Cipramil 20mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64139,Mirtazapine 45mg orodispersible tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63916,Escitalopram 10mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,63859,Venlafaxine 75mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64000,Amitriptyline 10mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41062,Cipralex 20mg/ml oral drops (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64101,Mirtazapine 15mg orodispersible tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6405,Escitalopram 5mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6481,Mirtazapine 45mg orodispersible tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64442,Duloxetine 60mg gastro-resistant capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64423,Citalopram 10mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6442,Trazodone 50mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64647,Amitriptyline 25mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64458,Clomipramine 25mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64727,Atomoxetine 25mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6488,Mirtazapine 30mg orodispersible tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,648,Cipralex 10mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,64785,Paroxetine 30mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66201,Nortriptyline 25mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66183,Mirtazapine 15mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65165,Duloxetine 20mg gastro-resistant capsules (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40817,Tardcaps XL 150mg capsules (IXL Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65152,Trazodone 100mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65696,Strattera 4mg/1ml oral solution (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40917,ViePax 75mg tablets (Dexcel-Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65666,Venlafaxine 225mg modified-release capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65213,Trimipramine 50mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41299,Politid XL 75mg capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65762,Clomipramine 25mg capsules (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65738,Efexor 37.5mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66100,Lofepramine 70mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65771,Sertraline 200mg/5ml oral suspension (Special Order),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65809,Duloxetine 30mg gastro-resistant capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65804,Clomipramine 50mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65888,Duloxetine 60mg gastro-resistant capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65987,Amitriptyline 25mg tablets (Crescent Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65879,Amitriptyline 10mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65899,Efexor XL 225mg capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40892,Paroxetine 20mg tablets (Genus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,65892,Duloxetine 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66560,Sertraline 100mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4075,Fluoxetine 60mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,10413,Sinequan 10mg capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66405,Duloxetine 60mg gastro-resistant capsules (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66292,Seroxat 10mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,16949,Strattera 25mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66493,Trimipramine 25mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66413,Sertraline 100mg tablets (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6795,Mirtazapine 15mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66412,Duloxetine 30mg gastro-resistant capsules (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6643,Atomoxetine 40mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6645,Atomoxetine 25mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6644,Atomoxetine 60mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66437,Venlafaxine 75mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67,Citalopram 20mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66580,Mirtazapine 15mg orodispersible tablets (Bluefish Pharmaceuticals AB),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66572,Amitriptyline 25mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66578,Amitriptyline 10mg tablets (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66919,Trimipramine 50mg capsules (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66579,Amitriptyline 25mg tablets (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,470,Venlafaxine 75mg modified-release capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7918,Moditen 2.5mg tablets (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66890,Vortioxetine 20mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66652,Decazate 25mg/ml Injection (Berk Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40764,ViePax 37.5mg tablets (Dexcel-Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66744,Fluoxetine 20mg capsules (Morningside Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66752,Mirtazapine 15mg tablets (Aurobindo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,66749,Trazodone 10mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,58726,Venladex XL 150mg tablets (Dexcel-Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67271,Efexor 37.5mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67092,Fluoxetine 20mg capsules (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67097,Citalopram 20mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67259,Paroxetine 10mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67127,Amitriptyline 25mg/5ml oral solution sugar free (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67272,Zispin 30mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67935,Imipramine 10mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67562,Fluoxetine 40mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67496,Fluoxetine 30mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67288,Efexor 75mg tablets (Dowelhurst Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67431,Fluoxetine 10mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,43234,Mirtazapine 45mg orodispersible tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67305,Moclobemide 150mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67730,Sertraline 50mg tablets (Ranbaxy (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,41314,Rodomel XL 150mg capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67563,Vensir XL 225mg capsules (Morningside Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67928,Sertraline 100mg tablets (Milpharm Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67564,Duloxetine 20mg gastro-resistant capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67728,Dosulepin 75mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40777,Doxepin 25mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67742,Lofepramine 70mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67888,Fluoxetine 60mg capsules (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67736,Fluoxetine 20mg capsules (Dr Reddy's Laboratories (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67757,Nefazodone 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67874,Brintellix 10mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67769,Fluoxetine 20mg capsules (Strides Shasun (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67758,Prozac 20mg capsules (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6854,Mirtazapine 45mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,67990,Prothiaden 25mg capsules (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68052,Mirtazapine 30mg orodispersible tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68050,Venlafaxine 37.5mg tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68228,Nortriptyline 10mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79163,Sertraline 50mg tablets (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68096,Duloxetine 60mg gastro-resistant capsules (Zentiva),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40396,Amitriptyline 50mg Tablet (Berk Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68266,Fluoxetine 20mg/5ml oral solution sugar free (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6846,Zispin SolTab 15mg orodispersible tablets (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68325,Paroxetine 40mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68876,Venlafaxine 75mg modified-release capsules (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68657,Lofepramine 70mg tablets (Kent Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68544,Mirtazapine 2mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69420,Mirtazapine 30mg orodispersible tablets (Aurobindo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68665,Clomipramine 10mg capsules (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68756,Sertraline 100mg tablets (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68680,Mirtazapine 15mg orodispersible tablets (Mawdsley-Brooks & Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6894,Perphenazine 2mg with Amitriptyline 25mg tablet,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69355,Trazodone Oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,68933,Mirtazapine 30mg tablets (PLIVA Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40295,Valdoxan 25mg tablets (Servier Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,6895,Duloxetine 60mg gastro-resistant capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69317,Nortriptyline 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69005,Mirtazapine 30mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69685,Fluoxetine 20mg/5ml oral solution sugar free (Morningside Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69428,Duloxetine 60mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,10083,Zispin SolTab 30mg orodispersible tablets (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40277,Vensir XL 75mg capsules (Morningside Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69571,Citalopram 40mg tablets (Accord Healthcare Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69542,Prozac 20mg capsules (Necessity Supplies Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69525,Fluoxetine 20mg capsules (Medreich Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69819,Vencarm XL 37.5mg capsules (Aspire Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69712,Amitriptyline 50mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69898,Sertraline 50mg tablets (Sandoz Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69725,Sertraline 50mg tablets (Crescent Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40407,Venlalic XL 225mg tablets (Ethypharm UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69752,Duloxetine 60mg gastro-resistant capsules (Creo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69726,Sertraline 100mg tablets (Crescent Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69991,Brintellix 20mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69941,Fluoxetine 10mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69965,Duloxetine 60mg gastro-resistant capsules (Consilient Health Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71257,Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7910,Tofranil 25mg tablets (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71253,Imipramine 10mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,69992,Brintellix 5mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79008,Mirtazapine 30mg orodispersible tablets (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7894,Anafranil SR 75mg tablets (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70353,Venlafaxine 37.5mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,10948,Dosulepin 75mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79506,Fluoxetine 20mg capsules (Bristol Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7122,Duloxetine 30mg gastro-resistant capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79275,Duloxetine 30mg gastro-resistant capsules (Aspire Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79252,Mirtazapine 45mg orodispersible tablets (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7919,Fentazin 4mg tablets (AMCo),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79381,Paroxetine 30mg Tablet (Sovereign Medical Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,10514,Fluphenazine decanoate 100mg/ml Injection,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40059,Venlalic XL 75mg tablets (Ethypharm UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79276,Clomipramine 25mg capsules (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,39770,Tifaxin XL 75mg capsules (Genus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79494,Fluoxetine 60mg capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79383,Paroxetine 30mg Tablet (Neo Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,10787,Parnate 10mg Tablet (Goldshield Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79401,Amitriptyline 100mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,10649,IMIPRAMINE 75 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79397,Lofepramine Oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79768,Duloxetine 40mg gastro-resistant capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12123,Faverin 100mg tablets (Mylan),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79628,Duloxetine 30mg gastro-resistant capsules (Dr Reddy's Laboratories (UK) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79590,Fluoxetine 30mg capsules (Medreich Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70315,Vencarm XL 75mg capsules (Aspire Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,39359,Venlafaxine 75mg modified-release tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40514,Venaxx XL 150mg capsules (AMCo),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1169,Prothiaden 25mg capsules (Teofarma),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79766,Amitriptyline 25mg tablets (Genesis Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,114,Lofepramine 70mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,11187,Protriptyline 10mg tablet,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,16323,Perphenazine 2mg with Amitriptyline 10mg tablet,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12111,Vivalan 50mg Tablet (AstraZeneca UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,11956,Norval 20mg Tablet (Bencard),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,79784,Cipramil 10mg tablets (Waymade Healthcare Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,13151,Cymbalta 30mg gastro-resistant capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12125,Sinequan 50mg capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70300,Amitriptyline 10mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70063,Duloxetine 20mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1208,Triptafen tablets (AMCo),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70287,Imipramine 10mg tablets (Sigma Pharmaceuticals Plc),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,11963,Limbitrol 10 Capsule (Roche Products Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40279,Atomoxetine 80mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70931,Venlasov XL 75mg capsules (Sovereign Medical Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70405,Duloxetine 30mg gastro-resistant capsules (Teva UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1310,Imipramine 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1222,Venlafaxine 75mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70521,Trazodone 50mg/5ml oral solution sugar free (AMCo),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70495,Vencarm XL 225mg capsules (Aspire Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12128,Modecate concentrate 100mg/ml Injection (Sanofi-Synthelabo Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70420,Vencarm XL 150mg capsules (Aspire Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,4011,Nefazodone 200mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8250,AMITRIPTYLINE S/F 25 MG/5ML SYR,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70728,Duloxetine 30mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12207,Isocarboxazid 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12129,Sinequan 25mg capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70838,Dosulepin 25mg Capsule (Celltech Pharma Europe Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70593,Dosulepin 25mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7059,Doxepin 75mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,40160,Mirtazapine 30mg tablets (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12194,NORTRIPTYLINE 10 MG ELI,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70806,Venlafaxine 150mg modified-release capsules (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12192,Norval 30mg Tablet (Bencard),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70790,Citalopram 40mg tablets (Aurobindo Pharma Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8174,Molipaxin 50mg/5ml oral liquid (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12309,Viloxazine hcl 50mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7100,Atomoxetine 10mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,83,Amitriptyline 10mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,70991,Amitriptyline 10mg tablets (Arrow Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12710,Trazodone 150mg modified-release tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71042,Amitriptyline 25mg tablets (Arrow Generics Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71005,Citalopram 10mg tablets (DE Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12227,Butriptyline 25mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71031,Trazodone 50mg capsules (Actavis UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12221,Pacitron 500mg Tablet (Rorer Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71023,Dosulepin 25mg/5ml oral solution sugar free (Special Order),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7979,Pertofran 25mg Tablet (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12549,Aventyl 10mg/5ml Liquid (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12353,Aventyl 25mg Capsule (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,815,Cipramil 40mg/ml drops (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71067,Lofepramine 70mg tablets (Almus Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,71059,Dosulepin 75mg tablets (Sovereign Medical Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8144,Bolvidon 20mg Tablet (Organon Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,38827,Triptafen-M tablets (Mercury Pharma Group Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12503,Marplan 10mg Tablet (Cambridge Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8055,Imipramine 25mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,12368,Norval 10mg Tablet (Bencard),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,7981,Desipramine 25mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,873,AMITRIPTYLINE 100 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,16229,FLUPHENAZINE DECANOATE 12.5 MG INJ,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14534,Limbitrol 5 Capsule (Roche Products Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1397,Paroxetine 30mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,841,Seroxat 20mg tablets (GlaxoSmithKline UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8332,Tryptizol 50mg Tablet (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,840,Fentazin 2mg tablets (AMCo),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,84,Dosulepin 25mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8377,Fluphenazine 2.5mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8640,Allegron 25mg tablets (King Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,13621,Molipaxin CR 150mg tablets (Aventis Pharma),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,13237,Venlafaxine 37.5mg/5ml oral suspension,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8726,Tryptizol 10mg Tablet (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8585,Bolvidon 30mg Tablet (Organon Laboratories Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8493,Motipress tablets (Sanofi-Synthelabo Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8720,Clomipramine 25mg/5ml oral solution,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8661,Clomipramine 75mg modified-release tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,13496,AMITRIPTYLINE 200 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,38890,Fluoxetine 20mg Capsule (Milpharm Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,13318,ANAFRANIL 25 MG INJ,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8719,Anafranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14129,Atomoxetine 18mg capsules,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8831,Tryptizol mr 75mg Modified-release capsule (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8826,TOFRANIL 50 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8928,Surmontil 10mg tablets (Sanofi),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14119,Strattera 10mg capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8878,Tryptizol 10mg/5ml sugar free Oral solution (Merck Sharp and Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,8844,Tryptophan with ascorbic acid and pyridoxine powder,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,9206,Manerix 150mg tablets (Meda Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1453,Triptafen m 2mg+10mg Tablet (Goldshield Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14398,Asendis 50mg Tablet (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,9182,Efexor 75mg tablets (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,9022,Fluphenazine decanoate 25mg/ml Injection,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,9496,Dutonin tablets treatment initiation pack (Bristol-Myers Squibb Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14521,SINEQUAN 15 MG TAB,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14519,Sinequan 75mg capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,9534,Nefazodone Starter pack,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1474,Efexor XL 75mg capsules (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,16154,Mirtazapine 15mg/ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14578,Nortriptyline 30mg / Fluphenazine 1.5mg tablets,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14849,Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14740,Oxactin 20mg capsules (Discovery Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14803,Yentreve 40mg gastro-resistant capsules (Eli Lilly and Company Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,15268,Zispin SolTab 45mg orodispersible tablets (Merck Sharp & Dohme Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1612,Lustral 50mg tablets (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,15163,Edronax 4mg tablets (Pfizer Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,14987,Perphenazine 2mg/5ml oral solution sugar free,res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,1575,Seroxat 30mg tablets (GlaxoSmithKline UK Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,3861,Cipramil 10mg tablets (Lundbeck Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,15632,Dothapax 75 tablets (Ashbourne Pharmaceuticals Ltd),res173: Antidepressants (CPRD GOLD),drug
+CPRD_product_code,15380,Asendis 25mg Tablet (Wyeth Pharmaceuticals),res173: Antidepressants (CPRD GOLD),drug

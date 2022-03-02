@@ -1,0 +1,4 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,1.761E+12,Chronic obstructive airway disease with asthma,res174: respiratory comorbidities,diagnostic
+SNOMED,13645005,COPD,res174: respiratory comorbidities,diagnostic
+SNOMED,413839001,Chronic lung disease,res174: respiratory comorbidities,diagnostic

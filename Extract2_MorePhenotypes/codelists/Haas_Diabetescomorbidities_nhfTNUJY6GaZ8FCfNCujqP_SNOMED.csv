@@ -1,0 +1,4 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,73211009,Diabetes mellitus(unknown type),res174: diabetes comorbidities,diagnostic
+SNOMED,46635009,Diabetes mellitus type 1,res174: diabetes comorbidities,diagnostic
+SNOMED,44054006,Diabetes mellitus type 2,res174: diabetes comorbidities,diagnostic

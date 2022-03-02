@@ -1,0 +1,119 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,199..00,vomiting,res176: Indigestion,diagnostic
+Read,1952.11,regurgitation,res176: Indigestion,diagnostic
+Read,1984.00,upset stomach,res176: Indigestion,diagnostic
+Read,195Z.00,indigestion symptom nos,res176: Indigestion,diagnostic
+Read,1955.00,heartburn,res176: Indigestion,diagnostic
+Read,1958.00,undiagnosed dyspepsia,res176: Indigestion,diagnostic
+Read,1983.00,morning nausea,res176: Indigestion,diagnostic
+Read,198..11,c/o - nausea,res176: Indigestion,diagnostic
+Read,1982.00,nausea present,res176: Indigestion,diagnostic
+Read,J101100,reflux oesophagitis,res176: Indigestion,diagnostic
+Read,19B2.00,excessive flatulence,res176: Indigestion,diagnostic
+Read,1997.00,retching,res176: Indigestion,diagnostic
+Read,1991.00,no vomiting,res176: Indigestion,diagnostic
+Read,199..11,c/o - vomiting,res176: Indigestion,diagnostic
+Read,199..14,vomiting symptoms,res176: Indigestion,diagnostic
+Read,1996.00,vomiting - bile stained,res176: Indigestion,diagnostic
+Read,1993.00,projectile vomiting,res176: Indigestion,diagnostic
+Read,1995.00,vomiting blood - coffee ground,res176: Indigestion,diagnostic
+Read,19B..15,wind symptom,res176: Indigestion,diagnostic
+Read,19A3.00,abdomen feels distended,res176: Indigestion,diagnostic
+Read,1999.00,frequency of vomiting,res176: Indigestion,diagnostic
+Read,19A2.00,abdomen feels bloated,res176: Indigestion,diagnostic
+Read,19B..14,flatulence symptom,res176: Indigestion,diagnostic
+Read,19B..00,flatulence/wind,res176: Indigestion,diagnostic
+Read,19B..13,eructation symptom,res176: Indigestion,diagnostic
+Read,19G..00,diarrhoea and vomiting,res176: Indigestion,diagnostic
+Read,19FZ.11,"diarrhoea & vomiting, symptom",res176: Indigestion,diagnostic
+Read,19B5.00,excessive flatus,res176: Indigestion,diagnostic
+Read,19B4.00,excessive eructation,res176: Indigestion,diagnostic
+Read,19BZ.00,wind nos,res176: Indigestion,diagnostic
+Read,R070100,[d]vomiting,res176: Indigestion,diagnostic
+Read,J16y300,hourglass stomach contraction,res176: Indigestion,diagnostic
+Read,J10y413,acid reflux,res176: Indigestion,diagnostic
+Read,J101113,oesophageal reflux with oesophagitis,res176: Indigestion,diagnostic
+Read,J101111,acid reflux,res176: Indigestion,diagnostic
+Read,J10y412,gastro-oesophageal reflux,res176: Indigestion,diagnostic
+Read,J16y211,hyperacidity,res176: Indigestion,diagnostic
+Read,J162.00,persistent vomiting,res176: Indigestion,diagnostic
+Read,J16y200,hyperchlorhydria,res176: Indigestion,diagnostic
+Read,R070000,[d]nausea,res176: Indigestion,diagnostic
+Read,J16y900,delayed gastric emptying,res176: Indigestion,diagnostic
+Read,J16y412,indigestion nos,res176: Indigestion,diagnostic
+Read,J16y800,gastric dysmotility,res176: Indigestion,diagnostic
+Read,R070.00,[d]nausea and vomiting,res176: Indigestion,diagnostic
+Read,J16z.00,stomach function disorder nos,res176: Indigestion,diagnostic
+Read,J680.11,vomiting of blood,res176: Indigestion,diagnostic
+Read,R073200,[d]gas pain (abdominal),res176: Indigestion,diagnostic
+Read,R071000,[d]pyrosis,res176: Indigestion,diagnostic
+Read,R070300,[d]drug induced vomiting,res176: Indigestion,diagnostic
+Read,R070111,[d] sickness,res176: Indigestion,diagnostic
+Read,R070z12,[d]retching,res176: Indigestion,diagnostic
+Read,R073100,[d]eructation,res176: Indigestion,diagnostic
+Read,R072000,[d]difficulty in swallowing,res176: Indigestion,diagnostic
+Read,R073000,[d]flatulence,res176: Indigestion,diagnostic
+Read,R075z00,[d]abnormal bowel sounds nos,res176: Indigestion,diagnostic
+Read,R073500,[d]tympanites (abdominal),res176: Indigestion,diagnostic
+Read,R073300,"[d]abdominal distension, gaseous",res176: Indigestion,diagnostic
+Read,R075100,[d]bowel sounds hyperactive,res176: Indigestion,diagnostic
+Read,J16y600,gastric atonia,res176: Indigestion,diagnostic
+Read,R071.00,[d]heartburn,res176: Indigestion,diagnostic
+Read,R073z11,[d]wind,res176: Indigestion,diagnostic
+Read,1956.00,peptic ulcer symptoms,res176: Indigestion,diagnostic
+Read,R07A.00,[d]pain in oesophagus,res176: Indigestion,diagnostic
+Read,1992.11,throwing up,res176: Indigestion,diagnostic
+Read,171J.00,reflux cough,res176: Indigestion,diagnostic
+Read,J16yA00,non-ulcer dyspepsia,res176: Indigestion,diagnostic
+Read,R072.00,[d]dysphagia,res176: Indigestion,diagnostic
+Read,R070z00,[d]nausea and vomiting nos,res176: Indigestion,diagnostic
+Read,R071z00,[d]heartburn nos,res176: Indigestion,diagnostic
+Read,R072z00,[d]dysphagia nos,res176: Indigestion,diagnostic
+Read,R071100,[d]waterbrash,res176: Indigestion,diagnostic
+Read,R073.00,"[d]flatulence, eructation and gas pain",res176: Indigestion,diagnostic
+Read,R073400,[d]bloating,res176: Indigestion,diagnostic
+Read,R073z00,"[d]flatulence, eructation and gas pain nos",res176: Indigestion,diagnostic
+Read,R075.00,[d]bowel sounds abnormal,res176: Indigestion,diagnostic
+Read,J162.11,emesis - persistent,res176: Indigestion,diagnostic
+Read,R070400,[d]projectile vomiting,res176: Indigestion,diagnostic
+Read,J16z100,drug induced gastrointestinal disturbance,res176: Indigestion,diagnostic
+Read,19B..12,bloating symptom,res176: Indigestion,diagnostic
+Read,J680.00,haematemesis,res176: Indigestion,diagnostic
+Read,R070200,[d]emesis,res176: Indigestion,diagnostic
+Read,J162z00,persistent vomiting nos,res176: Indigestion,diagnostic
+Read,J16yz00,other specified stomach function disorders nos,res176: Indigestion,diagnostic
+Read,J16yA11,functional dyspepsia,res176: Indigestion,diagnostic
+Read,J16y400,dyspepsia,res176: Indigestion,diagnostic
+Read,J16y411,flatulent dyspepsia,res176: Indigestion,diagnostic
+Read,J16y700,gastric spasm,res176: Indigestion,diagnostic
+Read,J16y500,functional vomiting,res176: Indigestion,diagnostic
+Read,J161.00,acute dilatation of stomach,res176: Indigestion,diagnostic
+Read,J101112,gastro-oesophageal reflux with oesophagitis,res176: Indigestion,diagnostic
+Read,J10y500,laryngopharyngeal reflux,res176: Indigestion,diagnostic
+Read,J10y400,oesopheal reflux without mention of oesophagitis,res176: Indigestion,diagnostic
+Read,J10y411,oesophageal reflux,res176: Indigestion,diagnostic
+Read,198Z.00,nausea nos,res176: Indigestion,diagnostic
+Read,19B3.00,excessive belching,res176: Indigestion,diagnostic
+Read,19B..11,belching symptom,res176: Indigestion,diagnostic
+Read,199Z.00,vomiting nos,res176: Indigestion,diagnostic
+Read,19AZ.00,abd. distension symptom nos,res176: Indigestion,diagnostic
+Read,19A..00,abdominal distension symptom,res176: Indigestion,diagnostic
+Read,19A4.00,abdomen feels swollen,res176: Indigestion,diagnostic
+Read,1955.11,heartburn symptom,res176: Indigestion,diagnostic
+Read,1957.00,gastric reflux,res176: Indigestion,diagnostic
+Read,1994.11,blood in vomit - symptom,res176: Indigestion,diagnostic
+Read,1992.00,vomiting,res176: Indigestion,diagnostic
+Read,1994.00,vomiting blood - fresh,res176: Indigestion,diagnostic
+Read,1992.12,bilious attack,res176: Indigestion,diagnostic
+Read,198..00,nausea,res176: Indigestion,diagnostic
+Read,199..13,rumination,res176: Indigestion,diagnostic
+Read,199..12,emesis,res176: Indigestion,diagnostic
+Read,198..12,nausea symptoms,res176: Indigestion,diagnostic
+Read,1981.00,no nausea,res176: Indigestion,diagnostic
+Read,195..00,indigestion symptoms,res176: Indigestion,diagnostic
+Read,1954.00,indigestion,res176: Indigestion,diagnostic
+Read,1952.00,regurgitates food,res176: Indigestion,diagnostic
+Read,1984.11,upset tummy,res176: Indigestion,diagnostic
+Read,1953.00,waterbrash,res176: Indigestion,diagnostic
+Read,1953.11,waterbrash symptom,res176: Indigestion,diagnostic
+Read,J154111,biliary reflux,res176: Indigestion,diagnostic

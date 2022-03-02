@@ -1,0 +1,4 @@
+Coding System (SNOMED),Codes,Description,Entity type,Category
+SNOMED,75544000,Morphine dependence,res174: opioid addiction comorbidities,diagnostic
+SNOMED,5602001,Opioid dependence,res174: opioid addiction comorbidities,diagnostic
+SNOMED,231479000,Opioid abuse,res174: opioid addiction comorbidities,diagnostic

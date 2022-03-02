@@ -1,0 +1,7 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,388P.00,had scale: depression score,res176: Depression scales,diagnostic
+Read,ZRL6.00,geriatric depression scale,res176: Depression scales,diagnostic
+Read,ZRL6.11,gds - geriatric depression scale,res176: Depression scales,diagnostic
+Read,ZRL6.12,geriatric depression score,res176: Depression scales,diagnostic
+Read,388f.00,patient health questionnaire (phq-9) score,res176: Depression scales,diagnostic
+Read,388K.00,geriatric depression scale,res176: Depression scales,diagnostic

@@ -1,0 +1,77 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,14CF.00,history of irritable bowel syndrome,res176: Abdominal pain,diagnostic
+Read,R090G12,[d] perineal pain,res176: Abdominal pain,diagnostic
+Read,R090K00,[d]left upper quadrant pain,res176: Abdominal pain,diagnostic
+Read,R090M00,[d]right lower quadrant pain,res176: Abdominal pain,diagnostic
+Read,R090N00,[d]nonspecific abdominal pain,res176: Abdominal pain,diagnostic
+Read,25CZ.00,o/e -abd.pain on palpation nos,res176: Abdominal pain,diagnostic
+Read,R090E00,[d]recurrent acute abdominal pain,res176: Abdominal pain,diagnostic
+Read,R090G11,[d] pelvic pain,res176: Abdominal pain,diagnostic
+Read,J521100,irritable bowel syndrome characterised by constipation,res176: Abdominal pain,diagnostic
+Read,R090700,[d]hypochondrial pain,res176: Abdominal pain,diagnostic
+Read,R090C00,[d]loin pain,res176: Abdominal pain,diagnostic
+Read,R090.00,[d]abdominal pain,res176: Abdominal pain,diagnostic
+Read,R090600,[d]umbilical pain,res176: Abdominal pain,diagnostic
+Read,J521.13,spastic colon,res176: Abdominal pain,diagnostic
+Read,197B.00,upper abdominal pain,res176: Abdominal pain,diagnostic
+Read,25C6.00,o/e - abd. pain - umbilical,res176: Abdominal pain,diagnostic
+Read,25C7.00,o/e - abd. pain - l.lumbar,res176: Abdominal pain,diagnostic
+Read,1964,shoulder pain from abdomen,res176: Abdominal pain,diagnostic
+Read,25C9.00,o/e - abd. pain - hypogastrium,res176: Abdominal pain,diagnostic
+Read,25CA.00,o/e - abd. pain - l.iliac,res176: Abdominal pain,diagnostic
+Read,197C.00,lower abdominal pain,res176: Abdominal pain,diagnostic
+Read,25C2.00,o/e - abd.pain-r.hypochondrium,res176: Abdominal pain,diagnostic
+Read,25C..14,o/e - umbilical pain on palp.,res176: Abdominal pain,diagnostic
+Read,1969,abdominal pain,res176: Abdominal pain,diagnostic
+Read,197..13,site of abdominal pain,res176: Abdominal pain,diagnostic
+Read,1973,left subcostal pain,res176: Abdominal pain,diagnostic
+Read,1977,right iliac fossa pain,res176: Abdominal pain,diagnostic
+Read,197A.00,generalised abdominal pain,res176: Abdominal pain,diagnostic
+Read,1974,right subcostal pain,res176: Abdominal pain,diagnostic
+Read,1976,right flank pain,res176: Abdominal pain,diagnostic
+Read,196Z.00,type of git pain nos,res176: Abdominal pain,diagnostic
+Read,197..00,site of git pain,res176: Abdominal pain,diagnostic
+Read,197..12,iliac fossa pain,res176: Abdominal pain,diagnostic
+Read,1962,colicky abdominal pain,res176: Abdominal pain,diagnostic
+Read,25C..11,o/e - epigastric pain on palp.,res176: Abdominal pain,diagnostic
+Read,1972,epigastric pain,res176: Abdominal pain,diagnostic
+Read,196A.00,hunger pain,res176: Abdominal pain,diagnostic
+Read,1963,non-colicky abdominal pain,res176: Abdominal pain,diagnostic
+Read,1969000,abdominal wall pain,res176: Abdominal pain,diagnostic
+Read,1971,central abdominal pain,res176: Abdominal pain,diagnostic
+Read,197..11,flank pain,res176: Abdominal pain,diagnostic
+Read,197..14,subcostal pain,res176: Abdominal pain,diagnostic
+Read,25C..00,o/e - abdo. pain on palpation,res176: Abdominal pain,diagnostic
+Read,1979,suprapubic pain,res176: Abdominal pain,diagnostic
+Read,1975,left flank pain,res176: Abdominal pain,diagnostic
+Read,1978,left iliac fossa pain,res176: Abdominal pain,diagnostic
+Read,197Z.00,site of git pain nos,res176: Abdominal pain,diagnostic
+Read,197A.11,general abdominal pain-symptom,res176: Abdominal pain,diagnostic
+Read,197D.00,right upper quadrant pain,res176: Abdominal pain,diagnostic
+Read,25C4.00,o/e - abd.pain-l.hypochondrium,res176: Abdominal pain,diagnostic
+Read,25C..13,o/e - lumbar pain on palpation,res176: Abdominal pain,diagnostic
+Read,25C..12,o/e - iliac pain on palpation,res176: Abdominal pain,diagnostic
+Read,25C3.00,o/e - abd. pain - epigastrium,res176: Abdominal pain,diagnostic
+Read,25C8.00,o/e - abd. pain - r.iliac,res176: Abdominal pain,diagnostic
+Read,25C5.00,o/e - abd. pain - r.lumbar,res176: Abdominal pain,diagnostic
+Read,J521.11,irritable bowel syndrome,res176: Abdominal pain,diagnostic
+Read,J521.00,irritable colon - irritable bowel syndrome,res176: Abdominal pain,diagnostic
+Read,R090B00,[d]groin pain,res176: Abdominal pain,diagnostic
+Read,J521000,irritable bowel syndrome with diarrhoea,res176: Abdominal pain,diagnostic
+Read,Ryu1000,[x]pain localized to other parts of lower abdomen,res176: Abdominal pain,diagnostic
+Read,R090A00,[d]pain in left iliac fossa,res176: Abdominal pain,diagnostic
+Read,R090500,[d]epigastric pain,res176: Abdominal pain,diagnostic
+Read,R090800,[d]suprapubic pain,res176: Abdominal pain,diagnostic
+Read,R090z00,[d]abdominal pain nos,res176: Abdominal pain,diagnostic
+Read,R090J00,[d]right upper quadrant pain,res176: Abdominal pain,diagnostic
+Read,R090G00,[d]pelvic and perineal pain,res176: Abdominal pain,diagnostic
+Read,R090H00,[d]upper abdominal pain,res176: Abdominal pain,diagnostic
+Read,R090y00,[d]other specified abdominal pain,res176: Abdominal pain,diagnostic
+Read,R090L00,[d]left lower quadrant pain,res176: Abdominal pain,diagnostic
+Read,R090P00,[d]functional abdominal pain syndrome,res176: Abdominal pain,diagnostic
+Read,R073200,[d]gas pain (abdominal),res176: Abdominal pain,diagnostic
+Read,Ryu1100,[x]other and unspecified abdominal pain,res176: Abdominal pain,diagnostic
+Read,R090900,[d]pain in right iliac fossa,res176: Abdominal pain,diagnostic
+Read,196..00,type of git pain,res176: Abdominal pain,diagnostic
+Read,196..11,abdominal pain type,res176: Abdominal pain,diagnostic
+Read,196..12,type of git pain - symptom,res176: Abdominal pain,diagnostic
