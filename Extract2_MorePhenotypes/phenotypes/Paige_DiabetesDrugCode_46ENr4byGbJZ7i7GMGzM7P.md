@@ -3,7 +3,7 @@ layout: phenotype
 title: Diabetes (Drug Code)
 phenotype_id: 46ENr4byGbJZ7i7GMGzM7P
 name: Diabetes (Drug Code)
-type: Disease or Syndrome
+type: Drug
 group: Endocrine
 sources: 
     - clinicalcodes
